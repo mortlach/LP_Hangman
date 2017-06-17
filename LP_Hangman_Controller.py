@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 import sys, os
-#get the magnet enums used to define magnet types and  PSU states
 import LP_Data
 from PyQt4 import QtGui, QtCore
 from GUI_mainView import GUI_mainView
