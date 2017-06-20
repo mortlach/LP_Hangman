@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 import sys, os
+#get the magnet enums used to define magnet types and  PSU states
 import LP_Data
 from PyQt4 import QtGui, QtCore
 from GUI_mainView import GUI_mainView
@@ -18,6 +19,10 @@ class LP_Hangman_Controller(object):
         # from this object we can get all flavours of magnet controller
         self.mainView = GUI_mainView()
         self.mainView.show()
+
+        self.mainView.lpSection.setMaximum( len(LP_Data.lp_sentences)-1 )
+        self.mainView.lpSentence.setMaximum( len(LP_Data.lp_sentences[0])-1 )
+        self.mainView.lpSection.valueChanged.connect(self.handle_lpSectionChanged)
         self.lengths = [3,4,6,9]
         self.sectionChoice = None
         self.sentenceChoice = None
@@ -54,6 +59,9 @@ class LP_Hangman_Controller(object):
         #self.worker_thread = QtCore.QThread()
         #self.NGram_Finder.moveToThread(self.worker_thread)
 
+
+    def handle_lpSectionChanged(self):
+        self.mainView.lpSentence.setMaximum(len(LP_Data.lp_sentences[self.mainView.lpSection.value()]) - 1)  # MAGIC_NUMBER
 
 
     def handle_findNgrams(self):

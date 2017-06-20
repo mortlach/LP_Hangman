@@ -30,7 +30,7 @@ class GUI_mainView(QtGui.QMainWindow, Ui_mainView):
         # map of word widgets, keyed by their place in the senence
         self.wordWidgets = {}
         # do this better, based on raw LP data to be imported
-        self.lpSection.setMaximum( 15 ) #MAGIC_NUMBER
+
         self.lpSentence.setMaximum( 23 )#MAGIC_NUMBER
         # GUI layout varibale
         self.maxWordsPerLine = 12       #MAGIC_NUMBER
@@ -52,8 +52,6 @@ class GUI_mainView(QtGui.QMainWindow, Ui_mainView):
             self.wordWidgets[key] = None
         self.wordWidgets = {}
 
-
-
     def setImage(self,currentSection,currentSentence):
         # need to get the right image, maybe have images for each sentences ?
         # with the runes highlighted in a differnet color?
@@ -63,12 +61,10 @@ class GUI_mainView(QtGui.QMainWindow, Ui_mainView):
         self.lpImage1.setPixmap(self.qPixMap1)
         self.lpImage2.setPixmap(self.qPixMap2)
 
-
-
     def set_combo_boxes(self, words):
         for i in range(len(words)):
             self.wordWidgets[self.activeWord + i].comboBox.clear()
-            self.wordWidgets[self.activeWord + i].comboBox.addItems(words[i])
+            self.wordWidgets[self.activeWord + i].comboBox.addItems(sorted(words[i]))
 
     def setWordWidgets(self,currentSentence):
         self.delete_word_widgets()
