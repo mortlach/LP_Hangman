@@ -1,0 +1,2 @@
+byte from the beginning D 174
+byte from the current D 110

@@ -1,0 +1,5 @@
+equip three thousand light M 379
+equal work requiring equal M 192
+equal rate between buyer M 150
+equal work receive equal M 132
+equal arcs subtend equal D 408

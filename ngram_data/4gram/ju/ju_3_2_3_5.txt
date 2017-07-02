@@ -1,0 +1,12 @@
+jug of hot water D 7435
+jug of ice water D 750
+jug in his hands D 340
+jug in her hands D 278
+jug in his right D 264
+jug of tap water D 190
+jug in both hands D 180
+jug in her right D 153
+jug at his elbow D 134
+jug of ale which D 132
+jug of ale stood D 128
+jug of hot punch D 110

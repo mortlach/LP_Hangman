@@ -1,0 +1,5 @@
+occur without presenting problems M 114
+occur without conscious attention M 102
+occur without external evidence M 98
+occur without clinical evidence D 320
+occur without clinical symptoms D 224

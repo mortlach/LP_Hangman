@@ -1,0 +1,6 @@
+dropped below a critical M 430
+dropped below a threshold M 172
+drifted quite a distance M 134
+dropped below a definite M 84
+dryness under a nitrogen D 342
+dragged quite a distance D 132

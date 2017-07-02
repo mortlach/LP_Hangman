@@ -1,0 +1,3 @@
+omitting those which have D 198
+omitting their names from D 132
+omitting those which were D 116

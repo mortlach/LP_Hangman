@@ -1,0 +1,6 @@
+cylinder starts from rest D 400
+cylinder engines have been D 221
+cylinder should have been D 218
+cyclical changes have been D 90
+cylinder ridges have been D 88
+cylinder engines were used D 60

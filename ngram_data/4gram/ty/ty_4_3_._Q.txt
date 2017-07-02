@@ -1,0 +1,8 @@
+type things . " M 414
+type area . " M 176
+type them . " M 152
+type man . " M 117
+type now . " M 112
+type this . " M 55
+type too . " M 44
+type deal . " M 44

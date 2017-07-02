@@ -1,0 +1,15 @@
+ask about anything . M 540
+ask again later . M 438
+ask about money . M 310
+ash after burning . M 172
+ask about yours . M 142
+ask about theirs . M 140
+ask about later . M 124
+ask about others . M 118
+ask about people . M 110
+ask about terms . M 108
+ask whose calling ? M 96
+ask about costs . M 96
+ask about mother . M 90
+ask about price . M 88
+ask about dreams . M 88

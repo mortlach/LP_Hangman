@@ -1,0 +1,3 @@
+dyes commonly used for D 194
+dyes commonly used are D 126
+dyne electron volt erg D 89

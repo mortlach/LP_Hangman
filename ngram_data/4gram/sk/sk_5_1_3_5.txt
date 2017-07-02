@@ -1,0 +1,5 @@
+skips a beat until M 204
+skips a few steps M 113
+skips a beat every M 105
+skill i had never D 122
+skins a few times D 92

@@ -1,0 +1,4 @@
+puts together without reference M 152
+puts together without considering M 94
+pulp science fiction magazines D 338
+push forward toward political D 86

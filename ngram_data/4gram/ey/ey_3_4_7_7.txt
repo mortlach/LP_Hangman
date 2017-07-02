@@ -1,0 +1,5 @@
+eye sees distant objects M 206
+eye more closely planted M 140
+eye sees visible objects M 86
+eye your elusive flights D 92
+eye will produce optical D 80

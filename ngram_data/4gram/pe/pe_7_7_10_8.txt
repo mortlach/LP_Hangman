@@ -1,0 +1,10 @@
+perform network management functions M 136
+perform certain management functions M 106
+persons occupying particular positions M 90
+persons against government agencies M 88
+perform certain specialized functions D 222
+persons receiving disability benefits D 170
+peculiar relation frequently subsists D 158
+persons receiving psychiatric treatment D 138
+persons receiving retirement benefits D 116
+perform certain regulatory functions D 104

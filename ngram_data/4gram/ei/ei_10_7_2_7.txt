@@ -1,0 +1,4 @@
+eigenvalue problem is defined D 114
+eigenvalue problem as follows D 114
+eigenvalue percent of variance D 66
+eigenvalue problem is written D 43

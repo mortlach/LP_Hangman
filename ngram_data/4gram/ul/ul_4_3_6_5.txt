@@ -1,0 +1,3 @@
+ulna and radius bones D 283
+ulna and carpal bones D 238
+ulna and radius below D 51

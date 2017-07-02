@@ -1,0 +1,3 @@
+gnaw through the wood M 45
+gnaw through the rope D 114
+gnaw through the string D 108

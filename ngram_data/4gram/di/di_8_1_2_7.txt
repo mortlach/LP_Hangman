@@ -1,0 +1,7 @@
+distance d is measured M 550
+distance s is measured M 242
+distance d is defined M 190
+distance d is related M 144
+distance a is measured M 86
+dimension d is defined D 142
+direction i am proposing D 86

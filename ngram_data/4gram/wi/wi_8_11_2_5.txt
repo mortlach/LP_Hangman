@@ -1,0 +1,4 @@
+wireless transmission of power D 1342
+wireless transmission of sound D 256
+wireless transmission of voice D 140
+withholding certificate is filed D 45

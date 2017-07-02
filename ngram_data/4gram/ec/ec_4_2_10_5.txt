@@ -1,0 +1,3 @@
+echo of expressions which M 108
+echo the sentiments which D 119
+echo the peremptory words D 94

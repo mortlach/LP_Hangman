@@ -1,0 +1,4 @@
+minimum expected cell frequency M 682
+mineral deposits were exhausted D 154
+mineral deposits were exploited D 116
+migrant laborers from neighboring D 86

@@ -1,0 +1,3 @@
+ppm at all times D 132
+ppm in all cases D 88
+ppm in both cases D 40

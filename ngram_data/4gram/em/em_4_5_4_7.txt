@@ -1,0 +1,6 @@
+emit light when exposed M 193
+emit light when current M 152
+emit light when forward M 46
+emit light when excited D 293
+emit black body radiation D 184
+emit strong radio signals D 88

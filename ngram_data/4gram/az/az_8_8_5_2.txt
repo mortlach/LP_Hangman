@@ -1,0 +1,6 @@
+azimuthal magnetic field is D 316
+azimuthal symmetry about the D 222
+azimuthal magnetic field in D 173
+azimuthal magnetic field of D 160
+azimuthal magnetic field at D 137
+azimuthal electric field is D 104

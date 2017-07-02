@@ -1,0 +1,3 @@
+rye and buckwheat are D 386
+rye and buckwheat and D 112
+rye and buckwheat with D 92

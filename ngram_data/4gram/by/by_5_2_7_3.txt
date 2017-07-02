@@ -1,0 +1,12 @@
+bytes of storage and D 960
+bytes of storage are D 892
+bytes of storage for D 796
+bytes of storage per D 332
+bytes of overhead for D 256
+bytes of dynamic ram D 174
+bytes of storage that D 165
+bytes of payload and D 150
+bytes to reserve for D 144
+bytes of overhead per D 139
+bytes of storage with D 90
+bytes of storage can D 90

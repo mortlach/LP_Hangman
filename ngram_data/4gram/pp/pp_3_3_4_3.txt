@@ -1,0 +1,4 @@
+ppm for more than D 295
+ppm and less than D 230
+ppm but less than D 156
+ppm was used for D 96

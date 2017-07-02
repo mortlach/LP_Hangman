@@ -1,0 +1,14 @@
+apply filter button . M 763
+appear almost normal . M 574
+appear simple enough . M 238
+appear fairly normal . M 220
+appear almost weekly . M 154
+appear overly anxious . M 140
+appear clearly enough . M 134
+appear fairly obvious . M 120
+appear almost monthly . M 120
+appear almost absurd . M 112
+apply options button . M 104
+appear fairly simple . M 100
+appear bright yellow . M 100
+appear slight indeed . M 80

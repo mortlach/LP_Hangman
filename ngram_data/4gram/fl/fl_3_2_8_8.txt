@@ -1,0 +1,5 @@
+fly in complete darkness M 180
+fly in whatever direction M 168
+fly the shortest distance M 82
+fly the aircraft manually D 96
+fling the creatures backward D 86

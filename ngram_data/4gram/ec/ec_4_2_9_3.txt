@@ -1,0 +1,7 @@
+echo the statement that M 126
+echo is associated with M 111
+echo the prisoners hear M 102
+echo the sentiment that D 314
+echo of footsteps and D 170
+echo the sentiment and D 152
+echo the solemnity and D 80

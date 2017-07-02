@@ -1,0 +1,6 @@
+axioms which specify the M 100
+axons which project to D 166
+axons which connect the D 108
+axioms which express the D 88
+axons running between the D 84
+axons bound together by D 80

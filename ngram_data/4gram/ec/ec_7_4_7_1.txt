@@ -1,0 +1,11 @@
+economy will require a D 892
+economy will produce a D 350
+economy will receive a D 272
+economy will provide a D 238
+economy will achieve a D 204
+economy will undergo a D 184
+economy must undergo a D 142
+economy will involve a D 118
+economy must achieve a D 98
+economy must include a D 94
+economy also implies a D 94

@@ -1,0 +1,5 @@
+upper boundary conditions are M 188
+upper boundary conditions for M 180
+upper boundary coincides with M 90
+upper mandible furnished with D 204
+upper quadrant associated with D 128

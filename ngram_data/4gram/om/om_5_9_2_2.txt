@@ -1,0 +1,2 @@
+omits reference to the D 3017
+omits discussion of the D 861

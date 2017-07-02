@@ -1,0 +1,5 @@
+zero wait states . M 572
+zero time sample . M 130
+zero free energy . M 123
+zero very slowly . M 58
+zero time values . M 43

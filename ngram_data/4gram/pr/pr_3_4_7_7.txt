@@ -1,0 +1,4 @@
+pry open foreign markets D 528
+pry into private affairs D 231
+pry into private matters D 86
+pry into private dwellings D 84

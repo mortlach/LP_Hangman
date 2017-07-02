@@ -1,0 +1,11 @@
+schools which prepare students M 418
+schools begin accepting students M 340
+schools which provide education M 172
+schools where general subjects M 132
+schemes which provide benefits M 90
+schools under catholic auspices D 238
+schools under private auspices D 168
+schools within commuting distance D 136
+science under national socialism D 132
+schools where foreign languages D 96
+schools teaching foreign languages D 94

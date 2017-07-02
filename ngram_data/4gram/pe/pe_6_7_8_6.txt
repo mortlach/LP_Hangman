@@ -1,0 +1,5 @@
+person suffers personal injury M 442
+person suffering personal injury M 164
+person legally entitled thereto D 664
+person suffering pollution damage D 328
+person becomes sexually mature D 110

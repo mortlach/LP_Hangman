@@ -1,0 +1,6 @@
+node represents a state D 356
+node represents a class D 206
+node represents a point D 184
+node represents a region D 124
+noun designates a group D 122
+node represents a group D 88

@@ -1,0 +1,3 @@
+type represents a class D 120
+type represents a group D 104
+type constitute a large D 84

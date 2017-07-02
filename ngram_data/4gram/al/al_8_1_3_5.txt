@@ -1,0 +1,6 @@
+allocate a new array M 362
+allocate a new block M 286
+alighted a few yards D 186
+allocating a new block D 124
+allocating a new array D 96
+allotted a few pages D 88

@@ -1,0 +1,8 @@
+errors caused by interference M 272
+errors caused by carelessness M 126
+errors caused by imperfections M 106
+errors caused by insufficient M 86
+erosion caused by deforestation D 512
+errors should be investigated D 228
+erosion caused by agricultural D 116
+errors caused by contamination D 98

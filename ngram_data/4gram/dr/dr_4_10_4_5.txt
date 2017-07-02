@@ -1,0 +1,16 @@
+draw conclusions from facts M 866
+draw inferences from facts M 628
+draw conclusions from given M 546
+draw conclusions only about M 226
+draw conclusions only after M 150
+draw conclusions from small M 150
+draw conclusions from known M 148
+draw information from every M 136
+draw inferences from given M 134
+draw conclusions from large M 130
+draw inferences from story M 90
+draw conclusions well where M 80
+draw conclusions from dreams M 80
+drew inspiration from local D 90
+drop millstones when fools D 85
+drug interaction will occur D 40

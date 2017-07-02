@@ -1,0 +1,10 @@
+nurse determines whether the M 556
+nursing procedures should be M 351
+nursing assessment should be M 279
+nursing information system in M 122
+nursing activities should be M 116
+nursing assistants should be M 63
+nursing techniques should be M 44
+nursing management should be M 42
+nursing department should be D 138
+nursing supervisor should be D 115

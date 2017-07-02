@@ -1,0 +1,3 @@
+equip a new army M 316
+equip a new home M 94
+equip a new theory M 90

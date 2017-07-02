@@ -1,0 +1,15 @@
+echo from the mountains M 1400
+echo down the centuries M 1086
+echo among the mountains M 316
+echo from the surrounding M 309
+echo from the spiritual M 156
+echo from my childhood M 104
+echo from the nineteenth M 85
+echo down the corridors D 1040
+echo back the exuberant D 186
+echo along the corridors D 138
+echo from the hillsides D 134
+echo among the population D 119
+echo from the neighboring D 113
+echo from the interface D 54
+echo from the ionosphere D 51

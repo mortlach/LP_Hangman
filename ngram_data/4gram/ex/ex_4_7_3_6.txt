@@ -1,0 +1,3 @@
+exit function end select M 193
+exit windows and return M 128
+exit command and return M 95

@@ -1,0 +1,8 @@
+ions and negatively charged D 2698
+ions are positively charged D 1432
+ions are negatively charged D 813
+ions and positively charged D 322
+ions are oppositely charged D 198
+ions are completely removed D 122
+ions are sandwiched between D 100
+ions with negatively charged D 98

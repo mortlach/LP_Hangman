@@ -1,0 +1,4 @@
+dying from chronic diseases M 132
+dying from certain diseases M 80
+dying from radiation poisoning D 214
+dying from alcohol poisoning D 108

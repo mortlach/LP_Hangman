@@ -1,0 +1,16 @@
+bytes from the start D 1274
+bytes used to store D 1068
+bytes from the stream D 650
+bytes from the input D 602
+bytes from the stack D 568
+bytes from the first D 406
+bytes from the array D 234
+bytes from an input D 216
+bytes true or false D 159
+bytes into an array D 128
+bytes past the start D 126
+byres lest he might D 126
+bytes free the first D 122
+bytes onto the stack D 109
+bytes will be moved D 106
+bytes into the stream D 106

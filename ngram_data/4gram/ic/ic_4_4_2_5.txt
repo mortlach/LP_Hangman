@@ -1,0 +1,15 @@
+icon from the right M 838
+icon from the start M 352
+icon will be added M 288
+icon onto the start M 229
+icon will be shown M 146
+icon left or right M 144
+icon from the quick M 119
+icon will no longer M 106
+icon from the dialog M 102
+icon from the first M 90
+icon into the trash D 380
+icon onto the trash D 168
+icon from the panel D 144
+icon when the mouse D 118
+icon over the trash D 92

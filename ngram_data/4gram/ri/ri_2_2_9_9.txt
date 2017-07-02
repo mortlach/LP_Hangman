@@ -1,0 +1,5 @@
+ring of mountains surrounding M 330
+ring of tentacles surrounding D 320
+ring of detectors surrounding D 110
+ring of cytoplasm surrounding D 108
+ring of onlookers distended D 104

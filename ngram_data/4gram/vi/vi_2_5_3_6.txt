@@ -1,0 +1,6 @@
+via input and output M 432
+via holes are filled M 92
+via cause and effect M 91
+via first and second M 84
+via paper and pencil D 386
+via lakes and rivers D 90

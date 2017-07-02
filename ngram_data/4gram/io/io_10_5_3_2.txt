@@ -1,0 +1,2 @@
+ionospheric error for the D 284
+ionospheric delay can be D 110

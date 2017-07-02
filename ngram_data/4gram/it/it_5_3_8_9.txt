@@ -1,0 +1,17 @@
+items are answered correctly M 494
+items you answered correctly M 340
+items are complete sentences M 240
+items not otherwise available M 196
+items and services purchased M 190
+items not directly connected M 140
+items are properly discarded M 128
+items and services available M 106
+items they answered correctly M 100
+items not included elsewhere M 100
+items not directly associated M 88
+items not normally associated M 84
+items and services furnished D 1066
+items are mutually exclusive D 290
+items for personal adornment D 242
+items are properly chargeable D 131
+items not properly chargeable D 104

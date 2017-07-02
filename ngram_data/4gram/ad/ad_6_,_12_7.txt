@@ -1,0 +1,5 @@
+adults , particularly parents M 1136
+adults , particularly females M 348
+adults , particularly teachers M 284
+adults , particularly elderly M 126
+adults , particularly college M 87

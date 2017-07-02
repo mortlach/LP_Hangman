@@ -1,0 +1,3 @@
+atom surrounded by a D 738
+atom considered as a D 102
+atom abstraction by a D 51

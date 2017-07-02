@@ -1,0 +1,4 @@
+id and password every M 108
+id and password match M 50
+id has remained rigid D 92
+id and password would D 44

@@ -1,0 +1,9 @@
+azimuth of the sun D 8302
+azimuth of the two D 310
+azimuth of the dip D 242
+azimuth of the beam D 138
+azimuth of the ray D 134
+azimuth of the mean D 113
+azimuth of the head D 112
+azimuth is the arc D 100
+azimuth of the east D 44

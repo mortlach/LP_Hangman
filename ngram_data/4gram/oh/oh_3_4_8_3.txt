@@ -1,0 +1,1 @@
+ohm load resistor and D 46

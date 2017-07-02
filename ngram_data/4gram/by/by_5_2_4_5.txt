@@ -1,0 +1,6 @@
+bytes of disk space D 1603
+bytes of free space D 534
+bytes of data which D 184
+bytes of data space D 134
+bytes of code space D 130
+bytes of data every D 116

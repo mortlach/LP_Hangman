@@ -1,0 +1,3 @@
+circuit during normal operation D 206
+circuit will become unstable D 156
+circuit will remain constant D 112

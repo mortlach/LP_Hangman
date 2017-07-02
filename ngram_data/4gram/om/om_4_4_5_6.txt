@@ -1,0 +1,2 @@
+omit nothing which should M 106
+omit from gross income D 110

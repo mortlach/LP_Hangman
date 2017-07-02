@@ -1,0 +1,3 @@
+oxygen demand exceeds supply D 449
+oxygen demand exceeds oxygen D 264
+oxygen supply becomes limiting D 106

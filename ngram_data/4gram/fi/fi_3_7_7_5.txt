@@ -1,0 +1,3 @@
+fix certain criteria valid M 170
+fix general minimum rates D 112
+fix maximum freight rates D 100

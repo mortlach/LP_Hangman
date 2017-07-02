@@ -1,0 +1,4 @@
+sense " which enables M 186
+selling " short against M 100
+sense " which enabled M 82
+sense " might suggest M 80

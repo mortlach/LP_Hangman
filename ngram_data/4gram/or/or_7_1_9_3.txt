@@ -1,0 +1,16 @@
+ordered a withdrawal and M 402
+ordered a tombstone for M 166
+ordered a temporary ban M 110
+ordered a collection for M 106
+ordered a withdrawal that M 43
+ordered a hamburger and D 1714
+ordered a hamburger with D 396
+ordered a sumptuous meal D 246
+ordered a margarita and D 142
+ordered a thanksgiving for D 136
+ordered a vegetarian meal D 130
+ordered a chocolate ice D 128
+ordered a hamburger for D 114
+ordered a television set D 102
+ordered a croissant and D 84
+ordered a commission for D 84

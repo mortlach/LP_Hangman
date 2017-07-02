@@ -1,0 +1,4 @@
+atom has eight nearest D 461
+atom can exist without D 160
+atom with total angular D 100
+atom that moves onward D 84

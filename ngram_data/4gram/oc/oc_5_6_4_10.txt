@@ -1,0 +1,6 @@
+occur across word boundaries M 346
+occur through wrong information M 134
+occur without some peculiarity M 82
+occur through other mechanisms D 144
+occur through three mechanisms D 116
+occur varies from individual D 90

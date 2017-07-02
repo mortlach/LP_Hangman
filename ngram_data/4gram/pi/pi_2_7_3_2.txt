@@ -1,0 +1,2 @@
+ping command can be M 347
+ping command with the M 208

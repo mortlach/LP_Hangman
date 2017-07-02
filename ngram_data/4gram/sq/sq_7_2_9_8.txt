@@ -1,0 +1,3 @@
+squares of different coloured M 137
+squares of irrational diameters D 168
+squares in regression analysis D 110

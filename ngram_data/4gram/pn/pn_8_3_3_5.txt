@@ -1,0 +1,4 @@
+pneumonia and was taken D 448
+pneumonia does not occur D 202
+pneumonia and was given D 126
+pneumonia does not appear D 112

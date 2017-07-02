@@ -1,0 +1,4 @@
+dyes listed in table D 222
+dyed before or after D 128
+dyes should be added D 112
+dyer issued an order D 82

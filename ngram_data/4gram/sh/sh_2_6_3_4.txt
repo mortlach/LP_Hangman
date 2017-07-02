@@ -1,0 +1,3 @@
+sh groups per mole D 200
+sh groups has been D 59
+sh groups for their D 49

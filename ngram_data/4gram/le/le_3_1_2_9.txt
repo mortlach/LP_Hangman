@@ -1,0 +1,3 @@
+let a be connected M 320
+let a be perfectly M 98
+let a be insulated D 82

@@ -1,0 +1,2 @@
+gun produces a beam D 180
+gun whenever i was D 126

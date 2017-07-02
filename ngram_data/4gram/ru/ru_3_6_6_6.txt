@@ -1,0 +1,6 @@
+run public school system M 112
+run around without clothes M 104
+run through existing formal M 96
+run through menacing police D 724
+run through without stopping D 188
+run market supply curves D 156

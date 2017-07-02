@@ -1,0 +1,6 @@
+atoms covalently bonded to D 926
+atoms chemically bonded to D 204
+atoms covalently bonded in D 124
+atrial tachycardia should be D 114
+atrial tachycardia caused by D 110
+atrial contraction before the D 43

@@ -1,0 +1,4 @@
+zones assigned to them D 578
+zones allotted to them D 502
+zones adjacent to its D 152
+zones adjacent to them D 142

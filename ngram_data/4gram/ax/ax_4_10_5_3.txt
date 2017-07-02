@@ -1,0 +1,4 @@
+axis properties dialog box D 318
+axial tomography scans and D 128
+axis combination which has D 106
+axial compression force and D 94

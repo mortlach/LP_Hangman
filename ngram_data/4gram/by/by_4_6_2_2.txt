@@ -1,0 +1,16 @@
+byte offset of the D 1041
+byte offset in the D 386
+byte number of the D 293
+byte stored in the D 280
+byte values in the D 206
+byte number in the D 179
+byte ordering of the D 174
+byte stored at the D 150
+byte refers to the D 142
+byte blocks in the D 140
+byte values of the D 138
+byte offset to the D 132
+byte buffer in the D 108
+byte section of the D 81
+byte version of the D 66
+byte portion of the D 57

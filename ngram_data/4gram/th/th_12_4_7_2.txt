@@ -1,0 +1,6 @@
+thermocouples were located in D 244
+thermocouples were located at D 186
+thermocouples were mounted on D 142
+thermocouples were mounted in D 138
+thermocouples were located on D 100
+thermodynamic data related to D 96

@@ -1,0 +1,7 @@
+items upon which prices M 142
+items upon which duties M 132
+items from local stores M 100
+items from gross income D 810
+items like razor blades D 176
+items were pilot tested D 120
+items like peanut butter D 80

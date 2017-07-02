@@ -1,0 +1,17 @@
+axis through its center D 12909
+axis through its centre D 7381
+axial stress and strain D 559
+axle through its center D 496
+axes through its center D 394
+axes through its centre D 329
+axis through its middle D 323
+axis through its vertex D 273
+axis through one corner D 215
+axial tension and torsion D 196
+axes rotating with angular D 143
+axis should not exceed D 129
+axial strain and stress D 128
+axial vector and vector D 109
+axon reaches its target D 88
+axis system with origin D 52
+axle through its centre D 42

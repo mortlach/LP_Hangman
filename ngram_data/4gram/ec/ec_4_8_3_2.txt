@@ -1,0 +1,6 @@
+echo sequence can be M 208
+echo sequence with the M 150
+echo answered with the M 110
+echo sequence with an M 103
+echo sequence and the M 46
+echo chambers for the D 109

@@ -1,0 +1,14 @@
+echo can not be M 638
+echo that can be M 374
+echo with all my M 200
+echo was not at M 172
+echo may not be M 166
+echo that cry of M 121
+echo and not the M 108
+echo was one of M 106
+echo can then be M 102
+echo with all the M 89
+echo was not in M 82
+echo with that of M 45
+echo and can be M 43
+echo with one of M 42

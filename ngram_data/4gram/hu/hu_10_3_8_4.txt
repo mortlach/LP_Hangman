@@ -1,0 +1,4 @@
+humanities and sciences were D 157
+hurricanes and tornadoes have D 104
+humanities and sciences have D 94
+hurricanes and typhoons have D 80

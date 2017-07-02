@@ -1,0 +1,5 @@
+wing of infinite span M 1068
+wing at mountain home M 120
+wing of infinite length M 100
+wing is expanded there D 96
+wing in subsonic flow D 90

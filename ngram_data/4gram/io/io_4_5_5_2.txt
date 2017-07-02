@@ -1,0 +1,4 @@
+ionic radii given in D 232
+ionic radii based on D 106
+ionic bonds within the D 94
+ionic radii shown in D 82

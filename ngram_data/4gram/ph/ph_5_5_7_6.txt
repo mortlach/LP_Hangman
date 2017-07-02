@@ -1,0 +1,5 @@
+phase shift between output M 252
+phase change between liquid M 162
+phase shift between stress M 105
+phase short circuit occurs D 485
+photo taken shortly before D 102

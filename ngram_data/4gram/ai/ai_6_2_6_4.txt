@@ -1,0 +1,3 @@
+airway of proper size D 124
+airway in square feet D 120
+aisles of parked cars D 86

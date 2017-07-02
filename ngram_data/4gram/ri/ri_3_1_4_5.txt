@@ -1,0 +1,8 @@
+rings a bell which M 316
+rings a bell every M 210
+rings a male voice M 90
+ringing a bell every D 290
+ringing a bell which D 266
+ringing a bell under D 168
+ringing a bell while D 120
+ringing a fire alarm D 118

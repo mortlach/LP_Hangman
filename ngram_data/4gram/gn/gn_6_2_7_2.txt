@@ -1,0 +1,4 @@
+gneiss is exposed in D 233
+gneiss is covered by D 152
+gneiss is similar to D 148
+gneiss or granite is D 42

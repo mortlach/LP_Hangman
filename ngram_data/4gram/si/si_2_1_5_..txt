@@ -1,0 +1,5 @@
+sing a verse . M 320
+sing a catch . M 187
+sing a scale . M 186
+sing a round . M 116
+sing a while . M 108

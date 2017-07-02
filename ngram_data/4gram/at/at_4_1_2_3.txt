@@ -1,0 +1,3 @@
+atom a or its D 95
+atom a is not D 69
+atom a in its D 60

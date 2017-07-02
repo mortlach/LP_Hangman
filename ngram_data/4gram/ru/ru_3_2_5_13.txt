@@ -1,0 +1,7 @@
+run the civil administration M 272
+run the local administration M 230
+run the state administration M 129
+run the whole administration M 92
+run by local entrepreneurs D 174
+run by small entrepreneurs D 151
+run by women entrepreneurs D 141

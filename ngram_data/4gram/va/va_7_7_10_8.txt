@@ -1,0 +1,5 @@
+variable overhead efficiency variances D 146
+variation between individual patients D 143
+vaccine induces protective immunity D 102
+variation between individual children D 86
+variation between individual subjects D 82

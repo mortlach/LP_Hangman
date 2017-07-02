@@ -1,0 +1,9 @@
+go quite a distance M 1280
+go climb a mountain M 274
+go after a specific M 200
+go round a mountain M 164
+go until i promised M 124
+go where i deserved M 114
+go while i remember M 92
+go where i intended M 82
+go until i answered M 82

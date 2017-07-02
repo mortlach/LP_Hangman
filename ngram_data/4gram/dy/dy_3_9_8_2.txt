@@ -1,0 +1,3 @@
+dye molecules adsorbed on D 332
+dye molecules attached to D 180
+dye molecules embedded in D 116

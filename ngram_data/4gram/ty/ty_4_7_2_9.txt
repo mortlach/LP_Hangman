@@ -1,0 +1,10 @@
+type material is connected M 255
+type defines the structure M 96
+type between the different M 95
+type similar in principle M 88
+type implies the existence M 82
+type material is available M 47
+type silicon or germanium D 238
+type material is deposited D 232
+type tractor or equipment D 176
+type problem in psychiatry D 120

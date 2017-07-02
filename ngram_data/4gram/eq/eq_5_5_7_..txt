@@ -1,0 +1,7 @@
+equal total credits . M 1926
+equal moral persons . M 718
+equal human dignity . M 420
+equal total utility . M 324
+equal small squares . M 118
+equal water content . M 82
+equal learning ability . M 80

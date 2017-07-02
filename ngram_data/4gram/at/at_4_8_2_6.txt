@@ -1,0 +1,8 @@
+atom attached to carbon D 549
+atom occupies the center D 182
+atom occupies the centre D 169
+atom attached to oxygen D 157
+atom involved in reaction D 130
+atom attracts the shared D 125
+atom molecule of oxygen D 104
+atom receives an energy D 47

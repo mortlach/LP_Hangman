@@ -1,0 +1,1 @@
+db speech reception threshold D 68

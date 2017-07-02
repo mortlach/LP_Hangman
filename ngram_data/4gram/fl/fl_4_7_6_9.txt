@@ -1,0 +1,5 @@
+flow between rotating cylinders D 1619
+flow between coaxial cylinders D 278
+flow together without interfering D 132
+flat surface without distortion D 96
+flux density varies inversely D 53

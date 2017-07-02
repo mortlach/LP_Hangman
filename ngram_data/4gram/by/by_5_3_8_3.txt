@@ -1,0 +1,3 @@
+bytes are reserved for D 976
+bytes are required for D 790
+bytes and converts them D 106

@@ -1,0 +1,1 @@
+omitting instances in which D 140

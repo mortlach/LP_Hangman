@@ -1,0 +1,5 @@
+obey simple commands . M 494
+obey without questioning . M 413
+obey divine commands . M 122
+obey lawful authority . M 108
+obey without argument . M 92

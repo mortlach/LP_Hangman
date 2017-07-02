@@ -1,0 +1,3 @@
+wear a ring before D 284
+wear a ring unless D 186
+wear a ring through D 127

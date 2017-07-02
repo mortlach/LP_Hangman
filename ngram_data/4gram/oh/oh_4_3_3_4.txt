@@ -1,0 +1,2 @@
+ohms per mil foot D 359
+ohms for each volt D 135

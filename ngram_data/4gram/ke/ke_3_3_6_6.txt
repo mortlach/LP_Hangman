@@ -1,0 +1,11 @@
+key that already exists M 324
+key that should unlock M 258
+key was already turned M 114
+key that allows access M 110
+key and select another M 106
+key was slowly turned M 92
+key that fitted almost M 90
+key and slowly opened M 42
+key and pressing another D 179
+key and wooden hammer D 152
+key can always render D 82

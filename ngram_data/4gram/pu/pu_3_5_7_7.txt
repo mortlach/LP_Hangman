@@ -1,0 +1,13 @@
+put space between himself M 476
+put miles between himself M 269
+put space between herself M 254
+put under central control M 205
+put miles between herself M 88
+put fifty thousand dollars D 450
+put under federal control D 324
+put under civilian control D 231
+put thirty thousand dollars D 152
+put eight thousand dollars D 130
+put under foreign control D 112
+put under national control D 97
+put sixty thousand dollars D 88

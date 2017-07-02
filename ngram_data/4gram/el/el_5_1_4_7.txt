@@ -1,0 +1,8 @@
+elect a city council D 530
+elect a city manager D 220
+elect a town council D 210
+elect a shop steward D 186
+elbow a hair outside D 182
+elect a single trustee D 164
+elect a town sergeant D 115
+elect a life annuity D 88

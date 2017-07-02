@@ -1,0 +1,3 @@
+ayes to two noes D 146
+ayes to six noes D 110
+ayes to one nay D 110

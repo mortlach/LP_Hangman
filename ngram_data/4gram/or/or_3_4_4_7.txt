@@ -1,0 +1,7 @@
+ore from lake superior D 1551
+ore have been shipped D 738
+ore have been located D 457
+ore have been removed D 240
+ore have been brought D 195
+ore from other sources D 159
+ore have been blocked D 42

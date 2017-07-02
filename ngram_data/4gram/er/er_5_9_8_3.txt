@@ -1,0 +1,5 @@
+erect temporary shelters for M 99
+error generally increases with M 80
+error covariance matrices are D 156
+error covariance matrices for D 110
+error covariance matrices and D 86

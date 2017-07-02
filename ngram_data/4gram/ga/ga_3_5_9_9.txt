@@ -1,0 +1,7 @@
+gas under different conditions D 292
+gas under isothermal conditions D 170
+gas under specified conditions D 154
+gas under different pressures D 136
+gas flame glimmered forlornly D 88
+gas which supported combustion D 84
+gas under identical conditions D 82

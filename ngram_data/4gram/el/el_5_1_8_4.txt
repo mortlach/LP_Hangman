@@ -1,0 +1,4 @@
+elect a chairman from D 3542
+elect a governor from D 382
+elect a delegate from D 104
+elect a director from D 88

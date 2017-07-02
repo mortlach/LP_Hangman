@@ -1,0 +1,4 @@
+curve always passes through D 244
+curve passes through points D 202
+curve without double points D 162
+curve always slopes upward D 112

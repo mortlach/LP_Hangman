@@ -1,0 +1,8 @@
+emits a brilliant light M 475
+emits a brilliant white M 320
+emits a constant stream M 194
+emits a powerful light M 119
+emits a greenish light D 215
+emits a metallic sound D 210
+emits a fragrant smell D 102
+emits a magnetic field D 86

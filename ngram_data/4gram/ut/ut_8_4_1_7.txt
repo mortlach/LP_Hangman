@@ -1,0 +1,4 @@
+utilizes only a fraction M 256
+utilizes only a limited M 111
+utilized only a fraction D 150
+utilized when a patient D 84

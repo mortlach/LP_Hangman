@@ -1,0 +1,6 @@
+bytes are used for D 2230
+bytes that were read D 256
+bytes are sent and D 220
+bytes per inch and D 138
+bytes and there are D 128
+bytes that have not D 104

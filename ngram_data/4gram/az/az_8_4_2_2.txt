@@ -1,0 +1,5 @@
+azimuthal angle of the D 3062
+azimuthal angle in the D 710
+azimuthal part of the D 154
+azimuthal angle at the D 108
+azimuthal width of the D 96

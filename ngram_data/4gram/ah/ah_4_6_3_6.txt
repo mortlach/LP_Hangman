@@ -1,0 +1,7 @@
+ahead slowly but surely M 200
+ahead without any further M 166
+ahead before they reached M 118
+ahead without any regard M 100
+ahead faster and faster D 253
+ahead further and faster D 94
+ahead faster than before D 41

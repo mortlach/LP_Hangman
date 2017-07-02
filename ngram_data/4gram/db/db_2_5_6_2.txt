@@ -1,0 +1,4 @@
+db noise figure at D 206
+db point occurs at D 116
+db would result in D 88
+db noise figure is D 59

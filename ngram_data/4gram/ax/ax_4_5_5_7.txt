@@ -1,0 +1,4 @@
+axis about which rotation D 872
+axis about which moments D 250
+axial point spread function D 206
+axis lengths might explain D 110

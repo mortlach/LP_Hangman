@@ -1,0 +1,3 @@
+ignore religion as a M 150
+ignore cruelty as a D 128
+ignite strongly in a D 116

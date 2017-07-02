@@ -1,0 +1,6 @@
+voltage from a to D 1944
+voltage into a dc D 301
+voltage gain a is D 299
+voltage from a dc D 294
+voltage gain a of D 159
+voltage from d to D 128

@@ -1,0 +1,8 @@
+died from childhood diseases M 92
+died from infectious diseases D 932
+died from contagious diseases D 302
+died from political violence D 206
+died from starvation because D 174
+died from pesticide poisoning D 92
+died from alcoholic poisoning D 92
+diving from encroaching objects D 82

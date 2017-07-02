@@ -1,0 +1,3 @@
+void contracts entered into M 120
+volt alternating current line D 59
+volt alternating current from D 49

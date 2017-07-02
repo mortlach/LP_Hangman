@@ -1,0 +1,5 @@
+weeks before complete recovery M 100
+weeks without specific treatment M 90
+weeks before expected delivery D 204
+weeks before hospital admission D 152
+weeks before clinical symptoms D 80

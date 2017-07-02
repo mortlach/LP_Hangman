@@ -1,0 +1,5 @@
+db bandwidth of about D 203
+db bandwidth is about D 147
+db reduction in noise D 136
+db bandwidth is given D 107
+db reduction in sound D 68

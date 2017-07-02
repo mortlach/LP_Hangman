@@ -1,0 +1,2 @@
+exit without saving . M 320
+exit system call . M 240

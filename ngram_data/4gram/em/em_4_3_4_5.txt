@@ -1,0 +1,3 @@
+emit far more light M 136
+emit all three types M 132
+emit too much light M 88

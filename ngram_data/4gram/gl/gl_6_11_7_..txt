@@ -1,0 +1,8 @@
+global competitive position . M 360
+global distribution network . M 342
+global development network . M 337
+global distribution systems . M 280
+global development process . M 216
+global conservation efforts . M 180
+global conservation concern . M 92
+global development efforts . M 90

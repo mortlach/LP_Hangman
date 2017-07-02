@@ -1,0 +1,4 @@
+edit view tools help M 3708
+edge over every other M 150
+edit menu click copy D 329
+edit view loots help D 225

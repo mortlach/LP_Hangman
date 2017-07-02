@@ -1,0 +1,15 @@
+pit some distance from M 109
+pit will probably hold M 82
+pig iron increased from D 702
+pig iron produced from D 675
+pig iron obtained from D 297
+pig into malleable iron D 272
+pig iron imported from D 270
+pig iron containing less D 124
+pig iron produced during D 106
+pig iron imported into D 104
+pig iron directly from D 101
+pig iron declined from D 91
+pig iron containing from D 87
+pig iron containing more D 84
+pig iron produced there D 69

@@ -1,0 +1,9 @@
+exit for statement is M 240
+exit for statement to M 220
+exam was performed on M 104
+exam are presented in M 94
+exit was announced in M 92
+exam was conducted by M 80
+exit sub statement is D 224
+exit sub statement to D 146
+exam was scheduled to D 108

@@ -1,0 +1,3 @@
+obey orders to advance M 170
+obey orders to proceed M 94
+obey orders to inflict M 82

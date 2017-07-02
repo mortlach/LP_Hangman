@@ -1,0 +1,10 @@
+dwell there . " M 2867
+dwelt there . " M 1736
+dwell upon . " M 1128
+dwell here . " M 940
+dwelt upon . " M 864
+dwell here ? " M 297
+dwell there ? " M 214
+dwelt among . " M 142
+dwelt here . " M 131
+dwell time . " M 95

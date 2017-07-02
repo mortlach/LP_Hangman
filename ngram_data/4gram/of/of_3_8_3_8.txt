@@ -1,0 +1,17 @@
+off internal and external M 342
+off positive and negative M 230
+off thousands and thousands M 219
+off hundreds and thousands M 163
+off whenever and wherever M 154
+off external and internal M 139
+off hundreds and hundreds M 109
+off wherever and whenever M 103
+off whatever was valuable M 101
+off products and services M 52
+off economic and military D 501
+off military and economic D 454
+off branches for firewood D 136
+off muscular and cutaneous D 118
+off prefixes and suffixes D 115
+off corrupting and debauching D 104
+off economic and cultural D 42

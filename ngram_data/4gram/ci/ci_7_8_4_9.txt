@@ -1,0 +1,4 @@
+circuit rejected these arguments D 220
+circuit containing three resistors D 168
+circuit containing only resistors D 162
+circuit contains three resistors D 90

@@ -1,0 +1,3 @@
+occupy different class positions M 225
+occupy different social positions D 780
+occupy different social locations D 146

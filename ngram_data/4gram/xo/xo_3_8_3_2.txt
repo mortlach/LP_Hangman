@@ -1,0 +1,2 @@
+xor operation with the M 169
+xor operation can be M 123

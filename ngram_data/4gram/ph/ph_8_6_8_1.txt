@@ -1,0 +1,5 @@
+physician should practice a D 428
+physician should maintain a D 412
+physician should consider a D 320
+physical findings included a D 146
+physical system requires a D 102

@@ -1,0 +1,4 @@
+omit the explanation which M 166
+omit an observation which M 94
+omit the italicized words D 120
+omit the diacritical marks D 82

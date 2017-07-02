@@ -1,0 +1,11 @@
+ill and injured patient M 270
+ill and injured workers M 192
+ill and injured persons M 172
+ill and elderly persons M 168
+ill with certain diseases M 138
+ill and suffering patient M 126
+ill with chronic diseases M 116
+ill with stomach trouble D 350
+ill and require medical D 216
+ill with chronic fatigue D 152
+ill and vomited several D 128

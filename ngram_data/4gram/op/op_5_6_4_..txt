@@ -1,0 +1,6 @@
+opening another door . M 414
+opens another door . M 214
+option number three . M 194
+opening already made . M 102
+opening another file . M 98
+opening another book . M 82

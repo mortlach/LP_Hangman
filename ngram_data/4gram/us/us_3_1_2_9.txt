@@ -1,0 +1,13 @@
+use a to represent M 515
+using a do statement M 388
+use t to represent M 357
+using a to represent M 298
+use s to represent M 245
+use a do statement M 112
+use i to represent M 88
+use d to represent M 41
+use a sea expression D 144
+using a dc voltmeter D 116
+using a dc amplifier D 115
+using a dc magnetron D 95
+using a ring resonator D 46

@@ -1,0 +1,12 @@
+species have developed resistance M 484
+species have different tolerances M 186
+specify what additional information M 170
+species have different strategies M 106
+species were immutable productions D 808
+species from different localities D 764
+species have different ecological D 182
+species most generally cultivated D 150
+species have developed mechanisms D 144
+species have different chromosome D 108
+species from different continents D 106
+species from different ecological D 82

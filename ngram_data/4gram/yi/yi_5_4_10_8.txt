@@ -1,0 +1,4 @@
+yield much information concerning M 278
+yield some information concerning M 214
+yield more information concerning M 109
+yield more conclusive evidence D 118

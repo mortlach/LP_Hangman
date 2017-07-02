@@ -1,0 +1,6 @@
+type material and holes M 649
+type install and press M 479
+type material are holes M 96
+type reactions may occur M 54
+type material was found M 50
+type samples are shown M 45

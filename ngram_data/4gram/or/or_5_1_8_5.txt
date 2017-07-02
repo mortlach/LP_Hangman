@@ -1,0 +1,8 @@
+order a complete blood M 628
+order a purchase order M 146
+order a dangerous alien M 108
+order a complete change M 81
+order a military force D 219
+order a rationale equal D 158
+order a delivery thereof D 138
+order a pregnant woman D 127

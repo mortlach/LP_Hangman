@@ -1,0 +1,6 @@
+ore mining and processing D 814
+ore from this district D 310
+ore from this locality D 224
+ore from this property D 212
+ore from red mountain D 107
+ore ready for shipment D 81

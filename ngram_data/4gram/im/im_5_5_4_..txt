@@ -1,0 +1,13 @@
+image music text . M 882
+image looks like . M 488
+image faded away . M 444
+image shown here . M 336
+imply anything else . M 282
+image fades away . M 212
+image comes from . M 192
+image every time . M 144
+image right away . M 142
+image frame rate . M 114
+image takes over . M 104
+image quite well . M 88
+image looks good . M 84

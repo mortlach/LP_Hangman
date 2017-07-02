@@ -1,0 +1,9 @@
+reveal " the intention M 206
+reason " to conclude M 122
+reason " in evaluating M 104
+reason " to complain M 90
+reason " in contrast M 86
+reveal " the essential M 84
+reason " to describe M 80
+readings " or lectures M 80
+reason " is required M 40

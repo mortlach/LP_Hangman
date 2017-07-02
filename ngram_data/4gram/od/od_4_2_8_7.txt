@@ -1,0 +1,4 @@
+odor of hydrogen sulfide D 2594
+odor of hydrogen cyanide D 131
+odor of ordinary gangrene D 80
+odds of developing diabetes D 80

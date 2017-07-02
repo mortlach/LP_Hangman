@@ -1,0 +1,9 @@
+atom per formula unit D 332
+atom per lattice site D 266
+atom was removed from D 119
+atom can possess only D 119
+atom are removed from D 104
+atom was derived from D 91
+atom that results from D 60
+atom are divided into D 53
+atom are derived from D 44

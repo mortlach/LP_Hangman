@@ -1,0 +1,3 @@
+yields correct values for M 95
+yields similar values for M 43
+yields results agreeing with D 93

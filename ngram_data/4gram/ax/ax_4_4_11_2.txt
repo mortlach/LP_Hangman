@@ -1,0 +1,3 @@
+axial load corresponding to D 178
+axis view demonstrating the D 177
+axes must necessarily be D 84

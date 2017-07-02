@@ -1,0 +1,4 @@
+byte field used to D 258
+byte value from the D 251
+byte array from the D 239
+byte stream from the D 156

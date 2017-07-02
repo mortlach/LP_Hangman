@@ -1,0 +1,14 @@
+syringe should be removed D 230
+synod passed the following D 207
+syrup should be allowed D 156
+syrup should be ordered D 150
+syringe should be sterile D 142
+syringe should be avoided D 138
+syrup should be avoided D 112
+syringe should be flushed D 110
+syringe should be carried D 92
+syringe through the catheter D 89
+syringe through the stopper D 82
+syringe should be checked D 82
+syringe should be capable D 82
+syringing should be repeated D 75

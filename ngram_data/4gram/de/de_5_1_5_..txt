@@ -1,0 +1,6 @@
+defeat a claim . M 264
+deadly a wound . M 204
+denying a claim . M 194
+defeat a motion . M 106
+deity i adore . M 90
+devil a doubt . M 82

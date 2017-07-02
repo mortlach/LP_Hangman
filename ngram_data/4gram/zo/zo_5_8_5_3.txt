@@ -1,0 +1,2 @@
+zones security level for D 170
+zones mentioned above are D 122

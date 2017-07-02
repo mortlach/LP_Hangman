@@ -1,0 +1,3 @@
+lo phonon energy of D 144
+lo phonon energy is D 116
+lo phonon energy in D 50

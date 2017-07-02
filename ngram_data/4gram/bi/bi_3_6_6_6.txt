@@ -1,0 +1,5 @@
+bit random access memory M 507
+bit signed binary number M 250
+big united states marine D 152
+bit static random access D 143
+big wicker picnic basket D 110

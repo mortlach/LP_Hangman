@@ -1,0 +1,4 @@
+syringe filled with saline D 1011
+syringe filled with normal D 465
+syringe barrel and plunger D 141
+syringe filled with liquid D 47

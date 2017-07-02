@@ -1,0 +1,8 @@
+author quotes a passage M 396
+author writes a tragedy M 276
+author raises a question M 160
+author offers a general M 150
+author offers a thorough M 112
+author offers a careful M 104
+author paints a picture D 420
+audit policy a windows D 43

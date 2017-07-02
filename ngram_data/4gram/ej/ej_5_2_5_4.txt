@@ -1,0 +1,10 @@
+eject the enemy from D 462
+eject the empty case D 284
+eject the paper from D 192
+eject the water from D 174
+eject the spent case D 158
+eject the fired case D 156
+eject the blood from D 124
+eject the dutch from D 122
+eject the blood into D 106
+eject the fluid from D 98

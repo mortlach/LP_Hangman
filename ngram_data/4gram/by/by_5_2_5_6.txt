@@ -1,0 +1,3 @@
+bytes of local memory D 146
+bytes of total memory D 120
+bytes of cache memory D 100

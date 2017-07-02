@@ -1,0 +1,4 @@
+documentation which has survived M 126
+domestically owned and operated D 231
+domestically rather than imported D 100
+domestically rather than exported D 100

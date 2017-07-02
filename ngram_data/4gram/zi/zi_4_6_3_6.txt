@@ -1,0 +1,6 @@
+zinc smelting and refining D 402
+zinc coated with copper D 141
+zinc should not exceed D 107
+zinc plates are joined D 106
+zinc plates are placed D 84
+zinc plates for printing D 44

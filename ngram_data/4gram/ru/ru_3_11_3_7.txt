@@ -1,0 +1,4 @@
+run applications that require M 207
+run equilibrium real exchange D 1570
+run efficiently and smoothly D 214
+run equilibrium with respect D 120

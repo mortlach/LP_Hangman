@@ -1,0 +1,2 @@
+run aggregate supply curves D 2497
+run aggregate supply shifts D 362

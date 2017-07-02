@@ -1,0 +1,6 @@
+stay within acceptable limits M 276
+stir until completely melted D 804
+star whose brightness changes D 258
+star whose brightness varies D 191
+stay within prescribed limits D 126
+stay within acceptable bounds D 105

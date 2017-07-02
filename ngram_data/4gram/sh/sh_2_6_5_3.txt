@@ -1,0 +1,2 @@
+sh groups which are D 205
+sh groups which can D 42

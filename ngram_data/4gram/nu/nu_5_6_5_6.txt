@@ -1,0 +1,5 @@
+nurse should never assume M 214
+nurse should first assess M 212
+nurse should never forget M 120
+nurse should stand behind M 113
+nurse nature would forbid D 192

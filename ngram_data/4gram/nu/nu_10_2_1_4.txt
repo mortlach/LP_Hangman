@@ -1,0 +1,6 @@
+nucleotides in a gene D 1440
+nucleotides at a time D 986
+nucleotides in a single D 504
+nucleotides in a cell D 121
+nucleotides of a gene D 91
+nucleotides on a single D 80

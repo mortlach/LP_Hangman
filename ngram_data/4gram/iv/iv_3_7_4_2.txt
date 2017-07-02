@@ -1,0 +1,2 @@
+ivy trained over an D 186
+ivy trained over the D 94

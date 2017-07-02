@@ -1,0 +1,9 @@
+option exercise price . M 1195
+option valuation model . M 366
+opening tomorrow night . M 340
+opening quotation marks . M 254
+opens tomorrow morning . M 210
+option mentioned above . M 152
+opens tomorrow night . M 132
+option purchase price . M 125
+opening mentioned above . M 41

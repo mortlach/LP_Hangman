@@ -1,0 +1,3 @@
+ulcer patients who are D 160
+ulcer patients who had D 117
+ulcer patients are not D 47

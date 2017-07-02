@@ -1,0 +1,6 @@
+daily life " . M 1045
+daily mail " . M 326
+daily living " . M 132
+daily work " . M 126
+daily food " . M 116
+daily life " ? M 86

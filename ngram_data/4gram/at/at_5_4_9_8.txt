@@ -1,0 +1,4 @@
+atoms have permanent magnetic D 202
+atoms from different elements D 132
+atoms having identical chemical D 124
+atoms have different chemical D 97

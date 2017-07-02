@@ -1,0 +1,5 @@
+pneumonia may present with D 472
+pneumonia and primary lung D 160
+pneumonia may develop and D 124
+pneumonia can present with D 120
+pneumonia and chronic lung D 96

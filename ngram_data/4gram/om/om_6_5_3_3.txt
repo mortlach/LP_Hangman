@@ -1,0 +1,3 @@
+omitting words that are D 138
+omitting anything that may D 86
+omitting others that are D 82

@@ -1,0 +1,2 @@
+ejection fraction less than D 4397
+ejection fraction more than D 136

@@ -1,0 +1,3 @@
+fly takes a blood M 213
+flea takes a blood D 130
+flea bites a human D 99

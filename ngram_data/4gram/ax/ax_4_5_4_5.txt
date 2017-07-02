@@ -1,0 +1,3 @@
+axis about once every D 145
+axes never cease falling D 80
+axis running from right D 58

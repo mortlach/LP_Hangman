@@ -1,0 +1,4 @@
+epithet for our subject D 121
+epithet that was applied D 106
+epithet was not applied D 100
+epithet she had applied D 41

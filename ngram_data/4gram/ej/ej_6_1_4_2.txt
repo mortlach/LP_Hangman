@@ -1,0 +1,3 @@
+ejects a drop of D 190
+ejects a mass of D 106
+ejecting a mass of D 92

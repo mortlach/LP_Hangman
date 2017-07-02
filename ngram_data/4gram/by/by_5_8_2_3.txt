@@ -1,0 +1,2 @@
+bytes occupied by each D 198
+bytes required by each D 84

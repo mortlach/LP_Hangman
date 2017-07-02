@@ -1,0 +1,5 @@
+sync pulses from the D 1267
+sync signal from the D 285
+sync pulses will be D 171
+sync pulses must be D 109
+sync signal must be D 43

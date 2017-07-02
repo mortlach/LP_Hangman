@@ -1,0 +1,6 @@
+cs that has been D 338
+cs gas was used D 276
+cs that had been D 186
+cs has not been D 136
+cs does not have D 128
+cs gas had been D 94

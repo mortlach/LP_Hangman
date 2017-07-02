@@ -1,0 +1,11 @@
+cell cycle phase specific M 760
+cell lines after treatment M 188
+cell cycle stage specific M 74
+cell patch clamp recordings D 548
+cell cycle phase durations D 206
+cell lines after exposure D 179
+cell blood group antigens D 127
+ceasing force which actuates D 114
+cell which would normally D 108
+cease until every freedman D 82
+cent above rated capacity D 80

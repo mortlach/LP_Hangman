@@ -1,0 +1,10 @@
+visit a computer store M 957
+visit a specific place M 730
+virus a computer virus M 411
+views a possible kingdom M 84
+visit a hardware store D 400
+visit i wandered thither D 118
+visit a cemetery where D 105
+visit a hospital where D 96
+visit a physician within D 90
+visit i reviewed banks D 88

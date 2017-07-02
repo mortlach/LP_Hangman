@@ -1,0 +1,9 @@
+goods received from abroad M 148
+goods obtained from abroad M 118
+goods imported from abroad D 5175
+goods imported from another D 810
+goods produced more cheaply D 334
+goods imported from sister D 216
+goods imported from beyond D 170
+goods imported from various D 80
+goods imported from eastern D 42

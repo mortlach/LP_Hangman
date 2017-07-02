@@ -1,0 +1,3 @@
+yield stress values were M 124
+yield strength values were M 46
+yield varies greatly from D 142

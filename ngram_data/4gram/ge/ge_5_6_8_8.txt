@@ -1,0 +1,10 @@
+genes encoding proteins involved D 1516
+genes encoding proteins required D 328
+getting enough physical activity D 320
+genes encode proteins involved D 316
+genes encoding secreted proteins D 234
+getting enough physical exercise D 128
+genes encoding membrane proteins D 124
+genes encoding specific proteins D 112
+genes encode proteins required D 86
+genes encoding proteins essential D 84

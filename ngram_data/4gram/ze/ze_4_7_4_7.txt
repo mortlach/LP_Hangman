@@ -1,0 +1,2 @@
+zero contact angle between M 43
+zero applied gate voltage D 136

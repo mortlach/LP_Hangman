@@ -1,0 +1,6 @@
+byte at that address D 180
+byes to our friends D 140
+byte at that location D 120
+byte of this address D 106
+byes to his friends D 92
+byes to her friends D 82

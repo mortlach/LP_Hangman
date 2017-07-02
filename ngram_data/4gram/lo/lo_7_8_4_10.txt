@@ -1,0 +1,4 @@
+logical deduction from principles M 140
+locally adaptive data compression M 98
+logical deduction from definitions M 96
+logical relations among statements D 160

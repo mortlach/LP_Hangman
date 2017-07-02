@@ -1,0 +1,12 @@
+ore is a compound D 481
+ore is a sulphide D 455
+ore in a platinum D 263
+ore to a metallic D 231
+ore in a crucible D 174
+ore in a charcoal D 135
+ore is a hematite D 112
+ore at a distance D 99
+ore in a mountain D 92
+ore is a chemical D 86
+ore in a suitable D 84
+ore is a valuable D 82

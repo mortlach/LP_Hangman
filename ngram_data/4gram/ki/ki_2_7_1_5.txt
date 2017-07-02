@@ -1,0 +1,15 @@
+king ordered a large M 238
+king entered a small M 178
+king ordered a table M 154
+king claimed a right M 113
+king married a woman M 100
+king claimed a power M 100
+king ordered a grand M 96
+king offered a large M 86
+king granted a manor D 221
+king mounted a horse D 184
+king plucked a spray D 160
+king erected a court D 138
+king desired i would D 100
+king ascends a throne D 96
+king married a chief D 95

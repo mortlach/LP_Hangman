@@ -1,0 +1,4 @@
+cyst walls are composed D 130
+cyst walls are digested D 121
+cyst which had ruptured D 84
+cyst lined with columnar D 46

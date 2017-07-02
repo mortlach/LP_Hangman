@@ -1,0 +1,12 @@
+puts a ring on M 1274
+pure a thing is M 452
+pure a at the M 444
+pure i at the M 390
+pure a in the M 246
+puts a ring of M 182
+pull t of the M 182
+puts a thing on M 172
+puts a ring in M 132
+puts a thing in M 120
+pure a thing as M 116
+pure a thing to M 100

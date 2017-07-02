@@ -1,0 +1,2 @@
+azimuth and dip of D 249
+azimuth can not be D 180

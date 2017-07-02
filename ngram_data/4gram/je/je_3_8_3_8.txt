@@ -1,0 +1,4 @@
+jet aircraft and missiles D 240
+jet fighters and missiles D 128
+jet fighters and trainers D 93
+jet aircraft are equipped D 82

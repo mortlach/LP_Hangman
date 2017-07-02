@@ -1,0 +1,3 @@
+input sequence undergoes a M 88
+inner membrane contains a D 184
+index register contains a D 118

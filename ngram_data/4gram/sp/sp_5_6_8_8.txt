@@ -1,0 +1,5 @@
+spread across multiple machines M 216
+spread across multiple locations M 194
+spread across multiple physical D 174
+spread through airborne droplets D 172
+space station processing facility D 114

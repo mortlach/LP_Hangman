@@ -1,0 +1,6 @@
+image will present itself M 116
+image into meaningful regions D 200
+image into smaller pieces D 198
+image into several regions D 108
+image into digital format D 96
+image there finally resuming D 88

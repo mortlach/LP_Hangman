@@ -1,0 +1,4 @@
+tax rate schedule applies D 256
+tax upon property holders D 96
+tax upon personal incomes D 96
+tap into external sources D 86

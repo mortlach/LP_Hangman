@@ -1,0 +1,2 @@
+lymph node positive patients D 184
+lymph node negative patients D 147

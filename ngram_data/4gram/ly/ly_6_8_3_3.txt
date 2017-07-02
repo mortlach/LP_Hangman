@@ -1,0 +1,2 @@
+lysine residues that are D 272
+lysine residues are not D 108

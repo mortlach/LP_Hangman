@@ -1,0 +1,13 @@
+scale civil war . M 5670
+scare people off . M 799
+scale dialog box . M 663
+scale either way . M 502
+scale every day . M 454
+scale every year . M 244
+scope dialog box . M 204
+scale world war . M 136
+scale since then . M 116
+scale after that . M 113
+scare people with . M 110
+scale right now . M 100
+scale check box . M 54

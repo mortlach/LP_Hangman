@@ -1,0 +1,5 @@
+patient a candidate for M 838
+parents a generation ago M 328
+paradox a statement that M 178
+painted a landscape with D 280
+painted a landscape that D 140

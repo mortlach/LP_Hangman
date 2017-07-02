@@ -1,0 +1,3 @@
+oscillations about its position D 234
+oscillations about this position D 160
+oscillators which are coupled D 96

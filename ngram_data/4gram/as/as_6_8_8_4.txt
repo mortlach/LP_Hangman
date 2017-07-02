@@ -1,0 +1,6 @@
+assume complete authority over M 176
+assume parental authority over M 120
+assume absolute authority over M 118
+assuming constant specific heats D 865
+assume constant specific heats D 639
+assume paternal authority over D 152

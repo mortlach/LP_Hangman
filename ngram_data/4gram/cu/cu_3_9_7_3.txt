@@ -1,0 +1,3 @@
+cut opposition between its M 110
+cut paragraph beginning with M 100
+cut separation between them M 54

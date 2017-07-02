@@ -1,0 +1,13 @@
+father a child . M 5351
+faked a smile . M 1072
+father a visit . M 571
+father a child ? M 513
+faked a laugh . M 492
+father a favor . M 317
+failing a class . M 284
+father s house . M 270
+favor a change . M 216
+father i loved . M 142
+father a trick . M 112
+father a smile . M 104
+father a slave . M 96

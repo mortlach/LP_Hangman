@@ -1,0 +1,6 @@
+skin and respiratory tract D 5008
+skin and subcutaneous fascia D 1172
+skin and subcutaneous layer D 384
+skin and subcutaneous fatty D 372
+skin and subcutaneous flaps D 148
+skin was unnaturally white D 100

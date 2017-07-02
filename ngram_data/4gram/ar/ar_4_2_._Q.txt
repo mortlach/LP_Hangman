@@ -1,0 +1,5 @@
+arms up . " M 500
+army is . " M 436
+arms up ! " M 164
+army is ? " M 120
+army do ? " M 116

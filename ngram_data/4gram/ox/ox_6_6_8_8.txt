@@ -1,0 +1,4 @@
+oxygen partial pressure gradient D 374
+oxygen carbon hydrogen nitrogen D 305
+oxygen partial pressure increases D 283
+oxygen partial pressure decreases D 276

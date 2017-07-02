@@ -1,0 +1,4 @@
+buildings several stories high M 740
+buildings insured against fire D 220
+bulwark against invasion from D 212
+buildings insured against loss D 212

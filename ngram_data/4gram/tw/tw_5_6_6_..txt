@@ -1,0 +1,5 @@
+twice normal values . M 128
+twice before replying . M 126
+twice another number . M 122
+twice without effect . M 120
+twice before starting . M 94

@@ -1,0 +1,4 @@
+yield false positive results M 663
+yield false negative results M 434
+yield quite accurate results M 192
+yield false positive reactions M 86

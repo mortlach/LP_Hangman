@@ -1,0 +1,8 @@
+occupation may be . M 1012
+occupation for me . M 804
+occupation with it . M 448
+occupation for it . M 158
+occupation can be . M 122
+occupation for us . M 120
+occupation with me . M 100
+occupation for me ? M 92

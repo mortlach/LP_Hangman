@@ -1,0 +1,15 @@
+cell without a number M 3926
+cell without a liquid M 297
+cell without a window M 178
+cell through a special M 122
+cell reaches a stated M 118
+cell through a liquid M 103
+cell through a narrow M 100
+cell through a second M 98
+cell through a number M 94
+cell through a window M 90
+cell without a parent M 80
+cell called a zygote D 1023
+cell through a series D 248
+cell biology i global D 204
+cell called a neuron D 180

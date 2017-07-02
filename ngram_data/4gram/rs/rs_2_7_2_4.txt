@@ -1,0 +1,2 @@
+rs pattern in leads D 73
+rs request to send D 42

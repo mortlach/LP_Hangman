@@ -1,0 +1,13 @@
+time between successive samples M 356
+time between successive crossings M 132
+ties between individual members M 132
+time between successive impacts M 120
+time between successive returns M 114
+time division multiplexing whereby D 263
+time between successive stimuli D 122
+time division multiplexing systems D 119
+time between successive neutron D 100
+time becomes infinitely elastic D 100
+time between successive fissions D 96
+time usually intervenes between D 82
+tile windows vertically command D 67

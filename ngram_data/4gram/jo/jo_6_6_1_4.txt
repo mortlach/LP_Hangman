@@ -1,0 +1,6 @@
+joined without a word M 116
+joined without a break M 112
+joined through a single M 88
+joints through a full D 832
+joints through a range D 208
+joints through a wide D 100

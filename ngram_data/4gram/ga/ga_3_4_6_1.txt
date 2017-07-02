@@ -1,0 +1,12 @@
+gap when through a M 90
+gap will remain a M 80
+gas flow through a D 3405
+gas pass through a D 340
+gas will occupy a D 294
+gas flow around a D 259
+gas will become a D 244
+gas there exists a D 224
+gas moving through a D 206
+gas flow across a D 133
+gas from entering a D 116
+gas will assume a D 108

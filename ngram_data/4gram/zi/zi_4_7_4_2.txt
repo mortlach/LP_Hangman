@@ -1,0 +1,5 @@
+zinc derived from the D 136
+zinc removed from the D 100
+zinc depends upon the D 100
+zinc sulfide from the D 88
+zinc differs from the D 82

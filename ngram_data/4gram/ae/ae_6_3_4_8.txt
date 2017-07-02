@@ -1,0 +1,4 @@
+aerobic and some anaerobic D 126
+aeration and soil moisture D 100
+aeration and good drainage D 84
+aeration and poor drainage D 82

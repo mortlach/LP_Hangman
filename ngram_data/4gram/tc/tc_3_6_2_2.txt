@@ -1,0 +1,4 @@
+tcp relies on the M 86
+tcp portion of the D 178
+tcp packet to the D 131
+tcp socket to the D 117

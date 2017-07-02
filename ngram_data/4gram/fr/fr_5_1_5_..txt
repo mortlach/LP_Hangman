@@ -1,0 +1,8 @@
+frame a reply . M 1571
+freed a slave . M 288
+frame a house . M 245
+frees a slave . M 194
+frame a story . M 108
+frame a proof . M 100
+frail a frame . M 90
+frame a reply ? M 80

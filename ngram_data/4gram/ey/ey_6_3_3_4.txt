@@ -1,0 +1,5 @@
+eyelid with his thumb D 362
+eyelid with one hand D 288
+eyelid with his finger D 184
+eyelid with one finger D 138
+eyelid does not move D 100

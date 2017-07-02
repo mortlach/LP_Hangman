@@ -1,0 +1,5 @@
+owned plants and equipment M 179
+owned stores and factories D 119
+owned fields and vineyards D 89
+owned retail and wholesale D 58
+owned plants and factories D 46

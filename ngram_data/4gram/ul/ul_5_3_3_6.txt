@@ -1,0 +1,4 @@
+ulcer with and without D 124
+ulcer does not extend D 106
+ulcer may heal without D 88
+ulcer does not differ D 40

@@ -1,0 +1,2 @@
+echo makes me certain M 90
+echo power is plotted D 128

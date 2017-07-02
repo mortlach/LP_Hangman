@@ -1,0 +1,1 @@
+xor truth table . M 97

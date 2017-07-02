@@ -1,0 +1,4 @@
+fluorescence when exposed to D 978
+fluorescence when excited by D 529
+fluorescence upon addition of D 228
+fluorescence when excited at D 163

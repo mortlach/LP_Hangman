@@ -1,0 +1,4 @@
+wedding ceremonies take place D 186
+wedding ceremonies took place D 182
+wedding celebration took place D 154
+wedding eventually took place D 130

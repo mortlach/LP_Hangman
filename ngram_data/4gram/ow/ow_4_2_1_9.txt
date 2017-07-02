@@ -1,0 +1,15 @@
+owes to a principal M 161
+owed by a principal M 125
+owed by a controlling M 110
+owed to a community M 98
+owed by a political D 492
+owed by a defendant D 346
+owed by a landowner D 276
+owed to a plaintiff D 238
+owed by a solicitor D 202
+owed to a sovereign D 169
+owed by a corporate D 138
+owed by a possessor D 122
+owed to a purchaser D 110
+owed by a subsidiary D 107
+owed by a municipal D 96

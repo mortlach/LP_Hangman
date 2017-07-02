@@ -1,0 +1,3 @@
+rod outer segment disks D 400
+rod outer segment discs D 252
+rod shape measures about D 92

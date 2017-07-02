@@ -1,0 +1,3 @@
+ring that undergoes reaction M 118
+ring that monitors station D 86
+ring eye inverted nature D 84

@@ -1,0 +1,17 @@
+yield information that can M 1190
+yield conclusions that are M 635
+yield information that may M 358
+yield predictions that are M 339
+yield advantages for all M 252
+yield predictions that can M 163
+yield information that has M 132
+yield comparable with that M 113
+yield information that was M 91
+yield structures that are M 60
+yield inferences that are M 52
+yield substances that are M 44
+yield conclusions that can M 43
+yield agreements that are D 88
+yield statements that are D 50
+yield estimators that are D 44
+yield statistics that are D 42

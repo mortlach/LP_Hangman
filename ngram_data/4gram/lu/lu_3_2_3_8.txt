@@ -1,0 +1,8 @@
+lung in this condition D 318
+lung is not adherent D 260
+lung is not uncommon D 192
+lung is not involved D 188
+lung is not possible D 112
+lung is not affected D 100
+lung is not expanded D 98
+lung is not entirely D 86

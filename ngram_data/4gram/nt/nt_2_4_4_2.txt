@@ -1,0 +1,3 @@
+nth term will be M 134
+nth item from the M 114
+nth name from the M 88

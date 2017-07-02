@@ -1,0 +1,4 @@
+possess sufficient economic power D 200
+powered electrical generating plant D 138
+possess sufficient military power D 134
+possess sufficient military force D 86

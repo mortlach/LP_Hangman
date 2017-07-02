@@ -1,0 +1,4 @@
+van loaded with explosives D 300
+van packed with explosives D 208
+van filled with explosives D 180
+vat system was introduced D 106

@@ -1,0 +1,3 @@
+music becomes quicker and M 178
+music finally stopped and M 116
+music sounded fainter and D 92

@@ -1,0 +1,3 @@
+barometric pressure minus water D 140
+barometric pressure under which D 112
+background variables which might D 90

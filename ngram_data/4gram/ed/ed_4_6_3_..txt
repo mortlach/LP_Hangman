@@ -1,0 +1,12 @@
+edge toward you . M 605
+edge nearest you . M 324
+edge beside her . M 201
+edge toward him . M 158
+edge beside him . M 156
+edge around him . M 153
+edge broken off . M 148
+edge around them . M 129
+edge behind him . M 109
+edge behind her . M 91
+edit select all . M 56
+edge toward her . M 50

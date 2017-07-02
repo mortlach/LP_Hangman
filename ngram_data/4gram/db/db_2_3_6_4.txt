@@ -1,0 +1,3 @@
+db per octave roll D 249
+db per octave from D 190
+db per decade roll D 59

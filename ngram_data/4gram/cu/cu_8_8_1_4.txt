@@ -1,0 +1,4 @@
+cultural products i have M 112
+customer receives a copy M 102
+cultures containing a single M 90
+customer receives a bill D 124

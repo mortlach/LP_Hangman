@@ -1,0 +1,13 @@
+edit style dialog box M 2845
+edit color dialog box M 1858
+edit links dialog box M 1122
+edit tools dialog box M 917
+edit sites dialog box M 802
+edit ranges dialog box M 484
+edit watch dialog box M 351
+edit layer dialog box M 296
+edit event dialog box M 294
+edge razor blade and D 374
+edit macro dialog box D 218
+edge razor blade for D 108
+eddy knows about that D 102

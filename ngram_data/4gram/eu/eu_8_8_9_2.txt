@@ -1,0 +1,2 @@
+euclidean distance transform of D 121
+euclidean parallel postulate is D 96

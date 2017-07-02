@@ -1,0 +1,2 @@
+iteration does not converge D 308
+iteration may not converge D 143

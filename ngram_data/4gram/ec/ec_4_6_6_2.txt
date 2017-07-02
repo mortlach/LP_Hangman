@@ -1,0 +1,4 @@
+echo loudly through the M 171
+echo images through the M 153
+echo softly through the M 40
+echo rolled through the D 92

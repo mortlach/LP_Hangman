@@ -1,0 +1,5 @@
+lung is gas exchange D 195
+lung of this patient D 164
+lung is not uniform D 138
+lung is not usually D 124
+lung is then removed D 86

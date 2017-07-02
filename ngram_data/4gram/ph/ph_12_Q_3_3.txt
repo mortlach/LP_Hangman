@@ -1,0 +1,5 @@
+philosophers " who had M 232
+philosophers " who are M 216
+philosophers " are not M 144
+philosophers " did not M 132
+philosophers " and that M 55

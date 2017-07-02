@@ -1,0 +1,3 @@
+cycles a number of D 194
+cycled a number of D 110
+cycles a second in D 92

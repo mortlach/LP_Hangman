@@ -1,0 +1,6 @@
+onset and offset . M 1810
+onset and course . M 1353
+onset for arrest . M 188
+onset was sudden . M 180
+onset and severe . M 124
+onset was fearful . M 88

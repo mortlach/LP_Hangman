@@ -1,0 +1,5 @@
+lymphatics or blood stream D 542
+lymphatics to lymph nodes D 376
+lymphatics or lymph nodes D 141
+lymphatics by tumor cells D 114
+lymphatics to local lymph D 106

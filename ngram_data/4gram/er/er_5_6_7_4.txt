@@ -1,0 +1,5 @@
+error signal resulting from M 200
+error signal becomes zero M 148
+error occurs because there M 102
+error signal derived from D 304
+error without flinching gets D 126

@@ -1,0 +1,9 @@
+emit more light than M 361
+emit more noise than M 82
+emit less light than M 61
+emit more light and M 48
+emit rays which are D 285
+emit radio waves that D 283
+emit radio waves and D 171
+emit more smoke than D 146
+emit radio waves with D 99

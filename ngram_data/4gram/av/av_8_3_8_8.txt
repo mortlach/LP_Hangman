@@ -1,0 +1,6 @@
+averages and standard deviations D 8222
+averages and ensemble averages D 248
+averages with standard deviations D 168
+averages are weighted averages D 168
+averages and weighted averages D 94
+averaged and standard deviations D 86

@@ -1,0 +1,16 @@
+run against him . M 6974
+run between them . M 2883
+run against them . M 1828
+run towards him . M 1187
+run towards them . M 811
+run against you . M 801
+run against her . M 681
+run towards her . M 538
+run against him ? M 384
+run himself out . M 326
+run against you ? M 136
+run against men . M 120
+run towards you . M 115
+run herself out . M 104
+run against one . M 98
+run together now . M 41

@@ -1,0 +1,8 @@
+types within these categories M 130
+types which have disappeared M 118
+types which were introduced M 116
+types which were originally M 112
+types which were considered M 98
+types occur more frequently D 370
+types occur most frequently D 140
+types occur less frequently D 96

@@ -1,0 +1,15 @@
+outer door . " M 858
+outer life . " M 538
+outer room . " M 498
+outer edge . " M 396
+outer gate . " M 376
+outer form . " M 352
+outer side . " M 308
+outer door ? " M 252
+outer city . " M 170
+ought else . " M 140
+outer self . " M 128
+outer hall . " M 104
+outer ones . " M 98
+outer peace . " M 96
+outer beach . " M 88

@@ -1,0 +1,5 @@
+outcome after primary treatment M 98
+outcome after hepatic resection D 224
+outcome after anterior temporal D 158
+outside social service agencies D 94
+outside level remains unchanged D 92

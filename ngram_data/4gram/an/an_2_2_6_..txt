@@ -1,0 +1,16 @@
+an id number . M 1490
+an it system . M 1282
+an am signal . M 1046
+an of phrase . M 572
+an if clause . M 490
+an up market . M 404
+an am system . M 300
+an if signal . M 196
+an as number . M 192
+an id reaction . M 154
+an it expert . M 116
+an as clause . M 112
+an the ground . M 108
+an at system . M 98
+an am signal ? M 82
+an it person . M 80

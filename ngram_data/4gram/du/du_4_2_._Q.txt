@@ -1,0 +1,8 @@
+duty is . " M 1032
+during it . " M 788
+duty to . " M 200
+duty is ? " M 162
+during it ? " M 146
+dull thing . " M 136
+dull it . " M 102
+during tea . " M 92

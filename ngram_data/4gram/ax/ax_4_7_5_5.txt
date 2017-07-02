@@ -1,0 +1,2 @@
+axis diverge after passing D 102
+axial rotation takes place D 92

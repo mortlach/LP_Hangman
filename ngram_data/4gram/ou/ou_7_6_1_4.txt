@@ -1,0 +1,15 @@
+outside without a coat M 852
+outside through a hole M 540
+outside without a word M 298
+outside through a single M 263
+outside through a pair M 216
+outside through a door M 148
+outcome across a range M 90
+outside through a side M 59
+outside around a fire M 51
+outside through a pore D 242
+outside through a duct D 130
+outside through a pipe D 96
+outside through a tube D 92
+outside without a leash D 60
+outside through a slit D 59

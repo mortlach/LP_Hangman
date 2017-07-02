@@ -1,0 +1,6 @@
+plea must be entered M 310
+plea from the accused M 172
+plea will be entered M 160
+plea must be allowed M 146
+plea will be allowed M 92
+ply among the islands D 119

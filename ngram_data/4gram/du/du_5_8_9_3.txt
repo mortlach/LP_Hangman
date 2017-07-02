@@ -1,0 +1,6 @@
+dummy variables associated with D 341
+dummy variables controlling for D 192
+dutch reformed ministers and D 118
+dutch reformed clergyman and D 108
+dutch reformed ministers who D 96
+dummy variables indicates that D 52

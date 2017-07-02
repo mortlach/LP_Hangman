@@ -1,0 +1,5 @@
+byte of machine code D 1606
+byte is divided into D 336
+byte is written into D 318
+byte is fetched from D 216
+byte is removed from D 126

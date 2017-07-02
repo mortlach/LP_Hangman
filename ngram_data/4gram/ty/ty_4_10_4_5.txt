@@ -1,0 +1,2 @@
+type declaration must appear M 100
+type conversions take place D 94

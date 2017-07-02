@@ -1,0 +1,3 @@
+tying with a thread D 118
+tying with a string D 116
+tying with a rope D 102

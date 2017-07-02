@@ -1,0 +1,6 @@
+fly for short distances M 451
+fly but short distances M 96
+fly her whole broadside D 136
+fly his whole broadside D 92
+fly and carry passengers D 42
+fly with amazing swiftness D 41

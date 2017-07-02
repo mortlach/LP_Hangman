@@ -1,0 +1,6 @@
+cycle begins anew with M 300
+cycle begins when one M 114
+cycle starts over with M 106
+cycle occurs more than M 92
+cycle varies from one D 360
+cycle repeats over and D 324

@@ -1,0 +1,7 @@
+egress from the country D 235
+egress from my chamber D 204
+egress from the village D 196
+egress from the convent D 156
+egress from the capsule D 130
+egress from the gardens D 106
+egress from the interior D 100

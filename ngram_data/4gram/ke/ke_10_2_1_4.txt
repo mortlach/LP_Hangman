@@ -1,0 +1,3 @@
+keystrokes to a single D 138
+keystrokes in a file D 100
+keystrokes to a file D 93

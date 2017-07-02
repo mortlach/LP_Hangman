@@ -1,0 +1,6 @@
+dc link voltage is D 522
+dc load current is D 290
+dc load voltage is D 214
+dc base current is D 201
+dc link current is D 197
+dc load current of D 104

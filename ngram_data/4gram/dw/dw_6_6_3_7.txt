@@ -1,0 +1,8 @@
+dwelling plants and animals M 478
+dwelling repair may require M 120
+dwelling houses for workmen D 420
+dwelling houses and buildings D 201
+dwelling houses and offices D 131
+dwelling houses and gardens D 58
+dwelling houses and several D 43
+dwelling houses and stables D 40

@@ -1,0 +1,13 @@
+vehicle travel time . M 380
+vehicle pulled away . M 306
+vessels remain open . M 272
+vessels opened fire . M 240
+vehicle weight rating . M 214
+vehicle repair shop . M 188
+vehicle without more . M 172
+vessels already there . M 130
+vessels already full . M 114
+verdict agreed upon . M 114
+verdict handed down . M 98
+vehicle caught fire . M 98
+vehicle slowed down . M 84

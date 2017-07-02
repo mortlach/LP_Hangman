@@ -1,0 +1,12 @@
+ask questions . " M 20363
+ask questions ? " M 4004
+ask questions ! " M 1114
+ask yourself . " M 1026
+ask somebody . " M 808
+ask yourself ? " M 302
+ask somebody ? " M 260
+ask yourself ! " M 150
+ask everyone . " M 106
+ask otherwise . " M 104
+ask somebody ! " M 96
+ask tomorrow . " M 84

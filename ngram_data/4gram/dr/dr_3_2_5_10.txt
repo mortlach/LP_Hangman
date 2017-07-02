@@ -1,0 +1,4 @@
+dry the block completely M 126
+dry or humid atmosphere D 258
+dry or moist atmosphere D 138
+dry in sealed containers D 134

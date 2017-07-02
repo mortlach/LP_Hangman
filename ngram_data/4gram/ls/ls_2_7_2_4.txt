@@ -1,0 +1,2 @@
+ls command to list D 295
+ls command is used D 128

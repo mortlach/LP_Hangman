@@ -1,0 +1,4 @@
+erect a house . M 1197
+erect a cross . M 432
+erect a stage . M 92
+error a crime . M 80

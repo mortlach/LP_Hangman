@@ -1,0 +1,2 @@
+scan is usually performed D 444
+scan is usually diagnostic D 182

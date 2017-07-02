@@ -1,0 +1,5 @@
+atom absorbs a photon D 1378
+atom carries a partial D 230
+atom carries a charge D 130
+atom assumes a partial D 94
+atom induces a dipole D 51

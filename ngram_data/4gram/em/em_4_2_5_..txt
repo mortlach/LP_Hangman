@@ -1,0 +1,4 @@
+emit no light . M 330
+emit the light . M 222
+emit no sound . M 201
+emit the sound . M 172

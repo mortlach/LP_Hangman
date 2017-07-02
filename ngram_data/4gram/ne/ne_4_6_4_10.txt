@@ -1,0 +1,10 @@
+need should take precedence M 80
+next section will illustrate D 1208
+need something more substantial D 1054
+news caused great excitement D 712
+news created great excitement D 432
+need watering more frequently D 197
+news caused much excitement D 124
+news created much excitement D 112
+need watering less frequently D 92
+news caused great indignation D 90

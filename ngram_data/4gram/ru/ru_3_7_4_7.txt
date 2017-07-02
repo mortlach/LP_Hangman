@@ -1,0 +1,5 @@
+run average cost function M 1432
+run exchange rate behavior D 539
+run variable cost function D 226
+run national health service D 140
+run between heavy rollers D 134

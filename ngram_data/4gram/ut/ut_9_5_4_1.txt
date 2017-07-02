@@ -1,0 +1,3 @@
+utilities which have a D 644
+utilities would have a D 106
+utterance comes from a D 96

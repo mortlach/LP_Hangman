@@ -1,0 +1,4 @@
+item could only permit M 192
+item whose name begins M 120
+item would have created D 94
+item would most likely D 44

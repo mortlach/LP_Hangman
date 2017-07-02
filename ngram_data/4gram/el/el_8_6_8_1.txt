@@ -1,0 +1,3 @@
+elevated object produces a M 146
+elevated ground commanding a M 84
+electric charge produces a D 352

@@ -1,0 +1,2 @@
+manifests itself immediately after D 222
+maintains status information about D 128

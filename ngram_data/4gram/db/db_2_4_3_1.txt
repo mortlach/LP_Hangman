@@ -1,0 +1,3 @@
+db gain and a D 426
+db gain with a D 137
+db less than a D 109

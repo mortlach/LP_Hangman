@@ -1,0 +1,4 @@
+goods manufactured from them D 378
+goods manufactured from raw D 166
+goods requisitioned from them D 112
+goods manufactured here are D 86

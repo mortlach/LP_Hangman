@@ -1,0 +1,3 @@
+ask himself why . M 1234
+ask herself why . M 832
+ask himself that . M 96

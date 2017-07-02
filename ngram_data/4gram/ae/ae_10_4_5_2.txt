@@ -1,0 +1,2 @@
+aerodynamic drag force on D 312
+aerodynamic drag force is D 190

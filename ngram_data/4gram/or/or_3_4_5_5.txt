@@ -1,0 +1,5 @@
+ore having gross assay D 182
+ore from nearby mines D 161
+ore from local mines D 96
+orb more equal shalt D 94
+ore from small mines D 43

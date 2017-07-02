@@ -1,0 +1,3 @@
+zero output voltage when D 236
+zero coupon treasury bond D 68
+zero output voltage from D 42

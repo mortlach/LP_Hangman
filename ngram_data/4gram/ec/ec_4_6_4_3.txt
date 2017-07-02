@@ -1,0 +1,2 @@
+echo further west than M 306
+echo almost word for M 47

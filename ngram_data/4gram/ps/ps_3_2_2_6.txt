@@ -1,0 +1,3 @@
+psi at the bottom D 256
+psi at the nozzle D 132
+psi by the latter D 116

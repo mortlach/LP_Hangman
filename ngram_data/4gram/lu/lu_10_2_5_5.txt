@@ -1,0 +1,6 @@
+luminosity in solar units D 284
+lubrication of rolling bearings D 200
+lubrication of plain bearings D 170
+lubrication of engine parts D 102
+lubrication of engine bearings D 94
+lubrication of motor bearings D 92

@@ -1,0 +1,8 @@
+mud houses with thatched D 552
+mud floors and thatched D 176
+mud building with turrets D 94
+mud cabins and potatoes D 88
+mud bricks and covered D 86
+mud bottom and floated D 84
+mud bricks and thatched D 68
+mud mortar and covered D 55

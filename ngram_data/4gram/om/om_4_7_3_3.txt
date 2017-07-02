@@ -1,0 +1,4 @@
+omit details that are M 160
+omit because they are M 122
+omit informing you that M 109
+omit everything that does M 102

@@ -1,0 +1,2 @@
+atom absorbs energy from D 366
+atom radiates energy only D 84

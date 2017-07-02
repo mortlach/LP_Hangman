@@ -1,0 +1,3 @@
+db of dynamic range D 1029
+db of voltage gain D 174
+db of antenna gain D 63

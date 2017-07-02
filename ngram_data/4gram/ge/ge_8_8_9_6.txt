@@ -1,0 +1,2 @@
+generate positive attitudes toward M 128
+generate negative attitudes toward M 102

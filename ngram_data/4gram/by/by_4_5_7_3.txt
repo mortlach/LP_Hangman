@@ -1,0 +1,2 @@
+byte stream between two D 108
+byte short integer long D 106

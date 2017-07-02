@@ -1,0 +1,4 @@
+oil import quota program D 550
+oil prices would increase D 284
+oil prices would decline D 102
+oil import quota auctions D 100

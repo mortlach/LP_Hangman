@@ -1,0 +1,5 @@
+quit their present jobs M 276
+quit their current jobs M 218
+quit their regular jobs M 194
+quit their previous jobs D 274
+quit making election bets D 86

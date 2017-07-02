@@ -1,0 +1,10 @@
+tying a string from D 862
+tying a cloth over D 218
+tying a reef knot D 200
+tying a single knot D 196
+tying a slip knot D 147
+tying a silk thread D 138
+tying a rope from D 126
+tying a veil over D 120
+tying a fine thread D 100
+tying a knot over D 96

@@ -1,0 +1,5 @@
+translation i do not M 294
+translation i am using M 272
+transaction i do not D 174
+transpired i do not D 130
+transaction i am now D 112

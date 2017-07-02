@@ -1,0 +1,3 @@
+vehicle under control . M 422
+vehicle moves forward . M 224
+vehicle moved forward . M 218

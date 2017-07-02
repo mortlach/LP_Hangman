@@ -1,0 +1,5 @@
+byte is loaded into D 506
+byte of urgent data D 438
+byte of object code D 334
+byte of binary data D 182
+byte is broken into D 122

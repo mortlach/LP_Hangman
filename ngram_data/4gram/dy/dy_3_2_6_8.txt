@@ -1,0 +1,11 @@
+dying of wounds received M 883
+dying or becoming disabled M 323
+dying of sleeping sickness M 274
+dying or becoming seriously M 116
+dying of cystic fibrosis D 209
+dying of double pneumonia D 195
+dying of carbon monoxide D 142
+dying of septic pneumonia D 97
+dying of spinal meningitis D 88
+dying or becoming bankrupt D 55
+dye is slowly injected D 45

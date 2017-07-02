@@ -1,0 +1,5 @@
+offs which can be D 196
+offs which may be D 134
+offs would not be D 106
+offs could not be D 90
+offing could not be D 88

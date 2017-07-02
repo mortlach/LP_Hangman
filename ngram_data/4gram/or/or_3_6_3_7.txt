@@ -1,0 +1,7 @@
+ore bodies are located D 446
+ore bodies are usually D 261
+ore bodies are present D 59
+ore should not contain D 50
+ore bodies are closely D 45
+ore bodies are exposed D 42
+ore bodies and mineral D 40

@@ -1,0 +1,4 @@
+fly a long distance M 814
+fly a jet aircraft D 202
+fly a jet airplane D 146
+fly a real airplane D 106

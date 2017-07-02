@@ -1,0 +1,4 @@
+zoom extents all selected D 316
+zone between two adjacent D 296
+zone between two distinct D 180
+zone between two parallel D 114

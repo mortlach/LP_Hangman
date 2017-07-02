@@ -1,0 +1,5 @@
+global minimum energy state M 132
+global network through which M 84
+global economy through trade D 368
+global organic carbon cycle D 106
+global studies series cover D 80

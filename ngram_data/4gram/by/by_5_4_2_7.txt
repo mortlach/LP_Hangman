@@ -1,0 +1,9 @@
+bytes from the beginning D 3170
+bytes from the current D 930
+bytes from the address D 624
+bytes from the location D 234
+bytes will be written D 212
+bytes past the beginning D 202
+bytes must be written D 134
+bytes past the address D 132
+bytes from the network D 98

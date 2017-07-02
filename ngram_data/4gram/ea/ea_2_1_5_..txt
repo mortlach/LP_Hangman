@@ -1,0 +1,6 @@
+eat a piece . M 446
+eat a house . M 206
+eat a woman . M 196
+eat a child . M 184
+eat a sweet . M 104
+eat a child ! M 94

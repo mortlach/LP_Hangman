@@ -1,0 +1,3 @@
+run without interruption until M 82
+run market equilibrium price D 207
+run profit maximization would D 44

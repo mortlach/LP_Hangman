@@ -1,0 +1,4 @@
+pit was filled . M 402
+pit was opened . M 212
+pit was closed . M 166
+pit and burned . M 102

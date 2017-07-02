@@ -1,0 +1,11 @@
+pneumonia or typhoid fever D 1376
+pneumonia or urinary tract D 772
+pneumonia or scarlet fever D 288
+pneumonia in infants under D 262
+pneumonia of unknown cause D 216
+pneumonia is usually fatal D 216
+pneumonia in typhoid fever D 102
+pneumonia is usually rapid D 92
+pneumonia in elderly people D 90
+pneumonia is usually found D 86
+pneumonia is usually lobar D 45

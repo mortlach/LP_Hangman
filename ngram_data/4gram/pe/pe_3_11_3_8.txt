@@ -1,0 +1,3 @@
+peak acceleration and velocity D 177
+peak temperature and pressure D 142
+peak intensities and positions D 41

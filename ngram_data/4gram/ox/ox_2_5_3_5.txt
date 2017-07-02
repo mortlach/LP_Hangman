@@ -1,0 +1,6 @@
+ox knows its owner D 1758
+ox knows his owner D 770
+ox liver and horse D 128
+ox carts with solid D 115
+ox which has gored D 110
+ox carts and horse D 52

@@ -1,0 +1,9 @@
+occur between two adjacent M 360
+occur between two distinct M 122
+occur between two separate M 106
+occur together and therefore M 98
+occur between two children M 92
+occur between two elements M 80
+occur between two parallel D 176
+occur anytime and anywhere D 124
+occur together and interact D 52

@@ -1,0 +1,5 @@
+pyrite is found in D 785
+pylori is found in D 293
+pylons in front of D 250
+pylori is known to D 114
+pyrite is shown in D 90

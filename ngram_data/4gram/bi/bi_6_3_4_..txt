@@ -1,0 +1,4 @@
+binder was used . M 176
+binary log file . M 118
+binary and text . M 116
+binary and back . M 46

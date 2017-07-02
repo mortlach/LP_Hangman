@@ -1,0 +1,3 @@
+emit or absorb light M 506
+emit so little light M 86
+emit an output pulse D 108

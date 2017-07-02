@@ -1,0 +1,5 @@
+cycles between these two D 164
+cycles between base and D 124
+cycles involving more than D 106
+cycled between high and D 96
+cycled between zero and D 90

@@ -1,0 +1,5 @@
+actionable without special damage M 836
+actionable unless special damage M 92
+activated sludge aeration basins D 138
+actionable without alleging special D 136
+activation energy without enzyme D 94

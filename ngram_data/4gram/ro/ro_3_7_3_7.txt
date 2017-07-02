@@ -1,0 +1,2 @@
+row vectors are linearly D 184
+row because its interior D 100

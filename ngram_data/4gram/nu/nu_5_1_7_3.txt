@@ -1,0 +1,13 @@
+nursing a patient with M 322
+nursing a wounded man M 166
+nursing a wounded leg M 156
+nursing a patient who M 152
+nursing a wounded arm M 120
+nurse a patient who M 116
+nursing a hangover and D 342
+nursing a bruised ego D 198
+nurse a wounded tom D 172
+nursing a headache and D 156
+nursing a bruised jaw D 88
+nursing a bruised leg D 84
+nursing a vengeance was D 41

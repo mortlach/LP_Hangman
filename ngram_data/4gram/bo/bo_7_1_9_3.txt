@@ -1,0 +1,17 @@
+boarded a greyhound bus D 1384
+boarded a streetcar and D 656
+boarded a streetcar for D 260
+boarded a chartered bus D 236
+boarded a freighter for D 162
+boarded a streetcar that D 112
+boasted a reputation for D 110
+boarded a commercial jet D 96
+boasted a fireplace and D 94
+boarded a northbound bus D 94
+boarded a riverboat for D 90
+boarded a troopship for D 88
+boarded a transport for D 88
+boarded a greyhound for D 86
+bombard a populated area D 84
+boarded a streetcar with D 82
+boasted a television set D 41

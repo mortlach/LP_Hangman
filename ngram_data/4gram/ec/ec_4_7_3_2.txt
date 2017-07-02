@@ -1,0 +1,17 @@
+echo signals can be M 238
+echo signals and the M 147
+echo command can be M 133
+echo pattern may be M 130
+echo suggest that the M 123
+echo command and the M 120
+echo signals may be M 58
+echo signals due to M 46
+echo pattern that is M 44
+echo pattern can be M 44
+echo chamber for the D 708
+echo sounder and the D 294
+echo spectra for the D 253
+echo bounced off the D 166
+echo sounder can be D 165
+echo chamber and the D 101
+echo chamber that is D 86

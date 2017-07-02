@@ -1,0 +1,6 @@
+slept a troubled sleep M 424
+slept a refreshing sleep M 134
+slept a dreamless sleep D 1420
+sleep a dreamless sleep D 482
+slept a restless sleep D 136
+slept a feverish sleep D 108

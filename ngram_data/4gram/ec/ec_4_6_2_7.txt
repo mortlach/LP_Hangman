@@ -1,0 +1,17 @@
+echo through the country M 214
+echo through the forests M 194
+echo through the silence M 155
+echo through the valleys M 140
+echo across the country M 116
+echo through the decades M 102
+echo across the valleys M 89
+echo through the history M 86
+echo through the century M 46
+echo across the channel M 42
+echo through the streets D 507
+echo through the village D 215
+echo through the vaulted D 127
+echo through the hallway D 112
+echo through the chamber D 110
+echo through the canyons D 92
+echo through the caverns D 42

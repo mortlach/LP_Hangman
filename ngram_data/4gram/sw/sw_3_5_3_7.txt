@@ -1,0 +1,3 @@
+swing right leg forward D 448
+swing doors and entered D 96
+swing right arm forward D 48

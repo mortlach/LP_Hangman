@@ -1,0 +1,7 @@
+synthesis takes place . M 3369
+symmetry point group . M 288
+symbolic turning point . M 202
+synthesis within cells . M 187
+symmetry breaking scale . M 185
+synthesis could occur . M 106
+symmetry breaking terms . M 43

@@ -1,0 +1,7 @@
+tub filled with water D 3708
+tub filled with steaming D 381
+tub filled with blood D 175
+tub filled with boiling D 126
+tub filled with tepid D 106
+tub filled with soapy D 102
+tub filled with dirty D 94

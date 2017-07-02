@@ -1,0 +1,13 @@
+nurse looked up . M 390
+nurse should be . M 274
+nurse called me . M 222
+nurse should do . M 180
+nurse walked by . M 142
+nurse passed by . M 142
+nurse nature is ! M 122
+nurse standing by . M 120
+nurse taught me . M 116
+nurse showed up . M 110
+nurse opened it . M 102
+nurse called it . M 82
+nursing should be . M 74

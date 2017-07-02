@@ -1,0 +1,5 @@
+rule requiring expert testimony M 275
+rule against double deductions M 102
+runs rapidly through analogous D 168
+rule against opinion testimony D 135
+rule excluding hearsay testimony D 116

@@ -1,0 +1,3 @@
+fly only short distances M 678
+fly over enemy territory D 631
+fly into enemy territory D 152

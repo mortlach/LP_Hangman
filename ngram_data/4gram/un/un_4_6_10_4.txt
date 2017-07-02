@@ -1,0 +1,3 @@
+unit values calculated from M 122
+unit retain allocations paid D 180
+union armies penetrated into D 120

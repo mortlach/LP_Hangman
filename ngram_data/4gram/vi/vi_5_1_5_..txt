@@ -1,0 +1,10 @@
+visit a while . M 539
+vital a point . M 326
+visit a store . M 314
+visit a woman . M 250
+visit a place . M 245
+visit a class . M 230
+visit a house . M 136
+visit a while ? M 118
+vision a meeting . M 102
+visit a child . M 90

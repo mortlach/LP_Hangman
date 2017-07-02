@@ -1,0 +1,6 @@
+angle measured downward from M 116
+angle measured westward from M 100
+angle remains constant during M 96
+angle neutron scattering from D 882
+angle neutron scattering data D 486
+angle between magnetic north D 400

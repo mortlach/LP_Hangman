@@ -1,0 +1,3 @@
+cells show marked degenerative M 114
+cells into active proliferation M 82
+cells from immune surveillance D 156

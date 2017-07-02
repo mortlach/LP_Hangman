@@ -1,0 +1,10 @@
+byte of data from D 2543
+byte or word string D 843
+byte or word from D 636
+byte of data into D 536
+byte of data sent D 293
+byte or word data D 217
+byte of user data D 188
+byte of data will D 176
+byte by byte from D 55
+byte or word test D 45

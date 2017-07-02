@@ -1,0 +1,1 @@
+epochs reduced all to D 90

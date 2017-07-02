@@ -1,0 +1,3 @@
+ca residents add state D 272
+ca residents add sales D 180
+ca customers add sales D 103

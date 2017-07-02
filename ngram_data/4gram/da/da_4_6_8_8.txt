@@ -1,0 +1,9 @@
+days without specific treatment M 158
+data across multiple networks M 128
+data across multiple requests M 92
+data across computer networks M 86
+data across multiple physical D 168
+days before clinical symptoms D 138
+days before expected ovulation D 131
+days before hospital admission D 120
+date through continuing education D 54

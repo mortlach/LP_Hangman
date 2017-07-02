@@ -1,0 +1,4 @@
+jumping a claim . M 240
+judge a cause . M 162
+judge a woman . M 89
+judge a woman ? M 41

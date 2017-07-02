@@ -1,0 +1,8 @@
+edge widened through ether M 322
+edit formula format data D 9406
+edit formula formal data D 599
+eddy current losses will D 174
+eddy kinetic energy from D 123
+eddy kinetic energy into D 112
+eddy current losses when D 42
+eddy current losses must D 41

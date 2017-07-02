@@ -1,0 +1,5 @@
+losses were heavily concentrated M 106
+looked back without astonishment M 84
+looked upon better performances D 178
+lowest free energy configuration D 166
+loaded during system initialization D 112

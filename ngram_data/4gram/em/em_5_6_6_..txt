@@ -1,0 +1,5 @@
+empty window frames . M 360
+empty school building . M 144
+empty square beyond . M 106
+empty spaces inside . M 98
+empty spaces beyond . M 80

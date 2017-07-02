@@ -1,0 +1,5 @@
+solve " the problems M 1650
+solve " the conflict M 116
+sound " to describe M 99
+solve " the immediate M 84
+sound " is produced M 50

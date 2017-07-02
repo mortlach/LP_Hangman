@@ -1,0 +1,8 @@
+quit M 10106204
+quid D 2054200
+quay D 1773421
+quiz D 1660190
+quoth D 918403
+quad D 776993
+quin D 595529
+quip D 250149

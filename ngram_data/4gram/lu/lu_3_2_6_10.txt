@@ -1,0 +1,3 @@
+lung is poorly ventilated D 136
+lung is better ventilated D 122
+lung is almost completely D 120

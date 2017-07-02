@@ -1,0 +1,5 @@
+byte array and then D 160
+byte stream that can D 155
+byte entry for each D 100
+byte codes that are D 55
+byte count for each D 45

@@ -1,0 +1,4 @@
+ring around the combatants M 224
+ring should be considered M 208
+ring strain is negligible M 114
+ring system on photolysis D 114

@@ -1,0 +1,9 @@
+yielded some interesting information M 430
+yielded some important information M 244
+yielded much interesting information M 198
+yielded much important information M 160
+yielded very important information M 118
+yielded some interesting conclusions M 96
+yielded much additional information M 86
+yielded very interesting information M 82
+yielded more pertinent information D 116

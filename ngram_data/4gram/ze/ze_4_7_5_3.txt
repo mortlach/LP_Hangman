@@ -1,0 +1,8 @@
+zero average value and M 352
+zero applied field and M 306
+zero applied field for M 121
+zero salvage value and D 488
+zero salvage value for D 398
+zero flicker noise for D 232
+zero capital gains tax D 190
+zero forward speed and D 47

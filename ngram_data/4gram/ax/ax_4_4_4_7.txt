@@ -1,0 +1,9 @@
+axes have been rotated D 550
+axes have been defined D 158
+axes have been labeled D 122
+axes have been shifted D 100
+axes have been omitted D 100
+axis have been studied D 98
+axis have been measured D 96
+axes have been located D 96
+axis have been removed D 90

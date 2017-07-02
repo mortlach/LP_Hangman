@@ -1,0 +1,5 @@
+db per octave for D 678
+db per octave and D 601
+db per decade and D 293
+db per decade for D 210
+db per octave with D 178

@@ -1,0 +1,2 @@
+atom fraction of deuterium D 256
+atom fraction of component D 55

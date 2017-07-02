@@ -1,0 +1,5 @@
+pneumonia for children infected D 434
+pneumonia and bacterial pneumonia D 106
+pneumonia with cerebral symptoms D 102
+pneumonia and epidemic meningitis D 100
+pneumonia and bacterial meningitis D 90

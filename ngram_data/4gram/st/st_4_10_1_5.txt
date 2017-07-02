@@ -1,0 +1,3 @@
+string represents a valid D 220
+string representing a valid D 98
+star represents a state D 90

@@ -1,0 +1,3 @@
+emit light rather than M 100
+emit paper money with M 86
+emit sound waves that D 87

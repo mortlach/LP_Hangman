@@ -1,0 +1,5 @@
+skip next instruction if M 293
+skin more vulnerable to D 490
+skin means membership in D 366
+skin areas innervated by D 260
+skin test positivity to D 136

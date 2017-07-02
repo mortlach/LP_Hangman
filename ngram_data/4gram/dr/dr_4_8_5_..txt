@@ -1,0 +1,5 @@
+draw straight lines . M 1806
+draw vertical lines . M 570
+draw boundary lines . M 114
+dream beautiful dreams . M 106
+draw connecting lines . M 96

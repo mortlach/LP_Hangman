@@ -1,0 +1,5 @@
+path a in figure M 460
+pay a the amount M 174
+path d in figure M 94
+par t of nature D 197
+par t of another D 119

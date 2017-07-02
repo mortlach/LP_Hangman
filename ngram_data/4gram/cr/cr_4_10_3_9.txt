@@ -1,0 +1,2 @@
+crop cultivation and livestock D 838
+crop destruction and defoliation D 110

@@ -1,0 +1,9 @@
+etiology of physical disease D 1256
+etiology of cervical cancer D 1217
+etiology of prostate cancer D 748
+etiology of coronary artery D 460
+etiology of specific phobias D 206
+etiology of coronary disease D 187
+etiology of separate neural D 179
+etiology of pressure ulcers D 168
+etiology of epithelial ovarian D 126

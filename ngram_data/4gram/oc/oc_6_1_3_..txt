@@ -1,0 +1,4 @@
+occupy a seat . M 990
+occupy a day . M 160
+occupy a year . M 124
+occupy a box . M 102

@@ -1,0 +1,2 @@
+image registration method based D 135
+image segmentation method based D 112

@@ -1,0 +1,3 @@
+ohmic contacts at each D 168
+ohmic contacts to both D 154
+ohmic contacts at both D 90

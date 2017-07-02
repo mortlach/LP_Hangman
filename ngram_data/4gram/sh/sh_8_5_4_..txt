@@ -1,0 +1,6 @@
+shortest route home . M 346
+shortens human life . M 122
+shortest waiting line . M 112
+shortest total length . M 104
+shortest cycle time . M 102
+shortest given time . M 96

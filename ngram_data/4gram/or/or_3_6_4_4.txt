@@ -1,0 +1,5 @@
+ore bodies have been D 3094
+ore shoots have been D 215
+ore should have been D 192
+ore fields have been D 65
+ore bodies range from D 60

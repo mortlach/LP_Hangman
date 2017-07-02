@@ -1,0 +1,3 @@
+pry too curiously into D 552
+pry too narrowly into D 170
+pry too minutely into D 106

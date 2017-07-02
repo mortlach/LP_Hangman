@@ -1,0 +1,10 @@
+pit class against class M 384
+pit group against group M 264
+pit force against force M 129
+pit power against power M 102
+pit white against black M 98
+pit black against white M 93
+pit state against state M 53
+pit women against women M 49
+pit nation against nation D 167
+pit region against region D 44

@@ -1,0 +1,4 @@
+nth decimal place of M 197
+nth largest value in M 85
+nth excited state of D 133
+nth quantum state of D 122

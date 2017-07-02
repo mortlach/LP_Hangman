@@ -1,0 +1,4 @@
+isolate particular aspects of D 293
+isolate sufficient amounts of D 140
+isolating mechanisms between the D 130
+isolating particular aspects of D 114

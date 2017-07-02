@@ -1,0 +1,6 @@
+obey orders issued by M 596
+obey orders instead of M 353
+obey lawful orders of M 266
+obey direct orders of M 114
+obey police orders to D 145
+obey without stopping to D 110

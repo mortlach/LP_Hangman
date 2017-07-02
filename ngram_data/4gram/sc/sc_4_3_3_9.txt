@@ -1,0 +1,5 @@
+scar that ran diagonally D 392
+scan can not distinguish D 120
+scan was not performed D 107
+scan was not available D 100
+scan was then performed D 89

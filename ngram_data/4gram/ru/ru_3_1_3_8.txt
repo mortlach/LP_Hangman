@@ -1,0 +1,12 @@
+run a long distance M 3367
+run a big business M 654
+run a new business M 258
+run a few programs M 158
+run a few commands M 138
+run a real business M 132
+run a set distance M 114
+run a law practice M 108
+run a big operation M 108
+run a lean operation D 94
+run a big campaign D 86
+run a sting operation D 80

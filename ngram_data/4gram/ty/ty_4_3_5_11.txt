@@ -1,0 +1,6 @@
+type are under construction M 284
+type are often encountered M 134
+type are under development M 118
+type was first established M 86
+type and token frequencies D 411
+type and social development D 100

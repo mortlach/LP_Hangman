@@ -1,0 +1,5 @@
+nursing care delivery systems D 2088
+nursing home patients receive D 181
+nursing home patients receiving D 122
+nurse male harmless babbles D 86
+nursing care patients receive D 60

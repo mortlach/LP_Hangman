@@ -1,0 +1,14 @@
+ate very little except M 84
+ate their simple supper D 252
+ate from golden plates D 252
+ate very little dinner D 208
+ate from silver plates D 202
+ate from wooden plates D 200
+ate very little supper D 186
+ate from golden dishes D 164
+ate from wooden dishes D 156
+ate from silver dishes D 124
+ate their frugal supper D 120
+ate from pewter plates D 86
+ate their dinner without D 82
+ate their supper without D 80

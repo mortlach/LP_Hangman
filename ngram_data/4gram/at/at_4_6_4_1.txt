@@ -1,0 +1,5 @@
+atom changes from a D 255
+atom should have a D 240
+atom passes from a D 198
+atom splits into a D 142
+atom enters into a D 102

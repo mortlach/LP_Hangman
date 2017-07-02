@@ -1,0 +1,8 @@
+owned holding company . M 372
+owned power company . M 186
+owned power systems . M 144
+owner might possess . M 84
+owned water systems . M 63
+owned water utility . M 61
+owned water company . M 49
+owned fixed capital . M 47

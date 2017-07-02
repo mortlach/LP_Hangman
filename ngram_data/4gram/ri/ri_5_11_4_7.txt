@@ -1,0 +1,4 @@
+right ventricular heart failure D 922
+right ventricular pump function D 126
+right ventricular pacing catheter D 102
+rigid restrictions were imposed D 100

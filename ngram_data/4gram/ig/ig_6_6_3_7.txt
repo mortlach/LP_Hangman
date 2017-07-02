@@ -1,0 +1,3 @@
+ignore income tax effects D 1084
+ignoring income tax effects D 198
+ignoring fairings and fillets D 122

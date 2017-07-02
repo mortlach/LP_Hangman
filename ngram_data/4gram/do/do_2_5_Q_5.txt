@@ -1,0 +1,4 @@
+do anything " which M 312
+do anything " about M 304
+do input " enter M 141
+do anything " right M 42

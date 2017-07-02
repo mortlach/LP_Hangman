@@ -1,0 +1,4 @@
+cycle through a set M 312
+cycling through a set M 107
+cycle reached a peak D 92
+cycle reaches a peak D 45

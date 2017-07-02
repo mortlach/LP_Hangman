@@ -1,0 +1,2 @@
+cylinders do not intersect D 104
+cytoplasm in all directions D 86

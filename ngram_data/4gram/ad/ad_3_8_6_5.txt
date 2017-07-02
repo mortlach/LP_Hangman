@@ -1,0 +1,2 @@
+add entrance effect dialog M 440
+add hardware wizard helps D 124

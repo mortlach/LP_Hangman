@@ -1,0 +1,8 @@
+via internal and external M 348
+via positive and negative M 262
+via external and internal M 112
+via medicare and medicaid D 220
+via hardware and software D 144
+via standard web browsers D 116
+via metaphor and metonymy D 102
+via afferent and efferent D 60

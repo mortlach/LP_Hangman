@@ -1,0 +1,6 @@
+phone calls went unanswered M 332
+phone calls from interested M 133
+phone calls from applicants M 90
+phone calls from frustrated M 85
+phone calls from distraught D 98
+phone calls from newspapers D 82

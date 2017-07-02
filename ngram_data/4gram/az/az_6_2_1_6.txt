@@ -1,0 +1,2 @@
+azimuth of a target D 180
+azimuth of a planet D 130

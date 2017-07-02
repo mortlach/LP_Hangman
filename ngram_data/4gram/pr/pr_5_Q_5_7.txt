@@ -1,0 +1,2 @@
+price " shall include M 94
+press " while excluding M 92

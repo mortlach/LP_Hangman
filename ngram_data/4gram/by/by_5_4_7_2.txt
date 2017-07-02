@@ -1,0 +1,3 @@
+bytes wide depending on D 266
+bytes when referring to D 194
+bytes will contain the D 108

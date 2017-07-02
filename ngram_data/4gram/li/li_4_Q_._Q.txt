@@ -1,0 +1,7 @@
+life " . " M 1078
+like " . " M 142
+live " . " M 118
+line " . " M 89
+life " ? " M 84
+like " ? " M 57
+living " . " M 46

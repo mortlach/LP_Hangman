@@ -1,0 +1,2 @@
+run marginal supply costs M 47
+run industry supply curve D 10742

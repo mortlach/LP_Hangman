@@ -1,0 +1,14 @@
+ate the simplest food M 280
+ate up valuable time M 118
+ate it straight from M 116
+ate the simplest fare M 96
+ate the delicious food D 454
+ate the passover lamb D 290
+ate the poisoned food D 266
+ate the plainest food D 226
+ate the coarsest food D 204
+ate in separate dining D 154
+ate in communal dining D 116
+ate in separate mess D 114
+ate the victuals sent D 88
+ate the chickens when D 88

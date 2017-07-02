@@ -1,0 +1,15 @@
+skip a line and M 1357
+skip a step and M 312
+skip a good deal M 262
+skip a single day M 216
+skip a great deal M 165
+skip a single one M 126
+skip a week and M 124
+skip a word and M 98
+skip a month and M 88
+skin i ever saw D 427
+skin i take this D 130
+skin a good deal D 128
+skin a soft and D 104
+skin a dark red D 102
+skin a deer and D 84

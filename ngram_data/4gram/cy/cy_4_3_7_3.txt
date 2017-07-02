@@ -1,0 +1,8 @@
+cyst may rupture and D 307
+cyan and magenta are D 232
+cyst was removed and D 194
+cyst may present with D 123
+cyst was excised and D 112
+cyst may contain air D 109
+cyst was incised and D 93
+cyan and magenta dye D 57

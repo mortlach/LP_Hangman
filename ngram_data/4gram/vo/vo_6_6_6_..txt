@@ -1,0 +1,8 @@
+voices became louder . M 704
+volume toward normal . M 544
+voices became clearer . M 258
+voiced speech sounds . M 254
+voices became silent . M 230
+voices become louder . M 152
+voices remain unheard . M 124
+voyage without return . M 80

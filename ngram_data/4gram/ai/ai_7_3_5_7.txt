@@ -1,0 +1,7 @@
+airways and blood vessels D 1526
+airport with daily flights D 220
+airport and train stations D 218
+airline and train tickets D 148
+airways has daily flights D 126
+airline and motor carrier D 120
+airship not under control D 100

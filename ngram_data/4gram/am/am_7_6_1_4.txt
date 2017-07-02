@@ -1,0 +1,5 @@
+ambition played a part M 204
+ambition played a role M 80
+amperes through a wire D 157
+amperes through a line D 133
+amperes through a coil D 112

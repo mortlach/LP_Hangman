@@ -1,0 +1,5 @@
+utter his thoughts aloud M 312
+utter its genuine voice M 226
+utter one hundred words M 184
+utter any profane words D 182
+utter this dreadful creed D 138

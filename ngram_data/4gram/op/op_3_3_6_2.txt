@@ -1,0 +1,5 @@
+opt any person to M 254
+opt any person or M 178
+opt for something in M 109
+opt out should be M 85
+opt for training in M 45

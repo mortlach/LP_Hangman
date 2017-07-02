@@ -1,0 +1,9 @@
+rot into a yellow M 94
+row from a column D 333
+row into a column D 166
+row from a parent D 144
+rod like a willow D 96
+rod when a second D 84
+rod like a pencil D 84
+row along a wooden D 82
+row along a street D 82

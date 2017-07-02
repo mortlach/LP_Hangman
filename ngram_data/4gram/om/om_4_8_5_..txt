@@ -1,0 +1,3 @@
+omit needless words . M 1012
+omit needless words ! M 646
+omit quotation marks . M 376

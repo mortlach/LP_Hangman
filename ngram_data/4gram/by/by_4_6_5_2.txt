@@ -1,0 +1,2 @@
+byte offset within the D 480
+byte number within the D 86

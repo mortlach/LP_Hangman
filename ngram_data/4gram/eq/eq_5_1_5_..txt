@@ -1,0 +1,2 @@
+equip a plant . M 128
+equal a whole . M 122

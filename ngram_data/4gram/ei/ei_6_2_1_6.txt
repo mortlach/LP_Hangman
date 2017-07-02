@@ -1,0 +1,7 @@
+eighty in a minute M 179
+eighths of a dollar D 1358
+eighths of a circle D 788
+eighths of a second D 472
+eighths of a square D 328
+eighths of a bushel D 180
+eighths of a number D 100

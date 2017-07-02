@@ -1,0 +1,1 @@
+edit color scheme dialog M 1030

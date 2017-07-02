@@ -1,0 +1,3 @@
+ha of native forest D 118
+ha of virgin forest D 104
+ha of closed forest D 104

@@ -1,0 +1,5 @@
+zero insertion force socket D 288
+zero magnetic field strength D 139
+zero describe singlet states D 118
+zero electric field inside D 58
+zero electric field strength D 54

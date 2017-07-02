@@ -1,0 +1,9 @@
+cutting fluids cutting fluids M 99
+cubic meters cubic meters D 1386
+cubic inches cubic inches D 1130
+cubic inches cubic meters D 1096
+cubic meters cubic inches D 256
+cutting canals where deemed D 248
+cutting across ethnic groups D 155
+cutting boards after handling D 114
+cutting planes passing through D 67

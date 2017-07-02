@@ -1,0 +1,3 @@
+emit alpha particles with D 224
+emit alpha particles and D 180
+emit alpha particles that D 110

@@ -1,0 +1,2 @@
+omit details which are M 114
+omit function words and M 108

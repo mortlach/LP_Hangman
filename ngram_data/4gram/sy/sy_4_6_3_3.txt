@@ -1,0 +1,4 @@
+sync pulses are not D 179
+sync pulses are fed D 154
+sync pulses that are D 60
+sync pulses are then D 49

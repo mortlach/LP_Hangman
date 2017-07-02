@@ -1,0 +1,3 @@
+db noise figure and D 360
+db noise figure with D 176
+db noise figure for D 61

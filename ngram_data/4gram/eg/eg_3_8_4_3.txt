@@ -1,0 +1,2 @@
+egg contains only one D 107
+egg contains more than D 84

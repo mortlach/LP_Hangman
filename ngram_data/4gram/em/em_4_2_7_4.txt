@@ -1,0 +1,4 @@
+emit or capture such M 140
+emit an audible tone D 150
+emit the peculiar odor D 114
+emit an audible note D 82

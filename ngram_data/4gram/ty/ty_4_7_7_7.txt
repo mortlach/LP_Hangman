@@ -1,0 +1,6 @@
+type private declare function M 192
+type surface barrier devices M 112
+type calcium channel blocker D 951
+type calcium channel current D 133
+type headache cluster headache D 96
+type between distant islands D 86

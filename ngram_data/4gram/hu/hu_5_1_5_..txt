@@ -1,0 +1,8 @@
+human t cells . M 6184
+hurting a child . M 464
+hurting a woman . M 242
+hunting a tiger . M 194
+hurts a child . M 140
+human t cells ? M 114
+human a human . M 103
+humor a child . M 96

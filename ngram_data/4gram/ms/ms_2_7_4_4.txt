@@ -1,0 +1,3 @@
+ms average seek time D 134
+ms systems have been D 68
+ms studies have been D 42

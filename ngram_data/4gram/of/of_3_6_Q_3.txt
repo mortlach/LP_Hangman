@@ -1,0 +1,7 @@
+off limits " for M 1319
+off limits " and M 386
+off points " for M 212
+off center " and M 159
+off course " and M 156
+off limits " area M 88
+off ground " for M 44

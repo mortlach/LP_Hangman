@@ -1,0 +1,3 @@
+zero degrees phase shift M 272
+zero crossings while rough M 120
+zero salvage value after D 142

@@ -1,0 +1,3 @@
+run a temperature of D 327
+run a boardinghouse in D 156
+run a prostitution ring D 96

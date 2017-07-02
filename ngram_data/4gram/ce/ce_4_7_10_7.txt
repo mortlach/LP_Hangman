@@ -1,0 +1,4 @@
+cell surface interaction induces M 102
+cell becomes positively charged D 228
+cell becomes negatively charged D 100
+cell mediated autoimmune diseases D 88

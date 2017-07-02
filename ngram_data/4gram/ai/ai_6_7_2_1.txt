@@ -1,0 +1,4 @@
+airway closure as a D 252
+airway results in a D 110
+aisles covered by a D 104
+aisles divided by a D 96

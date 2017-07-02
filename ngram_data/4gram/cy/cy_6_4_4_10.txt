@@ -1,0 +1,10 @@
+cycles have been identified D 738
+cycles have been recognized D 438
+cycles have been considered D 252
+cycles have been determined D 156
+cycles have been documented D 150
+cycles have been discovered D 120
+cycles have been recognised D 106
+cycles have been attributed D 96
+cycles have been eliminated D 90
+cycles have been calculated D 88

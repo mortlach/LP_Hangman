@@ -1,0 +1,5 @@
+the a rotational constant M 160
+the a particles expelled D 404
+the a molecular orbitals D 122
+the a particles produced D 110
+the t statistic computed D 94

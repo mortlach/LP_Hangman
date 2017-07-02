@@ -1,0 +1,2 @@
+exit pupil diameter of D 218
+exit pupil diameter is D 203

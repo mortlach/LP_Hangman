@@ -1,0 +1,6 @@
+fit local needs . M 1494
+fit quite right . M 637
+fit human needs . M 391
+fit either model . M 112
+fit round holes . M 108
+fit takes place . M 90

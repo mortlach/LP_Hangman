@@ -1,0 +1,5 @@
+aqueous and oil phases D 685
+aqueous and gas phases D 398
+aqueous and fat phases D 148
+aqueous does not escape D 110
+aqueous and non aqueous D 105

@@ -1,0 +1,3 @@
+eigenvalues and their associated D 381
+eigenvalues are pure imaginary D 154
+eigenvalues are well separated D 118

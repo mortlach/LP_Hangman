@@ -1,0 +1,8 @@
+assertion i do not M 705
+assertion i am not M 265
+assembly i do not M 256
+assertion i am going M 174
+assembly i am now M 174
+assertion i am for M 90
+assertion i am now M 88
+associate a cs with D 122

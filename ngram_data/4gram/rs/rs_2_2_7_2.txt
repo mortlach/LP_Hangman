@@ -1,0 +1,3 @@
+rs is defined as D 320
+rs is assumed to D 84
+rs is related to D 41

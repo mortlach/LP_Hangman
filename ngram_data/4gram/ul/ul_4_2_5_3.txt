@@ -1,0 +1,3 @@
+ulna is longer than D 232
+ulna is small and D 108
+ulna is short and D 108

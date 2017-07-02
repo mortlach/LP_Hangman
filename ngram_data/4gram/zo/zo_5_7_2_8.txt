@@ -1,0 +1,3 @@
+zones according to altitude D 213
+zones freedom of movement D 114
+zones according to elevation D 86

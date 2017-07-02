@@ -1,0 +1,4 @@
+icon representing the file D 510
+icon representing the type D 135
+icon representing the item D 130
+icon representing the disk D 87

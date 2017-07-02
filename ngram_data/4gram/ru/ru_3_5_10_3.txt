@@ -1,0 +1,4 @@
+run price elasticity for D 327
+run small businesses and D 292
+run price elasticity and D 50
+run price stickiness and D 44

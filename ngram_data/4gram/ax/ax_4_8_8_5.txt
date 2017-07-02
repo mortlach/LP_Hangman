@@ -1,0 +1,2 @@
+axiom concerning straight lines M 140
+axiom concerning parallel lines D 162

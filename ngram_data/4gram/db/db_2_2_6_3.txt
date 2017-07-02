@@ -1,0 +1,4 @@
+db is greater than D 296
+db or greater for D 132
+db is needed for D 98
+db or greater and D 90

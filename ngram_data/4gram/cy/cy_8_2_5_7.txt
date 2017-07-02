@@ -1,0 +1,9 @@
+cylinder of small diameter D 806
+cylinder of large diameter D 702
+cylinder of equal diameter D 420
+cylinder is fully charged D 116
+cylinder of known diameter D 114
+cylinder of inner diameter D 108
+cyclones of small diameter D 96
+cylinder of about sixteen D 82
+cylinder of given diameter D 56

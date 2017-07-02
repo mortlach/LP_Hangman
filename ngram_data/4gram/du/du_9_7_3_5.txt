@@ -1,0 +1,3 @@
+duplicate primary key value D 135
+duplicating records and files D 112
+duplicate samples are taken D 110

@@ -1,0 +1,3 @@
+ionization does not occur D 558
+ionization can not occur D 164
+ionization does not change D 116

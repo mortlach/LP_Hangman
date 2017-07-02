@@ -1,0 +1,3 @@
+types defined within a M 92
+types present within a M 88
+types occurring within a D 112

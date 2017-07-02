@@ -1,0 +1,2 @@
+dynamo does not create D 124
+dynamo with two field D 80

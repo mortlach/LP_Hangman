@@ -1,0 +1,3 @@
+voltages of various frequencies D 176
+voltages to ensure confinement D 111
+voltages at various frequencies D 92

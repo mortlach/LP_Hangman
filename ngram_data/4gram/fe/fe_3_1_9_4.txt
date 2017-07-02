@@ -1,0 +1,12 @@
+fear a departure from M 96
+fear a separation from M 92
+fear a permanent loss M 80
+fed a commercial diet D 740
+fed a deficient diet D 514
+fed a vegetarian diet D 310
+fed a different diet D 216
+fed a practical diet D 198
+fear a retaliation upon D 181
+fed a nutritious diet D 138
+fed a starvation diet D 136
+fed a commercial milk D 92

@@ -1,0 +1,6 @@
+scale values were determined M 162
+scale values were calculated M 51
+scale system into subsystems D 268
+scale scores were calculated D 264
+scale scores were correlated D 217
+scale scores were positively D 52

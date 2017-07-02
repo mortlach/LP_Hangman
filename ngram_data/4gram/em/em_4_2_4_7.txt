@@ -1,0 +1,3 @@
+emit as much radiation D 240
+emit the same radiation D 182
+emit the same behavior D 94

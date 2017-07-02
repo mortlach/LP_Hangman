@@ -1,0 +1,8 @@
+ran a mile . M 796
+ran a risk . M 424
+ran a shop . M 254
+ran a test . M 248
+ran a road . M 216
+ran a bank . M 150
+ran a week . M 130
+ran a risk ? M 98

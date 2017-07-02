@@ -1,0 +1,4 @@
+outer circular layer . M 584
+outer boundary layer . M 202
+outer marginal layer . M 104
+outer platform above . M 82

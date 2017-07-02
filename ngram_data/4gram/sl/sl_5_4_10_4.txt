@@ -1,0 +1,2 @@
+sleep when abstracted from M 728
+slave code recognized only D 100

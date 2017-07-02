@@ -1,0 +1,4 @@
+ghost should come upon D 425
+ghost passed once more D 220
+ghost should have been D 130
+ghost poured forth upon D 88

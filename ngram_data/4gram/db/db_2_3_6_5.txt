@@ -1,0 +1,5 @@
+db per octave slope D 598
+db per octave above D 292
+db per octave until D 101
+db per octave below D 67
+db per decade above D 50

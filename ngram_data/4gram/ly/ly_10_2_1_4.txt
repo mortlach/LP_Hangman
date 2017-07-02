@@ -1,0 +1,5 @@
+lymphocyte is a cell D 114
+lymphatics of a limb D 104
+lymphatics of a part D 102
+lymphocyte is a type D 92
+lymphocyte or t cell D 87

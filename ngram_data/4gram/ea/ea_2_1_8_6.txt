@@ -1,0 +1,7 @@
+eat a moderate amount M 564
+eat a specific amount M 86
+eat a surprising amount M 80
+eat a sandwich before D 154
+eat a delicious dinner D 152
+eat a solitary dinner D 128
+eat a sandwich without D 104

@@ -1,0 +1,5 @@
+ore yielded from one D 174
+ore shipped from this D 145
+ore differs from that D 145
+ore depends upon its D 133
+ore averaging less than D 64

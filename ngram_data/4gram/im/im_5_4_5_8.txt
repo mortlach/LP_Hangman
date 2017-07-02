@@ -1,0 +1,5 @@
+image size image distance M 100
+image will appear slightly M 86
+image will appear inverted D 250
+image into nerve impulses D 112
+image more truly pastoral D 96

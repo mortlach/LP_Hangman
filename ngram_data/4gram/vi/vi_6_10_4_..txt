@@ -1,0 +1,4 @@
+visual observation only . M 128
+visual information only . M 90
+violent oppressive acts . M 82
+visual vocabulary test . M 44

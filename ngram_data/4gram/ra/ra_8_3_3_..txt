@@ -1,0 +1,5 @@
+rainfall each year . M 1502
+rainfall all year . M 209
+rainfall was low . M 175
+rainfall this year . M 152
+rainfall that year . M 131

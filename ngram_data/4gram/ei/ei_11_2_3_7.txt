@@ -1,0 +1,3 @@
+eigenvalues of this equation D 296
+eigenvalues of this problem D 150
+eigenvalues on its diagonal D 95

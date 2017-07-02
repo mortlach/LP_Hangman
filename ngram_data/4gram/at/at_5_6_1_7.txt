@@ -1,0 +1,4 @@
+atoms around a central D 522
+atoms around a vacancy D 170
+atoms inside a crystal D 54
+atoms through a crystal D 47

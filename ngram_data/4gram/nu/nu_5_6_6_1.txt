@@ -1,0 +1,7 @@
+nurse should obtain a M 992
+nurse should select a M 180
+nurse should assume a M 156
+nurse before becoming a M 130
+nurse should expect a M 122
+nurse should assess a M 94
+nursing should become a M 49

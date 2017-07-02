@@ -1,0 +1,2 @@
+assume " that every M 102
+assert " that every M 84

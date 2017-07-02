@@ -1,0 +1,3 @@
+omit large numbers of M 110
+omit large portions of D 166
+omit whole sections of D 92

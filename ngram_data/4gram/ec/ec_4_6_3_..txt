@@ -1,0 +1,7 @@
+echo around him . M 143
+echo around them . M 124
+echo behind him . M 121
+echo behind them . M 112
+echo around her . M 101
+echo inside her . M 43
+echo inside him . M 40

@@ -1,0 +1,6 @@
+output output output input M 150
+output module settings dialog D 812
+ounces ground turkey breast D 186
+ounces sliced turkey breast D 158
+ounces cooked turkey breast D 142
+ounces smoked turkey breast D 90

@@ -1,0 +1,6 @@
+go a great distance M 3354
+go a good distance M 806
+go a fair distance M 344
+go a step backward M 176
+go a like distance M 104
+go a fine isolated M 80

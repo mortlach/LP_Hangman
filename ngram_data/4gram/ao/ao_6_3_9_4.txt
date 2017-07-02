@@ -1,0 +1,3 @@
+aortic and pulmonary areas D 549
+aortic and pulmonary flow D 121
+aortic and pulmonary ends D 45

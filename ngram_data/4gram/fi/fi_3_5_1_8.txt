@@ -1,0 +1,7 @@
+fit within a specific M 434
+fit within a category M 227
+fit within a coherent M 104
+fit within a tradition M 93
+fit within a standard D 244
+fit within a rectangle D 144
+fit under a standard D 108

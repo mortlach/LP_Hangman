@@ -1,0 +1,5 @@
+after birth " . M 256
+after life " . M 198
+after truth " . M 162
+after dark " . M 136
+after work " . M 90

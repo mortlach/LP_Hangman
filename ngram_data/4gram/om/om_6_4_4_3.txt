@@ -1,0 +1,2 @@
+omitting these last two D 90
+omitting only those that D 42

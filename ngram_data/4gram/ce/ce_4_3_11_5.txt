@@ -1,0 +1,3 @@
+cell with transparent walls M 104
+cell and differential count D 408
+cent for intermediate goods D 214

@@ -1,0 +1,7 @@
+plea must be recorded M 228
+plea will be accepted M 188
+plea will be admitted M 166
+plea must be rejected M 158
+plea will be rejected M 128
+plea must be admitted M 80
+plea prior to sentencing D 250

@@ -1,0 +1,2 @@
+joints between adjacent sheets D 120
+joints between adjacent panels D 118

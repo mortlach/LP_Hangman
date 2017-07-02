@@ -1,0 +1,4 @@
+wear a red waistcoat D 170
+wear a few ornaments D 160
+wear a sad expression D 110
+wear a new appearance D 90

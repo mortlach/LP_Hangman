@@ -1,0 +1,5 @@
+utter one single sentence M 100
+utter this idle nonsense M 98
+utter one single syllable D 134
+utopia has been achieved D 106
+utopia had been achieved D 98

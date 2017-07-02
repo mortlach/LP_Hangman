@@ -1,0 +1,6 @@
+lung capacity and residual D 614
+lung inflation and deflation D 375
+lung rejection and infection D 118
+lung collapse and pneumonia D 102
+lung inflation and vascular D 92
+lung capacity and increased D 82

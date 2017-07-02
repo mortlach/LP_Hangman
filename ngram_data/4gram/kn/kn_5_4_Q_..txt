@@ -1,0 +1,6 @@
+knows best " . M 518
+knows nothing " . M 180
+knows what " . M 112
+knows best " ? M 98
+knows nothing " ? M 96
+known fact " . M 52

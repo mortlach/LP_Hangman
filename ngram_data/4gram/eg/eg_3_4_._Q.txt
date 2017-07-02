@@ -1,0 +1,4 @@
+ego trip . " M 1318
+ego ideal . " M 1162
+ego mass . " M 328
+ego trip ? " M 138

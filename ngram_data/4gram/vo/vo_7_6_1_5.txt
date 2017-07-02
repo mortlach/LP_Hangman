@@ -1,0 +1,17 @@
+volumes occupy a place M 100
+volumes without a feeling M 92
+voltage reaches a value D 830
+voltage causes a change D 436
+voltage across a given D 395
+voltage causes a large D 374
+voltage across a known D 337
+voltage across a small D 308
+voltage reaches a level D 214
+voltage across a fixed D 211
+voltage causes a small D 194
+voltage across a short D 194
+voltage causes a spark D 118
+voltage across a shunt D 110
+voltage across a linear D 106
+voltage reaches a point D 82
+voltage across a motor D 43

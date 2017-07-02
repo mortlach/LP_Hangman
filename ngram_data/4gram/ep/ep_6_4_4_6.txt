@@ -1,0 +1,3 @@
+epochs have their course D 100
+epochs have been marked D 98
+epochs were gone through D 84

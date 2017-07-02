@@ -1,0 +1,6 @@
+via primary and secondary D 318
+via radiation and convection D 188
+via sensors and actuators D 132
+via friends and relatives D 118
+via radiation and conduction D 100
+via elastic and inelastic D 86

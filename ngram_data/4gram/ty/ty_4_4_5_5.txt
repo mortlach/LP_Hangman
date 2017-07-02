@@ -1,0 +1,14 @@
+type face shown above M 1306
+type most often found M 496
+type your search terms M 465
+type your final draft M 364
+type have taken place M 342
+type more often found M 128
+type your first draft M 126
+type size which shall M 106
+type just about anything M 105
+type were first found M 94
+type from which others M 84
+type length allow nulls D 278
+typing your final draft D 114
+typing from rough draft D 97

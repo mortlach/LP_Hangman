@@ -1,0 +1,7 @@
+weeks after treatment began M 306
+weeks after treatment ended M 220
+weeks after treatment stops M 96
+weeks after symptoms appear D 174
+weeks after clinical onset D 150
+weeks after clinical signs D 134
+weeks after symptoms begin D 96

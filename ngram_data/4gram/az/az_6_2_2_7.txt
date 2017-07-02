@@ -1,0 +1,13 @@
+azimuth of the maximum D 307
+azimuth of the heavenly D 277
+azimuth of the preceding D 200
+azimuth of the surface D 189
+azimuth on the horizon D 184
+azimuth of the geodesic D 178
+azimuth of the forward D 168
+azimuth of the crystal D 135
+azimuth in the horizon D 121
+azimuth of the balloon D 118
+azimuth of the meridian D 117
+azimuth of the antenna D 117
+azimuth of the transit D 90

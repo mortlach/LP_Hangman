@@ -1,0 +1,8 @@
+ask about a specific M 1098
+ask about a possible M 332
+ask about a potential M 229
+ask about a proposed M 188
+ask about a sentence M 150
+ask about a business M 84
+ask about a situation M 80
+ask about a discount D 96

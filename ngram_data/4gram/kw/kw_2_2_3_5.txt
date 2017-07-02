@@ -1,0 +1,2 @@
+kw of peak power D 282
+kw of beam power D 184

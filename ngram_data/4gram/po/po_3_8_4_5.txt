@@ -1,0 +1,4 @@
+poem containing these lines M 110
+poem includes these lines M 94
+poem contains these lines M 92
+pot containing cold water D 90

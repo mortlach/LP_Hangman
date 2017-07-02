@@ -1,0 +1,3 @@
+businesses like grocery stores D 102
+businesses like general motors D 88
+businesses having similar income D 88

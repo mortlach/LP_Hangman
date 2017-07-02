@@ -1,0 +1,5 @@
+rule covering appointments to M 130
+runs pretty consistently in M 118
+rule without consideration of M 43
+runs almost horizontally to D 173
+rule limiting participation in D 93

@@ -1,0 +1,7 @@
+for all t . M 1254
+for all i . M 1030
+for all a . M 282
+for each i . M 260
+for all i ? M 106
+for each t . M 96
+for all t ? M 96

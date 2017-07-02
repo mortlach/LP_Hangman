@@ -1,0 +1,10 @@
+current from a to M 2175
+current gain a is M 328
+current time t is M 260
+current from d to M 199
+current gain a of M 154
+current from a is M 113
+current work i am M 80
+current from s to M 49
+current flat a is D 108
+current from a dc D 98

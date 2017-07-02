@@ -1,0 +1,17 @@
+edges of adjacent blocks M 100
+edges of mountain streams M 88
+editing an embedded object D 736
+edges of tectonic plates D 692
+edges at ionization limits D 256
+editing or formatting changes D 224
+edges of adjacent sheets D 210
+edges of adjacent panels D 172
+edema of bronchial mucosa D 135
+edges of adjacent plates D 134
+edges of mountain fronts D 126
+editing the embedded object D 110
+edges of adjacent strips D 108
+edges of converging plates D 94
+editing the literary section D 86
+edges of adjacent boards D 86
+edges of upturned strata D 82

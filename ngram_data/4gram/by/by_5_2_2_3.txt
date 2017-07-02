@@ -1,0 +1,16 @@
+bytes to be read D 1906
+bytes at the end D 974
+bytes of the key D 450
+bytes of the two D 253
+bytes to the end D 249
+bytes of the mac D 248
+bytes at the top D 162
+bytes in the key D 154
+bytes of the end D 140
+bytes of the new D 134
+bytes of the long D 122
+bytes of the area D 118
+bytes on the heap D 114
+bytes of the ram D 114
+bytes of the tcp D 104
+bytes in the two D 65

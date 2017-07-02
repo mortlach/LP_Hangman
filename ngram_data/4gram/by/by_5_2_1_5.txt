@@ -1,0 +1,13 @@
+bytes in a block D 454
+bytes of a frame D 382
+bytes in a frame D 190
+bylaw of a clearing D 160
+bytes of a class D 158
+bytes of a given D 148
+bytes in a given D 124
+bytes on a track D 122
+bytes of a block D 110
+bytes in a stream D 100
+bytes to a stream D 94
+bytes in a table D 94
+bylaw of a local D 54

@@ -1,0 +1,3 @@
+bytes free per page D 380
+bytes back and forth D 140
+bytes here and there D 108

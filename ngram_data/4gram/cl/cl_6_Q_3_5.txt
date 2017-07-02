@@ -1,0 +1,3 @@
+clause " was added M 266
+clause " nor shall M 224
+closer " than others M 100

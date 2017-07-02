@@ -1,0 +1,2 @@
+cultivators holding less than D 114
+cultivators owned less than D 102

@@ -1,0 +1,15 @@
+run downward and backward M 355
+run forwards and outwards M 240
+run positive and negative M 151
+run outwards and forwards M 128
+run backward and downward M 99
+run business and industry M 97
+run thousands and thousands M 82
+run straight and parallel D 298
+run parallel with eternity D 176
+run benefits and consumer D 133
+run northward and southward D 119
+run parallel with straight D 108
+run parallel and adjacent D 104
+run industry and commerce D 65
+run shelters for battered D 41

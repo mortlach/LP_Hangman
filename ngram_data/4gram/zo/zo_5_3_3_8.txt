@@ -1,0 +1,7 @@
+zones and are therefore D 160
+zones men are hardened D 114
+zones are not included D 112
+zones are not distinct D 100
+zones are not strictly D 90
+zones are not required D 90
+zones are not observed D 82

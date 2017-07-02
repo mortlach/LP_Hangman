@@ -1,0 +1,6 @@
+age group number percent M 301
+age group should include M 160
+age could neither perform M 126
+age group should receive M 120
+age group attend primary M 120
+age group entering college D 82

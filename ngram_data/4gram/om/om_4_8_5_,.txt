@@ -1,0 +1,2 @@
+omit needless words , M 205
+omit quotation marks , M 92

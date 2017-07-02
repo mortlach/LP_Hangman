@@ -1,0 +1,2 @@
+image force barrier lowering M 239
+image would present itself D 84

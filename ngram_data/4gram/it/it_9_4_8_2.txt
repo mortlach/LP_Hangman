@@ -1,0 +1,4 @@
+iterations were required to M 1076
+itinerant monk respecting an M 112
+iterations were required in M 110
+iterations will converge to D 150

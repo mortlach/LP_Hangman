@@ -1,0 +1,3 @@
+oxide contains half its D 128
+oxide thickness such that D 125
+oxide containing less than D 43

@@ -1,0 +1,14 @@
+real situation is . M 914
+real murderer is . M 222
+real condition is . M 142
+read straight on . M 141
+real intention is . M 136
+real business is . M 116
+read concerning it . M 110
+real children do . M 106
+real objection is . M 104
+real external thing . M 100
+real property is . M 92
+real induction is . M 88
+real situation is ? M 86
+real positive thing . M 82

@@ -1,0 +1,7 @@
+draw special attention . M 910
+draw public attention . M 802
+draw little attention . M 304
+draw pretty pictures . M 168
+draw simple pictures . M 114
+drop should overflow . M 98
+draw further attention . M 80

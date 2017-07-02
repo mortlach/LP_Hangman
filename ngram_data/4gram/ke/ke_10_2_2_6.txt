@@ -1,0 +1,4 @@
+keystrokes to the active D 256
+keystrokes on the screen D 126
+keystrokes in the buffer D 106
+keystrokes to the server D 100

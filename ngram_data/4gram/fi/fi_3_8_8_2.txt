@@ -1,0 +1,2 @@
+fix separate advances on M 144
+fit physical condition to D 268

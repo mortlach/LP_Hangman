@@ -1,0 +1,3 @@
+equations formally identical to M 335
+equations requires knowledge of M 206
+equations uniquely determine the M 136

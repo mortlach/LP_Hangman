@@ -1,0 +1,13 @@
+airlines will not accept D 316
+aircraft ready for flight D 222
+aircraft used for training D 216
+aircraft made its maiden D 205
+aircraft used for flight D 164
+aircraft other than public D 148
+aircraft size and weight D 138
+aircraft from all causes D 132
+aircraft were not fitted D 116
+aircraft were being readied D 102
+airborne dust and debris D 102
+aircraft ready for combat D 92
+aircraft door was opened D 82

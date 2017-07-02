@@ -1,0 +1,6 @@
+try writing down everything M 182
+try running your program M 92
+try changing your position D 216
+try placing some weights D 126
+try every suit brought D 104
+try writing some rebuses D 94

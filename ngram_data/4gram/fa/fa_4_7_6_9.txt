@@ -1,0 +1,3 @@
+face totally without expression M 95
+face utterly without expression M 92
+fast digital signal processor D 66

@@ -1,0 +1,4 @@
+issue a new declaration M 171
+issue a new instruction M 107
+issue a new appropriate M 84
+issuing a new instrument D 108

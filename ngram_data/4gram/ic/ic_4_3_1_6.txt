@@ -1,0 +1,8 @@
+icon for a moment M 256
+icon and a symbol M 200
+icon for a second M 192
+icon has a little M 175
+icon for a shared M 143
+icon for a button M 124
+icon with a little M 84
+icon for a folder D 376

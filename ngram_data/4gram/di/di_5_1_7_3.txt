@@ -1,0 +1,5 @@
+dimly i realized that M 228
+digging a shallow pit D 410
+digging a channel for D 300
+digging a pitfall for D 250
+digging a passage out D 106

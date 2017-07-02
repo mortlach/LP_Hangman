@@ -1,0 +1,2 @@
+type silicon also becomes D 266
+type silicon bulk material D 114

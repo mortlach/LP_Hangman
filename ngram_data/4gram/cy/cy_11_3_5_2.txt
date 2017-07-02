@@ -1,0 +1,2 @@
+cylindrical rod which is D 150
+cylindrical bar which is D 100

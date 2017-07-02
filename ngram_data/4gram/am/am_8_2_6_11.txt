@@ -1,0 +1,12 @@
+amenable to policy intervention D 630
+amenable to simple mathematical D 312
+amenable to policy manipulation D 310
+amenable to direct manipulation D 208
+amenable to direct intervention D 194
+amenable to further development D 184
+amenable to formal verification D 160
+amenable to formal mathematical D 144
+amenable to formal statistical D 100
+amenable to further modification D 98
+amenable to pretty reproduction D 90
+amenable to further improvement D 84

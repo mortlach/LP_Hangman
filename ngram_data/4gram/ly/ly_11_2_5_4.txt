@@ -1,0 +1,8 @@
+lymphocytes in mouse bone D 204
+lymphocytes in guinea pigs D 181
+lymphocytes in wound healing D 175
+lymphocytes in human milk D 156
+lymphocytes in lymph node D 136
+lymphocytes of guinea pigs D 126
+lymphocytes in breast milk D 108
+lymphocytes in human cord D 102

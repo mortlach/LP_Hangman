@@ -1,0 +1,13 @@
+lung and breast cancers D 1250
+lung and nasal sinuses D 434
+lung and colon cancers D 358
+lung and blood diseases D 348
+lung and blood vessels D 222
+lung and throat diseases D 182
+lung and liver cancers D 174
+lung and liver diseases D 154
+lung and liver tissues D 150
+lung and chest diseases D 104
+lung and rapid shallow D 94
+lung and throat cancers D 90
+lung and throat trouble D 86

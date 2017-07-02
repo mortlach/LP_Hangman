@@ -1,0 +1,2 @@
+clear single binocular vision D 340
+clear their outermost point D 173

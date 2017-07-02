@@ -1,0 +1,4 @@
+atom forms four bonds D 317
+atom forms three bonds D 94
+atom never been split D 86
+atom bombs over japan D 53

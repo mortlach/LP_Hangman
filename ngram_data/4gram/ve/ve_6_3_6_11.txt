@@ -1,0 +1,10 @@
+verbal and visual descriptions M 276
+verbal and visual instructions M 156
+verbal and verbal performance M 90
+verbal and visual presentation D 346
+version for breech presentation D 308
+vector and tensor polarization D 209
+verbal and spatial performance D 162
+vector and matrix computations D 118
+vector and matrix manipulation D 116
+vector and matrix calculations D 108

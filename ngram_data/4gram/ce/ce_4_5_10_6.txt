@@ -1,0 +1,5 @@
+cell cycle progression through M 1025
+cell cycle checkpoint pathway D 688
+cell fusion procedures yielding D 280
+cell cycle checkpoint arrest D 106
+cell growth inhibitory effect D 102

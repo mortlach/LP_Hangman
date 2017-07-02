@@ -1,0 +1,2 @@
+rye appears to be D 192
+rye fields in the D 47

@@ -1,0 +1,2 @@
+axial tension and compression D 795
+axial strain and volumetric D 162

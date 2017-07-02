@@ -1,0 +1,4 @@
+cycle thermal efficiency and D 284
+cycle thermal efficiency for D 122
+cycle enzyme activities and D 90
+cycle energy dissipated per D 90

@@ -1,0 +1,3 @@
+earliest date possible under D 144
+earliest date possible after D 132
+earliest time possible after D 84

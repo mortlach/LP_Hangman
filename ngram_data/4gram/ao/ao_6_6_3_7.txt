@@ -1,0 +1,5 @@
+aortic arches are present D 311
+aortic bodies are located D 242
+aortic valves are usually D 138
+aortic clamps are removed D 104
+aortic valves are diseased D 57

@@ -1,0 +1,4 @@
+tap a is closed D 50
+tap a is opened D 46
+tap t is opened D 45
+tap d is closed D 40

@@ -1,0 +1,4 @@
+types i had known M 90
+types a few words M 82
+typed a few words D 536
+typed a few lines D 322

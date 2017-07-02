@@ -1,0 +1,5 @@
+fly from point a M 277
+fly three times a M 125
+fly away after a M 110
+fly four times a M 102
+fly home after a M 43

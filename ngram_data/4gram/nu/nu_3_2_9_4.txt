@@ -1,0 +1,6 @@
+nut is prevented from D 290
+nut is tightened down D 235
+nut is generally used D 172
+nut is sometimes used D 126
+nut is tightened onto D 112
+nut is converted into D 82

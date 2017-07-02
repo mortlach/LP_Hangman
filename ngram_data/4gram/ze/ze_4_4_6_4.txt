@@ -1,0 +1,2 @@
+zero wind stress curl M 239
+zero when summed over M 204

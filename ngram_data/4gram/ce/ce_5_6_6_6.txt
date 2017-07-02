@@ -1,0 +1,6 @@
+cells without damaging normal M 340
+cells assume various shapes M 86
+cells called muscle fibers D 712
+cells release carbon dioxide D 164
+cells become sickle shaped D 116
+cells absorb carbon dioxide D 94

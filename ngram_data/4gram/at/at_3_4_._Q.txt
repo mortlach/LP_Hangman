@@ -1,0 +1,14 @@
+ate well . " M 278
+ate food . " M 274
+ate nothing . " M 256
+ate there . " M 248
+ate here . " M 236
+ate last . " M 170
+ate some . " M 160
+ate mine . " M 150
+ate what ? " M 134
+ate fish . " M 120
+ate less . " M 104
+ate there ? " M 100
+ate more . " M 94
+ate cake . " M 94

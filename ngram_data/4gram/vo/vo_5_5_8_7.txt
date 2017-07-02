@@ -1,0 +1,4 @@
+voice about whatever touched M 180
+voice under complete control M 126
+vocal tract transfer function D 2308
+voice which strangely stirred D 100

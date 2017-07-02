@@ -1,0 +1,4 @@
+atom and hydrogen bomb D 453
+atom and chlorine atom D 67
+atom and hydrogen atom D 55
+atom and molecule were D 51

@@ -1,0 +1,2 @@
+ohmmeter leads across the D 238
+ohmmeter reading should be D 150

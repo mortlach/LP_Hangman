@@ -1,0 +1,3 @@
+type are usually constructed M 206
+type are usually accompanied M 80
+type and variable declarations D 502

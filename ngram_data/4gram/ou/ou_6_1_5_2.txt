@@ -1,0 +1,14 @@
+output a value of M 342
+output a table of M 240
+output a stream of M 186
+output a value to M 122
+output a block of M 112
+output a value in M 92
+outset a sense of D 242
+output a listing of D 152
+outset i spoke of D 134
+outset a group of D 134
+outfit a fleet of D 106
+outfit a party of D 92
+outrun a horse in D 88
+outset a state of D 84

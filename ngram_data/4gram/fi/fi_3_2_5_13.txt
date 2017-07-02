@@ -1,0 +1,7 @@
+fit the local circumstances M 258
+fit the given circumstances M 90
+fit the varying circumstances M 88
+fit the exact circumstances M 84
+fit the changing circumstances D 548
+fix the sense unambiguously D 122
+fit the above classification D 96

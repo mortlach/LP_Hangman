@@ -1,0 +1,3 @@
+iambic or trochaic feet D 156
+iambic or trochaic foot D 65
+iambic or trochaic line D 49

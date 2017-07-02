@@ -1,0 +1,6 @@
+errors are evenly distributed M 212
+errors can become significant M 174
+errors are almost unavoidable M 174
+errors may become significant M 84
+erased and another substituted D 154
+errors are purely statistical D 116

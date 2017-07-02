@@ -1,0 +1,2 @@
+atom differs from another D 182
+atom becomes more stable D 126

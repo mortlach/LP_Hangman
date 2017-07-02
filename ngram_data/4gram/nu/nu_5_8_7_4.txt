@@ -1,0 +1,6 @@
+nursing education research unit M 245
+nurse collects patient health M 140
+nursing practice research unit M 113
+nursing diagnoses derived from D 163
+nursing patients suffering from D 85
+nursing diagnosis differs from D 41

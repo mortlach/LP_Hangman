@@ -1,0 +1,5 @@
+fly a small plane M 584
+fly a light plane M 166
+fly a plane again M 102
+fly a deadly arrow D 130
+fly a dozen times D 91

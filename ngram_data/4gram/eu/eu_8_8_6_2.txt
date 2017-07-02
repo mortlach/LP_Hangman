@@ -1,0 +1,5 @@
+euclidean distance measure is D 374
+euclidean distance metric is D 290
+euclidean distance measure of D 122
+euclidean distance metric in D 104
+euclidean distance measure to D 88

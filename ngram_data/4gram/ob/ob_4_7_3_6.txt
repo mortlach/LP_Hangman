@@ -1,0 +1,3 @@
+obey blindly and without M 104
+obey parents and elders M 84
+obey parents and listen M 80

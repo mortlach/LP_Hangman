@@ -1,0 +1,4 @@
+equal a hundredth part M 108
+equip a powerful army M 92
+equal a straight angle M 70
+equal a thousandth part D 250

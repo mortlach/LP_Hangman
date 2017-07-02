@@ -1,0 +1,3 @@
+dyed a deep red D 755
+dyed a dark red D 198
+dyed a dull red D 116

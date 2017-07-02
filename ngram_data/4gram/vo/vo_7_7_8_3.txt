@@ -1,0 +1,7 @@
+voltage remains constant and D 380
+voltage between filament and D 334
+voltage remains constant for D 224
+voltage becomes negative and D 132
+voltage between adjacent rings D 128
+voltage between positive and D 100
+voltage becomes positive and D 88

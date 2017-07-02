@@ -1,0 +1,7 @@
+emit a signal when M 190
+emit a deeper note M 92
+emit a higher note M 82
+emit a pungent odor D 146
+emit a photon when D 132
+emit a narrow cone D 132
+emit a photon into D 118

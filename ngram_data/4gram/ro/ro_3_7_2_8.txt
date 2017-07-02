@@ -1,0 +1,3 @@
+row vectors of dimension D 94
+rod outside the cylinder D 86
+row between the carriers D 80

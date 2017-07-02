@@ -1,0 +1,4 @@
+monitor will display a M 386
+monitor will provide a M 146
+mounted from outside a D 240
+movable coil carries a D 154

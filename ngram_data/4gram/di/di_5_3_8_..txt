@@ -1,0 +1,9 @@
+dialog box controls . M 1134
+dialog box resource . M 338
+dialog box elements . M 206
+dialog box disappear . M 171
+dialog box directly . M 160
+dialog box selected . M 105
+dimly lit platform . M 102
+dialog box provides . M 88
+dialog box functions . M 50

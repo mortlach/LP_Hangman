@@ -1,0 +1,4 @@
+add space between lines M 275
+add input language dialog M 246
+add space between words M 186
+add green colored leaves M 96

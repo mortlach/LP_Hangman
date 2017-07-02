@@ -1,0 +1,9 @@
+item should have its M 173
+item passes from one M 152
+item appears more than M 104
+item weighs less than M 96
+item something like this M 96
+item occurs more than M 92
+item should sell for M 86
+item master file and M 52
+item scores were then D 40

@@ -1,0 +1,5 @@
+ulcer has not healed D 254
+ulcer does not occur D 239
+ulcer does not appear D 158
+ulcer had not healed D 116
+ulcer and its edges D 82

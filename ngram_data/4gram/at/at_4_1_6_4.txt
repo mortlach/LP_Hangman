@@ -1,0 +1,11 @@
+atop a wooded hill D 342
+atop a slight rise D 312
+atop a little hill D 236
+atop a grassy hill D 214
+atop a gentle rise D 176
+atop a gentle hill D 176
+atop a slight hill D 118
+atop a bamboo pole D 118
+atop a craggy hill D 100
+atop a barren hill D 84
+atop a little rise D 80

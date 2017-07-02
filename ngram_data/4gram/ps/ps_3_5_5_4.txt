@@ -1,0 +1,2 @@
+psi omega alpha beta D 250
+psi alpha omega beta D 114

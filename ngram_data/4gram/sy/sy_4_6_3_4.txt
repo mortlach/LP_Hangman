@@ -1,0 +1,2 @@
+sync pulses are used D 164
+sync pulses are also D 43

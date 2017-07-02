@@ -1,0 +1,6 @@
+eyelids are furnished with D 184
+eyelids and eyelashes are D 160
+eyelids are blackened with D 100
+eyelids and eyelashes with D 86
+eyelids are separated with D 84
+eyelids and eyelashes and D 82

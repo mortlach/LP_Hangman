@@ -1,0 +1,3 @@
+auto and cross correlations D 182
+auto and truck manufacturing D 102
+auto and steel manufacturing D 53

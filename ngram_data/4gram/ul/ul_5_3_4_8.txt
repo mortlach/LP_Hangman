@@ -1,0 +1,5 @@
+ulcer has been reported D 508
+ulcer has been observed D 150
+ulcer may have infinite D 112
+ulcer had been diagnosed D 111
+ulcer has been diagnosed D 98

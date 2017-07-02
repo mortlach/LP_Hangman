@@ -1,0 +1,2 @@
+iodine have all been D 42
+iodine have not been D 41

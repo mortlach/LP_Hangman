@@ -1,0 +1,4 @@
+wilderness a lodging place M 832
+wilderness a small round M 176
+wilderness a running water M 94
+wilderness a place where M 92

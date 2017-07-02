@@ -1,0 +1,3 @@
+tea imported from china D 476
+tea exported from china D 352
+tea directly from china D 112

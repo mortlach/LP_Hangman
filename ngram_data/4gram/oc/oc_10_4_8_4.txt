@@ -1,0 +1,5 @@
+occupations were excluded from M 214
+occupations were obtained from M 110
+occupations were combined into M 86
+occupations were somewhat more M 82
+occupations were exempted from D 98

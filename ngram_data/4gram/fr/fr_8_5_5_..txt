@@ -1,0 +1,15 @@
+frequent phone calls . M 590
+frequent blood tests . M 552
+frequent field trips . M 262
+frequent cloud cover . M 230
+frequent short breaks . M 166
+frequent vital signs . M 162
+frequent hunting trips . M 146
+frequent house guest . M 114
+fractions takes place . M 102
+frequent meeting place . M 94
+frequent short trips . M 92
+frequent water breaks . M 90
+frequent grass fires . M 90
+frequent short rests . M 86
+frequent blood testing . M 86

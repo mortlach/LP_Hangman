@@ -1,0 +1,2 @@
+zeros that represent the M 100
+zeros are indicated by D 140

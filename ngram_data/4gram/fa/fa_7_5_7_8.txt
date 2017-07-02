@@ -1,0 +1,7 @@
+failure modes effects analysis M 342
+factors which require attention M 150
+factors which deserve attention M 98
+failure renal tubular acidosis D 231
+failure acute tubular necrosis D 229
+factors which produce variations D 140
+factors taken together indicate D 130

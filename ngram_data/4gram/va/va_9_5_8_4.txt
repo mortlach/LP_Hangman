@@ -1,0 +1,4 @@
+varieties which occurred among D 350
+varieties which differed from D 138
+vacancies which occurred among D 104
+vacancies which occurred during D 94

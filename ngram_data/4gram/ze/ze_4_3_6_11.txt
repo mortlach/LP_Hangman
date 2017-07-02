@@ -1,0 +1,3 @@
+zero mean normal distribution M 132
+zero and finite temperature D 232
+zero for higher frequencies D 142

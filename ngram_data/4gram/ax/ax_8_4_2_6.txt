@@ -1,0 +1,6 @@
+axillary roll is placed D 468
+axillary vein is formed D 346
+axillary fold is formed D 195
+axillary hair is sparse D 144
+axillary hair is absent D 138
+axillary hair is scanty D 100

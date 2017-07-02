@@ -1,0 +1,4 @@
+exact a price . M 1910
+exert a force . M 1132
+exist a doubt . M 264
+exert a force ? M 146

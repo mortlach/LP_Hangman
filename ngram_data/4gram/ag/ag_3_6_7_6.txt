@@ -1,0 +1,5 @@
+age number percent number M 419
+age groups attending school M 248
+age groups between twenty M 188
+age secure against faction D 114
+age gender marital status D 76

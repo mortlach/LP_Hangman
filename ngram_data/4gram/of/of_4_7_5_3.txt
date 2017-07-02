@@ -1,0 +1,11 @@
+offs between costs and D 1064
+offs between growth and D 852
+offs between speed and D 772
+offs between price and D 302
+offs between risks and D 294
+offs between wages and D 234
+offs between money and D 218
+offs between space and D 154
+offs between social and D 120
+offs between short and D 82
+offs between power and D 82

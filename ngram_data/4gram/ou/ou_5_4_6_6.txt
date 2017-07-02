@@ -1,0 +1,7 @@
+outer door closed behind M 632
+outer room became filled M 88
+outer tail feathers tipped D 316
+outer unit normal vector D 298
+outer door without stopping D 112
+outer tail feathers barred D 110
+outer tail feathers partly D 98

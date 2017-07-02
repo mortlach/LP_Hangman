@@ -1,0 +1,5 @@
+output without increasing prices M 88
+ounces grated cheddar cheese D 346
+output without increasing inputs D 140
+output signal voltage across D 134
+outlet special purpose outlet D 43

@@ -1,0 +1,7 @@
+oak tree press . M 2310
+oak tree bough . M 358
+oak tree nearby . M 203
+oak tree trunk . M 155
+oak tree stood . M 138
+oak tree again . M 102
+oak tree leaves . M 41

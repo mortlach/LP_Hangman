@@ -1,0 +1,4 @@
+ice has a temperature D 284
+ice with a temperature D 210
+ice with a preparatory D 124
+ice has a crystalline D 95

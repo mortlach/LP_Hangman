@@ -1,0 +1,7 @@
+city public school students M 566
+city public school children M 561
+city middle school students M 199
+city public school district D 432
+city lights pocket bookshop D 314
+city without farther accident D 86
+city seemed almost deserted D 80

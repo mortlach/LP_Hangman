@@ -1,0 +1,6 @@
+eigenvalues of this matrix D 2566
+eigenvalues of this system D 440
+eigenvalues of that matrix D 170
+eigenvalues of any matrix D 136
+eigenvalues do not depend D 124
+eigenstates of this system D 98

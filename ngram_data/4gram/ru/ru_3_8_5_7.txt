@@ -1,0 +1,3 @@
+run properly under windows M 174
+run marginal costs increase M 117
+run abnormal stock returns D 233

@@ -1,0 +1,14 @@
+sunny south . " M 2340
+sunny side . " M 1054
+sunny days . " M 700
+sunny land . " M 258
+sunny hill . " M 188
+super rich . " M 167
+super time . " M 128
+super hero . " M 120
+sunny south ! " M 106
+sunny there . " M 104
+sunny here . " M 90
+sunny room . " M 88
+super cool . " M 59
+super fast . " M 51

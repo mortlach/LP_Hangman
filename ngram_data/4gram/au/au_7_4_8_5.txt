@@ -1,0 +1,5 @@
+augment their essential force D 176
+augment their military power D 108
+augment their military force D 100
+augment their purchasing power D 94
+augment their bargaining power D 84

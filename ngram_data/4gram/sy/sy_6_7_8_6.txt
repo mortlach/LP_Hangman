@@ -1,0 +1,5 @@
+system against surprise attack M 134
+system remains constant unless M 92
+system variable controls whether D 498
+system rigidly excludes honest D 252
+system objects preclude global D 116

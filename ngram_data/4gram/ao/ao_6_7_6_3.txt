@@ -1,0 +1,3 @@
+aortic diameter greater than D 164
+aortic ejection clicks are D 118
+aortic ejection sounds are D 106

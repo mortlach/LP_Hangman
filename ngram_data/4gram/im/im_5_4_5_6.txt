@@ -1,0 +1,10 @@
+image into small blocks M 240
+image will appear larger M 214
+image will appear darker M 136
+image bank cover design M 126
+image many times before M 110
+image will again become M 104
+image will appear before M 96
+image will appear behind M 83
+image into small regions D 110
+image will appear upside D 41

@@ -1,0 +1,3 @@
+eggs surrounded by a D 394
+eggs fertilized by a D 324
+eggs fertilized in a D 162

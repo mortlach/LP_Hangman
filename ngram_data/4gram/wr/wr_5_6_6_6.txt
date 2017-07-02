@@ -1,0 +1,4 @@
+write random access memory M 318
+write checks window appears M 144
+write another letter before M 138
+write psyche always instead D 82

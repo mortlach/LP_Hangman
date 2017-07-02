@@ -1,0 +1,4 @@
+run large current account M 540
+run every fifteen minutes M 534
+run under operating systems M 104
+run boots against stockings D 112

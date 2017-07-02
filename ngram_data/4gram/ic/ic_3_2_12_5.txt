@@ -1,0 +1,3 @@
+ice at temperatures below D 520
+ice is sufficiently strong D 162
+ice at temperatures above D 160

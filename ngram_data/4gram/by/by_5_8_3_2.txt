@@ -1,0 +1,5 @@
+bytes required for the D 686
+bytes reserved for the D 216
+bytes actually read is D 142
+bytes actually read or D 112
+bytes required for an D 80

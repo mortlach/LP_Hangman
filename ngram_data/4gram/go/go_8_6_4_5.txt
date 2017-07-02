@@ -1,0 +1,4 @@
+governor should have power M 648
+governor should have taken M 106
+governor waited three weeks M 80
+governor should take pains D 118

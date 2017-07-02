@@ -1,0 +1,15 @@
+pit should always be M 172
+pit itself should be M 40
+pin passes through the D 1299
+pin passed through the D 1268
+pin driven through the D 671
+pin placed through the D 419
+pin should always be D 330
+pin pushed through the D 268
+pie charts should be D 240
+pin passed through it D 166
+pin without cracking on D 156
+pin driven through it D 132
+pin pushed through it D 124
+pie without cheese is D 114
+pie before dividing it D 102

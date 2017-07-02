@@ -1,0 +1,17 @@
+byte can be used D 872
+byte may be used D 356
+byte that is used D 226
+byte has an even D 225
+byte for the host D 160
+byte can be sent D 160
+byte for the sign D 117
+byre for the cows D 106
+byte for the null D 105
+byte and the length D 98
+byte and the next D 90
+byte and the data D 90
+byte and the last D 88
+byte for the length D 86
+byte set to zero D 52
+byte and the high D 45
+byte that is sent D 43

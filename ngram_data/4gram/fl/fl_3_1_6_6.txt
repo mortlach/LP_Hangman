@@ -1,0 +1,12 @@
+fly a combat mission M 542
+fly a little higher M 452
+fly a little further M 171
+fly a middle course M 134
+fly a direct course M 126
+fly a little better M 95
+fly a little closer M 54
+fly a little faster D 286
+fly a little farther D 247
+flea a waltzing jacket D 88
+fly a bomber across D 86
+fling a bridge across D 82

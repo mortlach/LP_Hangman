@@ -1,0 +1,3 @@
+ionization by solar radiation D 144
+ionization in water solution D 110
+ionization of serum calcium D 102

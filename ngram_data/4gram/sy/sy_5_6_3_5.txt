@@ -1,0 +1,5 @@
+syringe filled with water D 436
+syringe before and after D 418
+syringe filled with fluid D 163
+syringe filled with blood D 153
+syringe filled with local D 110

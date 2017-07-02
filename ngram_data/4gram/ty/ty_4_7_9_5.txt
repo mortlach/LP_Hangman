@@ -1,0 +1,1 @@
+type glucose tolerance curve D 120

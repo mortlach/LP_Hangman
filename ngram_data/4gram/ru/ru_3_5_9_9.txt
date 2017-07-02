@@ -1,0 +1,4 @@
+run under identical conditions M 1582
+run under different conditions M 440
+run under specified conditions M 97
+run after theoretical perfection D 116

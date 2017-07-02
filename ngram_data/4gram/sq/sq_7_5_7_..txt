@@ -1,0 +1,6 @@
+squares fitting routine . M 422
+squares within squares . M 224
+squared error function . M 214
+squares fitting program . M 202
+squares error function . M 158
+squares fitting process . M 128

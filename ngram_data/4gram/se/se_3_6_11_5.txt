@@ -1,0 +1,4 @@
+set higher performance goals M 169
+see whether differences exist M 100
+see kelvin temperature scale D 51
+see family environment scale D 49

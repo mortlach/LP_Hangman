@@ -1,0 +1,7 @@
+exit command is used M 309
+exit command to exit M 301
+exit command to quit M 274
+exit permits to leave M 154
+exit following the other M 122
+exit permits to those M 84
+exec command is used D 128

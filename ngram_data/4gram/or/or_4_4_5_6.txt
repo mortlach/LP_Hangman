@@ -1,0 +1,3 @@
+ores from which metals D 236
+ores from which copper D 172
+ores from which silver D 93

@@ -1,0 +1,1 @@
+ping command sends an M 98

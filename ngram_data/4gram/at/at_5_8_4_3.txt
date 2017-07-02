@@ -1,0 +1,6 @@
+atoms containing more than D 1016
+atoms containing only one D 116
+atlas contains maps and D 115
+atoms separate from each D 112
+atoms interact only with D 94
+atoms possessing more than D 90

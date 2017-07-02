@@ -1,0 +1,7 @@
+epochs of a people D 520
+epochs of a close D 194
+epithet of a deity D 186
+epithet of a reign D 108
+epochs in a nation D 101
+epochs as a basis D 100
+epochs of a nation D 98

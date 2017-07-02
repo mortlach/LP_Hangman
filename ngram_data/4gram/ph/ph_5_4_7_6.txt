@@ -1,0 +1,3 @@
+phase angle between stress M 292
+phase angle between output M 200
+phone cord wrapped around D 166

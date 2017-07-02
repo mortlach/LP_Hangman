@@ -1,0 +1,3 @@
+per degree temperature change D 666
+per second acceleration meter D 348
+per second transmission speed D 134

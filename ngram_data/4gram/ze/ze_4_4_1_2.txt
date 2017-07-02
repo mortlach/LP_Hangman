@@ -1,0 +1,4 @@
+zero when t is M 670
+zero when a is M 647
+zero when s is M 244
+zero when i is M 212

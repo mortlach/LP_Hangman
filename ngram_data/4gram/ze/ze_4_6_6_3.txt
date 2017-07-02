@@ -1,0 +1,6 @@
+zero excess demand for M 632
+zero crossing points are M 119
+zero initial values for M 47
+zero normal stress and M 40
+zero dipole moment and D 188
+zero dipole moment for D 66

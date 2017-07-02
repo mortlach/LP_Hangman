@@ -1,0 +1,3 @@
+syringe used should be D 146
+syringe will answer the D 138
+syringe must always be D 86

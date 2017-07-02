@@ -1,0 +1,7 @@
+animals were placed individually M 190
+animals have clearly demonstrated M 162
+animals were housed individually D 892
+animals were already domesticated D 168
+animals have become domesticated D 106
+animals were almost exterminated D 100
+animals have changed dramatically D 90

@@ -1,0 +1,4 @@
+playwrights whose works are D 276
+playwrights whose names are D 104
+playwrights whose plays are D 94
+playwrights whose works had D 80

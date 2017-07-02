@@ -1,0 +1,8 @@
+killing of a king M 2350
+kingdom of a king M 299
+kingdom is a thing M 150
+killing of a foe M 140
+kingdom as a thing M 134
+kingdom to a king M 94
+kingdom is a king M 86
+kicking up a sea D 210

@@ -1,0 +1,4 @@
+zero outside the frequency M 96
+zero defects in production M 43
+zero because the integrand D 163
+zero because the capacitor D 64

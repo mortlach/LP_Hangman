@@ -1,0 +1,7 @@
+cutting away a ring M 222
+curve from a to D 4650
+curve from d to D 1478
+curve from s to D 976
+curve like a in D 102
+curve from t to D 90
+curve from i to D 90

@@ -1,0 +1,8 @@
+run programs designed for M 279
+run multiple programs and M 48
+run software designed for D 378
+run strictly parallel with D 276
+run internet explorer and D 128
+run separate analyses for D 124
+run somewhat parallel with D 96
+run entirely parallel with D 87

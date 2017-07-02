@@ -1,0 +1,10 @@
+echo round the world M 971
+echo power in delay M 239
+echo within the walls M 238
+echo which the whole M 172
+echo print the input M 172
+echo repeat the words M 144
+echo round the walls M 127
+echo round the globe M 103
+echo makes to music M 96
+echo round the skies D 108

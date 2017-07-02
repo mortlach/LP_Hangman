@@ -1,0 +1,4 @@
+elements composing it . M 1746
+elements preceding it . M 214
+elements outside it . M 164
+elements compose it . M 114

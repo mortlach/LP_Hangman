@@ -1,0 +1,3 @@
+isolated renal brush border D 409
+isolated human atrial fibers D 148
+isolated small bowel disease D 145

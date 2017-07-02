@@ -1,0 +1,5 @@
+inner walls were decorated M 186
+input under these conditions M 150
+inert under these conditions D 200
+inner walls were plastered D 166
+inner doors were committed D 148

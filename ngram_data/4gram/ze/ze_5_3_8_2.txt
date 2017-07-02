@@ -1,0 +1,6 @@
+zeros are replaced by M 472
+zeros are appended to M 272
+zeros are included in M 150
+zeros are assigned to M 116
+zeros are required to M 100
+zeros are inserted in D 136

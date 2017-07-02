@@ -1,0 +1,5 @@
+emit no more than M 808
+emit as much heat M 136
+emit an odor that D 297
+emit at least one D 161
+emit at least two D 150

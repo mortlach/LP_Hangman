@@ -1,0 +1,5 @@
+dying from natural causes M 1298
+dying from unknown causes M 112
+dying from gunshot wounds D 312
+dying from stomach cancer D 174
+dying from bladder cancer D 102

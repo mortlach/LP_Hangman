@@ -1,0 +1,3 @@
+dotted horizontal line . M 510
+double horizontal line . M 322
+double combination lock . M 138

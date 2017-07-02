@@ -1,0 +1,7 @@
+oak front door . M 1004
+oak trees grow . M 343
+oak trees grew . M 301
+oak copse there . M 288
+oath could bind . M 276
+oak trees there . M 106
+oak never grew . M 90

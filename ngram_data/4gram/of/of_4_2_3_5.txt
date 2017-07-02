@@ -1,0 +1,4 @@
+offs of bad debts D 394
+offs on both sides D 274
+offs of bad loans D 238
+offs do not exist D 104

@@ -1,0 +1,3 @@
+scan does not necessarily D 272
+scan does not demonstrate D 192
+scan did not demonstrate D 44

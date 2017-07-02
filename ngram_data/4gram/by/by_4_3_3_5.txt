@@ -1,0 +1,2 @@
+byte for each pixel D 122
+byte for each digit D 98

@@ -1,0 +1,4 @@
+per hectare a year D 834
+per thousand a year D 501
+per student a year D 244
+per patient a year D 45

@@ -1,0 +1,2 @@
+sum awarded after deduction M 128
+sum occurring after execution D 90

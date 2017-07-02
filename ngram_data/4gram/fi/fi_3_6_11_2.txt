@@ -1,0 +1,2 @@
+fix itself permanently in M 108
+fix prices arbitrarily or M 100

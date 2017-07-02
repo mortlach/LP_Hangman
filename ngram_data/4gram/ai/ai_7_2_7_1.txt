@@ -1,0 +1,7 @@
+airline to operate a D 242
+airline to provide a D 140
+airport to receive a D 134
+airport to provide a D 118
+airline of country a D 110
+airport to welcome a D 104
+airport to collect a D 98

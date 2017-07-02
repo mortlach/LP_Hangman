@@ -1,0 +1,3 @@
+ms does not contain D 220
+ms dos and windows D 57
+ms does not provide D 54

@@ -1,0 +1,11 @@
+run money demand function M 743
+run every twenty minutes M 346
+run under another operating M 166
+run money demand equation M 143
+run about twenty minutes M 142
+run until normal operating M 104
+run under normal operating M 102
+run trend toward increasing M 42
+run stock market outlook D 196
+run mazes better because D 118
+run about spitting tobacco D 40

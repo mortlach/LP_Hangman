@@ -1,0 +1,8 @@
+epidemiology of lung cancer D 2450
+epidemiology of this disease D 2396
+epidemiology of head injury D 1434
+epidemiology of head trauma D 424
+epidemiology of fox rabies D 130
+epidemiology of lip cancer D 114
+epidemiology of any disease D 110
+epidemiology of that disease D 92

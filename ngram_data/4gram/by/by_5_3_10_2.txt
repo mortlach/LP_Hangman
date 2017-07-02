@@ -1,0 +1,4 @@
+bytes are initialized to D 108
+bytes that correspond to D 106
+bytes that constitute the D 100
+bytes that represents the D 98

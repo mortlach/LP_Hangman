@@ -1,0 +1,4 @@
+symmetrical about zero and D 198
+synchronous motor will not D 184
+synchronous motor used for D 156
+synchronous motor will run D 124

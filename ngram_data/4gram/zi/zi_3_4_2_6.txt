@@ -1,0 +1,3 @@
+zip code or postal D 360
+zip code or census D 188
+zip code or county D 49

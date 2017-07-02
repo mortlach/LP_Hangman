@@ -1,0 +1,2 @@
+bytes between the two D 120
+bytes written so far D 86

@@ -1,0 +1,5 @@
+poet composes a poem M 454
+poem contains a few M 166
+poet composed a poem M 148
+poet composed a song M 84
+pot containing a few D 133

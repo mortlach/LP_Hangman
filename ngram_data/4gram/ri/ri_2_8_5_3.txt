@@ -1,0 +1,3 @@
+ring induction motor with D 254
+ring induction motor has D 180
+ring induction motor and D 112

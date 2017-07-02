@@ -1,0 +1,6 @@
+run propensity to consume M 388
+run volatility of exchange M 159
+run university of central M 118
+run separately or together M 96
+run coefficient of variation D 152
+run variability of exchange D 57

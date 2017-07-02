@@ -1,0 +1,2 @@
+db smaller than that D 104
+db stronger than that D 99

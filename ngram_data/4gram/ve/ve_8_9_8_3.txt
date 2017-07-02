@@ -1,0 +1,6 @@
+velocity increment required for D 182
+velocity generally increases with D 168
+vehicles propelled otherwise than D 128
+vertical turbulent diffusion and D 116
+vertical convection currents that D 82
+velocity gradually decreases and D 82

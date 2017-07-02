@@ -1,0 +1,3 @@
+equations follow directly from M 448
+equations differ slightly from M 114
+equations become somewhat more M 108

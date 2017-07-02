@@ -1,0 +1,11 @@
+drawing conclusions from facts M 558
+drawing inferences from facts M 380
+drawing conclusions from given M 376
+drawing conclusions from small M 210
+drawing inferences from known M 194
+drawing conclusions from false M 148
+drawing conclusions from known M 116
+drawing inferences from small M 112
+drawing conclusions from table M 110
+draft resistance during world M 102
+drawing inferences from texts M 90

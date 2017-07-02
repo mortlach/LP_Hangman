@@ -1,0 +1,9 @@
+ahead now . " M 1402
+ahead then . " M 1010
+ahead yet . " M 244
+ahead now ? " M 244
+ahead then ? " M 186
+ahead now ! " M 184
+ahead then ! " M 112
+ahead for . " M 98
+ahead too . " M 84

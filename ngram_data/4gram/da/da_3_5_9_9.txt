@@ -1,0 +1,4 @@
+day under favorable conditions M 297
+day under different conditions M 118
+day under identical conditions M 40
+day after myocardial infarction D 103

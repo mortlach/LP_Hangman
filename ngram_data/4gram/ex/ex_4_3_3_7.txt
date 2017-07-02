@@ -1,0 +1,5 @@
+exam does not require M 304
+exam does not include M 188
+exam and was awarded M 112
+exit and then restart M 109
+exit and then reenter D 113

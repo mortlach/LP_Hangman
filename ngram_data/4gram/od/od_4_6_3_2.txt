@@ -1,0 +1,3 @@
+odds should not be M 102
+odor should not be D 744
+odor varies with the D 192

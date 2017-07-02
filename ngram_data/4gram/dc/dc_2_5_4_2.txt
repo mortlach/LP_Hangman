@@ -1,0 +1,3 @@
+dc power from the D 1004
+dc would have to D 110
+dc level from the D 100

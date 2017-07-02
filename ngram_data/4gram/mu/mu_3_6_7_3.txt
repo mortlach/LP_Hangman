@@ -1,0 +1,5 @@
+mud houses thatched with D 175
+mud bricks covered with D 166
+mud cabins thatched with D 144
+mud hovels thatched with D 93
+mud houses covered with D 89

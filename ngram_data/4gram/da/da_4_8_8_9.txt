@@ -1,0 +1,5 @@
+data processing terminal equipment M 428
+data processing services available M 314
+data processing managers association D 232
+data processing auditors association D 128
+data processing advisory committee D 124

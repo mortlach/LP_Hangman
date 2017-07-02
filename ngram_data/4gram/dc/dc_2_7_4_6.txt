@@ -1,0 +1,2 @@
+dc voltage drop across D 1447
+dc current flow through D 114

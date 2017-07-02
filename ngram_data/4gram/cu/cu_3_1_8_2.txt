@@ -1,0 +1,15 @@
+cut a quantity of M 1956
+cut a sentence in M 194
+cut a selection of M 147
+cut a distance of M 137
+cut a sequence of M 94
+cut a rectangle of D 3143
+cut a specimen of D 192
+cut a sandwich or D 186
+cut a fragment of D 129
+cut a rectangle in D 126
+cut a template of D 122
+cut a cylinder of D 98
+cut a trapdoor in D 92
+cut a rectangle the D 88
+cut a portrait of D 87

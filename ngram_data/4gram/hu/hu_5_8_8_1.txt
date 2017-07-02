@@ -1,0 +1,11 @@
+human condition requires a M 154
+human organism requires a M 128
+human activity requires a M 124
+human activity involves a M 110
+human services proposed a M 94
+human services provides a M 90
+human condition involves a M 80
+human subjects performing a D 142
+human operator performing a D 108
+human estrogen receptor a D 108
+human placenta contains a D 86

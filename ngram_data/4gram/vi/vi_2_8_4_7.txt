@@ -1,0 +1,4 @@
+via specific cell surface M 358
+via ordinary least squares D 492
+via weighted least squares D 176
+via nonlinear least squares D 112

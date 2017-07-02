@@ -1,0 +1,5 @@
+snow throughout the winter M 1128
+snow throughout the summer M 264
+snow disappears in summer M 204
+snow throughout the entire M 112
+snow blanketed the ground D 844

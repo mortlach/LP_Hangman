@@ -1,0 +1,13 @@
+echo with the sounds M 804
+echo with the voices M 343
+echo and the shadow M 116
+echo can be framed M 106
+echo can be formed M 80
+echo and the golden D 2952
+echo with the shouts D 277
+echo with the thunder D 209
+echo has an impish D 174
+echo with the shrill D 137
+echo with the screams D 90
+echo off the canyon D 68
+echo off the cliffs D 46

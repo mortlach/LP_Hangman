@@ -1,0 +1,5 @@
+usually remains relatively constant M 212
+usually provide sufficient evidence M 96
+usually provide sufficient accuracy M 80
+usually becomes clinically apparent D 344
+usually becomes clinically manifest D 139

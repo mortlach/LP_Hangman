@@ -1,0 +1,9 @@
+edit view tools window M 1797
+edit view create actions M 1134
+edit view query window M 874
+edit view image colors M 667
+edit mode image filter M 545
+edit view image options M 513
+edit view label special M 164
+edit plot style tables D 220
+edit view loots window D 73

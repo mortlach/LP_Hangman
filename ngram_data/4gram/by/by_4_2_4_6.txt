@@ -1,0 +1,3 @@
+byte of data stored D 236
+byte in main memory D 152
+byte of main memory D 150

@@ -1,0 +1,4 @@
+zero external magnetic field D 1331
+zero tangential electric field D 327
+zero pressure gradient flows D 154
+zero external electric field D 120

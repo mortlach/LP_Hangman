@@ -1,0 +1,2 @@
+omit spaces and special M 112
+omit closet and family D 134

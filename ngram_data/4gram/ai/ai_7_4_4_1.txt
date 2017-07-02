@@ -1,0 +1,4 @@
+airport must have a D 224
+airport will have a D 220
+airline will have a D 116
+airfoil axis into a D 94

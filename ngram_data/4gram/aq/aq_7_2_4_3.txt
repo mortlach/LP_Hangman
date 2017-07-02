@@ -1,0 +1,3 @@
+aquifer is less than D 268
+aquifer is used for D 146
+aquifer is more than D 144

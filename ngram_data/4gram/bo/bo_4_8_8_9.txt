@@ -1,0 +1,5 @@
+book contains numerous exercises M 100
+book ordinary brackets represent M 40
+book software engineering economics D 200
+book contains numerous quotations D 124
+book contains numerous portraits D 88

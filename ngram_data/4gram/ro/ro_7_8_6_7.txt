@@ -1,0 +1,4 @@
+routine monitoring should include M 140
+routine cervical cancer screening D 175
+routine prostate cancer screening D 130
+roughly triangular spaces between D 88

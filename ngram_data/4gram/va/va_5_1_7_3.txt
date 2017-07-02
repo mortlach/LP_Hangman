@@ -1,0 +1,10 @@
+valid a subject for M 186
+vague a concept for M 172
+vague a concept that M 138
+value a society that M 112
+value a company can M 94
+value a century ago M 86
+valid a century ago M 83
+valuing a company for D 130
+value a variable can D 119
+valuing a company that D 97

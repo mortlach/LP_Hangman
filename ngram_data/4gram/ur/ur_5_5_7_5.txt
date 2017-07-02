@@ -1,0 +1,3 @@
+urban males females males D 234
+urban rural national urban D 110
+urban holding reporting dairy D 104

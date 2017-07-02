@@ -1,0 +1,4 @@
+numerical shape from shading M 494
+numerical tests have shown M 410
+numerical order from right M 88
+numerical order from above M 53

@@ -1,0 +1,3 @@
+mutually exclusive binary oppositions D 116
+mutually exclusive answer categories D 98
+mutually exclusive gender categories D 88

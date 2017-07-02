@@ -1,0 +1,8 @@
+draw straight lines through M 1081
+draw vertical lines through M 1038
+draw straight lines across M 252
+draw boundary lines around M 119
+draw vertical lines upward M 103
+draw vertical lines across M 94
+draw straight lines without M 80
+draw parallel lines through D 270

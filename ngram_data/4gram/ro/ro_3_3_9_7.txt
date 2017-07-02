@@ -1,0 +1,2 @@
+row with different letters D 306
+row are connected together D 204

@@ -1,0 +1,3 @@
+row vector corresponding to D 234
+row number corresponding to D 108
+row number corresponds to D 90

@@ -1,0 +1,5 @@
+safeguard itself within limits M 100
+satellite signal power levels D 264
+satellite remote sensing system D 252
+satellite remote sensing methods D 134
+satellite remote sensing images D 122

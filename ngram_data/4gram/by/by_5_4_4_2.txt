@@ -1,0 +1,4 @@
+bytes away from the D 462
+bytes sent from the D 210
+bytes sent over the D 140
+bytes back into the D 102

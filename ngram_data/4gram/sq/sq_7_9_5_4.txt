@@ -1,0 +1,2 @@
+squared prediction error over M 94
+squares regression lines were D 110

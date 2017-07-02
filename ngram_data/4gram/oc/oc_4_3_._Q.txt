@@ -1,0 +1,5 @@
+ocean area . " M 402
+ocean bear . " M 370
+ocean air . " M 222
+ocean now . " M 125
+ocean too . " M 80

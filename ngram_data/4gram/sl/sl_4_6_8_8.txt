@@ -1,0 +1,2 @@
+slip bottom boundary condition D 219
+slow active tectonic movement D 126

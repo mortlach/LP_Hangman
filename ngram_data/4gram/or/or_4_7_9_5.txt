@@ -1,0 +1,4 @@
+oral glucose tolerance tests D 5837
+oral glucose tolerance testing D 1679
+oral glucose tolerance curve D 752
+oral lactose tolerance tests D 96

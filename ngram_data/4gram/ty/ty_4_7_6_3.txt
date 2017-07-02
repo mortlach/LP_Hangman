@@ -1,0 +1,3 @@
+type doublet levels with D 226
+type silicon wafers with D 223
+type silicon sample with D 127

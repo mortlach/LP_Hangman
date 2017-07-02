@@ -1,0 +1,7 @@
+square a group of M 450
+square a piece of M 229
+square a crowd of M 117
+squirt a stream of D 627
+squaring a piece of D 128
+squaring a block of D 118
+squirt a cloud of D 108

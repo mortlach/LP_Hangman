@@ -1,0 +1,4 @@
+oxidizer and fuel are D 391
+oxidized and will not D 105
+oxidized and used for D 105
+oxidation was less than D 80

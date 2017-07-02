@@ -1,0 +1,8 @@
+goods returned from customers M 120
+goods imported from countries D 1334
+goods directly from producers D 310
+goods imported from elsewhere D 170
+goods received from suppliers D 156
+goods imported from developed D 128
+goods imported from neighboring D 120
+goods withdrawn from inventory D 88

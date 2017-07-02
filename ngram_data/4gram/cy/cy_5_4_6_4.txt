@@ -1,0 +1,6 @@
+cycle have already been M 470
+cycle will depend upon M 242
+cycle will become more M 118
+cycle length varies from D 210
+cysts have already been D 194
+cycle time varies from D 124

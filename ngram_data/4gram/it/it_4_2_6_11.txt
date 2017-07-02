@@ -1,0 +1,5 @@
+item of public expenditure D 1833
+item of family expenditure D 164
+item of school expenditure D 156
+item of annual expenditure D 114
+item in public expenditure D 96

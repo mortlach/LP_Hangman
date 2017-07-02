@@ -1,0 +1,6 @@
+output toward normal . M 168
+output signal strength . M 114
+output signal values . M 96
+output signal occurs . M 90
+output enable signal . M 90
+output before printing . M 80

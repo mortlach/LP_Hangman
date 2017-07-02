@@ -1,0 +1,7 @@
+pull them out " M 124
+pull him out " M 112
+puts them out " M 104
+pull out his " M 98
+puts his own " M 82
+pull off his " M 80
+pull this off " M 72

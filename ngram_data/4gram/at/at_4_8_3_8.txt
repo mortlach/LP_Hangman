@@ -1,0 +1,4 @@
+atom contains one electron D 318
+atom provides one electron D 114
+atom supplies one electron D 113
+atom containing one electron D 57

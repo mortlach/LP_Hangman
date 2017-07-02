@@ -1,0 +1,5 @@
+attack a man . M 2200
+attack a man ? M 164
+attack a bear . M 136
+attack a dog . M 106
+attack a cat . M 42

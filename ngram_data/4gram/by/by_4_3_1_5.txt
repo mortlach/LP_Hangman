@@ -1,0 +1,3 @@
+byte with a value D 444
+byte has a value D 244
+byes with a quiet D 80

@@ -1,0 +1,7 @@
+offs between equity and D 646
+offs between safety and D 388
+offs between income and D 312
+offs between foraging and D 170
+offs between output and D 158
+offs between public and D 100
+offs between energy and D 100

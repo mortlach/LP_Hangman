@@ -1,0 +1,8 @@
+jobs involving manual labor M 252
+jobs requiring manual labor M 176
+jobs outside school hours M 130
+join together various parts M 96
+jobs requiring little skill D 540
+jobs requiring greater skill D 332
+jobs require little skill D 234
+jobs requiring higher skill D 99

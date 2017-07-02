@@ -1,0 +1,12 @@
+put a stop . M 1766
+put a case . M 1744
+put a name . M 1372
+put a kiss ? M 178
+put a zero . M 158
+put a mark . M 144
+put a hand . M 136
+put a dash . M 110
+put a date . M 108
+put a book . M 104
+put a baby ? M 84
+put a face . M 82

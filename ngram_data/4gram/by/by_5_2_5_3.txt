@@ -1,0 +1,10 @@
+bytes of header and D 402
+bytes or words are D 216
+bytes of space for D 214
+bytes to store each D 206
+bytes or words and D 134
+bytes of which are D 134
+bytes of space are D 110
+bytes or words that D 99
+bytes in which each D 84
+bytes of padding are D 80

@@ -1,0 +1,5 @@
+bytes of program memory D 680
+bytes of virtual memory D 302
+bytes of display memory D 300
+bytes of primary memory D 188
+bytes of dynamic memory D 108

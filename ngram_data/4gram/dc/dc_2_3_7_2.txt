@@ -1,0 +1,15 @@
+dc bias voltage is D 689
+dc bus voltage is D 520
+dc bias current is D 481
+dc bias voltage of D 462
+dc bias applied to D 369
+dc bias voltage on D 284
+dc bias voltage to D 272
+dc beam current in D 254
+dc bias voltage at D 212
+dc with respect to D 208
+dc path between the D 197
+dc bias between the D 178
+dc bias current of D 164
+dc bias current to D 95
+dc bias current in D 42

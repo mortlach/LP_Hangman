@@ -1,0 +1,2 @@
+adding and listing machine D 730
+adding and editing records D 266

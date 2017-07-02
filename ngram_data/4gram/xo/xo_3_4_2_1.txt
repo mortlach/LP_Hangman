@@ -1,0 +1,2 @@
+xor gate is a M 136
+xor gate as a M 118

@@ -1,0 +1,4 @@
+oxygen consumption during hypothermia D 336
+oxygen consumption during pregnancy D 124
+oxygen consumption during starvation D 116
+oxygen consumption during meditation D 102

@@ -1,0 +1,8 @@
+artery posterior cerebral artery D 3526
+artery descending palatine artery D 152
+artery posterior temporal artery D 136
+artery posterior descending branch D 130
+artery posterior descending artery D 116
+artist expressing religious emotion D 96
+artery posterior parietal artery D 94
+artery internal auditory artery D 94

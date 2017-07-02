@@ -1,0 +1,6 @@
+walls might become transparent M 388
+waiting period before compensation M 122
+water under normal atmospheric D 341
+water flowing hidden underground D 156
+water after sexual intercourse D 112
+waste which always accompanies D 104

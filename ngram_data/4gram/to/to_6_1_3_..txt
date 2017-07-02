@@ -1,0 +1,16 @@
+toward a man . M 1300
+toward a seat . M 668
+toward a job . M 296
+toward a son . M 288
+touching a man . M 258
+toward a deal . M 222
+toiled a man . M 208
+toward a war . M 204
+touching a key . M 194
+toward a bar . M 142
+toward a dog . M 140
+toward a mean . M 134
+toward a boy . M 114
+toward a box . M 104
+toward a pet . M 88
+toward a few . M 86

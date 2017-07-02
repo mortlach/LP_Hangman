@@ -1,0 +1,8 @@
+edit recurring job schedule M 384
+edge between two adjacent M 303
+edge between two surfaces M 98
+edge between two distinct M 96
+eddy current and magnetic D 136
+edge weights are positive D 123
+edge between two variables D 120
+eddy escapes this blistering D 98

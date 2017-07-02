@@ -1,0 +1,2 @@
+zero outside this interval D 509
+zero outside that interval D 129

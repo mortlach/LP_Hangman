@@ -1,0 +1,13 @@
+go forwards or backwards M 1159
+go anywhere by themselves M 200
+go directly to customers M 112
+go directly to production M 99
+go directly to establish M 84
+go directly to consumers D 316
+go outdoors on different D 184
+go directly to president D 184
+go directly to retailers D 102
+go directly to hospitals D 90
+go sideways or backwards D 84
+go anywhere on horseback D 80
+go straight to scripture D 43

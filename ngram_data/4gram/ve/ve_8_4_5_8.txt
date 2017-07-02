@@ -1,0 +1,5 @@
+vertical line drawn downward M 228
+vertical axis truly vertical D 592
+vertical axis shows relative D 120
+vesicles from human placenta D 116
+velocity very small compared D 80

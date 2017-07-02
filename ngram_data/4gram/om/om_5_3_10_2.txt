@@ -1,0 +1,5 @@
+omits all references to D 902
+omits any description of D 272
+omits any references to D 230
+omits any explanation of D 132
+omens and prophecies of D 126

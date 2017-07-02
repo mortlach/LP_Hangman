@@ -1,0 +1,6 @@
+attacks helper t cells M 234
+attempt crossing a river M 118
+attempt kindling a flame D 176
+attempt proved a fiasco D 154
+attending before a court D 146
+attempt weighing a dutch D 130

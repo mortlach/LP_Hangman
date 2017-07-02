@@ -1,0 +1,4 @@
+id value for each M 114
+id cards for all D 58
+id cards are not D 58
+id cards that are D 40

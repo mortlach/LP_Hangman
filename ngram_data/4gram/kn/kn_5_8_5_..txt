@@ -1,0 +1,9 @@
+known distance apart . M 2088
+known security holes . M 354
+known underlying cause . M 201
+known constant value . M 178
+known relevant facts . M 160
+known external cause . M 156
+known specific cause . M 114
+knows scarcely anything . M 110
+known security risks . M 44

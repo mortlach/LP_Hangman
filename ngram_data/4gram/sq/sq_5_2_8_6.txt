@@ -1,0 +1,6 @@
+squad of military police D 384
+squad of soldiers marching D 187
+squad of security guards D 146
+squad of soldiers standing D 94
+squad of soldiers carrying D 90
+squad of soldiers tramps D 84

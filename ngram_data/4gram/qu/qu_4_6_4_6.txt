@@ -1,0 +1,4 @@
+quit without saving changes M 597
+quit without giving notice M 293
+quit without having another M 90
+quit drinking cold turkey D 112

@@ -1,0 +1,3 @@
+ice under a pressure D 275
+ice under a contract D 110
+ice holds a splinter D 82

@@ -1,0 +1,10 @@
+cutting a straight line M 954
+cutting a circular hole M 470
+cutting a suitable length M 90
+cutting a straight edge M 88
+curve a straight line D 944
+curve a vertical line D 412
+cutting a circular cone D 122
+cutting a military road D 106
+cures a neurosis must D 93
+cutting a terrible gash D 88

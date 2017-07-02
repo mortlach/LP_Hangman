@@ -1,0 +1,10 @@
+tissues around a joint D 518
+tightly around a small D 302
+tissues through a wound D 264
+tightly across a frame D 184
+tightly around a piece D 108
+tissues through a small D 106
+timidly through a dense D 102
+tightly around a glass D 93
+tightly around a large D 92
+tightly around a metal D 41

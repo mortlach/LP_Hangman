@@ -1,0 +1,10 @@
+vehicle carrying a load M 280
+vessels opened a heavy M 172
+vehicle without a word M 112
+vessels without a single M 86
+verdict without a trial M 86
+vessels entering a port D 454
+venture proved a great D 236
+vehicle struck a mine D 207
+vehicle struck a tree D 103
+venture proved a most D 100

@@ -1,0 +1,2 @@
+gyro noise has many D 256
+gyro noise may also D 254

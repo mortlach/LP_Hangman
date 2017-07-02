@@ -1,0 +1,9 @@
+uses information gathered from M 350
+used information gathered from M 290
+uses information derived from D 392
+used information derived from D 327
+uses unshielded twisted pair D 170
+used techniques derived from D 162
+uses techniques derived from D 131
+uses principles derived from D 98
+used principles derived from D 98

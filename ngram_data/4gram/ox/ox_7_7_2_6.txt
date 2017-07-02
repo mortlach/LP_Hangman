@@ -1,0 +1,6 @@
+oxidize ferrous to ferric D 436
+oxidize alcohol to acetic D 274
+oxidize glucose to carbon D 124
+oxidizing ferrous to ferric D 115
+oxidizing alcohol to acetic D 52
+oxidizing bacteria in marine D 44

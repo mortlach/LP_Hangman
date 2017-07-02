@@ -1,0 +1,2 @@
+offs among conflicting goals D 148
+offs among different types D 100

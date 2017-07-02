@@ -1,0 +1,5 @@
+mu and delta opioid D 980
+mu and kappa opioid D 488
+mu and kappa opiate D 234
+mu and delta opiate D 210
+mu and delta sites D 151

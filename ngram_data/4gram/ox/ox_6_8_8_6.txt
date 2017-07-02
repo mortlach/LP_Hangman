@@ -1,0 +1,3 @@
+oxygen nitrogen hydrogen carbon D 129
+oxygen pressure gradient across D 104
+oxygen hydrogen nitrogen carbon D 67

@@ -1,0 +1,15 @@
+ion source has been D 1016
+ion source for mass D 677
+ion source was used D 507
+ion source and mass D 302
+ion energy and mass D 267
+ion energy and flux D 252
+ion energy and dose D 231
+ion charge and mass D 143
+ion energy has been D 108
+ion source for high D 90
+ion uptake has been D 83
+ion energy and angle D 62
+ion uptake and root D 51
+ion lasers are used D 44
+ion fluxes has been D 41

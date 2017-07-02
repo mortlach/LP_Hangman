@@ -1,0 +1,3 @@
+cylinder whose axis coincides D 330
+cylinder under these conditions D 202
+cylinder walls during combustion D 130

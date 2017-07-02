@@ -1,0 +1,4 @@
+exponential service time distribution M 1192
+externally imposed time constraints M 80
+experiment stations were established D 938
+expositors limited their assessments D 116

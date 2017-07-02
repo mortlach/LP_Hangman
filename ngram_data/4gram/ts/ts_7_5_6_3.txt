@@ -1,0 +1,3 @@
+tsunami warning system was D 256
+tsunami warning system for D 246
+tsunami warning system has D 112

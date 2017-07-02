@@ -1,0 +1,6 @@
+action should become a M 650
+actor before becoming a M 244
+action passes through a M 214
+action should follow a M 124
+action occurs through a M 110
+action without becoming a M 82

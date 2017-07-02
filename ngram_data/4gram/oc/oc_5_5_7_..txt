@@ -1,0 +1,13 @@
+occur within minutes . M 1272
+occur close together . M 880
+occur quite quickly . M 544
+occur within seconds . M 398
+occur rather quickly . M 392
+occur within marriage . M 352
+occur after marriage . M 174
+occur within species . M 172
+occur within society . M 112
+occur taken together . M 108
+occur within schools . M 92
+occur within systems . M 86
+occur mixed together . M 82

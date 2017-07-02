@@ -1,0 +1,2 @@
+db increase in gain D 169
+db increase in hearing D 53

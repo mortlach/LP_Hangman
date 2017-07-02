@@ -1,0 +1,4 @@
+vote unless present when D 120
+volt direct current from D 119
+void spaces between soil D 108
+volt direct current line D 90

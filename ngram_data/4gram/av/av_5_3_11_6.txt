@@ -1,0 +1,11 @@
+avoid any unnecessary delays M 210
+avoid this unfortunate result M 160
+avoid any unnecessary strain M 126
+avoid any unnecessary damage M 124
+avoid any unnecessary stress M 113
+avoid any unnecessary trauma M 108
+avoid all unnecessary handling M 104
+avoid any unnecessary injury M 82
+avoid this undesirable result D 324
+avoid this undesirable effect D 222
+avoid any unnecessary chilling D 106

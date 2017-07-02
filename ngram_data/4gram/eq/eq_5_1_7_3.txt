@@ -1,0 +1,5 @@
+equip a student for M 198
+equip a student with M 172
+equip a thousand men M 138
+equip a machine with M 99
+equip a factory with D 86

@@ -1,0 +1,2 @@
+value a relative term M 188
+valid a contract must M 94

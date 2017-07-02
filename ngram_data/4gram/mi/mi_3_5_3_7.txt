@@ -1,0 +1,8 @@
+mix after each addition M 378
+mix white and colored M 154
+mix speaking and listening M 84
+mix facts and opinions M 49
+mix drugs and alcohol D 190
+mix mercy with justice D 110
+mix males and females D 96
+mix flour and seasonings D 95

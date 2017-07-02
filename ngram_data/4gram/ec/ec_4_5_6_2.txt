@@ -1,0 +1,5 @@
+echo image through the M 397
+echo alone should be M 136
+echo which seemed to M 119
+echo which chimed in M 102
+echo which repeats the D 129

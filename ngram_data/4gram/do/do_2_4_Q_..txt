@@ -1,0 +1,17 @@
+do nothing " . M 1384
+do good " . M 666
+do nothing " ? M 474
+do well " . M 466
+do next " . M 272
+do evil " . M 260
+do more " . M 254
+do part " . M 214
+do part " ? M 186
+do wrong " . M 184
+do here " . M 162
+do good " ? M 156
+do well " ? M 148
+do work " . M 139
+do harm " . M 132
+do wrong " ? M 98
+do know " . M 90

@@ -1,0 +1,5 @@
+iron blast furnace slags D 182
+iron plate against which D 131
+iron railing painted black D 111
+iron railing against which D 110
+iron gates between stone D 42

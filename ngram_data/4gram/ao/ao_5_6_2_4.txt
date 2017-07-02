@@ -1,0 +1,6 @@
+aorta through the left D 266
+aorta beyond the left D 205
+aorta nearest the heart D 114
+aorta behind the neck D 84
+aorta beyond the arch D 82
+aorta behind the left D 47

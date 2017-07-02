@@ -1,0 +1,3 @@
+ppm with a range D 178
+ppm and a range D 94
+ppm for a single D 84

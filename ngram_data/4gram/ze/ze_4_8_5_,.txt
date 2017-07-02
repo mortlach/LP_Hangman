@@ -1,0 +1,4 @@
+zero external field , M 838
+zero marginal costs , M 371
+zero expected value , M 366
+zero symbolic value , M 92

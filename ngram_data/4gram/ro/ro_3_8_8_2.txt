@@ -1,0 +1,4 @@
+row consisting entirely of D 170
+rod attached directly to D 120
+rod assembly consists of D 114
+row consists entirely of D 110

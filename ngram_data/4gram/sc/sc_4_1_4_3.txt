@@ -1,0 +1,8 @@
+scan a page and D 232
+scan a wide area D 186
+scan a string for D 140
+scan a disk for D 137
+scan a text for D 123
+scan a file for D 116
+scan a page for D 112
+scan a text and D 100

@@ -1,0 +1,9 @@
+normal normal decreased decreased M 365
+normal stress boundary condition M 286
+normal normal abnormal abnormal M 282
+normal normal increased increased M 177
+normal normal elevated elevated M 88
+normal female external genitalia D 852
+normal canine coronary arteries D 288
+normal female internal genitalia D 162
+normal normal prolonged prolonged D 136

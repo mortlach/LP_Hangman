@@ -1,0 +1,9 @@
+type your password again M 399
+type your password every M 140
+type your password twice M 133
+type most commonly found D 1113
+type main sequence stars D 890
+type more commonly found D 284
+type fuel injection pumps D 122
+type most commonly grown D 92
+type width decimals label D 90

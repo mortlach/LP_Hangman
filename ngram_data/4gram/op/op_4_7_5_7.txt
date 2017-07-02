@@ -1,0 +1,7 @@
+open country which extends M 184
+open systems which display M 92
+open systems which exchange M 59
+open circuit short circuit D 272
+open circuit noise voltage D 192
+open windows photo gallery D 125
+open clogged blood vessels D 40

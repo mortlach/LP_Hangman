@@ -1,0 +1,9 @@
+demand " for money M 709
+demand " for labor M 312
+demand " for goods M 278
+detail " with which M 116
+desire " with which M 102
+decide " who shall M 100
+deeper " than others M 96
+denote " that which M 95
+demand " for water M 88

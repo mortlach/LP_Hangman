@@ -1,0 +1,16 @@
+airport for a flight D 2360
+airport and a flight D 402
+airport with a runway D 240
+airport for a couple D 226
+airport and a number D 162
+airport with a couple D 139
+airways and a number D 128
+airport has a runway D 124
+airport and a seaport D 124
+airline for a ticket D 120
+airport with a friend D 112
+airport was a little D 106
+airline has a policy D 96
+airport with a cordial D 94
+airport with a ticket D 86
+airport for a return D 84

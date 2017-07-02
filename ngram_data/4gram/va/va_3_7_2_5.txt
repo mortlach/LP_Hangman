@@ -1,0 +1,6 @@
+van stopped in front D 854
+van appeared in sight D 208
+van outside the house D 192
+vat charged on sales D 131
+van started up again D 82
+vat charged on goods D 51

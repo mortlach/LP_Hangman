@@ -1,0 +1,5 @@
+ions passing into solution D 206
+ions which have entered D 152
+ions which were present D 150
+ions which move towards D 138
+ions enter into solution D 83

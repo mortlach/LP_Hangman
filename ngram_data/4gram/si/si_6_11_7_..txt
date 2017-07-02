@@ -1,0 +1,13 @@
+simple hypothetical example . M 794
+simple mathematical equation . M 714
+simple mathematical function . M 456
+simple interrupted pattern . M 444
+simple mathematical problem . M 330
+simple mathematical process . M 192
+simple mathematical relation . M 180
+simple substitution ciphers . M 160
+simple mathematical example . M 128
+simple mathematical solution . M 126
+simple conservation measures . M 98
+simple mathematical language . M 84
+signal distribution systems . M 49

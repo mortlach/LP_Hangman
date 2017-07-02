@@ -1,0 +1,4 @@
+omit many important details M 118
+omit many interesting details M 94
+omit some important aspects M 82
+omit many important aspects M 82

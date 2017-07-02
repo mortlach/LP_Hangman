@@ -1,0 +1,8 @@
+skin cancer incidence in D 290
+skin changes secondary to D 200
+skin lesions secondary to D 134
+skin cancer incidence to D 134
+skin cancer incidence is D 97
+skin cancer mortality to D 96
+skin lesions developed in D 91
+skin lesions elsewhere on D 82

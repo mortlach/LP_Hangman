@@ -1,0 +1,3 @@
+yielded light enough for M 104
+yielded lower values than M 96
+yielded lower values for M 84

@@ -1,0 +1,6 @@
+try something else instead M 306
+try something else before M 208
+try printing from another M 120
+try something more direct M 40
+try matching your skills D 128
+try something more exotic D 100

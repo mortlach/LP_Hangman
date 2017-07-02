@@ -1,0 +1,3 @@
+emit sparks of fire D 548
+emit pulses of radio D 98
+emit clouds of steam D 96

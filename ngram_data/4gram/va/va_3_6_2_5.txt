@@ -1,0 +1,3 @@
+van parked in front D 1712
+van picked up speed D 344
+van pulled in front D 142

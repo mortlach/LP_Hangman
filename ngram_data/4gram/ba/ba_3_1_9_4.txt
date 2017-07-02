@@ -1,0 +1,5 @@
+bar a candidate from M 157
+bar a plaintiff from D 482
+bar a defendant from D 432
+bar a reasonable jury D 104
+bad a reputation among D 96

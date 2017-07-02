@@ -1,0 +1,5 @@
+permit required confined spaces M 95
+person lawfully entitled thereto D 848
+person otherwise entitled thereto D 298
+person properly entitled thereto D 252
+person exercising ordinary common D 194

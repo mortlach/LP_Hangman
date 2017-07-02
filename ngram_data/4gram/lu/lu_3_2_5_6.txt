@@ -1,0 +1,5 @@
+lung or breast cancer D 886
+lung or colon cancer D 276
+lung or liver disease D 272
+lung or throat cancer D 104
+lung or renal disease D 94

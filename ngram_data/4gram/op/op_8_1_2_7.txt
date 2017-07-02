@@ -1,0 +1,6 @@
+operator a is defined M 828
+operator t is defined M 306
+operator d is defined M 184
+operator s is defined M 174
+operator a is bounded M 124
+operator a is applied M 108

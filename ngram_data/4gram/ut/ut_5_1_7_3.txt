@@ -1,0 +1,3 @@
+utter a peculiar cry M 334
+utter a protest and M 122
+utter a profane oath D 102

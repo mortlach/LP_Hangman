@@ -1,0 +1,5 @@
+jet aircraft to take D 204
+jet aircraft to land D 140
+jet aircraft as well D 130
+jet aircraft is flying D 102
+jet fighters as well D 96

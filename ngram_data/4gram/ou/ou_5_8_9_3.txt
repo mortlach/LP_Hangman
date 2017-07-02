@@ -1,0 +1,5 @@
+outer boundary conditions are M 310
+outer boundary conditions for M 194
+outer boundary conditions and M 90
+outer membrane structure and D 158
+outer membrane receptors for D 98

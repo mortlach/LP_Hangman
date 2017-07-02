@@ -1,0 +1,3 @@
+ms with a mean D 68
+ms and a peak D 59
+ms and a mean D 48

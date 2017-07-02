@@ -1,0 +1,3 @@
+opt to leave . M 128
+opt to join . M 116
+opt to stay . M 93

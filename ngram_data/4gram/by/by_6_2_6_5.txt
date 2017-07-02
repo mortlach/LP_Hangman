@@ -1,0 +1,3 @@
+bypass the normal chain D 204
+bypass the buffer cache D 190
+bylaws or standing rules D 140

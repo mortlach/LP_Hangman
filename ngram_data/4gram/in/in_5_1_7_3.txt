@@ -1,0 +1,8 @@
+incur a penalty not M 15332
+incur a penalty for M 880
+infer a general law M 552
+input a message and M 100
+input a program and M 90
+incur a certain and M 90
+incur a deficit and M 84
+incur a penalty tax D 90

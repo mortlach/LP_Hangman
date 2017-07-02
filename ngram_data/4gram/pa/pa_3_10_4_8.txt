@@ -1,0 +1,4 @@
+pay relatively more attention M 540
+pay relatively less attention M 373
+pay relatively high interest M 249
+pay relatively high salaries D 191

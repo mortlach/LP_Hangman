@@ -1,0 +1,7 @@
+picking through a box M 99
+piece without a gap M 90
+pilot engages a jaw D 116
+piece without a seam D 105
+pilot watching a big D 100
+pints behind a two D 96
+pines through a sky D 88

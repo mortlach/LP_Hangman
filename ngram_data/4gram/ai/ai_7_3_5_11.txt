@@ -1,0 +1,3 @@
+airline and hotel reservations D 1521
+airport was under construction D 200
+airport that could accommodate D 108

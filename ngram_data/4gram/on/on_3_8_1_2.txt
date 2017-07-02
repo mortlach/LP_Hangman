@@ -1,0 +1,11 @@
+one instance i am M 300
+one believes a thing M 212
+one promises a thing M 178
+one exception i am M 140
+one believes i am M 127
+one exception i do M 108
+one argument i am M 104
+one instance i do M 94
+one affirmed a thing D 497
+one suspects a thing D 253
+one regiment i am D 108

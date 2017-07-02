@@ -1,0 +1,4 @@
+breadwinner and a dependent D 226
+bricklayer and a carpenter D 188
+breadwinner with a dependent D 110
+breadwinner and a homemaker D 106

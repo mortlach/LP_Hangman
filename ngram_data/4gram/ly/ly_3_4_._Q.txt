@@ -1,0 +1,15 @@
+lying down . " M 12630
+lying there . " M 5658
+lying down ? " M 3024
+lying here . " M 2484
+lying there ? " M 2134
+lying here ? " M 1596
+lying idle . " M 748
+lying down ! " M 686
+lying there ! " M 466
+lying here ! " M 330
+lying eyes ? " M 194
+lying face . " M 167
+lying idle ? " M 110
+lying eyes . " M 108
+lying ahead . " M 100

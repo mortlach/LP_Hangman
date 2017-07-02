@@ -1,0 +1,14 @@
+utter one word that M 519
+utter his name with M 356
+utter one word for M 300
+utter that name and M 282
+utter not base and M 278
+utter his name and M 268
+utter any word that M 154
+utter that word now M 102
+utter and break with M 94
+utter this word with M 92
+utter one word and M 92
+utter any other than M 82
+utter his name now M 80
+utter any joke but D 434

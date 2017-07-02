@@ -1,0 +1,4 @@
+cells before birth . M 210
+cells already there . M 130
+ceases before birth . M 100
+cells awaiting trial . M 82

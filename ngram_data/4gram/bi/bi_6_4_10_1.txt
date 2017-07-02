@@ -1,0 +1,2 @@
+binary tree representing a D 95
+binary string representing a D 87

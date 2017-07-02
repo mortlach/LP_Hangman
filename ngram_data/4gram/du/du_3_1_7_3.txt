@@ -1,0 +1,8 @@
+dug a shallow pit D 1014
+dug a channel for D 290
+dug a channel with D 194
+dug a pitfall for D 192
+dug a quarter out D 176
+dug a foxhole and D 150
+dug a foxhole for D 108
+dug a shelter for D 82

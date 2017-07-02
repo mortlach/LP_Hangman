@@ -1,0 +1,12 @@
+icon on your windows M 1524
+icon in your control M 332
+icon in your windows M 316
+icon of high culture M 164
+icon of mass culture M 86
+icon on your desktop D 14300
+icon to your desktop D 593
+icon on your toolbar D 258
+icon in file manager D 210
+icon on their desktop D 123
+icon or menu command D 119
+icon on your browser D 100

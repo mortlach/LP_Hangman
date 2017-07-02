@@ -1,0 +1,5 @@
+byte past the end D 198
+byte will be read D 166
+byte size of each D 122
+byte will be set D 101
+byre among the hay D 84

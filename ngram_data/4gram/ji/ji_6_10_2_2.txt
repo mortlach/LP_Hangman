@@ -1,0 +1,1 @@
+jitter introduced by the D 397

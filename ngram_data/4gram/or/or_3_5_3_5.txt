@@ -1,0 +1,11 @@
+ore taken for assay D 513
+ore mixed with water D 302
+ore grade and value D 267
+ore which was found D 203
+ore which was mined D 151
+ore field and region D 127
+ore which are found D 119
+ore mixed with dross D 93
+ore above and below D 52
+ore mines and blast D 50
+ore mines and steel D 46

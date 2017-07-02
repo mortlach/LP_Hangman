@@ -1,0 +1,16 @@
+voice cracking slightly . M 880
+voice sounding strained . M 534
+voice changed suddenly . M 382
+voice changed slightly . M 310
+voice changed abruptly . M 306
+voice became strained . M 294
+voice wavering slightly . M 282
+voice stress analysis . M 259
+voice seemed strained . M 230
+voice raised slightly . M 196
+voice sounds strained . M 186
+voice catching slightly . M 130
+voice showed surprise . M 112
+voice always produced . M 110
+voice called urgently . M 102
+voice became hesitant . M 98

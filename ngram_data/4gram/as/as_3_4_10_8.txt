@@ -1,0 +1,10 @@
+ask your particular attention M 888
+ask some embarrassing questions M 442
+ask such embarrassing questions M 196
+ask more appropriate questions M 168
+ask these particular questions M 112
+ask these unexpected questions M 104
+ask your instructor questions M 102
+ask more insightful questions M 86
+ask your classmates questions D 282
+ask such ridiculous questions D 132

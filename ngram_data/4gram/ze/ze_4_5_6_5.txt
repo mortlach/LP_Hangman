@@ -1,0 +1,4 @@
+zero point energy which M 147
+zero power factor lagging D 443
+zero power factor curve D 177
+zero point energy level D 94

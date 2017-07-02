@@ -1,0 +1,3 @@
+view ignores a number M 140
+view becomes a matter M 88
+view receive a simple M 80

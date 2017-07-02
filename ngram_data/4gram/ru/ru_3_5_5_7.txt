@@ -1,0 +1,3 @@
+run seven times between M 339
+run every thirty minutes M 280
+run about eight hundred M 43

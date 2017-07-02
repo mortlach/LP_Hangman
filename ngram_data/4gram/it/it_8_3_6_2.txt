@@ -1,0 +1,4 @@
+iterated any number of M 100
+iteration may result in M 43
+iterator that points to D 1039
+iterator that refers to D 324

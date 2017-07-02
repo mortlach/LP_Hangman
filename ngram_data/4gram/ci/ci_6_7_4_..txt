@@ -1,0 +1,3 @@
+cities studied here . M 170
+cities exactly once . M 108
+cities located there . M 80

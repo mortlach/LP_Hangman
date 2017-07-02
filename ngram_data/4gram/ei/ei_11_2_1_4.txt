@@ -1,0 +1,5 @@
+eigenvalues of a have D 1281
+eigenvalues of a will D 152
+eigenvalues of a must D 150
+eigenvalues of a self D 140
+eigenstates of a single D 98

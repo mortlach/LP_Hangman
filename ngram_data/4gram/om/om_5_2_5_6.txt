@@ -1,0 +1,5 @@
+omits to state whether D 342
+omits the comma before D 206
+omits the final clause D 156
+omits the first clause D 104
+omits the final phrase D 100

@@ -1,0 +1,11 @@
+run incremental costs and M 130
+run incremental costs are M 102
+run equilibrium price and D 1374
+run equilibrium price for D 410
+run equilibrium growth path D 339
+run equilibrium level and D 215
+run equilibrium value for D 145
+run equilibrium point for D 103
+run equilibrium value and D 52
+run enterprises which are D 47
+run equilibrium where all D 45

@@ -1,0 +1,5 @@
+amino acid leader sequence D 564
+amino acid binding proteins D 176
+amino acid query sequence D 146
+amino acid diets containing D 90
+amino acid which contains D 72

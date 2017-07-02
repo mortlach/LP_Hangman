@@ -1,0 +1,3 @@
+ulcers in contact lens D 128
+ulcers of variable size D 118
+ulcers of variable depth D 98

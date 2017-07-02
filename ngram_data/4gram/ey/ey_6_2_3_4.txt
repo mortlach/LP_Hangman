@@ -1,0 +1,4 @@
+eyelid on one side D 160
+eyelid on that side D 108
+eyelid up and down D 44
+eyelid of his left D 41

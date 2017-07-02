@@ -1,0 +1,2 @@
+pyrite may be present D 181
+pyrite can be removed D 164

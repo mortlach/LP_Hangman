@@ -1,0 +1,3 @@
+draw parallel vertical lines D 117
+draw daylight curtains about D 112
+draw parallel straight lines D 102

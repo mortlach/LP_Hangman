@@ -1,0 +1,2 @@
+bytes free you can D 204
+bytes used for each D 102

@@ -1,0 +1,15 @@
+la cup lemon juice D 1397
+la cup brown sugar D 1005
+la cup orange juice D 823
+la cup fresh lemon D 562
+la cup boiling water D 320
+la cup maple syrup D 262
+la cup apple juice D 233
+la cup light brown D 189
+la cup fresh basil D 160
+la cup chili sauce D 151
+la cup apple cider D 141
+la cup fresh orange D 137
+la cup sugar until D 113
+la cup green onions D 49
+la cup diced green D 43

@@ -1,0 +1,9 @@
+open it . " M 42843
+open up . " M 17789
+open it ? " M 17026
+open up ! " M 13484
+open it ! " M 9783
+open up ? " M 1674
+open foe . " M 180
+open to . " M 135
+open to ? " M 126

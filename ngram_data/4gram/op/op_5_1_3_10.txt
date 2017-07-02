@@ -1,0 +1,5 @@
+opening a new university M 148
+opening a new historical M 82
+opening a new restaurant D 1088
+opening a new department D 328
+opens a new restaurant D 158

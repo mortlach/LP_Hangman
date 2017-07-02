@@ -1,0 +1,3 @@
+atom absorb a photon D 152
+atom emitting a photon D 132
+atom carrying a partial D 63

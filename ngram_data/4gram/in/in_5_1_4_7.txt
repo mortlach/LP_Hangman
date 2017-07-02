@@ -1,0 +1,10 @@
+incur a like penalty M 396
+incur a heavy penalty M 312
+incur a loss because M 208
+incur a cost penalty M 198
+infer a link between M 147
+infer a more general M 139
+ingesting a wide variety M 126
+incur a time penalty M 104
+incur a heavy expense D 564
+incur a great expense D 344

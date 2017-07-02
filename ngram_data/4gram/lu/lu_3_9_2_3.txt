@@ -1,0 +1,3 @@
+lung compliance is low D 180
+lung association of new D 176
+lung compliance is not D 124

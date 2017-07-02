@@ -1,0 +1,3 @@
+item designates the bank D 260
+item representing the cost D 124
+item represents the cost D 112

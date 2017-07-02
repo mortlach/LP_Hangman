@@ -1,0 +1,5 @@
+auto workers and general D 716
+audio encoder and decoder D 145
+audio signals are applied D 123
+aunt charity that brought D 118
+audio signals are sampled D 94

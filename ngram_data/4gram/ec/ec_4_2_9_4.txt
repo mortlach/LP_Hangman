@@ -1,0 +1,2 @@
+echo is reflected back D 144
+echo is reflected from D 106

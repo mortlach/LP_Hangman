@@ -1,0 +1,5 @@
+typhus and typhoid fevers D 5760
+typhus and relapsing fevers D 554
+typhus and bubonic plague D 478
+typhus and spotted fevers D 140
+typhus and scarlet fevers D 122

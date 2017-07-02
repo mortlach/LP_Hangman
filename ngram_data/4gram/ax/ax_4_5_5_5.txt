@@ -1,0 +1,4 @@
+axiom which never fails M 80
+axis about which bending D 511
+axis about which input D 254
+axis makes equal angles D 63

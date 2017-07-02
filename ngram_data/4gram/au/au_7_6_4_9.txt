@@ -1,0 +1,3 @@
+auditor should make inquiries D 488
+auditor should also determine D 416
+auditor should also ascertain D 152

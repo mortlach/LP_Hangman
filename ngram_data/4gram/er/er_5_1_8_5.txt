@@ -1,0 +1,12 @@
+erect a suitable house M 342
+erect a suitable place M 140
+erect a business block M 120
+erect a religious house M 116
+erect a distinct kingdom M 106
+erect a monument which D 393
+erect a monument worthy D 259
+erect a temporal kingdom D 235
+erect a gasoline filling D 176
+erect a monument above D 114
+erect a nativity scene D 98
+erect a scaffold round D 88

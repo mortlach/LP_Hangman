@@ -1,0 +1,2 @@
+rye can be planted D 89
+rye cut at harvest D 86

@@ -1,0 +1,5 @@
+axial distance between two D 230
+axis directed forward and D 164
+axial velocity profile for D 156
+axis cylinder process and D 125
+axial velocity profile and D 120

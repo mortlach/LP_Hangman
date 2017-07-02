@@ -1,0 +1,3 @@
+edit scale list dialog M 201
+edit ascii text files M 99
+edge water edge water M 80

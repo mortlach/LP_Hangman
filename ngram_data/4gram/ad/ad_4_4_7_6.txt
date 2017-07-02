@@ -1,0 +1,4 @@
+adding more organic matter M 140
+adding more control points M 132
+adding these together yields M 98
+adding more variable inputs D 86

@@ -1,0 +1,7 @@
+say something " and M 186
+say neither " yes M 114
+say someone " has M 104
+say something " new M 96
+say simply " that M 94
+saw clearly " that M 82
+say something " that M 50

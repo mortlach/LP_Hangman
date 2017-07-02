@@ -1,0 +1,5 @@
+job within walking distance M 219
+job looking after children M 110
+job while still employed D 220
+job which would normally D 162
+job which would otherwise D 136

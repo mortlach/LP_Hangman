@@ -1,0 +1,5 @@
+ohm line to the D 132
+ohm load to the D 112
+ohm load at the D 108
+ohm coil of the D 92
+ohm load on the D 58

@@ -1,0 +1,2 @@
+rs is the sum D 104
+rs is the mean D 43

@@ -1,0 +1,7 @@
+ask your human resources M 454
+ask your hotel concierge D 1531
+ask your local bookstore D 364
+ask your local newspaper D 260
+ask your older relatives D 160
+ash left after combustion D 116
+ask your final resolution D 86

@@ -1,0 +1,4 @@
+normally closed contacts open M 286
+normally closed contacts will M 134
+normally closed normally open M 83
+nonsense without forfeiting some D 82

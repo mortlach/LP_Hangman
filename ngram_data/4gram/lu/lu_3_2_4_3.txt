@@ -1,0 +1,11 @@
+lung in health and D 1134
+lung is less than D 500
+lung is dark red D 196
+lung is firm and D 188
+lung is more than D 140
+lung is such that D 137
+lung in iron ore D 127
+lung at rest and D 108
+lung is only one D 95
+lung is heavy and D 86
+lung or heart and D 80

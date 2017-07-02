@@ -1,0 +1,3 @@
+gene for normal pigmentation D 230
+gene for sticky chromosomes D 204
+gene and nuclear localization D 122

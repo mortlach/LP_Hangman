@@ -1,0 +1,2 @@
+byte offsets from the D 58
+byte written into the D 49

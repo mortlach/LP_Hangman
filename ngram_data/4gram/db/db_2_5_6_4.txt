@@ -1,0 +1,2 @@
+db above normal hearing D 120
+db small signal gain D 62

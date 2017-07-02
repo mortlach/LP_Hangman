@@ -1,0 +1,4 @@
+exit condition is tested M 172
+exam designed to measure M 89
+exit pressure is greater D 158
+exit pressure is higher D 114

@@ -1,0 +1,4 @@
+items were carefully selected M 202
+items were presented visually M 168
+items were correctly answered M 118
+items from different languages M 108

@@ -1,0 +1,5 @@
+emit plenty of light M 91
+emit appears to serve M 84
+emit clouds of smoke D 148
+emit pulses of light D 138
+emit sparks of light D 80

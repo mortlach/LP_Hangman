@@ -1,0 +1,3 @@
+emit radiation of frequency D 194
+emit radiation at wavelengths D 126
+emit radiation of different D 104

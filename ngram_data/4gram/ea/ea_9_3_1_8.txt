@@ -1,0 +1,2 @@
+earthquakes are a constant D 158
+earthquakes are a frequent D 84

@@ -1,0 +1,7 @@
+omission has been discovered M 1100
+omission has been deliberate M 610
+omission has been intentional M 416
+omission had been deliberate M 192
+omission had been intentional M 174
+omission had been accidental M 136
+omission was only discovered M 84

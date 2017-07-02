@@ -1,0 +1,3 @@
+worker performs a job M 104
+wounds received a few M 90
+worker performing a job D 102

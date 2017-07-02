@@ -1,0 +1,4 @@
+db is a set D 265
+db at a bit D 193
+db is a low D 56
+db is a mean D 47

@@ -1,0 +1,7 @@
+thermoplastic materials that are D 192
+thermoplastic polymers that are D 154
+thermodynamic relations that are D 142
+thermoplastic materials that can D 128
+thermodynamic functions that are D 118
+thermoplastic materials are not D 104
+thermodynamic functions are not D 94

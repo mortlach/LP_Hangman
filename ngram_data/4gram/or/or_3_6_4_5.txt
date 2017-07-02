@@ -1,0 +1,4 @@
+ore bodies were found D 495
+ore bodies from which D 109
+ore bodies were mined D 64
+ore yields only about D 47

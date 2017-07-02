@@ -1,0 +1,5 @@
+total charge inside a M 192
+total normal stress a M 131
+total relief without a M 100
+tough enough without a M 90
+towed slowly behind a D 86

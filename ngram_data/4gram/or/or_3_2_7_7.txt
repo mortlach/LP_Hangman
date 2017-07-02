@@ -1,0 +1,9 @@
+ore is usually hoisted D 266
+ore of superior quality D 255
+ore of inferior quality D 212
+orb of tenfold adamant D 174
+ore is smelted locally D 162
+ore is usually crushed D 114
+ore is crushed between D 100
+ore or mineral deposit D 90
+ore is closely related D 80

@@ -1,0 +1,4 @@
+ozone hole has been D 304
+ozone loss has been D 146
+ozone hole had been D 130
+ozone have not been D 108

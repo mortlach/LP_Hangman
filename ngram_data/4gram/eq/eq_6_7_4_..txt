@@ -1,0 +1,3 @@
+equals average cost . M 1710
+equals planned saving . M 123
+equals desired saving . M 58

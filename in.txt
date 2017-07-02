@@ -1,0 +1,25 @@
+#where to read the input ngrams
+input = ./chainer_data/ngin.txt
+# where to put the output ngrams 
+output = ./chainer_data/out.txt
+cutput = ./chainer_data/cutout.txt
+# wher eare the raw ngrams
+datapath = ./ngram_data/4gram/
+# how many entries to keep in cutout
+maxentries = 200
+# use cutoutput (1) or full out put (0)
+usecutput = 1,1, 
+# which corupus 
+corpus = M
+# how many words muct mathc between the start of the new ngram and the end of the old 
+numwords2match = 2,3
+# ngram word counts
+wordcounts = 2,9,6,3,3,5,3,2,7,3,3,6,5,8,2,3,2,2,2,3,2,.
+
+# non of the below is fully implemented yet 
+# words to excluide
+word6not = author,serve
+# words to force
+word3is
+# foce a POS
+word6pos

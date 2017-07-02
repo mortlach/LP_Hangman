@@ -1,0 +1,9 @@
+isolated cases , " M 368
+isolated place , " M 164
+isolated state , " M 158
+isolated event , " M 150
+isolated action , " M 134
+isolated facts , " M 124
+isolated words , " M 112
+isolated words : " M 109
+isolated units , " M 43

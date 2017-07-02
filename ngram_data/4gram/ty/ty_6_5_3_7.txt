@@ -1,0 +1,5 @@
+typhus fever and relapsing D 416
+typhus fever and typhoid D 208
+typhus fever and cholera D 183
+typhus fever and bubonic D 140
+typhus fever and spotted D 65

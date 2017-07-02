@@ -1,0 +1,5 @@
+axis once every twenty D 1083
+axial ribs which extend D 248
+axial line passing through D 146
+axis will point toward D 102
+axes were still crashing D 88

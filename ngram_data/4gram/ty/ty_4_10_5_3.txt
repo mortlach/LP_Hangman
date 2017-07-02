@@ -1,0 +1,4 @@
+type properties dialog box M 537
+type background block box M 154
+type structures which are M 66
+type activities which are M 44

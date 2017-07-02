@@ -1,0 +1,3 @@
+go essentially to completion M 656
+go downstairs to telephone D 320
+go frequently to confession D 288

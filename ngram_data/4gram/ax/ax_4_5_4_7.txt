@@ -1,0 +1,4 @@
+axis lines during passage D 274
+axis which lies between D 187
+axis which runs between D 105
+axial loads were applied D 82

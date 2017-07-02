@@ -1,0 +1,10 @@
+during normal computer operation M 118
+during severe muscular exercise D 330
+during lumbar epidural anesthesia D 308
+during graded treadmill exercise D 262
+during violent muscular exercise D 214
+during normal physical activity D 160
+during violent volcanic eruptions D 154
+during lumbar epidural analgesia D 144
+during caudal epidural analgesia D 96
+during erotic stimulus exposure D 82

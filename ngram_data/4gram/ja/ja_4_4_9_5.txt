@@ -1,0 +1,2 @@
+java beans component model D 108
+java beans programming black D 100

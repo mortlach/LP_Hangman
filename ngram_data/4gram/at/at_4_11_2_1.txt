@@ -1,0 +1,4 @@
+atom corresponds to a D 671
+atom corresponding to a D 188
+atom participating in a D 181
+atom represented by a D 120

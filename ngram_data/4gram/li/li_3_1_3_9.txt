@@ -1,0 +1,3 @@
+lie a real ambiguity M 342
+lit a new cigarette D 2311
+lit a long cigarette D 206

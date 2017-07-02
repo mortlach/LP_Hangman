@@ -1,0 +1,2 @@
+pyrite is one of D 304
+pylori is one of D 130

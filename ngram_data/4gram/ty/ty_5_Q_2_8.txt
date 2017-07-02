@@ -1,0 +1,7 @@
+types " of students M 360
+types " of children M 224
+types " of validity M 192
+types " of religious M 124
+types " of authority M 120
+types " of families M 112
+types " of humanity M 90

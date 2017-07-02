@@ -1,0 +1,11 @@
+bytes from the end D 752
+bytes will be read D 476
+bytes free if you D 372
+bytes free as you D 162
+byway open to all D 161
+bytes from the top D 159
+bytes used by each D 126
+bytes free in this D 124
+bytes must be read D 120
+bytes from the heap D 102
+bytes past the end D 45

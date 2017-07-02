@@ -1,0 +1,10 @@
+hide a vague perception M 116
+high a light intensity M 112
+hire a black applicant M 92
+hire a black assistant M 53
+hire a chief executive D 214
+hire a social secretary D 133
+hire a press secretary D 118
+hire a large proportion D 118
+hire a black secretary D 108
+hiring a senior executive D 91

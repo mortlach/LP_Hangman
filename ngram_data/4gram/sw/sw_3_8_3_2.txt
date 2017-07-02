@@ -1,0 +1,3 @@
+swing required for the D 116
+swing parallel with the D 95
+swing producer for the D 88

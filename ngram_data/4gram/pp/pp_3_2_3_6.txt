@@ -1,0 +1,4 @@
+ppm in dry matter D 434
+ppm of dry matter D 282
+ppm of dry weight D 185
+ppm on dry weight D 118

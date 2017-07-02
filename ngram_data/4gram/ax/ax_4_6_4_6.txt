@@ -1,0 +1,6 @@
+axis should pass through D 256
+axial vector form factor D 244
+axis forces were driven D 184
+axis through their center D 162
+axis through their common D 111
+axis through their centre D 90

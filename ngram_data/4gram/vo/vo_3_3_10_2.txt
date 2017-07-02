@@ -1,0 +1,2 @@
+vow was superseded by D 160
+vow was registered in D 136

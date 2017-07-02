@@ -1,0 +1,6 @@
+rule for matrix multiplication M 779
+runs its course independently M 262
+rule out various possibilities M 126
+rule for partial differentiation D 312
+rule and native administration D 128
+rule for future determinations D 92

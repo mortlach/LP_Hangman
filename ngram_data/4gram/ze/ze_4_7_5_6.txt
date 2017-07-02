@@ -1,0 +1,2 @@
+zero current flows through D 219
+zero current flowing through D 135

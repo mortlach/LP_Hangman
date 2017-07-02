@@ -1,0 +1,7 @@
+fly quite away . M 308
+fly right back . M 243
+fly after dark . M 208
+fly quite well . M 200
+fly right away . M 189
+fly within range . M 121
+fly right over . M 114

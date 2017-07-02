@@ -1,0 +1,3 @@
+gets translated into action M 348
+gene introduced into mouse D 166
+gene duplication took place D 96

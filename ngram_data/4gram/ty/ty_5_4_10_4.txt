@@ -1,0 +1,11 @@
+types were introduced into M 358
+types were classified into M 198
+types were identified from M 196
+types were determined from M 140
+types were introduced from M 124
+types over compatible base M 120
+types most frequently used D 728
+types have frequently been D 224
+types most frequently seen D 132
+types have existential type D 114
+types were subdivided into D 104

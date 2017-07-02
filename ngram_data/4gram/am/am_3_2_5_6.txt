@@ -1,0 +1,5 @@
+amp in brain slices D 368
+amp is flowing through D 166
+amp in brain tissue D 146
+amp in human thyroid D 121
+amp in smooth muscle D 100

@@ -1,0 +1,6 @@
+cutting a circular piece M 276
+cutting a circular opening M 97
+cutting a magnetic field D 416
+curve a negative slope D 184
+curve a positive slope D 182
+cutting a triangular piece D 144

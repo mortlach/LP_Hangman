@@ -1,0 +1,4 @@
+aft toward the engine D 112
+aft toward the cabin D 98
+aft through the cabin D 86
+aft toward the stern D 82

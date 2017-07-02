@@ -1,0 +1,13 @@
+db per doubling of D 1809
+db per decade of D 798
+db per octave at D 556
+db per octave or D 461
+db per octave of D 376
+db per octave in D 344
+db per octave is D 313
+db per octave as D 285
+db per octave to D 170
+db per decade at D 136
+db per decade or D 115
+db per decade in D 56
+db per decade is D 51

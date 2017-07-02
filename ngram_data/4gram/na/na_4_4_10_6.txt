@@ -1,0 +1,4 @@
+name must immediately follow M 152
+navy blue turtleneck sweater D 122
+name most frequently appears D 86
+name also frequently occurs D 80

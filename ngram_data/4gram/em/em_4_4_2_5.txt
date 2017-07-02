@@ -1,0 +1,4 @@
+emit rays of light D 809
+emit beams of light D 120
+emit beta or gamma D 110
+emit rays or light D 99

@@ -1,0 +1,3 @@
+eigenvalues have to be D 302
+eigenvalues will be the D 170
+eigenvalues need to be D 124

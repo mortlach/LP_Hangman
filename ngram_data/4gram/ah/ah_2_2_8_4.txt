@@ -1,0 +1,2 @@
+ah is constant over D 100
+ah is obtained from D 42

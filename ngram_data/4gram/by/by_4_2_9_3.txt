@@ -1,0 +1,4 @@
+byte to represent each D 163
+byte is allocated for D 154
+byte to represent one D 102
+byte is associated with D 54

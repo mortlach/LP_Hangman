@@ -1,0 +1,15 @@
+deny it . " M 40381
+deny it ? " M 13846
+deny it ! " M 5313
+deny me . " M 2748
+deny us . " M 1354
+deny me ? " M 1100
+deny me ! " M 370
+depth of . " M 330
+dealt me . " M 280
+dealt it . " M 248
+dealt by . " M 241
+dealt us . " M 214
+deny us ? " M 150
+deem it . " M 108
+deem me . " M 88

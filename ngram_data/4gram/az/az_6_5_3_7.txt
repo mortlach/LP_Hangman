@@ -1,0 +1,2 @@
+azimuth frame with respect D 242
+azimuth angles are measured D 110

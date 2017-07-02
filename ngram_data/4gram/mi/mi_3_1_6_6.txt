@@ -1,0 +1,4 @@
+mix a little yellow M 96
+mix a little common M 80
+mix a little starch D 100
+mix a little butter D 83

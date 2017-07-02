@@ -1,0 +1,6 @@
+ore deposits were formed D 882
+ore contains very little D 125
+ore deposits were worked D 106
+ore contains much silver D 84
+ore deposits were opened D 54
+ore deposits have formed D 45

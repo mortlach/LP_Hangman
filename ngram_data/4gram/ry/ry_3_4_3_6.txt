@@ -1,0 +1,7 @@
+rye bread and butter D 1347
+rye bread and cheese D 516
+rye bread with butter D 400
+rye bread and coffee D 177
+rye bread with cheese D 125
+rye bread and smoked D 102
+rye bread and salami D 45

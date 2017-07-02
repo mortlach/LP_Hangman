@@ -1,0 +1,2 @@
+swing about a pivot D 90
+swing about a fixed D 88

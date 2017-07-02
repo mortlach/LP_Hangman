@@ -1,0 +1,4 @@
+pneumonia or heart failure D 630
+pneumonia or other diseases D 356
+pneumonia in young infants D 284
+pneumonia in early infancy D 100

@@ -1,0 +1,9 @@
+utter a sound . M 23322
+utter a groan . M 820
+utter a warning . M 640
+utter a reply . M 410
+utter a curse . M 346
+utter a sound ! M 166
+utter a sound ? M 138
+utter a denial . M 114
+utter a noise . M 92

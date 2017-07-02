@@ -1,0 +1,7 @@
+clinically positive lymph nodes D 865
+clinically negative lymph nodes D 534
+clinically involved lymph nodes D 373
+clinically palpable lymph nodes D 274
+clinically enlarged lymph nodes D 157
+clinically apparent until after D 122
+clinically apparent until later D 98

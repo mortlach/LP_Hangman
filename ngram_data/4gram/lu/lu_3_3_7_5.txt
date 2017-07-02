@@ -1,0 +1,7 @@
+lung and pleural space D 1102
+lung and urinary tract D 470
+lung and regional lymph D 184
+lung and amniotic fluid D 114
+lung and mammary gland D 110
+lung and tracheal fluid D 108
+lung and adrenal gland D 91

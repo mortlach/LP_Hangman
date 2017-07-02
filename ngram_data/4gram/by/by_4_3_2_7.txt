@@ -1,0 +1,5 @@
+byte can be written D 250
+byte has an address D 226
+byte out of history D 134
+byte read or written D 114
+byte with the highest D 94

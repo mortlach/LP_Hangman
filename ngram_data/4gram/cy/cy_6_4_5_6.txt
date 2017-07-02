@@ -1,0 +1,3 @@
+cystic from solid lesions D 726
+cystic from solid masses D 646
+cystic from solid tumors D 102

@@ -1,0 +1,4 @@
+numerically much inferior to D 300
+numerically much superior to D 164
+numerically very inferior to D 154
+numerically very similar to D 98

@@ -1,0 +1,4 @@
+skin resistance is high D 168
+skin preparation is done D 140
+skin afterwards to show D 138
+skid resistance of road D 56

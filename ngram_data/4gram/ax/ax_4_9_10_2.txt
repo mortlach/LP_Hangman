@@ -1,0 +1,3 @@
+axial dispersion coefficient is D 344
+axial dispersion coefficient of D 284
+axial dispersion coefficient in D 256

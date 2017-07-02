@@ -1,0 +1,5 @@
+ions carry a positive D 384
+ions carry a negative D 200
+ions under a potential D 185
+ions within a distance D 112
+ions cross a membrane D 90

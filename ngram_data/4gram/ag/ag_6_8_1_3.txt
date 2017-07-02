@@ -1,0 +1,4 @@
+agency receives a fee D 124
+agents received a tip D 96
+agency collects a fee D 86
+agents arrested a man D 80

@@ -1,0 +1,9 @@
+yields values that are M 726
+yields images that are M 119
+yielding values that are M 86
+yields greater than one M 60
+yields scores that are D 332
+yields findings that are D 177
+yields scores for each D 155
+yields fibers that are D 96
+yielding metals run with D 80

@@ -1,0 +1,8 @@
+emits light when forward M 280
+emits light when current M 268
+empty space left between M 252
+emits light when exposed M 118
+empty words when applied M 108
+emits black body radiation D 226
+emits light when excited D 214
+empty quart beer bottles D 102

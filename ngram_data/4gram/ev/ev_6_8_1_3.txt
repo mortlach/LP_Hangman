@@ -1,0 +1,7 @@
+events happened a long M 212
+events requires a few M 154
+events occurred a few M 118
+events occurred a long M 108
+events produced a new M 102
+events happened a few M 86
+events heralded a new D 88

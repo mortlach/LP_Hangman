@@ -1,0 +1,5 @@
+ohmic drop due to D 312
+ohmic drop and the D 200
+ohmic loss due to D 186
+ohmic heating due to D 162
+ohmic heating for the D 80

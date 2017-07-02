@@ -1,0 +1,7 @@
+affected voice , " M 403
+affected voice : " M 378
+affected party , " M 220
+affected laugh , " M 200
+affinity group , " M 180
+affected smile , " M 155
+affected people , " M 129

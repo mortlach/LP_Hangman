@@ -1,0 +1,5 @@
+type differs slightly from M 104
+type totally distinct from M 84
+type calcium channels have D 163
+type derived directly from D 120
+type differs markedly from D 98

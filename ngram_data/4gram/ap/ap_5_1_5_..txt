@@ -1,0 +1,7 @@
+apply a style . M 804
+apply a match . M 502
+apply a force . M 430
+apply a light . M 236
+apply a method . M 228
+apply a label . M 188
+apply a color . M 122

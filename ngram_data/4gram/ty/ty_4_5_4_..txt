@@ -1,0 +1,13 @@
+type shown here . M 695
+type thrust bearing . M 230
+type looks like . M 182
+type found here . M 118
+type quite well . M 117
+type small arms . M 111
+type works well . M 96
+type given here . M 92
+type point size . M 86
+type often used . M 84
+type works best . M 82
+type right away . M 53
+type every time . M 42

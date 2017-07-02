@@ -1,0 +1,7 @@
+db over the range D 525
+db from the other D 266
+db from the main D 182
+db over the band D 167
+db over the same D 150
+db gain or loss D 84
+db over the full D 44

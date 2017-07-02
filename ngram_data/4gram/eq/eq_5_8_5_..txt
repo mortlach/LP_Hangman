@@ -1,0 +1,16 @@
+equal bargaining power . M 3406
+equal distance apart . M 2444
+equal marginal costs . M 2066
+equal expected value . M 433
+equal straight lines . M 412
+equal daughter cells . M 388
+equal inherent value . M 370
+equal tempered scale . M 280
+equal adjacent angles . M 226
+equal bargaining power ? M 212
+equal negative value . M 208
+equal distance below . M 170
+equal conducting power . M 156
+equal absolute value . M 126
+equal potential value . M 92
+equal vertical angles . M 86

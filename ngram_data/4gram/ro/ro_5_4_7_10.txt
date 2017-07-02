@@ -1,0 +1,3 @@
+rooms have private facilities D 902
+rooms have kitchen facilities D 190
+roads were utterly impassable D 80

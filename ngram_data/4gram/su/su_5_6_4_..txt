@@ -1,0 +1,4 @@
+sunny summer days . M 1034
+sunny winter days . M 674
+sunny autumn month . M 96
+sunny autumn days . M 92

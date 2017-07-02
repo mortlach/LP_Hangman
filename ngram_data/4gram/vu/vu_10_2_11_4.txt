@@ -1,0 +1,9 @@
+vulnerable to exploitation from M 264
+vulnerable to disturbance from M 160
+vulnerable to manipulation from M 152
+vulnerable to intervention from M 126
+vulnerable to exploitation during M 106
+vulnerable to exploitation when M 102
+vulnerable to antiaircraft fire D 380
+vulnerable to bombardment from D 190
+vulnerable to recruitment into D 138

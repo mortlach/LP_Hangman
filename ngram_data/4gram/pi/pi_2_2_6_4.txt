@@ -1,0 +1,2 @@
+ping the remote host M 216
+ping the server from M 106

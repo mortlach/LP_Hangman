@@ -1,0 +1,2 @@
+ionic size the structure D 240
+ionic theory of excitation D 206

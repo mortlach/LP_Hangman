@@ -1,0 +1,5 @@
+pry his fingers loose D 875
+pry her fingers loose D 600
+pry her hands loose D 208
+pry his hands loose D 153
+pry her fingers apart D 98

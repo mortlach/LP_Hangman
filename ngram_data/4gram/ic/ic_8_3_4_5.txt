@@ -1,0 +1,5 @@
+icebound for four months D 123
+icebound for nine months D 91
+icebound for many months D 53
+icebound for three months D 47
+icebound for five months D 42

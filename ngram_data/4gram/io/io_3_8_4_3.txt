@@ -1,0 +1,4 @@
+ions containing more than D 250
+ions containing only one D 122
+ions separate from one D 118
+ions separate from each D 92

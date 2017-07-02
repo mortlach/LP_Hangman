@@ -1,0 +1,4 @@
+byte has its own D 268
+byre and hut for D 118
+byte that was read D 108
+byte that does not D 88

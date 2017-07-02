@@ -1,0 +1,16 @@
+right hand " . M 1000
+right time " . M 926
+right away " . M 872
+right here " . M 479
+right side " . M 390
+right hand " ? M 348
+right back " . M 283
+right there " . M 245
+right angle " . M 200
+right time " ? M 192
+right away " ? M 168
+river bank " . M 116
+right mind " . M 112
+right road " . M 110
+right here " ? M 94
+right type " . M 88

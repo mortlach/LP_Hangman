@@ -1,0 +1,4 @@
+skills take precedence over D 170
+skills were integrated into D 144
+skills were introduced into D 106
+sketch will illustrate their D 96

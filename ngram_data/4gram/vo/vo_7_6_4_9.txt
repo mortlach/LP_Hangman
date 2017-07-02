@@ -1,0 +1,3 @@
+voltage across their terminals D 506
+voltage across these terminals D 170
+voltage across these resistors D 108

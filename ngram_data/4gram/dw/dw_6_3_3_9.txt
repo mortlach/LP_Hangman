@@ -1,0 +1,6 @@
+dwelling that had sheltered M 140
+dwelling and its associated M 44
+dwelling and its occupants D 236
+dwelling and its furniture D 218
+dwelling and its furnishings D 158
+dwells with his preceptor D 122

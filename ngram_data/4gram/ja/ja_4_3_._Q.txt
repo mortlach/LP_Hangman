@@ -1,0 +1,13 @@
+jail now . " M 1040
+jail for ? " M 938
+jail now ? " M 442
+jail for . " M 436
+jail too . " M 414
+jail yet . " M 268
+jail you . " M 214
+jail yet ? " M 192
+jail too ? " M 148
+jail them . " M 126
+jail him . " M 126
+jail then ? " M 92
+jail then . " M 80

@@ -1,0 +1,9 @@
+run neutrality of money M 1715
+run candidates in every M 300
+run candidates in local M 140
+run regardless of which M 87
+run elasticity of labor D 163
+run elasticity of price D 141
+run elasticity of about D 104
+rung represents the worst D 103
+run elasticity of money D 96

@@ -1,0 +1,4 @@
+erect a new government M 728
+erect a new university M 84
+erect a new meetinghouse D 110
+erect a new commonwealth D 100

@@ -1,0 +1,5 @@
+given time " . M 500
+given away " . M 200
+gives life " . M 140
+given case " . M 110
+given birth " . M 110

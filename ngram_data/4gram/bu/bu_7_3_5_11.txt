@@ -1,0 +1,14 @@
+buildings are under construction M 1500
+buildings now under construction M 633
+buildings then under construction M 390
+buildings are often constructed M 334
+buildings that could accommodate M 140
+buildings and state institutions M 128
+buildings for state institutions M 106
+buildings are still constructed M 88
+budgets for basic maintenance D 158
+buildings for light manufacturing D 147
+buildings and yards appurtenant D 146
+buildings and lands appurtenant D 116
+buildings that would accommodate D 112
+buildings and urban development D 82

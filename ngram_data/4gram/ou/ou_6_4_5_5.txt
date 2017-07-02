@@ -1,0 +1,7 @@
+output will change state M 180
+output when either input M 100
+output from falling below M 80
+ousted from power after D 216
+ousted from first place D 160
+ounces three times daily D 160
+outset acts which might D 156

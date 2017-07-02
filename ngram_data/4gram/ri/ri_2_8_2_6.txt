@@ -1,0 +1,6 @@
+ring encircling the building M 100
+ring containing the sample M 88
+ring crumbled to pieces D 164
+ring produced the waiter D 98
+ring encircling the gullet D 96
+ring containing an oxygen D 92

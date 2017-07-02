@@ -1,0 +1,6 @@
+fly directly away from M 305
+fly straight away from M 182
+fly straight into your M 104
+fly patterns have been M 52
+fling yourself away upon D 204
+fling yourself back upon D 154

@@ -1,0 +1,3 @@
+cyclonic wind stress curl D 186
+cylinder will depend upon D 172
+cylinder hone should leave D 120

@@ -1,0 +1,6 @@
+null hypotheses were rejected D 948
+null hypotheses were accepted D 328
+null hypothesis were rejected D 190
+null hypothesis were actually D 148
+nuns abandoned their convents D 102
+null hypothesis when actually D 94

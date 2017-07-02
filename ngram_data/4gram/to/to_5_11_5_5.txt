@@ -1,0 +1,10 @@
+total manufacturing value added D 2705
+total environment within which D 696
+total manufacturing labor force D 462
+total unsaturated fatty acids D 322
+total manufacturing costs total D 233
+total cholesterol level above D 222
+total cholesterol level below D 172
+total quantization noise power D 114
+total cholesterol level alone D 96
+total atmospheric water vapor D 75

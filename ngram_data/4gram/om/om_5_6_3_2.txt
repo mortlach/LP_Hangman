@@ -1,0 +1,2 @@
+omits almost all the D 140
+omits almost all of D 136

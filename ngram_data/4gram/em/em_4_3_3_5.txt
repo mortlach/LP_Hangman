@@ -1,0 +1,5 @@
+emit its own light M 325
+emit heat and light M 242
+emit air and water M 100
+emir and his people D 120
+emir and his court D 110

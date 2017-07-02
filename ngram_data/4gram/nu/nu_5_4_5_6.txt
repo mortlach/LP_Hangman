@@ -1,0 +1,8 @@
+nursing care plans should M 333
+nurse must first assess M 264
+nurse must never forget M 140
+nursing care hours needed M 59
+nurse into whose charge M 44
+nursing home social worker D 480
+nursing home staff member D 168
+nursing home staff should D 141

@@ -1,0 +1,4 @@
+ecu as a parallel D 254
+ecu as a currency D 152
+ecu is a weighted D 108
+ecu is a currency D 88

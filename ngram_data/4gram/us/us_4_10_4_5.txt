@@ -1,0 +1,4 @@
+user equivalent range error M 626
+used relatively more often M 184
+uses relatively more labor M 123
+used relatively high doses D 130

@@ -1,0 +1,3 @@
+zero electric and magnetic D 138
+zero velocity and therefore D 100
+zero thickness and infinite D 97

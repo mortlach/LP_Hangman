@@ -1,0 +1,5 @@
+wing has answered light M 517
+wing mean geometric chord D 147
+wing was fluttering round D 124
+wing and fuselage tanks D 124
+wing and fuselage skins D 44

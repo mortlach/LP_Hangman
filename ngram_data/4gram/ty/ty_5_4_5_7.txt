@@ -1,0 +1,4 @@
+types were found together M 146
+types were mixed together M 108
+types were about equally M 82
+types have waxed fainter D 289

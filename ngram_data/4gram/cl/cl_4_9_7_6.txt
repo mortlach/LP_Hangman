@@ -1,0 +1,7 @@
+clear separation between church M 532
+clear separation between public M 376
+clear validation circles button M 280
+clear separation between normal M 112
+clear separation between owners M 92
+clear separation between policy D 131
+clear association between income D 80

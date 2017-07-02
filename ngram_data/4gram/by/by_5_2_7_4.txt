@@ -1,0 +1,6 @@
+bytes of machine code D 1710
+bytes of storage will D 160
+byres of poverty down D 154
+bytes of program code D 144
+bytes of digital data D 138
+bytes of payload data D 102

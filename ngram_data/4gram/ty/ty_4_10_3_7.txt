@@ -1,0 +1,6 @@
+type abbreviation are defined M 318
+type definitions and function M 97
+type definitions and variable D 314
+type transitions are allowed D 285
+type conversions are allowed D 96
+type accurately and rapidly D 43

@@ -1,0 +1,3 @@
+ring must be constructed M 110
+ring must be established M 96
+ring will be proportional D 120

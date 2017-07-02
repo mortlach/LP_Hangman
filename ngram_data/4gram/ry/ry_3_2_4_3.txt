@@ -1,0 +1,4 @@
+rye is used for D 312
+rye or wheat and D 173
+rye or oats and D 45
+rye or wheat for D 44

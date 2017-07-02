@@ -1,0 +1,2 @@
+six combinations are possible M 130
+six coordinates are required D 92

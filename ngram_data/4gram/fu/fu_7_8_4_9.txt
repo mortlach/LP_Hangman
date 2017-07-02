@@ -1,0 +1,10 @@
+function requires three arguments M 518
+function satisfying these conditions M 386
+function requires four arguments M 122
+function properly when assembled M 106
+function contains three arguments M 100
+funeral services were conducted D 7679
+funeral services were performed D 1426
+function analyses were performed D 260
+function analyses were conducted D 156
+funeral services were scheduled D 89

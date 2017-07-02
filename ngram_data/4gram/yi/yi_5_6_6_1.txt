@@ -1,0 +1,3 @@
+yield passes through a M 154
+yield itself without a M 80
+yield without striking a D 153

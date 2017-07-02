@@ -1,0 +1,5 @@
+db below the main D 1633
+db above the hearing D 253
+db below the gain D 124
+db below the full D 51
+db above the pure D 48

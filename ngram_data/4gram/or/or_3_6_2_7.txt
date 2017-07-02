@@ -1,0 +1,14 @@
+ore should be crushed D 344
+ore occurs in several D 226
+ore occurs in pockets D 212
+ore should be roasted D 153
+ore occurs in bunches D 146
+ore enters the furnace D 140
+ore should be reduced D 137
+ore through the furnace D 133
+ore reaches the surface D 97
+ore occurs in granite D 94
+ore occurs as pockets D 86
+ore varies in quality D 80
+ore needed to produce D 58
+ore fields of northern D 44

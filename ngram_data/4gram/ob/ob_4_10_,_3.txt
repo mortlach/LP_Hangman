@@ -1,0 +1,5 @@
+obey implicitly , and M 300
+obey immediately , and M 128
+obey conscience , and M 113
+obey conscience , but M 102
+obey implicitly , but M 84

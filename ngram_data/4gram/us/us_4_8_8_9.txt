@@ -1,0 +1,5 @@
+used wherever possible throughout M 98
+used stepwise multiple regression D 299
+used multiple logistic regression D 244
+uses standard internet protocols D 110
+used stepwise logistic regression D 52

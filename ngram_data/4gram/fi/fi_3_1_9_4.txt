@@ -1,0 +1,13 @@
+fix a reasonable time M 3928
+fix a reasonable rate M 1004
+fix a different rate M 714
+fix a different time M 392
+fix a different date M 204
+fix a completion date M 146
+fix a character upon M 146
+fix a limitation upon M 86
+fit a different type M 82
+fit a specified width M 40
+fit a regression line D 2224
+fit a cigarette into D 185
+fix a reasonable rent D 166

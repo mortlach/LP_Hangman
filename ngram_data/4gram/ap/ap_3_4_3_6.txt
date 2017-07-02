@@ -1,0 +1,2 @@
+apt case for strict M 90
+apt theme for exalting D 140

@@ -1,0 +1,7 @@
+death from overwhelming infection M 276
+deal more information concerning M 150
+death from accidental injuries M 104
+deal more individual attention M 86
+death from protracted exposure D 252
+death during ambulatory monitoring D 156
+death among psychiatric patients D 102

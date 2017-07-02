@@ -1,0 +1,2 @@
+dynamic structure factor ignore D 200
+dynamic viscosity pascal second D 147

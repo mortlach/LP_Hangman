@@ -1,0 +1,5 @@
+emit light of longer M 202
+emit light in phase M 118
+emit light at night M 88
+emit light at longer M 48
+emit puffs of smoke D 96

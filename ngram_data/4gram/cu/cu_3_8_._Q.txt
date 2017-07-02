@@ -1,0 +1,6 @@
+cut yourself . " M 2063
+cut yourself ? " M 1565
+cut yourself ! " M 379
+cut straight . " M 111
+cup overflow . " M 102
+cut tomorrow . " M 76

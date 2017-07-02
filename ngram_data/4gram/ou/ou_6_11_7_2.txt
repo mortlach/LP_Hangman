@@ -1,0 +1,3 @@
+output relationship between the M 368
+output maximization subject to D 166
+output transformer matches the D 102

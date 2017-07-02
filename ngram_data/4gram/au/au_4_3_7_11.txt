@@ -1,0 +1,3 @@
+audio and carrier frequencies D 133
+audio for digital transmission D 106
+audio and computing environment D 104

@@ -1,0 +1,3 @@
+zone extends over half D 167
+zone extending south from D 106
+zone several feet wide D 96

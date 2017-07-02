@@ -1,0 +1,3 @@
+ring structures in spirals M 128
+ring surrounded by covered M 116
+ring surrounded by diamonds D 274

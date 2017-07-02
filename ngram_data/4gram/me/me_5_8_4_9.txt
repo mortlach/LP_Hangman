@@ -1,0 +1,13 @@
+method requires some knowledge M 172
+method requires three arguments M 132
+method provides good estimates M 92
+method requires prior knowledge M 90
+method requires more elaborate M 80
+medial temporal lobe activation D 201
+medial temporal lobe structure D 169
+medial temporal lobe resections D 145
+medial temporal lobe potentials D 110
+metal contains free electrons D 94
+method involves some repetition D 92
+method involves much repetition D 82
+metal analyses were performed D 48

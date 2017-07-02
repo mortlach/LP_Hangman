@@ -1,0 +1,3 @@
+known sampling distribution . M 231
+known energy distribution . M 134
+known normal distribution . M 61

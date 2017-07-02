@@ -1,0 +1,6 @@
+workstation on a network D 593
+workstation to a network D 326
+workstation in a network D 182
+workstation to a central D 100
+workstation or a network D 96
+workstation is a desktop D 44

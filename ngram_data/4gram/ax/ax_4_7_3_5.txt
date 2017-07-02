@@ -1,0 +1,4 @@
+axis deviation and right D 2318
+axis deviation with right D 188
+axis between two poles D 111
+axis deviation may occur D 71

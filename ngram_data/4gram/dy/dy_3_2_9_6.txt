@@ -1,0 +1,11 @@
+dying of unrelated causes M 226
+dying of unnatural causes M 104
+dying of pancreatic cancer D 740
+dying of incurable cancer D 574
+dying of malignant disease D 318
+dying of infectious disease D 246
+dying of starvation before D 198
+dying of esophageal cancer D 108
+dye of contrasting colour D 99
+dying of puerperal sepsis D 94
+dying of widespread cancer D 80

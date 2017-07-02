@@ -1,0 +1,7 @@
+bytes of main storage D 890
+bytes of disk storage D 692
+bytes of core storage D 600
+bytes of data storage D 353
+bytes of data between D 176
+bytes of data written D 118
+bytes of mass storage D 94

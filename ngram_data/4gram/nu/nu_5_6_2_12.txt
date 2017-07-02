@@ -1,0 +1,4 @@
+nurse should be particularly M 896
+nurse should be knowledgeable M 570
+nursing should be discontinued D 463
+nursing actions or interventions D 256

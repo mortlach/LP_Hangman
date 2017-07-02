@@ -1,0 +1,4 @@
+afford sufficient time . M 214
+afford sufficient food . M 118
+afford sufficient room . M 102
+affect individual health . M 84

@@ -1,0 +1,2 @@
+scan rate dependence of D 81
+scan line intersects the D 41

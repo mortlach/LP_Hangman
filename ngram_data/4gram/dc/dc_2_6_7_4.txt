@@ -1,0 +1,3 @@
+dc output voltage from D 604
+dc output voltage will D 262
+dc output voltage when D 94

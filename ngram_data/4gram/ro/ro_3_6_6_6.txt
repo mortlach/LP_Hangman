@@ -1,0 +1,3 @@
+row select column select D 211
+rod passes freely through D 122
+row totals column totals D 110

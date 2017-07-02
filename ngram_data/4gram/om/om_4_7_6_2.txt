@@ -1,0 +1,2 @@
+omit everything except the M 90
+omit certain points of M 82

@@ -1,0 +1,8 @@
+avoid false positive results M 584
+avoid false negative results M 500
+avoid false positive reactions M 154
+avoid armed conflict between M 154
+avoid close personal contact M 142
+avoid every possible question M 90
+avoid close physical contact D 344
+avoid dairy products because D 100

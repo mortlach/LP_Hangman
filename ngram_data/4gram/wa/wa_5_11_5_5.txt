@@ -1,0 +1,5 @@
+water temperature drops below D 1144
+water temperature falls below D 919
+water temperature rises above D 702
+water continually within sight D 172
+water temperature never falls D 80

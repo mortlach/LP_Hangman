@@ -1,0 +1,12 @@
+am preparing a statement M 128
+am following a suggestion M 106
+am expecting a telephone M 96
+am preparing a catalogue M 84
+am expecting a gentleman M 82
+am enclosing a statement D 314
+am proposing a different D 190
+am proposing a practical D 180
+am enclosing a photocopy D 174
+am enclosing a newspaper D 160
+am preparing a monograph D 136
+am expecting a cablegram D 88

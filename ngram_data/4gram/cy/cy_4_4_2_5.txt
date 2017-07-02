@@ -1,0 +1,8 @@
+cyst wall is lined D 478
+cyst will be found D 338
+cyst wall is smooth D 250
+cyst from the ovary D 234
+cyst wall is often D 180
+cyst from the right D 88
+cyst from the liver D 88
+cyst full of fluid D 46

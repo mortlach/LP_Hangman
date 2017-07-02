@@ -1,0 +1,5 @@
+cut development costs and M 123
+cut distribution costs and M 105
+cut maintenance costs and M 100
+cut construction costs and M 86
+cut manufacturing costs and D 156

@@ -1,0 +1,10 @@
+cystic spaces that are D 224
+cystic lesions that are D 224
+cycles before they are D 204
+cyclic changes that are D 184
+cystic lesions that may D 164
+cystic spaces that may D 102
+cyclic changes are not D 88
+cystic masses that are D 86
+cystic lesions are not D 86
+cycles before they can D 82

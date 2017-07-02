@@ -1,0 +1,4 @@
+dc voltage is used D 443
+dc current to flow D 351
+dc current is used D 168
+dc voltage by means D 40

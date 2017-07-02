@@ -1,0 +1,11 @@
+off successful and unharmed M 128
+off horizontal and vertical M 48
+off diplomatic and economic D 342
+off diplomatic and consular D 230
+off physically and mentally D 169
+off negotiations and declared D 126
+off negotiations and returned D 112
+off ordinances and churches D 101
+off traitorous and disloyal D 92
+off stragglers and supplies D 92
+off stragglers and preventing D 82

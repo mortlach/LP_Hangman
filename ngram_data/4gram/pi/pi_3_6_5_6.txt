@@ -1,0 +1,2 @@
+pig aortic smooth muscle D 180
+pig airway smooth muscle D 177

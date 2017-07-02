@@ -1,0 +1,2 @@
+pa signal depends only D 128
+pa signal depends very D 118

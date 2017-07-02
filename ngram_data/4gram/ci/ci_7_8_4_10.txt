@@ -1,0 +1,5 @@
+circuit containing only resistance D 1142
+circuit containing only inductance D 574
+circuit contains only resistance D 328
+circuit containing pure resistance D 192
+circuit containing pure inductance D 188

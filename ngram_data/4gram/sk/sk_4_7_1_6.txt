@@ -1,0 +1,10 @@
+skin overlying a muscle D 206
+skin assumes a bluish D 196
+skin assumes a yellow D 164
+skin assumes a sallow D 164
+skin becomes a little D 130
+skin flushed a little D 108
+skin prickle a little D 102
+skin assumed a yellow D 94
+skin becomes a bright D 90
+skin assumes a pallid D 86

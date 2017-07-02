@@ -1,0 +1,4 @@
+ejecting the spent cartridge D 338
+ejecting the empty cartridge D 214
+ejects the spent cartridge D 204
+ejects the empty cartridge D 183

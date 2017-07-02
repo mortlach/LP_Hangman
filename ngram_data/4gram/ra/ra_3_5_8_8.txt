@@ -1,0 +1,3 @@
+rat brain synaptic membrane D 274
+rat brain synaptic vesicles D 270
+rat liver membrane proteins D 52

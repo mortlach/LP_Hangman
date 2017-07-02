@@ -1,0 +1,12 @@
+name should take precedence M 136
+name something more exceptional M 116
+name should have precedence M 88
+name seemed more appropriate M 88
+name common name scientific D 800
+name appears more frequently D 574
+name occurs more frequently D 410
+name occurs very frequently D 312
+name appears most frequently D 234
+name appears very frequently D 224
+name occurs most frequently D 180
+name appears less frequently D 162

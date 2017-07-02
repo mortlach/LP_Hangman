@@ -1,0 +1,6 @@
+ejection fraction is normal D 445
+ejection fraction is greater D 276
+ejection fraction of greater D 248
+ejection fraction in normal D 104
+ejection fraction in severe D 96
+ejection fraction by thermal D 94

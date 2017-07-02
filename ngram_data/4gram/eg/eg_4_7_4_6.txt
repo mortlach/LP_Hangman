@@ -1,0 +1,9 @@
+eggs develop into drones D 266
+eggs develop into adults D 160
+eggs contain very little D 142
+eggs develop into swimming D 126
+eggs develop into queens D 106
+eggs outside their bodies D 104
+eggs develop into mature D 86
+eggs develop into normal D 84
+eggs develop into minute D 41

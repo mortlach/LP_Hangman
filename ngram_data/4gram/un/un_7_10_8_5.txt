@@ -1,0 +1,5 @@
+uniform transverse magnetic field D 792
+uniform horizontal magnetic field D 700
+uniform transverse electric field D 116
+undergo spontaneous remission within D 102
+uniform background magnetic field D 94

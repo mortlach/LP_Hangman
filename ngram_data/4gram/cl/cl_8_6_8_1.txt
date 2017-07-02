@@ -1,0 +1,3 @@
+clinician should maintain a D 426
+clinician should consider a D 388
+clinical findings indicate a D 136

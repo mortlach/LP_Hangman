@@ -1,0 +1,4 @@
+type which still survives M 140
+type which marks maturity M 134
+type which would normally D 164
+type which would otherwise D 90

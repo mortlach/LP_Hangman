@@ -1,0 +1,8 @@
+go home " signs M 461
+go home " again M 142
+go into " exile M 133
+go into " sleep M 130
+go home " after M 112
+go into " action M 100
+go away " after M 86
+go back " where M 80

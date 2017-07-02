@@ -1,0 +1,2 @@
+equip a laboratory for D 224
+equip a laboratory and D 128

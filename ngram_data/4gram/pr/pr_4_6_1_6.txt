@@ -1,0 +1,4 @@
+pray before a battle M 108
+pray accept a little M 44
+pray before a statue D 202
+pray bestow a little D 113

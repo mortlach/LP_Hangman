@@ -1,0 +1,3 @@
+bytes for each record D 143
+bytes that are stored D 142
+bytes that are needed D 80

@@ -1,0 +1,6 @@
+dwelling units are considered M 260
+dwelling within its boundaries M 96
+dwells within each individual M 40
+dwelling house and outbuildings D 346
+dwelling units per residential D 73
+dwelling units and households D 64

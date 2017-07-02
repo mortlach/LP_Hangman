@@ -1,0 +1,6 @@
+atrial and ventricular contractions D 3381
+atrial and ventricular enlargement D 1269
+atrial and ventricular fibrillation D 741
+atrial and ventricular hypertrophy D 682
+atrial and ventricular musculature D 349
+atoms are spherically symmetrical D 94

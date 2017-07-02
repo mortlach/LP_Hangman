@@ -1,0 +1,8 @@
+aisle toward me . M 682
+aisle toward us . M 350
+aisle beside me . M 162
+aisle behind me . M 162
+aimed toward it . M 124
+aimed through me . M 98
+aisle beside us . M 92
+aimed toward us . M 86

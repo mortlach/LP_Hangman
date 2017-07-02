@@ -1,0 +1,8 @@
+buildings burned down . M 500
+buildings around town . M 412
+buildings pulled down . M 338
+buildings around here . M 318
+buildings caught fire . M 308
+buildings looked like . M 178
+buildings already there . M 126
+buffers become full . M 110

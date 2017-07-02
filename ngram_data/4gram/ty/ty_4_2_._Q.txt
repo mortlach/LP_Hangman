@@ -1,0 +1,7 @@
+type thing . " M 1056
+type it . " M 565
+type is ? " M 254
+type it ? " M 224
+type is . " M 166
+type thing ? " M 143
+type of . " M 128

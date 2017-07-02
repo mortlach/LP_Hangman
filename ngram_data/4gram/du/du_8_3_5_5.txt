@@ -1,0 +1,5 @@
+duodenum and small bowel D 992
+duodenum and upper small D 450
+duodenum and upper ileum D 152
+duodenal and small bowel D 136
+duodenum and right colon D 126

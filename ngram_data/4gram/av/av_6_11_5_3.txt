@@ -1,0 +1,5 @@
+avoiding unnecessary delay and M 146
+avoiding unnecessary risks and M 88
+avoiding unnecessary costs and M 88
+avoiding unnecessary tests and M 86
+avoiding consecutive fifths and D 114

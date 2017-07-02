@@ -1,0 +1,13 @@
+mob stormed the palace D 306
+mob stormed the building D 255
+mob stormed the prison D 202
+mob invaded the palace D 156
+mob outside the building D 124
+mob entered the palace D 124
+mob outside the church D 112
+mob outside the school D 110
+mob outside the palace D 106
+mob entered the building D 98
+mob violence in little D 94
+mob refused to listen D 90
+mom decided we should D 40

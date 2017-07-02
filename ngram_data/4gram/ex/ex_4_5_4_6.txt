@@ -1,0 +1,5 @@
+exit enter your choice M 363
+exit doors were locked D 316
+exit visas were issued D 123
+exit gases pass through D 98
+exit setup exit without D 48

@@ -1,0 +1,5 @@
+voltage applied between grid D 238
+voltage applied between gate D 177
+voltage plotted against time D 176
+voltage between control grid D 116
+voltage applied between base D 102

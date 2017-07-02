@@ -1,0 +1,4 @@
+emit the same note M 400
+emit the same kind M 302
+emit the same type M 116
+emit an odor like D 116

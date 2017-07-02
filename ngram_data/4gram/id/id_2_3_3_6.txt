@@ -1,0 +1,5 @@
+id and ego forces M 197
+id for each record M 59
+id that was passed M 54
+id get that cheaper D 110
+id for each device D 41

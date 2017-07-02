@@ -1,0 +1,11 @@
+ill or injured patient M 2186
+ill or injured persons M 778
+ill or injured workers M 284
+ill or injured animals M 206
+ill to receive company M 162
+ill or elderly persons M 86
+ill or elderly patient M 86
+ill the remaining question M 80
+ill to undergo surgery D 240
+ill or injured infants D 158
+ill to require medical D 100

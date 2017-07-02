@@ -1,0 +1,4 @@
+smallest possible area . M 1790
+smallest possible sum . M 164
+smallest possible way . M 110
+smallest possible one . M 84

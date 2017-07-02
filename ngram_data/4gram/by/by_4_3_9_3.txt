@@ -1,0 +1,2 @@
+byte can represent any D 190
+byte can represent one D 124

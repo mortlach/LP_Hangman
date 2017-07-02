@@ -1,0 +1,4 @@
+running a web application M 108
+running a dos application D 322
+running a big corporation D 126
+running a big enterprise D 82

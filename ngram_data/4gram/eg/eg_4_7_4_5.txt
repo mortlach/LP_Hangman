@@ -1,0 +1,7 @@
+eggs develop into larvae D 1160
+eggs develop into males D 1128
+eggs produce only males D 164
+eggs develop into small D 130
+eggs hatched from eight D 114
+eggs develop into adult D 106
+eggs hatched into larvae D 105

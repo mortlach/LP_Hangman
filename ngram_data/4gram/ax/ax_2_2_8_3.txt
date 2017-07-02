@@ -1,0 +1,2 @@
+ax is positive and D 123
+ax is negative and D 106

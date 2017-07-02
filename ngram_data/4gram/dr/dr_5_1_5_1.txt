@@ -1,0 +1,10 @@
+drive a model t M 318
+drawing a shows a M 135
+driving a model t D 606
+drove a model t D 562
+drink a quart a D 283
+driving a model a D 199
+drank a quart a D 190
+drove a model a D 158
+drink i drank i D 94
+drive i drove i D 44

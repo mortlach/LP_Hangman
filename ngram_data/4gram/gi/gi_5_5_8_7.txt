@@ -1,0 +1,14 @@
+given false evidence against M 560
+gives quite accurate results M 508
+given every possible support M 380
+gives false positive results M 322
+given fully informed consent M 225
+gives false evidence against M 198
+gives false negative results M 116
+gives false positive reactions M 96
+gives rather accurate results M 86
+given power spectral density D 194
+girls getting decently married D 96
+given small monetary rewards D 88
+given strong financial support D 82
+given state financial support D 80

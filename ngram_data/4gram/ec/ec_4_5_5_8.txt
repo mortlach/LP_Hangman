@@ -1,0 +1,1 @@
+echo imaging pulse sequence D 136

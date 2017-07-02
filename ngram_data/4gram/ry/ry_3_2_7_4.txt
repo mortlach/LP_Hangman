@@ -1,0 +1,2 @@
+rye is reduced from D 256
+rye at harvest time D 82

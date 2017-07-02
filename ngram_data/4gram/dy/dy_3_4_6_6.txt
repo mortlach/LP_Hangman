@@ -1,0 +1,8 @@
+dying from various causes M 370
+dying from battle wounds M 94
+dying from eleven wounds M 84
+dying from ovarian cancer D 234
+dying from sudden infant D 176
+dying from bullet wounds D 128
+dying from cardiac disease D 84
+dying from cancer caused D 80

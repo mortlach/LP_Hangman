@@ -1,0 +1,14 @@
+twenty students a year M 274
+twelve pictures a year M 183
+twenty pictures a year M 169
+twenty lectures a year M 150
+twelve students a year M 130
+twenty visitors a day M 118
+twelve articles a year M 84
+twenty patients a day D 492
+twenty speeches a day D 302
+twenty concerts a year D 184
+twenty centavos a day D 146
+twelve buffaloes a day D 117
+twelve speeches a day D 94
+twenty centimes a day D 82

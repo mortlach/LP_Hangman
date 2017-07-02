@@ -1,0 +1,8 @@
+aorta and its branches D 17548
+aorta and its surgical D 588
+aorta with its branches D 360
+aorta and its immediate D 198
+aorta and its proximal D 170
+aorta and its visceral D 166
+aorta and its coronary D 84
+aorta and its divisions D 41

@@ -1,0 +1,3 @@
+ionization constant for water D 639
+ionization energies are given D 158
+ionization potential for argon D 87

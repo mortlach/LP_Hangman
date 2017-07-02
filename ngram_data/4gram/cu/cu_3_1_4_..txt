@@ -1,0 +1,13 @@
+cut a dash . M 1726
+cut a tree . M 974
+cut a hole . M 580
+cut a line . M 290
+cut a road . M 276
+cut a loss . M 268
+cut a thread . M 244
+cut a hair . M 201
+cut a cake . M 186
+cut a word . M 100
+cut a door . M 90
+cut a dash ? M 86
+cut a dash ! M 82

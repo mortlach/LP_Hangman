@@ -1,0 +1,2 @@
+omitting everything that is D 176
+omitting everything but the D 108

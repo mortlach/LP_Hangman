@@ -1,0 +1,5 @@
+ill a relation as M 298
+ill a patient is M 240
+ill a subject of M 85
+ill a picture my M 80
+ill a posture to D 131

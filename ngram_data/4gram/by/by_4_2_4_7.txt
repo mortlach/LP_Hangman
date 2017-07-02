@@ -1,0 +1,4 @@
+byte or word operand D 215
+byes to their friends D 126
+byte of data between D 108
+byte to word convert D 40

@@ -1,0 +1,10 @@
+ring a bell every M 455
+ring a bell which M 348
+ring a bell while M 112
+ring a bell until M 104
+ring a bell after M 97
+ring a bell either M 88
+ring a bell right M 87
+ring a bell twice M 82
+ring a loud alarm M 44
+ring a fire alarm M 41

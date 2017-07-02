@@ -1,0 +1,3 @@
+ti is greater than D 375
+ti is higher than D 144
+ti is larger than D 88

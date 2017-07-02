@@ -1,0 +1,6 @@
+output becomes zero . M 258
+output remains high . M 236
+output capital ratio . M 166
+output devices used . M 146
+output control unit . M 126
+output remains zero . M 84

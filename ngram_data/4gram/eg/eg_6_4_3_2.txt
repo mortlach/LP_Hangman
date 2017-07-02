@@ -1,0 +1,3 @@
+egoism must not be D 192
+egress from and to D 128
+egoist will not be D 80

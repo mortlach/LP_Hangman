@@ -1,0 +1,8 @@
+cells remain intact . M 750
+cells already formed . M 432
+cells become active . M 296
+cells become larger . M 190
+cells remain unclear . M 172
+cells remain normal . M 144
+cells become mature . M 102
+cells obtain energy . M 94

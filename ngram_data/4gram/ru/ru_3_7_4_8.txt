@@ -1,0 +1,7 @@
+run average cost functions M 363
+run average cost increases M 229
+run average cost decreases M 229
+run average cost declines M 192
+run average cost schedule M 102
+run between these champions D 134
+run forward into futurity D 82

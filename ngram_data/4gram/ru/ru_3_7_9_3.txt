@@ -1,0 +1,3 @@
+run against obstacles and M 164
+run between anchorage and D 58
+run between terminals and D 56

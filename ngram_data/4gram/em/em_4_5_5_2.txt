@@ -1,0 +1,7 @@
+emit light after the M 501
+emit light which is M 435
+emit light under the M 96
+emit light within the M 82
+emit light waves of D 170
+emit sound waves of D 134
+emit either smoke or D 134

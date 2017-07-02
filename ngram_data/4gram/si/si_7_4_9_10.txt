@@ -1,0 +1,4 @@
+signals into navigation information M 252
+signals from different satellites D 296
+signals from artificial satellites D 168
+signals from navigation satellites D 96

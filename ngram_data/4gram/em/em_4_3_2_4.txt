@@ -1,0 +1,4 @@
+emit one or more M 1495
+emit two or more M 550
+emit two or three M 153
+emit heat as well M 92

@@ -1,0 +1,2 @@
+obeying a single impulse M 340
+obeys a wave equation D 256

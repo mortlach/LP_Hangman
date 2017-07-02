@@ -1,0 +1,4 @@
+ulcers with ragged edges D 340
+ulcers with raised edges D 258
+ulcers are formed which D 212
+ulcers are almost never D 90

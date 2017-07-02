@@ -1,0 +1,3 @@
+ionization potential should be D 124
+ionization chambers should be D 116
+ionization energies listed in D 84

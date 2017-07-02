@@ -1,0 +1,4 @@
+icon will look like M 200
+icon must have been M 140
+icon file edit view M 108
+icon will turn into M 88

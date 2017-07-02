@@ -1,0 +1,2 @@
+axis generally has larger D 115
+axial stiffness and strength D 114

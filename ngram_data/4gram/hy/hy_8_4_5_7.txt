@@ -1,0 +1,4 @@
+hydrogen bond forms between D 250
+hydrogen atom showing allowed D 118
+hydrogen bond donor ability D 106
+hydrogen atom whose nucleus D 101

@@ -1,0 +1,15 @@
+test items answered correctly M 340
+term power purchase contracts M 168
+term power purchase agreement M 159
+term which requires definition M 114
+text makes explicit reference M 98
+text makes frequent reference M 86
+test under ordinary conditions M 84
+test under realistic conditions M 40
+test under standard conditions D 605
+term blood pressure regulation D 357
+teach about preventing pregnancy D 168
+text legal document retrieval D 149
+teasing about physical appearance D 134
+test tubes containing different D 120
+teeth showing calcifying processes D 104

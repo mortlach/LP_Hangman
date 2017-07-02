@@ -1,0 +1,5 @@
+near a long straight M 766
+near a big mountain M 106
+near a hot electric D 180
+near a heat register D 84
+near a bus terminal D 41

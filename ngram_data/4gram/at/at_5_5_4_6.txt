@@ -1,0 +1,5 @@
+atoms which have gained D 270
+atoms which have already D 212
+atoms which have become D 188
+atoms which pass through D 156
+atoms which once formed D 122

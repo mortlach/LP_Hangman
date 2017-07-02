@@ -1,0 +1,4 @@
+pit with vertical sides M 256
+pit with possibly lethal M 168
+pit with vertical walls M 108
+pie and devoutly wishing D 88

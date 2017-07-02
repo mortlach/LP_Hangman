@@ -1,0 +1,5 @@
+atom contains only one D 643
+atom contains more than D 398
+atom containing more than D 237
+atom contains only two D 95
+atom containing only one D 51

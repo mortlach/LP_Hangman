@@ -1,0 +1,2 @@
+allow sufficient time after M 220
+alter government when found M 84

@@ -1,0 +1,5 @@
+officers received a call M 144
+officers exchanged a look M 88
+officers launched a coup D 210
+officials approved a plan D 92
+officials compiled a list D 88

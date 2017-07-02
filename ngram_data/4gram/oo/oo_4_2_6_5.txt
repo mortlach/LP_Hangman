@@ -1,0 +1,4 @@
+oozing of serous fluid D 201
+oozing of venous blood D 145
+oozing of bloody serum D 141
+oozing of bloody fluid D 42

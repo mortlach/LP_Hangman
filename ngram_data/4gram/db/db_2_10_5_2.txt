@@ -1,0 +1,3 @@
+db compression point is D 643
+db compression point of D 447
+db increments until the D 49

@@ -1,0 +1,3 @@
+axial dispersion model for D 258
+axial dispersion model and D 102
+axis cylinders which are D 52

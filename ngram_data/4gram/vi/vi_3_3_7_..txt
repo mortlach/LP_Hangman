@@ -1,0 +1,4 @@
+vie for control . M 576
+vie for position . M 298
+vie for primacy . M 45
+vie for support . M 42

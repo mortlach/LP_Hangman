@@ -1,0 +1,2 @@
+emit certain levels of D 90
+emit regular pulses of D 88

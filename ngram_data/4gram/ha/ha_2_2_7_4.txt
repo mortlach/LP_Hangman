@@ -1,0 +1,6 @@
+ha of forests were D 210
+ha of fertile land D 191
+ha of private land D 188
+ha of pasture land D 171
+ha of cropped land D 123
+ha of forests have D 44

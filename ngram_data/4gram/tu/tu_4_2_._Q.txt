@@ -1,0 +1,16 @@
+turn up . " M 27236
+turn to . " M 7124
+turn up ? " M 4926
+turn in ? " M 2700
+turn to ? " M 2379
+turn it . " M 2302
+turn on . " M 1940
+turn up ! " M 779
+turn it ? " M 554
+turn to ! " M 484
+turn it ! " M 442
+turn on ? " M 423
+turn in ! " M 368
+turn me . " M 310
+turn me ? " M 94
+turn on ! " M 53

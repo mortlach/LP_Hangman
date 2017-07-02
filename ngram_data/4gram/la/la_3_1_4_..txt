@@ -1,0 +1,16 @@
+lay a trap . M 845
+lay a fire . M 560
+lay a book . M 448
+lay a body . M 408
+lay a hand . M 226
+lay a note . M 216
+lay a plan . M 184
+lay a baby . M 184
+lay a girl . M 152
+lay a mine . M 120
+lay a lake . M 116
+law i have . M 104
+law i know . M 102
+lay a town . M 100
+lay a road . M 86
+lay a wash ! M 84

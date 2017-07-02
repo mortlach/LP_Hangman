@@ -1,0 +1,5 @@
+value passes through a M 205
+vapor passes through a D 677
+valve passes through a D 213
+vapor passed through a D 161
+vague phrasing raises a D 96

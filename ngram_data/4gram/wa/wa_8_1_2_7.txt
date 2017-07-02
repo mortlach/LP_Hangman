@@ -1,0 +1,3 @@
+wavelength a is related D 175
+wavelength a is defined D 58
+wavelength a is measured D 45

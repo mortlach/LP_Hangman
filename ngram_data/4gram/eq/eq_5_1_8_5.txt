@@ -1,0 +1,4 @@
+equal a constant value M 135
+equal a constant times M 50
+equip a powerful fleet D 261
+equip a military force D 242

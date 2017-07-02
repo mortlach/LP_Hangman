@@ -1,0 +1,4 @@
+omitting party when it D 324
+omitting items from the D 114
+omitting words such as D 102
+omitting every sort of D 96

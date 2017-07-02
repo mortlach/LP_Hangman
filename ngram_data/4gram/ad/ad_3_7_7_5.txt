@@ -1,0 +1,2 @@
+add capital letters where M 212
+add upgrade package dialog M 153

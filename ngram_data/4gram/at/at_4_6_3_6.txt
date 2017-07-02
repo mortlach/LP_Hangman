@@ -1,0 +1,3 @@
+atom poises for itself D 250
+atom changes its energy D 119
+atom unites with another D 86

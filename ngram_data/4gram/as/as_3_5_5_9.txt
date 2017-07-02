@@ -1,0 +1,3 @@
+ask people about themselves M 398
+ask under which conditions M 298
+ask about senior discounts D 156

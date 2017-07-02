@@ -1,0 +1,8 @@
+quantities have been determined M 1292
+quantities have been calculated M 969
+quantities have been introduced M 506
+quantities have been discovered M 330
+quantities have been identified M 120
+quantities have been considered M 114
+quantities have been integrated D 296
+quantities have been normalized D 201

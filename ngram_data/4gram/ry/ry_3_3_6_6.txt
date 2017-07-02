@@ -1,0 +1,3 @@
+rye and potato fields D 242
+rye and winter barley D 196
+rye and malted barley D 134

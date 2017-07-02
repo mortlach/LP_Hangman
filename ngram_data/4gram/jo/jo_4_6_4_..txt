@@ -1,0 +1,13 @@
+jobs around town . M 942
+jobs around here . M 838
+join existing ones . M 288
+join another band . M 262
+join another union . M 186
+jobs around here ? M 172
+join another pair . M 124
+join another unit . M 114
+join neither side . M 110
+join someone else . M 106
+join another ship . M 104
+join something else . M 86
+jobs aboard ship . M 84

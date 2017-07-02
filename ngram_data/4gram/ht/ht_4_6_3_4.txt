@@ -1,0 +1,3 @@
+http version being used M 112
+http headers are sent D 109
+http headers are used D 102

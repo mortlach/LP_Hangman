@@ -1,0 +1,9 @@
+add little new information M 429
+add methods and properties M 210
+add colour and excitement M 102
+add weight and complexity M 97
+add weight and importance M 84
+add commas and semicolons D 228
+add fruits and vegetables D 210
+add strength and durability D 173
+add titles that contribute D 108

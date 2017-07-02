@@ -1,0 +1,6 @@
+front passes through a M 296
+front looked across a M 256
+front wheels through a D 282
+front wheels struck a D 194
+fresh object caused a D 192
+frisk occurs before a D 120

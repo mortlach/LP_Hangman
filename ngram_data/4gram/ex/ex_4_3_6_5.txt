@@ -1,0 +1,4 @@
+exit and follow signs M 898
+exit and follow route M 57
+exit and turned right M 47
+exam for occult blood D 112

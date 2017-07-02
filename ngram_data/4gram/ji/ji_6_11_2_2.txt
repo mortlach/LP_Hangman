@@ -1,0 +1,3 @@
+jitter contribution to the D 283
+jitter performance of the D 135
+jitter experienced by the D 56

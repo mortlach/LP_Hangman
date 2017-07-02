@@ -1,0 +1,5 @@
+genes whose products function D 252
+genes whose products control D 127
+genes whose products inhibit D 90
+genus which includes several D 88
+genes under positive control D 80

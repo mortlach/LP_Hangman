@@ -1,0 +1,4 @@
+skin from becoming irritated D 180
+skin will become irritated D 144
+skin from further irritation D 102
+skin like yellow parchment D 82

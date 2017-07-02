@@ -1,0 +1,4 @@
+db for each doubling D 1727
+db for each decade D 190
+db with each doubling D 114
+db for each octave D 50

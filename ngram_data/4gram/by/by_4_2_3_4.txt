@@ -1,0 +1,9 @@
+byte is read from D 690
+byes to each other D 344
+byte is not used D 280
+byte or one word D 230
+byte of each word D 190
+byte of this word D 164
+byte of each line D 104
+byte is read into D 90
+byte in this case D 44

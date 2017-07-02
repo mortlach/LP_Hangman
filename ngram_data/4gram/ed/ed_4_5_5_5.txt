@@ -1,0 +1,2 @@
+edit style sheet dialog D 1807
+edit index entry dialog D 87

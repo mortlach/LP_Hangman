@@ -1,0 +1,4 @@
+aft center of gravity D 879
+aft centre of gravity D 147
+aft instead of forward D 87
+aft toward the quarter D 56

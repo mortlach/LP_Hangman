@@ -1,0 +1,2 @@
+eigenvalue can not be D 138
+eigenvalue for each of D 104

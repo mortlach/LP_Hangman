@@ -1,0 +1,1 @@
+echo spectral shape as D 118

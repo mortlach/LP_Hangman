@@ -1,0 +1,2 @@
+id numbers are used M 70
+id integer not null D 99

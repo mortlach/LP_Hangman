@@ -1,0 +1,14 @@
+type before and after M 353
+type occurs with equal M 294
+type reaction may occur M 155
+type beyond all others M 88
+type should not occur M 82
+type something and press M 72
+type column and click M 50
+type styles and sizes D 2940
+type source and drain D 1200
+type styles and fonts D 186
+type design and punch D 89
+type without any breach D 86
+type dwarfs and giants D 58
+type system that would D 41

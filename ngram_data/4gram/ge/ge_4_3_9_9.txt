@@ -1,0 +1,3 @@
+gene with myocardial infarction D 242
+gene for herbicide tolerance D 222
+gene for affective disorders D 142

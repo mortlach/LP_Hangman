@@ -1,0 +1,4 @@
+ohms and a total D 173
+ohms and a shunt D 128
+ohms and a field D 114
+ohms and a power D 92

@@ -1,0 +1,4 @@
+species inhabiting another part M 198
+species suddenly becoming rare M 190
+species richness through time D 148
+species resolves itself into D 106

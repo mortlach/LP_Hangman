@@ -1,0 +1,16 @@
+jug of orange juice D 1724
+jug of boiling water D 1479
+jug of fresh water D 1034
+jug of water which D 688
+jug of maple syrup D 541
+jug of apple cider D 463
+jug of fruit juice D 340
+jug of apple juice D 242
+jug of steaming water D 236
+jug of sweet cider D 226
+jug of tepid water D 194
+jug of water stood D 168
+jug of fresh orange D 108
+jug of dirty water D 104
+jug of water under D 98
+jug of grape juice D 92

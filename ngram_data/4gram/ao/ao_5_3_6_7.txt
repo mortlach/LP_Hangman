@@ -1,0 +1,4 @@
+aorta and larger vessels D 266
+aorta and common carotid D 248
+aorta and cardiac defects D 142
+aorta and branch vessels D 128

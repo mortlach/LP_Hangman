@@ -1,0 +1,6 @@
+pet your cat . M 257
+pet your dog ? M 220
+pet your dog . M 173
+pet among them . M 94
+pet like that . M 92
+pet will die . M 82

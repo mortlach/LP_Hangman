@@ -1,0 +1,4 @@
+image filter select window M 374
+image points beyond itself M 86
+image photon counting system D 625
+image always blends itself D 90

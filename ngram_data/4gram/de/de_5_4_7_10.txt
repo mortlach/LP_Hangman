@@ -1,0 +1,3 @@
+delay time between successive M 110
+dense wave division multiplexing D 2052
+delta theta college fraternity D 270

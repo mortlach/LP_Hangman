@@ -1,0 +1,5 @@
+using intelligence test results M 94
+use standardized test results D 257
+using standardized test results D 155
+using concentration camp inmates D 134
+use concentration camp inmates D 116

@@ -1,0 +1,5 @@
+atoms from their equilibrium D 2386
+atoms have been substituted D 504
+atoms have been transferred D 204
+atoms have been represented D 100
+atoms have been extensively D 88

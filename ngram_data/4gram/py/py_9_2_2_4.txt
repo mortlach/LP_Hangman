@@ -1,0 +1,3 @@
+pyrolysis of the fuel D 294
+pyrolysis of the coal D 259
+pyrolysis of the wood D 105

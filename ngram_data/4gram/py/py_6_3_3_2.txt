@@ -1,0 +1,2 @@
+pyrite can not be D 146
+pylori can not be D 88

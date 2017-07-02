@@ -1,0 +1,2 @@
+squares that surround a M 136
+squares each containing a M 136

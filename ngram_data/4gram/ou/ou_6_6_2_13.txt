@@ -1,0 +1,3 @@
+output should be approximately M 300
+output signal is approximately M 212
+output valued at approximately M 86

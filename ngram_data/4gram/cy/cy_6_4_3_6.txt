@@ -1,0 +1,6 @@
+cypher will not matter M 84
+cystic duct and artery D 1800
+cystic duct and common D 1280
+cystic duct and cystic D 842
+cycles over long periods D 118
+cycles need two random D 94

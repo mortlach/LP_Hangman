@@ -1,0 +1,5 @@
+cells become less responsive D 344
+cells become more specialized D 258
+cells divide more frequently D 216
+cells become more responsive D 110
+cells divide less frequently D 108

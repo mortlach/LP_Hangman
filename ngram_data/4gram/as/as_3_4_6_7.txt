@@ -1,0 +1,17 @@
+ask other family members M 1016
+ask your family members M 752
+ask their family members M 198
+ask what useful purpose M 156
+ask some simple question M 140
+ask your advice because M 122
+ask some further question M 102
+ask your public library M 100
+ask some stupid question M 86
+ask your pardon because M 80
+ask some sudden question M 80
+ass were placed between D 252
+ask what special fitness D 206
+ask your system manager D 172
+ask some trivial question D 150
+ask some trifling question D 100
+ask their advice regarding D 84

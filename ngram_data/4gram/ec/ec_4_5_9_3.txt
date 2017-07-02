@@ -1,0 +1,3 @@
+echo pulse sequences are D 282
+echo pulse sequences with D 176
+echo pulse sequences and D 96

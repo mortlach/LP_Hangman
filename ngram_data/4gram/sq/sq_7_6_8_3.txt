@@ -1,0 +1,3 @@
+squares normal equations are M 220
+squares normal equations for M 190
+squared random variables with D 211

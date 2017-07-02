@@ -1,0 +1,3 @@
+pyrite and galena are D 437
+pyrite and quartz are D 197
+pyrite and galena and D 90

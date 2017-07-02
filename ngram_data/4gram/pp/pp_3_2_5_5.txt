@@ -1,0 +1,3 @@
+ppm of water vapor D 192
+ppm to lower field D 174
+ppm in fresh water D 82

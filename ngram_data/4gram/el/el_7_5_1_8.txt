@@ -1,0 +1,15 @@
+elapsed since i received M 884
+element within a document M 448
+element within a sentence M 290
+elapsed since i finished M 228
+elapsed since i returned M 212
+element forms a compound M 144
+element within a compound M 140
+element within a sequence M 122
+element within a situation M 114
+element within a specific M 112
+elected after a campaign D 298
+election after a campaign D 176
+election under a cafeteria D 148
+element plays a decisive D 122
+elected under a property D 42

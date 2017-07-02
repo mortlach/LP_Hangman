@@ -1,0 +1,4 @@
+ointment has been found D 328
+ointment has been shown D 162
+oilfield has been found D 106
+ointment has been spread D 86

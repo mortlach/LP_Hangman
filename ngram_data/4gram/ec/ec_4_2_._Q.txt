@@ -1,0 +1,1 @@
+echo ring . " M 240

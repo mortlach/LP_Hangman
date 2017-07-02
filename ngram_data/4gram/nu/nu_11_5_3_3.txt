@@ -1,0 +1,3 @@
+numerically lower than that D 104
+numerically equal and are D 96
+numerically small and not D 90

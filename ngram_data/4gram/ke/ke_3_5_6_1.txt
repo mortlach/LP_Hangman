@@ -1,0 +1,8 @@
+key while clicking a M 255
+key which opened a M 208
+key which forced a M 110
+key passing through a M 92
+key while dragging a D 1490
+key after entering a D 289
+key while pressing a D 208
+key while entering a D 95

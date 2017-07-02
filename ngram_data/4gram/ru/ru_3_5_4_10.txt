@@ -1,0 +1,3 @@
+run under pure competition M 262
+run large areas cultivated D 92
+run child care facilities D 53

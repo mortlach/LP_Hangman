@@ -1,0 +1,4 @@
+zigzags from side to D 167
+zigzags down into the D 106
+zigzags away from the D 95
+zigzags down from the D 45

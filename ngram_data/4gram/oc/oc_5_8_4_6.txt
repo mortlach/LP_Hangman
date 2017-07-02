@@ -1,0 +1,3 @@
+occur somewhat more slowly M 104
+occur anywhere else except M 102
+occur suddenly from cardiac D 108

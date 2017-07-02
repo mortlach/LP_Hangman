@@ -1,0 +1,7 @@
+lung or other tissues D 248
+lung or heart diseases D 208
+lung or heart trouble D 122
+lung or swim bladder D 120
+lung or other cancers D 94
+lung is much smaller D 92
+lung or heart failure D 84

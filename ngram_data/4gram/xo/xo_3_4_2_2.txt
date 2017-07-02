@@ -1,0 +1,2 @@
+xor gate is the M 126
+xor gate in the M 109

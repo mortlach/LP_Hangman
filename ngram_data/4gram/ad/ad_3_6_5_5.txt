@@ -1,0 +1,10 @@
+add another slave state M 402
+add another reason which M 112
+add higher order terms M 98
+add another final cause M 86
+add enough boiling water D 2761
+add ammonia water until D 372
+add enough fresh water D 302
+add enough orange juice D 242
+add enough lemon juice D 186
+add enough white flour D 96

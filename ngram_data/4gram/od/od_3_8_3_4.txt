@@ -1,0 +1,3 @@
+odd contrast with their M 192
+odd numbered and even M 122
+odd contrast with glib D 86

@@ -1,0 +1,5 @@
+voltage drop across resistor D 2531
+voltage will remain constant D 662
+voltage gain without feedback D 526
+voltage must remain constant D 242
+voltage during normal operation D 192

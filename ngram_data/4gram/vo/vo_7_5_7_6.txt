@@ -1,0 +1,4 @@
+volumes which appeared before M 92
+voltage power circuit breaker D 179
+voltage within certain limits D 142
+voltage pulse applied across D 87

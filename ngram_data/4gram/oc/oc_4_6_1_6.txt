@@ -1,0 +1,6 @@
+ocean through a narrow M 296
+ocean without a bottom M 177
+ocean without a rudder D 270
+ocean through a series D 206
+ocean shoots a keener D 146
+ocean without a ripple D 106

@@ -1,0 +1,2 @@
+emit energy only in M 376
+emit sparks from the D 96

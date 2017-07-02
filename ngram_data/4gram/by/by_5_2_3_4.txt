@@ -1,0 +1,12 @@
+bytes to read from D 520
+bytes to and from D 394
+bytes in this case D 148
+bytes do not have D 142
+bytes at one time D 142
+bytes it can hold D 136
+bytes on each line D 114
+bytes in each word D 110
+bytes of each file D 107
+bytes in this file D 102
+bytes of raw data D 96
+bytes in each file D 45

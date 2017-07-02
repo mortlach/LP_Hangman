@@ -1,0 +1,5 @@
+efficient cause distinct from M 202
+efficient query execution plan M 166
+effective working relations among M 90
+effective grain boundary width D 182
+effective social controls over D 128

@@ -1,0 +1,6 @@
+amp has a gain D 334
+amp has a very D 205
+amp with a gain D 165
+amp has a slew D 89
+amp with a single D 71
+amp with a slew D 52

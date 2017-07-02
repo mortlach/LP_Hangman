@@ -1,0 +1,2 @@
+emit behaviors which are M 52
+emit radiations which are D 182

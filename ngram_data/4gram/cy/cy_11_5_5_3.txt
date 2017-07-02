@@ -1,0 +1,5 @@
+cylindrical cells which are D 270
+cylindrical steel shell with D 188
+cylindrical shell lined with D 168
+cylindrical tubes which are D 112
+cylindrical stone about two D 80

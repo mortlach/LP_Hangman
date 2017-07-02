@@ -1,0 +1,2 @@
+bytes required to hold D 292
+bytes identify the host D 84

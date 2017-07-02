@@ -1,0 +1,3 @@
+yardsticks that can be D 324
+yardsticks can not be D 94
+yardsticks that may be D 82

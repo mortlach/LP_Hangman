@@ -1,0 +1,6 @@
+sing a note without M 150
+sing a great number M 130
+sing a hymn before D 332
+sing a hymn without D 126
+sing a tune without D 92
+sing a hymn called D 90

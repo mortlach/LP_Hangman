@@ -1,0 +1,2 @@
+omitting references to the D 488
+omitting instruction in no D 105

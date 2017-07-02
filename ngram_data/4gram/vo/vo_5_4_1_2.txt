@@ -1,0 +1,8 @@
+voice when i am M 512
+voice held a ring M 136
+voice when i sing M 114
+vowel from a to M 110
+voice when i do M 86
+voice such a thing M 46
+volts when a is D 104
+voice like a sea D 51

@@ -1,0 +1,6 @@
+tap a variety of D 1576
+tax a penalty of D 248
+tax a variety of D 128
+tax a violation of D 95
+tap a network of D 81
+tap a reserve of D 80

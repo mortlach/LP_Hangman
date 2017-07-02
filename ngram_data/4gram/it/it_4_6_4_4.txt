@@ -1,0 +1,7 @@
+item should have been M 1360
+item number from form M 318
+item appears only once M 154
+item should have only M 86
+item should look like M 47
+item scales were used D 182
+item scales have been D 119

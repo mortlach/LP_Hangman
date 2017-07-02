@@ -1,0 +1,11 @@
+ionic strength of solution D 1020
+ionic strength of seawater D 630
+ionic strength is lowered D 458
+ionic strength is defined D 370
+ionic strength is reduced D 326
+ionic strength of buffers D 234
+ionic strength is usually D 160
+ionic strength on protein D 132
+ionic strength in solution D 122
+ionic radius of calcium D 102
+ionic strength by addition D 92

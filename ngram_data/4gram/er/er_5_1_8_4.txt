@@ -1,0 +1,13 @@
+erect a vertical line M 1260
+erect a monarchy upon M 134
+erect a complete theory M 90
+erect a monument over D 1979
+erect a monument there D 264
+erect a monument upon D 252
+erect a cenotaph most D 148
+erect a military post D 142
+erect a monument here D 136
+erect a nuisance upon D 120
+erect a stockade fort D 114
+erect a monument more D 112
+erect a fortress there D 89

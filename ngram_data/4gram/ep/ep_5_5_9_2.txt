@@ -1,0 +1,2 @@
+epoch which witnessed the D 440
+epoch which succeeded the D 80

@@ -1,0 +1,11 @@
+from experience i am M 412
+from combination a to M 276
+from individual a to M 154
+from individual i to M 110
+from observation i am M 108
+from appearances i am M 90
+from department a to D 360
+from cytochrome a to D 286
+from department i to D 220
+from hemoglobin a by D 152
+from hemoglobin a in D 131

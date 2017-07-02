@@ -1,0 +1,3 @@
+java object that represents D 148
+java object that implements D 132
+jaws opened with reluctance D 84

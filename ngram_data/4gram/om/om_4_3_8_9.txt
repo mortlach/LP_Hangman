@@ -1,0 +1,4 @@
+omit any detailed discussion M 170
+omit any specific reference M 132
+omit any explicit reference M 112
+omit that appendix altogether M 86

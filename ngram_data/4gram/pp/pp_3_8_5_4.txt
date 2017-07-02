@@ -1,0 +1,1 @@
+ppm exposure limit must D 116

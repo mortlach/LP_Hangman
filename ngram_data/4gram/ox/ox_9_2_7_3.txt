@@ -1,0 +1,3 @@
+oxygenate the patient with D 105
+oxygenate the patient and D 97
+oxygenate the tissues and D 88

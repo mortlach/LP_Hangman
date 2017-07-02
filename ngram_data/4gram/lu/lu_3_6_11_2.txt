@@ -1,0 +1,6 @@
+lung nodule enhancement at D 187
+lung cancer development in D 146
+lung volume measurements in D 118
+lung volume corresponding to D 104
+lung disease complicated by D 100
+lung disease accompanied by D 96

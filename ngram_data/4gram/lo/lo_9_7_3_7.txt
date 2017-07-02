@@ -1,0 +1,4 @@
+lowercase letters and numbers M 588
+lowercase letters are allowed M 106
+lowercase letters for variable D 124
+logistics command and control D 124

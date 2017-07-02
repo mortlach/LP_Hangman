@@ -1,0 +1,3 @@
+name generally stood first M 176
+name attribute whose value M 143
+name resolution takes place D 95

@@ -1,0 +1,3 @@
+system allows communication between M 346
+system center configuration manager D 785
+system should differentiate between D 88

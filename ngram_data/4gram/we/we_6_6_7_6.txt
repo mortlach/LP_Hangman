@@ -1,0 +1,6 @@
+weight training program should M 180
+weighing twelve hundred pounds D 416
+weighs twelve hundred pounds D 210
+weighing eleven hundred pounds D 146
+wearily dragging himself across D 104
+weighing twelve thousand pounds D 102

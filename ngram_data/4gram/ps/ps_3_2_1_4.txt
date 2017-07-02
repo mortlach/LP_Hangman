@@ -1,0 +1,3 @@
+psi at a flow D 230
+psi at a depth D 150
+psi at a rate D 104

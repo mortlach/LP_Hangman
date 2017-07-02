@@ -1,0 +1,3 @@
+lung in all directions D 110
+lung at end expiration D 92
+lung is not collapsed D 86

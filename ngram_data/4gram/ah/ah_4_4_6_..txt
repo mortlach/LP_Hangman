@@ -1,0 +1,8 @@
+ahead very slowly . M 532
+ahead fast enough . M 374
+ahead more clearly . M 250
+ahead three spaces . M 228
+ahead grew louder . M 112
+ahead more slowly . M 106
+ahead more boldly . M 92
+ahead only slowly . M 86

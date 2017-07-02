@@ -1,0 +1,5 @@
+omit the subject altogether M 328
+omit the article altogether M 128
+omit the pronoun altogether M 116
+omit the passage altogether M 88
+omit the general instances M 80

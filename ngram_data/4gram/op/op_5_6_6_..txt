@@ -1,0 +1,3 @@
+opening screen appears . M 178
+opening another window . M 124
+opens another window . M 82

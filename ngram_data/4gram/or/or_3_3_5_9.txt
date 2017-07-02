@@ -1,0 +1,4 @@
+ore and steel production D 141
+ore was easily extracted D 120
+ore for steel production D 82
+ore are still available D 50

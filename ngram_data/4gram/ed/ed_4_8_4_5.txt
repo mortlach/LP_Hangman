@@ -1,0 +1,3 @@
+edit graphics line dialog D 440
+edge enhanced data rates D 142
+eddy currents from flowing D 85

@@ -1,0 +1,5 @@
+egress from and ingress D 316
+egress from each floor D 144
+egress from any place D 142
+egress from all parts D 109
+egress from this amazing D 98

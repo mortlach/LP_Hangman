@@ -1,0 +1,7 @@
+frame buffer memory . M 329
+front passes through . M 152
+front passed through . M 152
+frame church building . M 146
+frame school building . M 134
+frail blocks standing . M 120
+freed without fighting . M 106

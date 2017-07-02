@@ -1,0 +1,5 @@
+dc bias voltage and D 377
+dc bias current and D 322
+dc bus voltage and D 146
+dc bias voltage for D 119
+dc bias voltage was D 100

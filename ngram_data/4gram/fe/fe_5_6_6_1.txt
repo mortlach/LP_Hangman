@@ -1,0 +1,4 @@
+fever should prompt a D 98
+fever passes through a D 90
+feels gritty whereas a D 84
+fetus passes through a D 52

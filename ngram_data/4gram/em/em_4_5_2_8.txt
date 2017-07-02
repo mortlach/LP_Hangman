@@ -1,0 +1,4 @@
+emit light of definite M 160
+emit light in response M 105
+emit light at specific M 102
+emit light of wavelength D 129

@@ -1,0 +1,7 @@
+air a patient can M 162
+aid a wounded man M 110
+air a subject can M 94
+aid a student can M 86
+aid a patient who M 84
+aid a patient with M 40
+air a ghastly bat D 102

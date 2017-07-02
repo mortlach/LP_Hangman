@@ -1,0 +1,9 @@
+ionization detector was used D 1000
+ionization chambers are used D 748
+ionization combined with mass D 280
+ionization potential has been D 204
+ionization detector has been D 197
+ionization potential and high D 113
+ionization produced per unit D 112
+ionization energies and high D 84
+ionization detection was used D 48

@@ -1,0 +1,6 @@
+axial and radial temperature D 754
+axial and radial coordinates D 507
+axis and right ventricular D 112
+axes are linear combinations D 96
+axial and bending deformations D 80
+axial and radial distribution D 54

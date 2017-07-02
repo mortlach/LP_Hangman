@@ -1,0 +1,10 @@
+goods already produced . M 444
+goods remain constant . M 316
+goods remain unchanged . M 240
+goods already received . M 182
+goods before purchase . M 148
+goals remain unchanged . M 122
+goals already achieved . M 114
+goals remain constant . M 108
+goals become apparent . M 92
+goals already mentioned . M 80

@@ -1,0 +1,10 @@
+play chosen holds a M 442
+play closed after a M 387
+plan should cover a M 292
+plan through which a M 271
+plan should prove a M 118
+play occurs within a M 84
+plot should yield a D 428
+play tennis twice a D 310
+plug through which a D 182
+plot clearly shows a D 174

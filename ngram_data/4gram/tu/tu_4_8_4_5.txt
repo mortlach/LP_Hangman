@@ -1,0 +1,13 @@
+turn darkness into light M 1415
+turn strategy into action M 220
+turn intention into action M 100
+turn nonsense into sense M 89
+turn disorder into order M 87
+tube containing some water D 256
+tube containing iron filings D 202
+tube containing pure water D 140
+tube containing clay balls D 120
+tube containing lime water D 116
+tube containing cold water D 96
+tube containing only water D 88
+tube contents were mixed D 51

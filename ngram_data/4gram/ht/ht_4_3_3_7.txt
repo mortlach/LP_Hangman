@@ -1,0 +1,3 @@
+http does not require M 152
+http does not provide M 137
+http does not support M 98

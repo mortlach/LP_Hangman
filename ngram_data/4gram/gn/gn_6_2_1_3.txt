@@ -1,0 +1,3 @@
+gnawed by a rat D 256
+gnawed by a dog D 174
+gnawed by a fox D 94

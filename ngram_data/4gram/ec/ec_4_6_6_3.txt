@@ -1,0 +1,2 @@
+echo tracking system for D 100
+echo almost tallying with D 98

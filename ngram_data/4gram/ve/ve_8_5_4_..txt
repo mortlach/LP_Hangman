@@ -1,0 +1,14 @@
+vertical plane only . M 610
+vertical loads only . M 566
+vertical cross hair . M 480
+vehicles could pass . M 332
+vertical black line . M 270
+vertical motion only . M 240
+vertical lines only . M 222
+vehicles broke down . M 222
+vertical white line . M 154
+vehicles could move . M 142
+vertical growth rate . M 128
+vertical solid line . M 114
+vertical loading only . M 102
+vertical lines meet . M 84

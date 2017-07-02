@@ -1,0 +1,7 @@
+vat and excise taxes D 900
+vat and income taxes D 189
+vat and excise rates D 156
+van was drifting under D 138
+van was parked nearby D 135
+van was parked right D 110
+van was parked under D 100

@@ -1,0 +1,3 @@
+functioned reasonably well until D 272
+functional hierarchy among genes D 92
+functional pancreatic beta cells D 88

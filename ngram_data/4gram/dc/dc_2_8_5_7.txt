@@ -1,0 +1,2 @@
+dc magnetic field applied D 221
+dc electric field applied D 141

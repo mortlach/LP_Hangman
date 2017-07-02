@@ -1,0 +1,8 @@
+ore and metal company D 270
+ore and steel company D 246
+ore was first crushed D 141
+ore and waste material D 133
+ore was first smelted D 119
+ore and blast furnace D 109
+ore was first roasted D 84
+ore for which tonnage D 69

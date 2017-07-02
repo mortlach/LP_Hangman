@@ -1,0 +1,3 @@
+speak distinctly and correctly M 94
+speak adequately for themselves M 90
+speak eloquently for themselves D 1350

@@ -1,0 +1,4 @@
+oxidation rate was found D 229
+oxidation will not occur D 122
+oxidation during and after D 112
+oxidized ores are found D 110

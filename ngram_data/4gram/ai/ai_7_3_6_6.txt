@@ -1,0 +1,7 @@
+airline and flight number D 660
+airport and airway safety D 410
+airport and airway system D 408
+airport and seaport police D 184
+airline and travel agency D 156
+airtime and column inches D 110
+airport and border crossing D 67

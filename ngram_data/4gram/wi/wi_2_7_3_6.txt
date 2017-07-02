@@ -1,0 +1,4 @@
+wing parties and groups M 540
+wing coverts are tipped D 334
+wing coverts and quills D 244
+wing strokes per second D 60

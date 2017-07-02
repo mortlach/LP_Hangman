@@ -1,0 +1,10 @@
+worker should inform clients M 314
+worker should afford clients M 302
+worker should become familiar M 230
+wonder whether something similar M 108
+worked without deeply ingrained M 100
+wooden building without windows M 88
+wooden planks nailed together D 137
+wooden wedges driven between D 118
+wooden bridge already erected D 96
+wooden planks joined together D 82

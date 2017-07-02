@@ -1,0 +1,2 @@
+byte specifies the number D 130
+byte indicates the number D 106

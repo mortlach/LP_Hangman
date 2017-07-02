@@ -1,0 +1,2 @@
+karma should not be D 368
+kappa values for the D 255

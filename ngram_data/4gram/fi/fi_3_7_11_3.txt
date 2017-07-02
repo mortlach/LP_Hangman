@@ -1,0 +1,9 @@
+fit between individuals and M 790
+fit between personality and M 403
+fit between expectations and M 285
+fit between observations and M 198
+fit between institutions and M 125
+fit between temperament and M 112
+fit between organization and D 475
+fit between environment and D 308
+fit together harmoniously and D 88

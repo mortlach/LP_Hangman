@@ -1,0 +1,4 @@
+omit anything which can M 216
+omit words which are M 100
+omit anything which may M 98
+omit lemon juice and D 146

@@ -1,0 +1,6 @@
+spatially explicit population models D 1004
+spatially explicit simulation models D 140
+specific spectral absorption curves D 110
+specific membrane transport system D 108
+spatially explicit dispersal models D 94
+specific financial resources should D 84

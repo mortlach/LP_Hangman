@@ -1,0 +1,2 @@
+dynamo is used for D 368
+dynamo is less than D 158

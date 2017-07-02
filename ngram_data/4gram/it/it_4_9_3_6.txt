@@ -1,0 +1,3 @@
+item carefully and decide M 230
+item carefully and circle M 144
+item responses are summed D 61

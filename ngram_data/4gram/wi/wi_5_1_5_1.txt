@@ -1,0 +1,14 @@
+within a class i M 346
+within a state a M 314
+within a group a M 304
+within a class a M 179
+within a space a M 150
+within a voice a M 136
+within a while i M 122
+within a given s M 108
+within a given a M 88
+within a flame a D 138
+within a region a D 118
+within a nation a D 110
+within a stone s D 104
+within a region d D 86

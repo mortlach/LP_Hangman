@@ -1,0 +1,3 @@
+echo sequence was used M 179
+echo sounders are used D 116
+echo sounders and other D 49

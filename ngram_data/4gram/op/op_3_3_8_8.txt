@@ -1,0 +1,2 @@
+opt for prenatal diagnosis D 121
+opt for surgical treatment D 84

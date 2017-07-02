@@ -1,0 +1,2 @@
+squares methods have been M 110
+squared stones have been D 86

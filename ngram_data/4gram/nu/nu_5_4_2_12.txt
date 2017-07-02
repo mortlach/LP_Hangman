@@ -1,0 +1,9 @@
+nurse must be knowledgeable M 1324
+nurse must be particularly M 606
+nursing care is administered M 62
+nursing home or convalescent D 314
+nursing home or institutional D 133
+nursing care of communicable D 93
+nursing care of hospitalized D 87
+nursing care in poliomyelitis D 60
+nursing care to hospitalized D 43

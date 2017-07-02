@@ -1,0 +1,2 @@
+atom donates one electron D 295
+atom accepts one electron D 108

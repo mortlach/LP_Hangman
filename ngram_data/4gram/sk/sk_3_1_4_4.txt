@@ -1,0 +1,14 @@
+sky a deep blue M 1030
+sky a clear blue M 476
+sky i have ever M 248
+sky a dull gray M 154
+sky i have seen M 146
+sky a full moon M 130
+sky a dull grey M 107
+sky a dark blue M 102
+sky a bold full M 102
+sky a soft blue M 61
+sky a pale blue D 363
+sky a single star D 98
+sky a great star D 92
+sky a pale pink D 52

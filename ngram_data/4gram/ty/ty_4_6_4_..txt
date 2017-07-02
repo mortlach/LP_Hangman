@@ -1,0 +1,7 @@
+type something else . M 220
+type through time . M 127
+type around here . M 120
+type another name . M 95
+type pretty well . M 49
+type fairly well . M 44
+type column heading . M 43

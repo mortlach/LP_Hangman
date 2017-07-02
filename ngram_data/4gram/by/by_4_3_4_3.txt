@@ -1,0 +1,6 @@
+byte has been read D 286
+byte can hold one D 181
+byte are used for D 160
+byes and left for D 160
+byte can have any D 90
+byes and make his D 82

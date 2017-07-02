@@ -1,0 +1,7 @@
+image enhancement has been M 93
+image intensifier has been D 205
+image segmentation has been D 195
+image registration has been D 177
+image intensifier and video D 163
+image intensifier was used D 148
+image coordinates are used D 80

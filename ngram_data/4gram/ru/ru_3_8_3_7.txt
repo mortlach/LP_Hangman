@@ -1,0 +1,14 @@
+run marginal and average M 1634
+run backward and forward M 1324
+run downward and forward M 665
+run programs that require M 251
+run northwest and southeast M 244
+run downward and outward M 177
+run forwards and inwards M 122
+run backward and outward M 97
+run forwards and upwards M 49
+run tendency for profits M 45
+run downward and medially D 298
+run upstairs this instant D 168
+run forwards and medially D 103
+run parallel for several D 82

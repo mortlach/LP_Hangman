@@ -1,0 +1,3 @@
+ppm for six hours D 157
+ppm for two hours D 148
+ppm did not cause D 43

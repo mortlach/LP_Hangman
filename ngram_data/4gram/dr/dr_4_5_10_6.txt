@@ -1,0 +1,3 @@
+draw tight boundaries around M 126
+draw sharp boundaries around D 168
+drop below acceptable levels D 157

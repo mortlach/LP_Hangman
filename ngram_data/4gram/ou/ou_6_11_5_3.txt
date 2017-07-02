@@ -1,0 +1,3 @@
+output combinations which are M 92
+output frequencies which are D 112
+output coefficients which are D 88

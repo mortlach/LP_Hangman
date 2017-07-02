@@ -1,0 +1,6 @@
+cylinder having a diameter D 1403
+cylinder having a movable D 130
+cylinder having a surface D 116
+cylinder into a smaller D 94
+cylinder having a central D 90
+cylinder from a previous D 86

@@ -1,0 +1,4 @@
+offs between different types D 344
+offs between conflicting goals D 224
+offs between different kinds D 184
+offs between different goals D 114

@@ -1,0 +1,8 @@
+about nothing " . M 860
+about nothing " ? M 200
+about life " . M 184
+about data " . M 140
+about town " . M 130
+about time " . M 112
+about peace " . M 92
+about love " . M 84

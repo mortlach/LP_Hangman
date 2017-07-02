@@ -1,0 +1,8 @@
+bank account separate from M 510
+base address obtained from M 182
+bank accepts deposits from D 268
+bank deposit interest rate D 228
+bank offices increased from D 170
+baking powders containing alum D 130
+back sternly forbidding their D 120
+band charged suddenly upon D 98

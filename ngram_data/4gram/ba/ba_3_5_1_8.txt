@@ -1,0 +1,5 @@
+bar about a vertical M 110
+bar above a quantity M 106
+bad about a situation M 102
+bat hitting a baseball D 191
+bath under a nitrogen D 110

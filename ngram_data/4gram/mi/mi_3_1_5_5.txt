@@ -1,0 +1,3 @@
+mix a small batch D 550
+mix a fresh batch D 473
+mix a large batch D 126

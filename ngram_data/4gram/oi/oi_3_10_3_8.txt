@@ -1,0 +1,14 @@
+oil refineries and chemical D 2432
+oil consumption has increased D 336
+oil exploration and recovery D 230
+oil refineries and synthetic D 210
+oil consumption and decreased D 160
+oil exploration and pipeline D 128
+oil corporation and standard D 126
+oil exploration and processing D 105
+oil discovered and produced D 100
+oil refineries are situated D 99
+oil refineries and railroad D 98
+oil refineries and electric D 96
+oil refineries and aircraft D 88
+oil consumption has declined D 86

@@ -1,0 +1,7 @@
+goods which satisfy human M 184
+goods which satisfy wants M 120
+goods which require large M 116
+goods which society wants M 114
+goods which society needs M 112
+goods under neutral flags D 150
+goods boxes mounted thereon D 110

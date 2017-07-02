@@ -1,0 +1,12 @@
+yielded a large body M 492
+yielded a large part M 234
+yielded a lower rate M 160
+yielded a steady flow M 158
+yielded a growth rate M 124
+yielded a wider range M 106
+yielded a whole range M 90
+yielded a large crop D 292
+yielded a broad range D 150
+yielded a small crop D 126
+yielded a yearly rent D 108
+yielded a noble crop D 80

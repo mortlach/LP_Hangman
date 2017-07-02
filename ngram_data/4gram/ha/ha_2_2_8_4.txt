@@ -1,0 +1,5 @@
+ha of forested land D 287
+ha of derelict land D 214
+ha of degraded land D 204
+ha of farmland were D 138
+ha of tropical rain D 94

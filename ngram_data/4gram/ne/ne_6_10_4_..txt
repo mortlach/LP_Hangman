@@ -1,0 +1,4 @@
+nearest neighbours only . M 490
+needed government help . M 127
+needed individual help . M 114
+needed assistance most . M 85

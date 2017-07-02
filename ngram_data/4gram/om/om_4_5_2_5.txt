@@ -1,0 +1,2 @@
+omit cases in which M 102
+omit either the first M 96

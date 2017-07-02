@@ -1,0 +1,8 @@
+outer join returns all M 277
+outer cell surface and M 222
+outer body surface and M 94
+outer ones shorter than M 88
+outer door slammed and D 164
+outer wall surface and D 132
+outer tube surface that D 116
+outer wall covered with D 90

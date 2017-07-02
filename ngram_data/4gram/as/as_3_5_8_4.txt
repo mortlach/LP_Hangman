@@ -1,0 +1,10 @@
+ask basic questions such M 218
+ask people questions like M 137
+ask people directly what M 134
+ask about possible side M 112
+ask tough questions when M 84
+ask basic questions like M 42
+ask silly questions like D 162
+ask probing questions such D 144
+ask probing questions when D 118
+ask about symptoms such D 82

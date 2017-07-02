@@ -1,0 +1,7 @@
+ask a job applicant M 732
+ask a few additional M 268
+ask a job candidate M 264
+ask a few important M 160
+ask a few necessary M 98
+ask a few colleagues M 84
+ask a few pertinent D 712

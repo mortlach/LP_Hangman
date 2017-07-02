@@ -1,0 +1,4 @@
+emit the maximum amount M 120
+emit the greatest amount M 86
+emit an optical phonon D 146
+emit an audible signal D 144

@@ -1,0 +1,8 @@
+aircraft should have been D 634
+aircraft engines have been D 298
+airborne landings have been D 144
+airborne troops were used D 138
+airplane should have been D 126
+airplane engines have been D 120
+airplane starts from rest D 82
+airplane should look like D 64

@@ -1,0 +1,12 @@
+image dialog box . M 2405
+image check box . M 556
+image fades out . M 332
+image after all . M 290
+image within you . M 288
+image every day . M 180
+image right now . M 174
+image within man . M 162
+image within them . M 160
+image within him . M 144
+image stand out . M 140
+image faded out . M 90

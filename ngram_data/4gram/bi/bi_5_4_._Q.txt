@@ -1,0 +1,9 @@
+birds away . " M 504
+birds here . " M 332
+binding theory . " M 330
+binding site . " M 248
+birds there . " M 232
+birds flying . " M 152
+birds come . " M 112
+binding norm . " M 102
+birds here ? " M 90

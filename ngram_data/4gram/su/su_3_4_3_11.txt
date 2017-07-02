@@ -1,0 +1,11 @@
+sum test for independent M 523
+sum over all individuals M 288
+sum over all observations M 258
+sun from being troublesome M 244
+sun came out occasionally M 98
+sun will not necessarily M 92
+sum over all combinations M 52
+sum over all permutations D 322
+sun open net environment D 242
+sum over all frequencies D 142
+sum over all intermediate D 128

@@ -1,0 +1,4 @@
+ocean and adjacent waters M 1270
+ocean and tranquil waters M 80
+ocean and adjacent regions D 158
+ocean and mountain vistas D 45

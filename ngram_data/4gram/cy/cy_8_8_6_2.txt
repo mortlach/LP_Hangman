@@ -1,0 +1,5 @@
+cylinder pressure should be D 173
+cylinder contains oxygen at D 150
+cylinder projects beyond the D 126
+cysteine residues linked by D 87
+cylinder eighteen inches in D 50

@@ -1,0 +1,5 @@
+byte is eight bits D 1054
+byte or eight bits D 348
+byte of eight bits D 164
+byte is moved into D 114
+byte of input data D 100

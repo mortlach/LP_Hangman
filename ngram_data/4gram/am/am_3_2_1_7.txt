@@ -1,0 +1,4 @@
+amp as a mediator D 317
+amp as a function D 95
+amp in a circuit D 56
+amp at a voltage D 42

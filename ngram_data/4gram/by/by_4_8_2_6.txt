@@ -1,0 +1,4 @@
+byte contains the number D 252
+byte register or memory D 151
+byte containing the number D 108
+byte locations in memory D 87

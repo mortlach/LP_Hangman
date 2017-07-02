@@ -1,0 +1,3 @@
+item accounted for only M 84
+item available for sale D 402
+item indicates that there D 96

@@ -1,0 +1,11 @@
+oak tree . " M 5138
+oak tree ? " M 787
+oak hill . " M 594
+oak tree ! " M 396
+oak wood . " M 210
+oak room . " M 158
+oak hall . " M 148
+oak door . " M 148
+oak hill ? " M 132
+oath from . " M 126
+oak bark . " M 57

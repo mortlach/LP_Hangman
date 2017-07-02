@@ -1,0 +1,4 @@
+prior and posterior analytics D 5274
+prey and predator densities D 488
+prior and posterior densities D 305
+prey and predator population D 228

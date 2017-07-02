@@ -1,0 +1,8 @@
+echo returned from the M 318
+echo received from the M 311
+echo answered from the M 183
+echo obtained from the M 44
+echo murmured back the D 1234
+echo rebounds from the D 182
+echo resounding from the D 172
+echo rebounding from the D 105

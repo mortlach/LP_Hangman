@@ -1,0 +1,3 @@
+oldest continuously occupied house M 84
+oldest continuously operated hotel D 176
+oldest continuously licensed hotel D 86

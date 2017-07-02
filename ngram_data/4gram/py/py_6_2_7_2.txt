@@ -1,0 +1,5 @@
+pyrite is present in D 1193
+pylori is present in D 346
+pyrite is exposed to D 261
+pyrite is present as D 213
+pyrite in addition to D 42

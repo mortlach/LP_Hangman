@@ -1,0 +1,4 @@
+cycle every day . M 230
+cycle every year . M 166
+cycle right now . M 144
+cycle after that . M 104

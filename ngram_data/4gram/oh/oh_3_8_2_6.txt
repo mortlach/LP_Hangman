@@ -1,0 +1,3 @@
+ohm resistor in series D 2330
+ohm resistor is placed D 327
+ohm resistor to ground D 82

@@ -1,0 +1,9 @@
+owned a house . M 2972
+owned a slave . M 1784
+owned a store . M 813
+owned a watch . M 412
+owned a share . M 362
+owned a plane . M 116
+owned a press . M 102
+owner a favor . M 88
+owned a phone . M 84

@@ -1,0 +1,6 @@
+edit sequence dialog box M 974
+edit category dialog box M 475
+edit schedule dialog box M 195
+edit envelope dialog box D 1264
+eddy currents which are D 639
+eddy currents which may D 164

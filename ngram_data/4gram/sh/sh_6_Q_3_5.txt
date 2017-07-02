@@ -1,0 +1,14 @@
+should " not allow M 282
+should " sit still M 204
+should " lay aside M 198
+should " get tough M 156
+should " use every M 136
+should " not apply M 118
+should " bring about M 112
+shared " with others M 108
+should " set aside M 107
+should " lay hands M 106
+should " put aside M 100
+should " and wrote M 98
+should " not appear M 82
+should " act under M 80

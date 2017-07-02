@@ -1,0 +1,14 @@
+lung diseases caused by D 1130
+lung function should be D 538
+lung function changes in D 432
+lung elastic recoil is D 246
+lung abscess caused by D 216
+lung abscess should be D 206
+lung function caused by D 178
+lung cancers caused by D 164
+lung elastic recoil in D 158
+lung following repair of D 154
+lung volumes should be D 114
+lung abscess distal to D 96
+lung expands itself so D 88
+lung trouble caused by D 84

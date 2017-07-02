@@ -1,0 +1,6 @@
+framework provides a way D 986
+framework provides a set D 758
+framework provides a new D 204
+framework includes a set D 144
+framework contains a set D 110
+framework provided a way D 106

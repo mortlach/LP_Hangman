@@ -1,0 +1,4 @@
+symmetry a line that M 90
+symptoms i have had D 180
+symptoms i have not D 82
+symptoms a good deal D 80

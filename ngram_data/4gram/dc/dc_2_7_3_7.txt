@@ -1,0 +1,5 @@
+dc voltage and current D 1842
+dc current and voltage D 602
+dc voltage was applied D 541
+dc voltage with respect D 136
+dc current was applied D 100

@@ -1,0 +1,3 @@
+gyration about its axis D 280
+gyration about any axis D 272
+gyration about this axis D 100

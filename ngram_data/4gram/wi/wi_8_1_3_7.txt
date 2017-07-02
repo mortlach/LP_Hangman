@@ -1,0 +1,7 @@
+withstand a few degrees M 240
+withdrawn a few hundred M 156
+withstand a due process M 94
+withdrawn a few minutes M 86
+withstand a hot climate D 158
+withstand a peak voltage D 110
+withstand a peak inverse D 108

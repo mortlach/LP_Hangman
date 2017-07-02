@@ -1,0 +1,14 @@
+short time " . M 1306
+shall live " . M 540
+shall meet " . M 522
+shall come " . M 250
+shall live " ? M 246
+shall find " . M 238
+short term " . M 202
+short time " ? M 194
+shall cease " . M 154
+shall pass " . M 148
+shall meet " ? M 146
+shall have " . M 112
+shall pass " ? M 94
+shall know " . M 88

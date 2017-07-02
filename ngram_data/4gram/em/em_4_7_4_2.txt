@@ -1,0 +1,4 @@
+emit radiation only in D 204
+emit radiation over the D 118
+emit radiation into the D 107
+emit radiation only at D 102

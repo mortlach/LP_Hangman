@@ -1,0 +1,5 @@
+run sustainable growth rate M 44
+run equilibrium price will D 586
+run equilibrium growth rate D 335
+run equilibrium moves from D 190
+run equilibrium price must D 140

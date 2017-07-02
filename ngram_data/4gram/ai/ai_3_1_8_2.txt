@@ -1,0 +1,13 @@
+air a distance of M 835
+aid a prisoner to M 324
+air a quantity of M 286
+aid a designer in M 180
+aid a prisoner in M 178
+aid i received in M 108
+aid a neighbor in M 92
+aid a business in M 86
+air a velocity of D 124
+air a pinnacle of D 120
+aid a physician in D 99
+aid a clinician in D 98
+air a specimen of D 90

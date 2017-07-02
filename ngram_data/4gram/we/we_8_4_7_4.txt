@@ -1,0 +1,2 @@
+weighted least squares line D 73
+weighted least squares fits D 44

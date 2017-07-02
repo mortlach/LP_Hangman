@@ -1,0 +1,5 @@
+clock back " . M 108
+class rule " . M 106
+close reading " . M 105
+class peace " . M 96
+click here " . M 45

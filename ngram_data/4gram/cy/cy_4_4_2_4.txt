@@ -1,0 +1,8 @@
+cyst wall is thick D 310
+cyst wall is made D 268
+cyst wall is very D 194
+cyst from the left D 150
+cyst wall is seen D 126
+cyst from the neck D 126
+cyst from the wall D 104
+cyst wall is left D 100

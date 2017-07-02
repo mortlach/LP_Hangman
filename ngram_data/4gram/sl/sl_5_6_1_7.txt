@@ -1,0 +1,16 @@
+slave without a country M 138
+slave became a citizen M 128
+slave carrying a lantern M 116
+sleep became a stranger M 86
+sleep without a blanket D 335
+sleep without a mouthful D 236
+sleep through a tornado D 179
+slave strike a freeman D 134
+sliding across a surface D 126
+slept without a blanket D 126
+slope behind a village D 116
+slept behind a curtain D 112
+slave became a freeman D 110
+slows beyond a certain D 80
+slope reaches a maximum D 59
+sleep behind a curtain D 47

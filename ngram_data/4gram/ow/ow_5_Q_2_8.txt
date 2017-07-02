@@ -1,0 +1,3 @@
+owner " of property M 334
+owned " the property M 202
+owned " by everyone M 156

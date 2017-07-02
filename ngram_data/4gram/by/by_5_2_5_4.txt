@@ -1,0 +1,5 @@
+bytes of image data D 290
+bytes of total disk D 240
+bytes of eight bits D 214
+bytes of input data D 138
+bytes or words from D 94

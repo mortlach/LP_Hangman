@@ -1,0 +1,2 @@
+equals energy output . M 195
+equals market demand . M 105

@@ -1,0 +1,3 @@
+gyration of section in D 164
+gyration of member in D 138
+gyration the radius of D 90

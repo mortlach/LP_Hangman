@@ -1,0 +1,2 @@
+zygote divides by a D 130
+zygote results in a D 91

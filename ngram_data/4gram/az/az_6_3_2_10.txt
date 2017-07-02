@@ -1,0 +1,3 @@
+azimuth may be determined D 245
+azimuth can be determined D 213
+azimuth can be calculated D 162

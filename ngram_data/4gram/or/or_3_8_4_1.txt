@@ -1,0 +1,4 @@
+ore contains only a D 218
+ore deposits have a D 97
+ore obtained from a D 55
+ore containing only a D 51

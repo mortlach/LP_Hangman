@@ -1,0 +1,2 @@
+erroneously high value for D 146
+erroneously been taken for D 140

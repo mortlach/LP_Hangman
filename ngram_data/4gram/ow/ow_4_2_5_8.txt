@@ -1,0 +1,12 @@
+owns the working interest M 228
+owns the trust property M 174
+owns the whole property M 164
+owning or holding property M 126
+owning an equal interest M 122
+owns an equal interest M 118
+owns the whole universe M 114
+owns the whole business M 102
+owning or renting property D 360
+owns or leases property D 298
+owns the leased property D 276
+owning the motel property D 110

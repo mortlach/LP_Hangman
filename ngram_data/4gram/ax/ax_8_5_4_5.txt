@@ -1,0 +1,3 @@
+axillary lymph node biopsy D 177
+axillary lymph node staging D 74
+axillary nodes were found D 70

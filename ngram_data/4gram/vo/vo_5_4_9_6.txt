@@ -1,0 +1,8 @@
+voice from somewhere behind M 1216
+voice from somewhere inside M 460
+voice from somewhere beyond M 126
+voice from somewhere called M 108
+volts when connected across D 114
+vocal cord paralysis should D 112
+vocal cord paralysis caused D 98
+voted into political office D 96

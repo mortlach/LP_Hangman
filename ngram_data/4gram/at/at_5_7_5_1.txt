@@ -1,0 +1,3 @@
+atoms between which a D 172
+atoms remaining after a D 164
+atoms together within a D 130

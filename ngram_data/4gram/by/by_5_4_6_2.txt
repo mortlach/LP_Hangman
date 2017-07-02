@@ -1,0 +1,4 @@
+bytes free volume in D 496
+bytes from source to D 196
+bytes from buffer to D 140
+bytes from memory to D 118

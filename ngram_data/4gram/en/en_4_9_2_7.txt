@@ -1,0 +1,8 @@
+ending inventory at current D 746
+ending inventory is assumed D 240
+ending inventory is entered D 186
+ending inventory as follows D 182
+ending inventory at january D 134
+ending inventory is counted D 102
+ending inventory is measured D 100
+ending inventory at beginning D 41

@@ -1,0 +1,10 @@
+king a sum of M 986
+king a man of M 374
+king a son of M 334
+king a cup of M 234
+king a set of M 182
+king i had to M 176
+king a lot of M 100
+king a tax of D 276
+king i met at D 96
+king a row of D 90

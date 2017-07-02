@@ -1,0 +1,5 @@
+workload is distributed among M 180
+workshop on distributed data D 1465
+workshop on intelligent user D 447
+workshop on sustainable land D 206
+workshop on intelligent data D 63

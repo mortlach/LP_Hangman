@@ -1,0 +1,7 @@
+echo that did not M 227
+echo that does not M 177
+echo now and then M 169
+echo that can not M 128
+echo had not yet M 96
+echo was not all M 82
+echo far and near M 65

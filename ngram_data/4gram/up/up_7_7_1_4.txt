@@ -1,0 +1,5 @@
+upright against a tree M 1066
+upright against a thorn M 88
+upright against a wall D 1586
+upright against a rock D 138
+upstream against a heavy D 41

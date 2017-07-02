@@ -1,0 +1,3 @@
+cycle from a to M 364
+cycle when a is M 164
+cycle time t is M 142

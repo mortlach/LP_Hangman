@@ -1,0 +1,5 @@
+lying northwest and southeast M 227
+lying backward and forward M 176
+lying helpless and wounded M 96
+lying posterior and inferior D 98
+lying unburied and festering D 80

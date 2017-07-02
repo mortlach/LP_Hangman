@@ -1,0 +1,2 @@
+ohm resistor as shown D 110
+ohm resistor is added D 47

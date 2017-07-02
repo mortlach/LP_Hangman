@@ -1,0 +1,2 @@
+zeros everywhere except in M 178
+zeros everywhere except on M 124

@@ -1,0 +1,3 @@
+ionic species are present D 415
+ionic solutes are soluble D 128
+ionic columns that support D 116

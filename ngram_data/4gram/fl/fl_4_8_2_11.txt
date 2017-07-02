@@ -1,0 +1,10 @@
+flying entirely by instruments M 96
+flow velocity is proportional D 370
+flux produced is proportional D 234
+flow velocity in respiratory D 178
+flung outwards by centrifugal D 128
+flow velocity of groundwater D 118
+flow velocity in capillaries D 110
+flow increases the temperature D 90
+flow velocity is independent D 87
+flow direction of groundwater D 46

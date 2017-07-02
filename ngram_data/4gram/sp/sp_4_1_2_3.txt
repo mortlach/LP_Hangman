@@ -1,0 +1,8 @@
+speak i to them M 2420
+speak i do not M 814
+spring i do not M 409
+spring i am going M 280
+speak i am not M 198
+speak i of this M 120
+spot i do not D 430
+spot i am now D 108

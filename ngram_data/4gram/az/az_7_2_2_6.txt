@@ -1,0 +1,4 @@
+azimuths of the points D 140
+azimuths of the second D 134
+azimuths of the secant D 111
+azimuths by the streams D 102

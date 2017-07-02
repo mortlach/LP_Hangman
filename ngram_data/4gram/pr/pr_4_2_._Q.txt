@@ -1,0 +1,9 @@
+pray do . " M 1658
+pray to ? " M 1234
+pray to . " M 818
+pray do ! " M 599
+pray so . " M 592
+prior to . " M 248
+pray it . " M 138
+pray go . " M 107
+pray on . " M 95

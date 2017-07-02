@@ -1,0 +1,4 @@
+edit button bar dialog M 531
+edge before and after M 153
+edge lights are white M 113
+edit button and enter M 92

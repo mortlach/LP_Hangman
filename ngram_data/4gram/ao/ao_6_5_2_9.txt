@@ -1,0 +1,5 @@
+aortic valve is competent D 186
+aortic valve is associated D 166
+aortic valve is calcified D 116
+aortic valve is indicated D 102
+aortic valve or pulmonary D 82

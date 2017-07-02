@@ -1,0 +1,3 @@
+duplicate keys are allowed D 254
+duplicate face and features D 210
+duplicate rows are removed D 106

@@ -1,0 +1,5 @@
+rye or wheat flour D 500
+rye or wheat straw D 363
+rye or other grain D 298
+rye in their place D 228
+rye is also grown D 80

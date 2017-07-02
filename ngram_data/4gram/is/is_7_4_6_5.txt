@@ -1,0 +1,3 @@
+islands were placed under D 2026
+islands were united under D 168
+islands were already known D 92

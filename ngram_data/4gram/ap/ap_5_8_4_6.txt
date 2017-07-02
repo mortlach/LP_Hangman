@@ -1,0 +1,10 @@
+appear somewhat more likely M 220
+appear straight when looked M 186
+appear slightly more likely M 180
+appear suddenly from behind M 150
+appear somewhat less likely M 142
+appear straight when viewed M 104
+appear somewhat more clearly M 102
+appear coloured when viewed M 82
+apple computer went public D 100
+apple blossoms have fallen D 46

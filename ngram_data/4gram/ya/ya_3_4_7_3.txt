@@ -1,0 +1,1 @@
+yaw axis control are D 122

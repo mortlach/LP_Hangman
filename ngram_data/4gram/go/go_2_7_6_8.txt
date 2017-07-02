@@ -1,0 +1,2 @@
+go forward without sheltering M 168
+go outside normal channels M 146

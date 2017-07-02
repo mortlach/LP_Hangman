@@ -1,0 +1,5 @@
+crossed state boundaries . M 432
+crossed class boundaries . M 396
+crosses state boundaries . M 306
+crosses class boundaries . M 217
+creature grows degenerate . M 98

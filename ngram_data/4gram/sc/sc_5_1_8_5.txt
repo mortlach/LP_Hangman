@@ -1,0 +1,3 @@
+scale a distance equal M 46
+score a standard score D 215
+scent a plenteous board D 80

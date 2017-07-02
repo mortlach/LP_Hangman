@@ -1,0 +1,7 @@
+zero profit condition . M 452
+zero initial condition . M 380
+zero matrix elements . M 169
+zero charge potential . M 132
+zero stress condition . M 105
+zero energy transfer . M 102
+zero equals infinity . M 101

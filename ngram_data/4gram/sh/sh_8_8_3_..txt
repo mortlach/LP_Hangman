@@ -1,0 +1,4 @@
+shortest possible way . M 1120
+shortest possible path . M 1060
+shortest possible cut . M 236
+shortest possible one . M 138

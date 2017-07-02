@@ -1,0 +1,2 @@
+db for data mining D 800
+db per unit length D 230

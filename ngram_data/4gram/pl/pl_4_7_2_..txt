@@ -1,0 +1,16 @@
+play against it . M 1252
+play against us . M 614
+plead against it . M 478
+play against me . M 467
+play between us . M 356
+plan against it . M 198
+plan against me . M 195
+plan against us . M 128
+play against me ? M 125
+plan consist of ? M 120
+play demands it . M 114
+plan between us . M 108
+plan permits it . M 92
+plan decided on . M 90
+plead against it ? M 84
+plan depends on . M 84

@@ -1,0 +1,2 @@
+idea incompatible with the D 344
+idea inconsistent with the D 318

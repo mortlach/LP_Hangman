@@ -1,0 +1,3 @@
+db or more below D 1048
+db or more above D 731
+db in some cases D 119

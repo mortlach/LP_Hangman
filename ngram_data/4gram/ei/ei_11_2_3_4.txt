@@ -1,0 +1,3 @@
+eigenvalues in this case D 186
+eigenvalues do not have D 114
+eigenstates it was once D 104

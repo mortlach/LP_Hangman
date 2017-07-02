@@ -1,0 +1,3 @@
+iteration fails to converge D 152
+itemized table of contents D 88
+iteration would be required D 65

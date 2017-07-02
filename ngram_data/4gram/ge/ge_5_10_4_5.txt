@@ -1,0 +1,11 @@
+getting information from people M 744
+getting information from others M 314
+getting information from books M 248
+getting recognition from others M 106
+getting assistance from others M 106
+getting complaints from people M 84
+genes introduced into mouse D 688
+genes introduced into cells D 178
+genes introduced into human D 90
+getting cooperation from others D 86
+genes predispose some people D 82

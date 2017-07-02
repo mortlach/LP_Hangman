@@ -1,0 +1,3 @@
+emit light from within M 128
+emit light when heated D 255
+emit gamma rays which D 148

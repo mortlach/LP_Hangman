@@ -1,0 +1,3 @@
+rings every five minutes M 144
+rings appear very ancient M 96
+ringing every five minutes D 304

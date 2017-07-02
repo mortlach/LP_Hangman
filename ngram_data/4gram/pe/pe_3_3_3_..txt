@@ -1,0 +1,13 @@
+pet for you . M 640
+pet with him . M 308
+pet his dog . M 210
+pet with you . M 202
+pet his head . M 199
+pet for you ? M 182
+pet with them . M 162
+pet with her . M 106
+pet was dead . M 106
+pet her head . M 94
+pet her dog . M 93
+pet you too . M 82
+pet for them . M 80

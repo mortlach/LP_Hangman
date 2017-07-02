@@ -1,0 +1,5 @@
+ours is . " M 699
+ours do . " M 380
+ours is ! " M 129
+ours up . " M 112
+ours is ? " M 84

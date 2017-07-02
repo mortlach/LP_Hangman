@@ -1,0 +1,9 @@
+via air and water M 238
+via read and write M 126
+via this new route M 90
+via fax and phone D 126
+via pen and paper D 102
+via fax and email D 99
+via cut and paste D 96
+via bus and train D 82
+via fax and modem D 41

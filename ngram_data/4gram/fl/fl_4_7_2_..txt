@@ -1,0 +1,10 @@
+flow between us . M 612
+flying towards us . M 586
+flying towards me . M 414
+flow towards it . M 316
+flying towards it . M 230
+flying against it . M 200
+flow towards us . M 122
+flying between us . M 110
+flow against it . M 96
+flow outside it . M 45

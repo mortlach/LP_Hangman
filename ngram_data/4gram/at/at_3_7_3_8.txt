@@ -1,0 +1,3 @@
+ate quickly and silently M 228
+ate quickly and returned M 142
+ate noisily and greedily D 82

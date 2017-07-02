@@ -1,0 +1,6 @@
+order should contain only M 100
+order without outside help M 92
+order effect resulting from M 46
+organ damage resulting from D 170
+orbit further removed from D 100
+order places between these D 90

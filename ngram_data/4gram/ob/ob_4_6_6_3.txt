@@ -1,0 +1,4 @@
+obey existing orders for M 482
+obey lawful orders and M 200
+obey orders without any M 146
+obey orders before all M 88

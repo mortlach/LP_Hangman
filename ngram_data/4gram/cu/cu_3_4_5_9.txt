@@ -1,0 +1,12 @@
+cut from above downwards M 110
+cut from quite different M 83
+cut into small fragments D 1870
+cut into small rectangles D 366
+cut into small particles D 254
+cut from stiff cardboard D 207
+cut from white cardboard D 150
+cut from large precursor D 94
+cut into short cylinders D 90
+cut into small cylinders D 84
+cut from black cardboard D 45
+cut into short fragments D 41

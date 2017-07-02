@@ -1,0 +1,9 @@
+yield results which are M 5468
+yield results which can M 863
+yield results which may M 324
+yield criteria which can M 235
+yield answers which are M 128
+yield returns which are M 90
+yield results which all M 88
+yield figures which are M 64
+yield spectra which are D 45

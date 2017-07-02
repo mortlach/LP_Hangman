@@ -1,0 +1,5 @@
+offs are discussed in D 230
+offs are difficult to D 196
+offs are necessary to D 170
+offs are necessary in D 126
+offs and reductions in D 80

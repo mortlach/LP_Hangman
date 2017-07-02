@@ -1,0 +1,8 @@
+voice a bare whisper M 404
+voice a soft whisper M 231
+voice i heard captain M 132
+voice i heard belonged M 120
+voice a loud whisper M 112
+voice a mere whisper D 1377
+voted a great success D 1042
+voted a huge success D 266

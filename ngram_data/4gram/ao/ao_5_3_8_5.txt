@@ -1,0 +1,3 @@
+aorta and descending aorta D 178
+aorta and coronary sinus D 163
+aorta and cardinal veins D 110

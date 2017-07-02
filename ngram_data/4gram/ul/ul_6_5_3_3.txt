@@ -1,0 +1,4 @@
+ulcers which are not D 404
+ulcers which heal with D 106
+ulcers which can not D 100
+ulcers which did not D 90

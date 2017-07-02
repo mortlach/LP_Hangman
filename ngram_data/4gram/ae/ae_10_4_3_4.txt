@@ -1,0 +1,2 @@
+aerodynamic lift and drag D 670
+aerodynamic drag and lift D 208

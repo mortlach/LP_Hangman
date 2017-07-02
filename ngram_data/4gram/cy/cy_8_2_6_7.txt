@@ -1,0 +1,7 @@
+cylinder of larger diameter D 390
+cylinder is placed between D 364
+cylinder of greater diameter D 168
+cylinder is slowly rotated D 128
+cylinder is greatly reduced D 112
+cylinder of matrix material D 92
+cylinder is placed upright D 87

@@ -1,0 +1,4 @@
+byte of data within D 348
+byte of disk space D 113
+byte of data every D 104
+byte by byte basis D 102

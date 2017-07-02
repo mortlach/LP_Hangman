@@ -1,0 +1,6 @@
+given situation requires a M 194
+gives everyone involved a M 170
+given direction produces a M 106
+given situation involves a M 104
+gives ordinary citizens a M 84
+given stimulus produces a D 202

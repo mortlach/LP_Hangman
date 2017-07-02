@@ -1,0 +1,2 @@
+echo of words uttered M 84
+echo to longer orations D 167

@@ -1,0 +1,3 @@
+feasible basic solution . M 160
+females about equally . M 134
+females taken together . M 86

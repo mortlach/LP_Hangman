@@ -1,0 +1,4 @@
+atom passes through the D 368
+atom doubly bonded to D 200
+atom double bonded to D 128
+atom always equals the D 41

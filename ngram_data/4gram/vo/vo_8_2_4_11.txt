@@ -1,0 +1,5 @@
+volatile at room temperature D 1639
+voltages at high frequencies D 184
+volatile at high temperature D 152
+voltages at radio frequencies D 124
+voltages of other frequencies D 106

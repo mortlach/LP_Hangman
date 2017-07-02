@@ -1,0 +1,5 @@
+cycle requires more than M 154
+cycle involves more than M 114
+cycle requires less than M 102
+cycle involves only one M 92
+cycle pressure ratio and D 160

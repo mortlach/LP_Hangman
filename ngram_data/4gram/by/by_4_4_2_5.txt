@@ -1,0 +1,8 @@
+byte from the input D 401
+byte from the stream D 323
+byte from the stack D 171
+byte from the first D 143
+byte from an input D 121
+byte from the start D 102
+byte used to store D 92
+byte from the serial D 63

@@ -1,0 +1,4 @@
+underlying coronary heart disease D 576
+underlying valvular heart disease D 328
+unstable coronary heart disease D 128
+unwanted visitors from entering D 106

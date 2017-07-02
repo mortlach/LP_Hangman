@@ -1,0 +1,5 @@
+oxide layers that are D 142
+oxide layers are not D 115
+oxide itself does not D 53
+oxide formed does not D 49
+oxide coatings that are D 44

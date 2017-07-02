@@ -1,0 +1,6 @@
+exit and press enter M 2768
+exit and entry point M 272
+exam and blood tests M 209
+exit and entry rates D 232
+exit and entry visas D 214
+exam that would allow D 110

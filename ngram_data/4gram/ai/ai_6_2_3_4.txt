@@ -1,0 +1,13 @@
+aisles on each side D 3892
+aisles by two rows D 2542
+aisles of six bays D 564
+aisles of two bays D 216
+airway is not clear D 208
+airway is not open D 176
+aisles to see what D 128
+aisles at each side D 128
+aisles is all laid D 108
+aisles on all four D 106
+aisles of this fine D 100
+aisles to both nave D 96
+aisles on one side D 90

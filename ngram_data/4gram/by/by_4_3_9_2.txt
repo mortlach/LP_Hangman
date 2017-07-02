@@ -1,0 +1,3 @@
+byte that specifies the D 212
+byte that indicates the D 166
+byte may represent the D 82

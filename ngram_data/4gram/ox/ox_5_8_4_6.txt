@@ -1,0 +1,3 @@
+oxide containing less oxygen D 98
+oxide emissions from fossil D 65
+oxide containing more oxygen D 43

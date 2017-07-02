@@ -1,0 +1,5 @@
+omitting those which are D 1004
+omitting nothing which can D 230
+omitting some words and D 196
+omitting those which had D 136
+omitting those parts that D 60

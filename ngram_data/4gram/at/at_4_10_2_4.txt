@@ -1,0 +1,3 @@
+atom surrounded by four D 1468
+atom surrounded by three D 318
+atom abstraction to form D 50

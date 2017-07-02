@@ -1,0 +1,9 @@
+scan a list of D 1352
+scan a range of D 803
+scan a line of D 742
+scan a page of D 564
+scan a page in D 187
+scan a copy of D 155
+scan a page to D 98
+scan a string of D 96
+scan a type of D 74

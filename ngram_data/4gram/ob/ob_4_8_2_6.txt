@@ -1,0 +1,3 @@
+obey strictly the orders M 156
+obey promptly the wishes D 134
+obey promptly the orders D 80

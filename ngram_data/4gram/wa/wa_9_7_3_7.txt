@@ -1,0 +1,2 @@
+wavelengths shorter than visible D 650
+waterways harbors and coastal D 226

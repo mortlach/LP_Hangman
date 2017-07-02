@@ -1,0 +1,7 @@
+aquifer at a rate D 386
+aquifer at a depth D 354
+aquifer is a body D 140
+aquifer is a rock D 110
+aquifer at a site D 106
+aquifer to a depth D 98
+aquatic to a land D 87

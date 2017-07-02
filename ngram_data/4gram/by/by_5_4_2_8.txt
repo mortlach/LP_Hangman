@@ -1,0 +1,4 @@
+bytes sent or received D 249
+bytes from the keyboard D 140
+bytes will be required D 132
+bytes from the standard D 45

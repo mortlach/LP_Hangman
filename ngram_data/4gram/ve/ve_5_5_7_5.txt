@@ -1,0 +1,4 @@
+veins which collect blood D 186
+veins carry arterial blood D 186
+verbs which express action D 142
+verbs verbs express action D 41

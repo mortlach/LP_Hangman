@@ -1,0 +1,5 @@
+joint at a is M 203
+joint at a in M 100
+joint of a wing M 45
+joint of a toe D 304
+jolly as i am D 98

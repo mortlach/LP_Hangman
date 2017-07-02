@@ -1,0 +1,11 @@
+equivalent output resistance of M 244
+equivalent effect prohibited by M 124
+equivalent output resistance is M 112
+equivalent series resistance of D 1848
+equivalent series resistance is D 442
+equivalent thermal resistance of D 230
+equivalent series resistance in D 156
+equivalent series inductance of D 108
+equivalent series resistance rs D 106
+equivalent series resistance to D 102
+equivalent series combination of D 90

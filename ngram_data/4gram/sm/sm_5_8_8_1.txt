@@ -1,0 +1,12 @@
+small quantity produces a M 210
+small business requires a M 182
+small cylinder containing a D 494
+small envelope containing a D 286
+small vesicles containing a D 200
+small pamphlet containing a D 184
+small suitcase containing a D 160
+small medallion containing a D 142
+small incident occurred a D 112
+small pamphlet entitled a D 110
+small cavities containing a D 84
+smoke detector contains a D 47

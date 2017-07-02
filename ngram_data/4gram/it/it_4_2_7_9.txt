@@ -1,0 +1,13 @@
+item of capital equipment M 1082
+item or service purchased M 234
+item of general knowledge M 222
+item of support equipment M 188
+item of process equipment M 168
+item of optional equipment M 126
+item is equally important M 116
+item in several different M 84
+item of expense connected D 216
+item or service furnished D 212
+item of support furnished D 162
+item of medical equipment D 152
+item of kitchen equipment D 144

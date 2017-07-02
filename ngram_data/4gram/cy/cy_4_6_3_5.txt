@@ -1,0 +1,3 @@
+cyst filled with fluid D 309
+cyst filled with blood D 144
+cyst filled with serum D 41

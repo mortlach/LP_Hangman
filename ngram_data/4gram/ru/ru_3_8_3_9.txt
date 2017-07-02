@@ -1,0 +1,8 @@
+run forwards and backwards M 378
+run forwards and downwards M 174
+run outwards and backwards M 150
+run outwards and downwards M 124
+run economic and political D 729
+run downward and laterally D 349
+run seminars and workshops D 295
+run lengthwise and crosswise D 64

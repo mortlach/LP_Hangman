@@ -1,0 +1,1 @@
+itinerary must not include D 82

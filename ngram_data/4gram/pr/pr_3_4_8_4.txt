@@ -1,0 +1,2 @@
+pry more narrowly into D 188
+pry such evidence from D 80

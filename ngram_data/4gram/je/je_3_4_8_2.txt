@@ -1,0 +1,2 @@
+jet exit velocity is D 92
+jet will continue to D 90

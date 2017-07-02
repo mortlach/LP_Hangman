@@ -1,0 +1,5 @@
+aortic arch and pulmonary D 705
+aortic root and pulmonary D 150
+aortic arch and abdominal D 128
+aortic arch and anomalous D 108
+aortic arch and associated D 68

@@ -1,0 +1,3 @@
+gypsum may be added D 128
+gypsum can be found D 114
+gypsum may be found D 88

@@ -1,0 +1,5 @@
+vowel points were introduced M 88
+voice sounding more distinctly M 84
+voice called from downstairs D 280
+voice became more indistinct D 180
+voice became more pronounced D 170

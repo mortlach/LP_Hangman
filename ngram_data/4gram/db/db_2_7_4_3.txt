@@ -1,0 +1,3 @@
+db dynamic range and D 309
+db dynamic range for D 130
+db dynamic range with D 48

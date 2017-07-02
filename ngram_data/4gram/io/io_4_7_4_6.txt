@@ -1,0 +1,2 @@
+ionic current flow through D 105
+ionic current flow across D 101

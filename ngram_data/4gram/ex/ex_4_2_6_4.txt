@@ -1,0 +1,11 @@
+exit or escape from M 240
+exit to another part M 231
+exit the market when M 143
+exam the second time M 129
+exit to escape from M 106
+exit by another door M 41
+exit the spinal cord D 2610
+exit of nerves from D 176
+exit the insert mode D 159
+exit the locker room D 157
+exit the soviet union D 88

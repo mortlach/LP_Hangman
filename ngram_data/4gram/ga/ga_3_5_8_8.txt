@@ -1,0 +1,9 @@
+gas under constant pressure D 2878
+gas phase chemical kinetics D 394
+gas under ordinary pressure D 330
+gas under positive pressure D 248
+gas under moderate pressure D 158
+gas under enormous pressure D 103
+gas whose ionization potential D 96
+gas under increased pressure D 90
+gas phase ionization potential D 59

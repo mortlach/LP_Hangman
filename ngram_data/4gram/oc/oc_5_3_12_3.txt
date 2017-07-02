@@ -1,0 +1,9 @@
+occur not accidentally but M 146
+occur both individually and M 120
+occur not infrequently and D 282
+occur both spontaneously and D 264
+occur too infrequently for D 170
+occur both horizontally and D 160
+occur both sporadically and D 148
+occur too infrequently and D 112
+occur not infrequently with D 100

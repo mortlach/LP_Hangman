@@ -1,0 +1,4 @@
+chop into small pieces M 2426
+chop into large pieces M 139
+chop down trees without M 106
+cheap third world labour D 158

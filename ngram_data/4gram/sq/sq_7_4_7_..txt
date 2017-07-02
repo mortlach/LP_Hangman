@@ -1,0 +1,3 @@
+squares were counted . M 124
+squares cost function . M 108
+squares from circles . M 94

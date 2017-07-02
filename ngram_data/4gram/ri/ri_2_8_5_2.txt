@@ -1,0 +1,4 @@
+ring induction motor is D 222
+ring nitrogen atoms of D 140
+ring fastened round the D 88
+ring topology shown in D 86

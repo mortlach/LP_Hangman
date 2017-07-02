@@ -1,0 +1,4 @@
+weight components are separated M 128
+weekly newspapers and magazines D 1424
+weekly newspapers are published D 1304
+weapons technology and strategic D 118

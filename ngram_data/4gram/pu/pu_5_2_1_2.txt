@@ -1,0 +1,5 @@
+putting on a ring M 326
+pulling on a ring M 160
+pulls on a ring M 124
+putting of a thing M 118
+putting on a thing M 84

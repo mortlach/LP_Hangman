@@ -1,0 +1,9 @@
+paired comparison test . M 450
+passed cheerfully away . M 374
+passed harmlessly away . M 322
+paired comparison data . M 292
+passed completely away . M 268
+passed helplessly away . M 194
+passed mournfully away . M 142
+paired difference test . M 138
+passed painlessly away . M 108

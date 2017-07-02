@@ -1,0 +1,6 @@
+aircraft is dependent upon D 146
+aircraft to determine their D 130
+airplane is different from D 122
+aircraft or personnel having D 120
+aircraft to transport their D 102
+aircraft is different from D 102

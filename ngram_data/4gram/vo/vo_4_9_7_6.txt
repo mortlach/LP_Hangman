@@ -1,0 +1,3 @@
+volt alternating current supply D 66
+volt alternating current source D 49
+volt alternating current through D 48

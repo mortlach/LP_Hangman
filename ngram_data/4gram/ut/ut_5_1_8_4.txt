@@ -1,0 +1,12 @@
+utter a sentence like M 348
+utter a critical word M 216
+utter a negative word M 156
+utter a sensible word M 146
+utter a helpless sort M 134
+utter a coherent word M 124
+utter a sentence such M 108
+utter a profound sigh D 180
+utter a spiteful word D 88
+utter a syllable upon D 86
+utter a syllable till D 86
+utter a syllable more D 45

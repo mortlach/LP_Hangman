@@ -1,0 +1,5 @@
+ejecting a number of D 112
+ejects a volume of D 100
+ejects a column of D 100
+ejects a portion of D 82
+ejecting a column of D 80

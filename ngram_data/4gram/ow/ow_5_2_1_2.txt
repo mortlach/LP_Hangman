@@ -1,0 +1,16 @@
+owner of a thing M 5936
+owner of a tea M 684
+owned by a king M 350
+owner of a ring M 274
+owned by a is M 258
+owned by a in M 224
+owned by t at M 160
+owner of a so M 133
+owned as a thing M 98
+owned by a as M 93
+owner as i am M 92
+owned by a or M 90
+owned by s is M 80
+owner of a sea D 244
+owned by a sea D 141
+owner of a ms D 100

@@ -1,0 +1,9 @@
+path gently circles around M 196
+pay higher customs duties M 128
+pay twenty thousand pieces M 118
+pay twenty thousand pounds D 1138
+pay twenty thousand francs D 190
+pay twelve hundred francs D 119
+pay twenty millions sterling D 116
+pay eleven hundred million D 88
+path climbs steeply through D 84

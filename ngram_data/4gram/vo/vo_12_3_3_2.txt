@@ -1,0 +1,5 @@
+vocabularies that can be M 288
+vocabularies can not be M 220
+vocabularies for use in M 110
+vocabularies are not the M 98
+vocalizations that can be D 128

@@ -1,0 +1,16 @@
+icon from the control M 1098
+icon from the objects M 494
+icon from the windows M 482
+icon from the address M 294
+icon from the program M 232
+icon will be visible M 162
+icon will be removed M 100
+icon from the project M 92
+icon from the desktop D 2166
+icon from the toolbar D 1542
+icon from the toolbox D 638
+icon onto the desktop D 363
+icon from the palette D 260
+icon onto the toolbar D 104
+icon over the recycle D 100
+icon into the recycle D 91

@@ -1,0 +1,8 @@
+goods traffic increased from M 98
+goods depends entirely upon M 82
+goods shipped directly from D 254
+goods hitherto imported from D 218
+goods brought overland from D 154
+goods imports increased from D 132
+goods usually imported from D 124
+goods imports declined from D 90

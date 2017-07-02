@@ -1,0 +1,3 @@
+echo his words and M 222
+echo she could win M 166
+echo all aloud with M 94

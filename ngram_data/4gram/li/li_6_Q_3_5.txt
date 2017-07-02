@@ -1,0 +1,6 @@
+little " off color M 180
+little " all right M 103
+likely " all right M 101
+little " new blood M 90
+likely " than others M 90
+little " things which M 88

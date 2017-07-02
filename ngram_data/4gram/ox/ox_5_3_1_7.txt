@@ -1,0 +1,6 @@
+oxide with a solution D 280
+oxide and a solution D 150
+oxide and a mixture D 136
+oxide with a mixture D 130
+oxide has a similar D 115
+oxide has a density D 106

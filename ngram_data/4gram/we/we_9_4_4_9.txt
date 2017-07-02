@@ -1,0 +1,3 @@
+weaknesses have been discussed M 170
+weaknesses have been corrected M 164
+weaknesses have been addressed M 146

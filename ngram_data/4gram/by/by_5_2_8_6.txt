@@ -1,0 +1,5 @@
+bytes of physical memory D 624
+bytes of computer memory D 526
+bytes of internal memory D 402
+bytes of extended memory D 262
+bytes of external memory D 150

@@ -1,0 +1,2 @@
+ivy bleeding time test D 195
+ivy spreading from base D 100

@@ -1,0 +1,17 @@
+iterations of the algorithm M 3624
+iterations of the original M 516
+iterations of the analysis M 252
+iterations in the algorithm M 158
+iterations of the proposed M 128
+iterations of the adaptive M 109
+iterations of an algorithm M 100
+iterations it is possible M 99
+itinerary to be followed D 427
+iterations of the logistic D 230
+iterations to be executed D 218
+iterations of the parallel D 186
+iterations of the software D 184
+iterations of the bisection D 166
+iterations of the gradient D 142
+itinerary of the traveler D 90
+iterations of the standard D 49

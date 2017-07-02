@@ -1,0 +1,2 @@
+emit light when bombarded D 122
+emit light when irradiated D 92

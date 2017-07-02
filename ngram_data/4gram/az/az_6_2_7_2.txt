@@ -1,0 +1,4 @@
+azimuth is measured in D 254
+azimuth in relation to D 142
+azimuth is defined as D 118
+azimuth in seconds of D 100

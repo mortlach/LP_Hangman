@@ -1,0 +1,5 @@
+puts a rather different M 576
+puts a whole different M 404
+puts a quite different M 176
+puts a large proportion D 102
+puts a fresh complexion D 102

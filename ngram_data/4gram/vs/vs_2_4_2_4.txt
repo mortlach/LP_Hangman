@@ -1,0 +1,5 @@
+vs inch or less D 208
+vs inch in length D 155
+vs inch or more D 117
+vs inch in from D 73
+vs inch in width D 49

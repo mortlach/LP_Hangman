@@ -1,0 +1,2 @@
+mix solution a and M 100
+mix solution a with M 46

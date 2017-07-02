@@ -1,0 +1,7 @@
+normal abnormal abnormal normal M 209
+normal increased increased normal M 84
+normal decreased decreased normal M 67
+normal mammalian skeletal muscle D 238
+normal prolonged prolonged normal D 123
+notify promptly transfer agents D 112
+normal slightly alkaline reaction D 88

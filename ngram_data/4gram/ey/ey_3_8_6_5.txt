@@ -1,0 +1,4 @@
+eye detected something white M 100
+eye detected something beneath M 92
+eye suddenly caught sight D 270
+eye suddenly struck blind D 130

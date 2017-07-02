@@ -1,0 +1,3 @@
+statistical test for significance D 372
+statistical data are insufficient D 106
+statistical theory and computational D 70

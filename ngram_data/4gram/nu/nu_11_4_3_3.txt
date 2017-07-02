@@ -1,0 +1,5 @@
+numerically less than one D 340
+numerically less than that D 308
+numerically less than any D 184
+numerically more than one D 117
+numerically less than this D 80

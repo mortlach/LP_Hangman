@@ -1,0 +1,5 @@
+jaundice or biliary fistula D 251
+jaundice is always present D 160
+janitors in public buildings D 106
+janitors in office buildings D 106
+jaundice is rarely present D 102

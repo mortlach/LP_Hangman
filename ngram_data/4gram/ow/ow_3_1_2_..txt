@@ -1,0 +1,5 @@
+own a thing . M 456
+own i do . M 234
+owe a thing . M 192
+own i am . M 134
+own a king . M 125

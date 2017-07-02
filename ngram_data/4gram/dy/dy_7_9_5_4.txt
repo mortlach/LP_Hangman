@@ -1,0 +1,3 @@
+dynamic processes which have D 190
+dynamic processes which take D 144
+dynamic processes arising from D 102

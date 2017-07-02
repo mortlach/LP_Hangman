@@ -1,0 +1,6 @@
+atom unites with two D 120
+atom unites with one D 94
+atom united with one D 93
+atom bonded with two D 82
+atom itself and not D 58
+atom itself does not D 53

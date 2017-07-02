@@ -1,0 +1,4 @@
+omit anything which is M 260
+omit anything which he M 192
+omit large parts of M 126
+omit anything which the M 118

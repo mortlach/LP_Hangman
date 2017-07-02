@@ -1,0 +1,7 @@
+rottenness of a society M 110
+robustness of a network D 152
+robustness of a product D 142
+robustness of a solution D 138
+robustness of a control D 126
+robustness of a decision D 104
+robustness of a program D 84

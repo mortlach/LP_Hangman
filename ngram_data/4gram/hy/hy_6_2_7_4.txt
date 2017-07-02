@@ -1,0 +1,3 @@
+hyphen is usually used M 168
+hyphen is omitted when M 142
+hybrid is derived from D 106

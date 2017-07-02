@@ -1,0 +1,3 @@
+oils contain large amounts D 242
+oils contain small amounts D 216
+oils contain varying amounts D 148

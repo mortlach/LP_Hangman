@@ -1,0 +1,3 @@
+averages of different groups D 146
+averages of wholesale prices D 142
+averages of different periods D 90

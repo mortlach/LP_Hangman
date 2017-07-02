@@ -1,0 +1,2 @@
+gyration can be determined D 200
+gyration can be calculated D 162

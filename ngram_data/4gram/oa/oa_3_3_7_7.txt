@@ -1,0 +1,7 @@
+oak and hickory forests D 598
+oak and hornbeam forests D 191
+oak and hickory species D 186
+oak and hemlock forests D 170
+oak and conifer forests D 164
+oak and hickory seedlings D 116
+oak and hickory uplands D 65

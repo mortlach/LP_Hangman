@@ -1,0 +1,6 @@
+shortest possible time without M 990
+shortest possible time through M 336
+shortest possible time before M 250
+shortest possible time should M 228
+shortest distance from source M 146
+shortest possible time needed M 90

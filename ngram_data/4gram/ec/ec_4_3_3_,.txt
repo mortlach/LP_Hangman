@@ -1,0 +1,3 @@
+echo that cry , M 126
+echo his cry , M 120
+echo this idea , M 82

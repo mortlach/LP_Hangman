@@ -1,0 +1,8 @@
+lung biopsies from patients D 290
+lung cancers were detected D 184
+lung volumes during exercise D 154
+lung cancers were diagnosed D 136
+lung function during exercise D 114
+lung tissues from patients D 92
+lung function when compared D 84
+lung becomes less compliant D 80

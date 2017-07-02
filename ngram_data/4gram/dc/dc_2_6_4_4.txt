@@ -1,0 +1,2 @@
+dc motors have been D 122
+dc should have been D 80

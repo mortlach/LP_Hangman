@@ -1,0 +1,17 @@
+nursing home . " M 11924
+nursing care . " M 4052
+nursing home ? " M 3779
+nursing care ? " M 537
+nursing home ! " M 470
+nurse game . " M 398
+nurse here . " M 326
+nurse says . " M 278
+nurse said . " M 258
+nurse here ? " M 202
+nurse there . " M 188
+nursing theory . " M 141
+nursing work . " M 125
+nursing baby . " M 93
+nurse there ? " M 84
+nurse role . " M 84
+nursing unit . " M 44

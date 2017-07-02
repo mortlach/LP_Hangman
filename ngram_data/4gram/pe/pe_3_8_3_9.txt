@@ -1,0 +1,8 @@
+per passenger for unchecked D 1162
+per semester for residents D 220
+per cylinder per revolution D 170
+per passenger per kilometer D 120
+per hospital bed population D 100
+per calendar year additional D 82
+peak positions are indicated D 53
+peak velocity and amplitude D 48

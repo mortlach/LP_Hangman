@@ -1,0 +1,2 @@
+atoms share electron pairs D 158
+atoms forming covalent bonds D 94

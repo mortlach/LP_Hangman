@@ -1,0 +1,3 @@
+ionization energy has been D 164
+ionization source for mass D 144
+ionization source has been D 120

@@ -1,0 +1,3 @@
+must " guard against M 336
+must " fight against M 118
+must " prove himself M 80

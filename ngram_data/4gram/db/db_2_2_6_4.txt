@@ -1,0 +1,3 @@
+db of signal loss D 98
+db of return loss D 51
+db or greater loss D 43

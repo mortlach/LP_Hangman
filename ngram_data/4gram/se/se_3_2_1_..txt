@@ -1,0 +1,4 @@
+set up a . M 764
+set to i . M 330
+set of i ? M 90
+set in a . M 45

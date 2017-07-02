@@ -1,0 +1,5 @@
+empty soft drink bottles D 461
+empty soda water bottles D 138
+empty sack stand upright D 102
+emits only gamma radiation D 94
+empty like getting punched D 88

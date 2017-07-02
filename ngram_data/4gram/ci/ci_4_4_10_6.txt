@@ -1,0 +1,2 @@
+city into rectangular blocks D 140
+city must inevitably starve D 128

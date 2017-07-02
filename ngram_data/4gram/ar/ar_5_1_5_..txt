@@ -1,0 +1,6 @@
+argue a point . M 1282
+arguing a point . M 766
+argue a cause . M 218
+arguing a cause . M 128
+argue a point ? M 114
+argue a motion . M 100

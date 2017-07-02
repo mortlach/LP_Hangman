@@ -1,0 +1,3 @@
+ion pairs behave like D 122
+ion space charge sheath D 91
+ion spray tandem mass D 62

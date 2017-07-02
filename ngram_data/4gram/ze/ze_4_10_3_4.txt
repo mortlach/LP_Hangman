@@ -1,0 +1,4 @@
+zero resistance and zero M 211
+zero expectation and unit M 165
+zero divergence and zero M 93
+zero correlation with other M 44

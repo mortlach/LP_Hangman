@@ -1,0 +1,10 @@
+ivy on a wall D 591
+ivy on a tree D 348
+ivy on a ruin D 346
+ivy to a tree D 251
+ivy on a rock D 229
+ivy is a vine D 137
+ivy to a wall D 112
+ivy is a good D 94
+ivy up a tree D 93
+ivy is a very D 84

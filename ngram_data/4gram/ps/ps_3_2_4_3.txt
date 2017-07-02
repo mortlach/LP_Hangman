@@ -1,0 +1,4 @@
+psi is less than D 229
+psi or more and D 118
+psi is used for D 118
+psi to more than D 112

@@ -1,0 +1,4 @@
+zones have often been D 134
+zones have since been D 110
+zones have never been D 100
+zones have equal areas D 98

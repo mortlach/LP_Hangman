@@ -1,0 +1,5 @@
+effects which ordinarily follow M 192
+effects which immediately follow M 94
+effects within acceptable limits M 92
+effects which inevitably follow D 111
+effects which immediately flowed D 90

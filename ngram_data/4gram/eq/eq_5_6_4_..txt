@@ -1,0 +1,6 @@
+equal before fish . M 278
+equal sample size . M 224
+equal across time . M 184
+equal rights here . M 150
+equal rights there . M 148
+equal better health . M 110

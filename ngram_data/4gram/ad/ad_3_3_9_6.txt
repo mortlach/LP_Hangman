@@ -1,0 +1,6 @@
+add all ingredients except M 1726
+add web reference window M 266
+add two additional points M 100
+add one additional strength M 92
+add this additional horror M 82
+ads for different brands D 100

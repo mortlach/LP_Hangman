@@ -1,0 +1,17 @@
+ate a little something M 396
+ate a little better M 258
+ate a little supper D 388
+ate a frugal supper D 312
+ate a simple dinner D 248
+ate a little dinner D 232
+ate a simple supper D 228
+ate a lonely dinner D 166
+ate a better dinner D 140
+ate a picnic supper D 124
+ate a little cheese D 112
+ate a silent supper D 96
+ate a picnic dinner D 92
+ate a silent dinner D 86
+ate a frozen dinner D 86
+ate a second dinner D 84
+ate a frugal dinner D 80

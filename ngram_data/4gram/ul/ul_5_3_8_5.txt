@@ -1,0 +1,7 @@
+ulcer and duodenal ulcer D 1139
+ulcer that persists longer D 226
+ulnar and posterior tibial D 222
+ulcer with thickened edges D 164
+ulcer with overhanging edges D 153
+ulcer with elevated edges D 140
+ulcer and bronchial asthma D 90

@@ -1,0 +1,3 @@
+bypass is not required D 212
+bypass is not possible D 145
+bypass the heat exchanger D 132

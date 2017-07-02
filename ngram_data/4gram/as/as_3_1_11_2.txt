@@ -1,0 +1,12 @@
+ask a professional to M 514
+ask a philosopher to M 204
+ask a mathematician to M 184
+ask a contribution of M 88
+ask a participant to D 842
+ask a salesperson to D 710
+ask a subordinate to D 522
+ask a continuance of D 342
+ask a psychiatrist to D 174
+ask a veterinarian to D 136
+ask a continuation of D 128
+ask a grandparent or D 92

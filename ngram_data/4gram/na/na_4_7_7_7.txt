@@ -1,0 +1,6 @@
+name sounded vaguely familiar M 1088
+name position company address M 459
+name address address address M 194
+navy exchange service command D 160
+name capital official language D 150
+name sounded faintly familiar D 86

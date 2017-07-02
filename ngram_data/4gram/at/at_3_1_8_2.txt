@@ -1,0 +1,10 @@
+ate a breakfast of M 2938
+ate a quantity of M 1368
+ate a mountain of M 144
+ate a spoonful of D 1186
+ate a sandwich at D 478
+ate a plateful of D 454
+ate a sandwich in D 444
+ate a sandwich of D 194
+ate a sandwich or D 110
+ate a sandwich on D 88

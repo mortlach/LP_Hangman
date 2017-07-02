@@ -1,0 +1,13 @@
+rainfall in summer . M 926
+rainfall in winter . M 775
+rainfall is greater . M 550
+rainfall is scarce . M 511
+rainfall is higher . M 484
+rainfall is heavier . M 480
+randomly to groups . M 356
+rainfall is slight . M 321
+rainfall is normal . M 189
+rainfall is lowest . M 126
+rainfall is common . M 120
+rainfall on record . M 110
+rainfall in autumn . M 104

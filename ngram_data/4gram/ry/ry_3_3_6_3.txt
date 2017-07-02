@@ -1,0 +1,8 @@
+rye and barley are D 1539
+rye and barley and D 838
+rye and clover and D 132
+rye and barley for D 124
+rye and barley was D 104
+rye and barley had D 102
+rye and barley with D 100
+rye and barley that D 41

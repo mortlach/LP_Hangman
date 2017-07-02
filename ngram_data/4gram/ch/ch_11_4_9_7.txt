@@ -1,0 +1,3 @@
+chromosomes from different species D 234
+chromosomes from different tissues D 158
+chromosomes from different genomes D 108

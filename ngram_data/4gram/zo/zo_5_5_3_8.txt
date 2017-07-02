@@ -1,0 +1,2 @@
+zones shall not normally D 222
+zones which are adjacent D 86

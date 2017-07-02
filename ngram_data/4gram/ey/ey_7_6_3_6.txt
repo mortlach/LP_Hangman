@@ -1,0 +1,4 @@
+eyelids opened and closed D 239
+eyelids closed and opened D 128
+eyelids closed and sunken D 117
+eyeball upward and inward D 56

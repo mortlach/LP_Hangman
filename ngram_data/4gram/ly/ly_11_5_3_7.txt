@@ -1,0 +1,3 @@
+lymphocytes which are capable D 262
+lymphocytes which are present D 100
+lymphocytes reacting with antigen D 56

@@ -1,0 +1,3 @@
+tsunami warning system in D 1192
+tsunami warning center in D 425
+tsunami warning system is D 124

@@ -1,0 +1,13 @@
+eat breakfast . " M 3535
+eat breakfast ? " M 1771
+eat properly . " M 888
+eat tomorrow . " M 676
+eat tomorrow ? " M 576
+eat yourself . " M 406
+eat sometime . " M 326
+eat properly ? " M 216
+eat breakfast ! " M 205
+eat children . " M 179
+eat yourself ? " M 98
+eat normally . " M 92
+eat likewise . " M 90

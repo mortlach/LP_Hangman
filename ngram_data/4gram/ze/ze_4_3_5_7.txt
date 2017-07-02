@@ -1,0 +1,5 @@
+zero and first moments M 168
+zero for every element M 122
+zero and total revenue D 146
+zero and whose variance D 139
+zero and known variance D 45

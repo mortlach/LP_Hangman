@@ -1,0 +1,6 @@
+atop a bluff overlooking D 842
+atop a cliff overlooking D 616
+atop a ridge overlooking D 284
+atop a knoll overlooking D 264
+atop a stone foundation D 80
+atop a rocky outcropping D 43

@@ -1,0 +1,2 @@
+clear windows where observation M 185
+clear plastic sheet protectors D 122

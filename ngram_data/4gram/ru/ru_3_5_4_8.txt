@@ -1,0 +1,3 @@
+run total cost functions M 181
+run about like chickens D 120
+run under high pressure D 103

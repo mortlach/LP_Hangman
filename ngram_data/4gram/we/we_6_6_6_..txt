@@ -1,0 +1,10 @@
+weight matrix choice . M 1990
+weekly prayer meetings . M 728
+weight without clothes . M 290
+weekly family meetings . M 230
+weekly planning meetings . M 150
+weight without yielding . M 128
+weight without effort . M 128
+weekly safety meetings . M 110
+weight without strain . M 86
+weekly public meetings . M 86

@@ -1,0 +1,4 @@
+oxygenation can not be D 831
+oxygenation may lead to D 136
+oxygenation may not be D 100
+oxygenation that can be D 92

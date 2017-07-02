@@ -1,0 +1,5 @@
+square and rectangular columns D 350
+square and rectangular sections D 292
+square and rectangular buildings D 136
+square are brilliantly lighted D 124
+square and rectangular windows D 103

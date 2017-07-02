@@ -1,0 +1,3 @@
+cutting external threads . M 330
+cutting straight lines . M 326
+cutting internal threads . M 252

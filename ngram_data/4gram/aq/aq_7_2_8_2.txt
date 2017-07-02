@@ -1,0 +1,9 @@
+aquifer is composed of D 754
+aquifer is overlain by D 556
+aquifer is confined by D 380
+aquifer in response to D 200
+aquifer is confined or D 174
+aquifer is referred to D 150
+aquifer is governed by D 112
+aquifer is expected to D 102
+aquifer is believed to D 102

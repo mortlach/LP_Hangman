@@ -1,0 +1,13 @@
+an s shape . M 1778
+an s state . M 1072
+an a minus . M 612
+an s sound . M 602
+an a paper . M 368
+an i frame . M 296
+an a frame . M 148
+an a sound . M 146
+an a whole . M 122
+an s phase . M 120
+an a shape . M 98
+an i could . M 94
+an a chain . M 90

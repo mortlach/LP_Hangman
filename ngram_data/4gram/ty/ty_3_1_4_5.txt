@@ -1,0 +1,13 @@
+tying a rope round D 1143
+tying a string round D 605
+tying a cord round D 346
+tying a thread round D 321
+tying a string about D 250
+tying a cord about D 218
+tying a rope about D 210
+tying a heavy stone D 206
+tying a thread about D 160
+tying a great stone D 150
+tying a rope under D 132
+tying a band round D 122
+tying a silk scarf D 96

@@ -1,0 +1,8 @@
+aorta and great vessels D 2252
+aorta and other vessels D 439
+aorta has been removed D 147
+aorta and arch vessels D 131
+aorta has been clamped D 130
+aorta and other tissues D 130
+aorta with some remarks D 108
+aorta and other elastic D 88

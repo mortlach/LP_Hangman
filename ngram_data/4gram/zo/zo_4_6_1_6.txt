@@ -1,0 +1,4 @@
+zone without a permit D 238
+zone without a special D 230
+zone around a colony D 108
+zone through a series D 92

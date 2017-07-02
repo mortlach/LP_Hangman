@@ -1,0 +1,13 @@
+cure a patient with M 840
+cure a patient who M 555
+cuts a channel for M 256
+cure a patient and M 236
+cure a default and M 222
+cure a problem that M 154
+cure a wounded man M 140
+cure a patient was M 122
+curing a patient with D 156
+cure a headache and D 108
+cure a diseased lung D 102
+cure a headache with D 98
+curing a patient who D 96

@@ -1,0 +1,3 @@
+glean useful information from D 474
+glean enough information from D 176
+glean further information from D 114

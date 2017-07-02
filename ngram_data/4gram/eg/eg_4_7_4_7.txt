@@ -1,0 +1,8 @@
+eggs develop into females D 946
+eggs develop into embryos D 420
+eggs develop into workers D 244
+eggs develop into diploid D 194
+eggs develop into haploid D 178
+eggs develop more rapidly D 110
+eggs hatched into maggots D 94
+eggs produce only females D 86

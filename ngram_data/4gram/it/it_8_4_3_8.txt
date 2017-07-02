@@ -1,0 +1,4 @@
+iterates over all elements M 52
+iteration rate for collecting D 252
+itemized bill for services D 168
+iteration will not converge D 141

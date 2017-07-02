@@ -1,0 +1,4 @@
+omits many details of D 162
+omits many aspects of D 141
+omits some aspects of D 100
+omits other aspects of D 80

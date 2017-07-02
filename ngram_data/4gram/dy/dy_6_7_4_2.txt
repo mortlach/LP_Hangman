@@ -1,0 +1,3 @@
+dyadic systems view of D 228
+dynamo depends upon the D 196
+dynamo differs from the D 82

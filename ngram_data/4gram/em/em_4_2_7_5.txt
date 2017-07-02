@@ -1,0 +1,5 @@
+emit or reflect light M 369
+emit an intense burst M 277
+emit no visible light M 145
+emit an intense light M 114
+emit an audible sound D 162

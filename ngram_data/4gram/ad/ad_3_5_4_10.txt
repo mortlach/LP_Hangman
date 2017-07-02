@@ -1,0 +1,2 @@
+add still more information M 92
+add phone card privileges D 100

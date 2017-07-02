@@ -1,0 +1,5 @@
+nurse must first identify M 124
+nursing care hours required M 86
+nursing care hours provided M 64
+nursing home under medicaid D 94
+nursing home where patients D 66

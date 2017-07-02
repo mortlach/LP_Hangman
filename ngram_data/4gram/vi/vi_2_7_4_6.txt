@@ -1,0 +1,4 @@
+via exchange rate changes M 150
+via command line options M 104
+via network file system M 98
+via somatic cell nuclear D 210

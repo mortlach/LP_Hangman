@@ -1,0 +1,12 @@
+ate a big breakfast M 1908
+ate a dry breakfast M 208
+ate a few handfuls M 178
+ate a meal prepared M 132
+ate a meal consisting M 96
+ate a few mouthfuls D 2212
+ate a ham sandwich D 798
+ate a few biscuits D 330
+ate a few crackers D 224
+ate a hot breakfast D 180
+ate a few porridge D 136
+ate a big flapjack D 130

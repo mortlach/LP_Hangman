@@ -1,0 +1,5 @@
+binary to decimal . M 1079
+binder is applied . M 402
+binary or ternary . M 333
+binary or decimal . M 238
+binary up counter . M 194

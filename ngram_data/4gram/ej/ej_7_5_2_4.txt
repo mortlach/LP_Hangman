@@ -1,0 +1,3 @@
+ejection click is heard D 270
+ejection sound is heard D 207
+ejection period to left D 93

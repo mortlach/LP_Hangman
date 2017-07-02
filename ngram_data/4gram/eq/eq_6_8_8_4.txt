@@ -1,0 +1,4 @@
+equals marginal resource cost M 130
+equals industry marginal cost M 86
+equity reduction interest loss D 240
+equity accounts normally have D 142

@@ -1,0 +1,2 @@
+omits a lot of D 300
+omits a few of D 224

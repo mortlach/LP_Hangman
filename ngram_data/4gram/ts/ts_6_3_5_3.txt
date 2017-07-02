@@ -1,0 +1,2 @@
+tsetse fly which has D 99
+tsetse fly could not D 90

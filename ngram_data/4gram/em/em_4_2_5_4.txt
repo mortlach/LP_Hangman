@@ -1,0 +1,4 @@
+emit no light from M 114
+emit the light from M 80
+emit an alarm call M 46
+emit the smoke from D 122

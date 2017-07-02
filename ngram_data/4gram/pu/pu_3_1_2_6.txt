@@ -1,0 +1,4 @@
+put a ring around M 2602
+put a ring through M 1004
+put a thing through M 171
+put a tea kettle D 80

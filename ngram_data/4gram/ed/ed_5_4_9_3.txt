@@ -1,0 +1,3 @@
+edges were decorated with M 326
+edges join countries with M 118
+edges were inscribed with D 340

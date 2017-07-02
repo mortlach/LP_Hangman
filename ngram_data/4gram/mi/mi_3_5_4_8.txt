@@ -1,0 +1,3 @@
+mix until well combined M 2181
+mix until just combined M 1275
+mix which will maximize D 142

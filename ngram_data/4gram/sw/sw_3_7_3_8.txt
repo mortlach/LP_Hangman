@@ -1,0 +1,3 @@
+swing forward and backward D 1162
+swing between two extremes D 290
+swing forward and downward D 107

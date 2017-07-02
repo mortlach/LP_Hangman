@@ -1,0 +1,11 @@
+weaknesses which could be M 434
+weaknesses which might be M 248
+weaknesses which lower the M 204
+weaknesses which exist in M 182
+weaknesses which belong to M 140
+weaknesses which cause the M 138
+weaknesses still exist in M 120
+weaknesses often found in M 106
+weaknesses which appear in M 84
+weaknesses which would be D 160
+weirdness which comes to D 112

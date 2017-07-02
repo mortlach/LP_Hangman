@@ -1,0 +1,4 @@
+zero allowances are claimed D 424
+zero expectation and variance D 235
+zero elasticity with respect D 109
+zero derivative with respect D 51

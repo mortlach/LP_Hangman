@@ -1,0 +1,10 @@
+byte from the file D 396
+byte from the data D 268
+byte from the port D 197
+byte past the last D 152
+byte will be used D 127
+byte into the data D 99
+byte from the next D 96
+byes must be said D 90
+byte onto the data D 65
+byte must be zero D 52

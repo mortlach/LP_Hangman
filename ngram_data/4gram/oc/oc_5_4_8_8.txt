@@ -1,0 +1,10 @@
+occur during vigorous exercise M 166
+occur during physical activity D 224
+occur during physical exercise D 144
+occur from prolonged exposure D 142
+occur during prolonged exercise D 134
+occur during prolonged treatment D 120
+occur during prolonged exposure D 104
+occur during positive pressure D 98
+occur when hydrogen diffuses D 94
+occur during muscular activity D 84

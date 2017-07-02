@@ -1,0 +1,4 @@
+zero point for attitude M 370
+zero under this condition M 156
+zero rather than negative M 106
+zero value was assigned M 42

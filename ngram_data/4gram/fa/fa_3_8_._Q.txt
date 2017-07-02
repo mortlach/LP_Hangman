@@ -1,0 +1,15 @@
+far advanced . " M 2528
+far otherwise . " M 814
+far distance . " M 686
+far produced . " M 412
+far received . " M 242
+far advanced ? " M 162
+far achieved . " M 140
+far recorded . " M 126
+far northwest . " M 104
+far attained . " M 100
+far examined . " M 98
+far tomorrow . " M 91
+far backward . " M 88
+far extended . " M 84
+far distance ? " M 82

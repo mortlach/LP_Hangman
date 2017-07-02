@@ -1,0 +1,14 @@
+cure it . " M 6199
+cure me . " M 4636
+cure me ? " M 1644
+cure it ? " M 1397
+curl up . " M 434
+cure me ! " M 394
+cure us . " M 308
+cuts it . " M 219
+cure it ! " M 182
+cuts me . " M 142
+curl it . " M 126
+cuts me ! " M 110
+cult thing . " M 110
+cure us ? " M 88

@@ -1,0 +1,2 @@
+dc signal proportional to D 512
+dc output proportional to D 398

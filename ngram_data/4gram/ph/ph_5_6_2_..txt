@@ -1,0 +1,9 @@
+phone turned on . M 468
+phone number is . M 408
+phone picked up . M 268
+phone toward me . M 226
+phone number on . M 216
+phase should be . M 98
+phone turned on ? M 94
+phone inside it . M 86
+phone beside me . M 82

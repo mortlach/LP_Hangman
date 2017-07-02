@@ -1,0 +1,3 @@
+inn at some distance D 172
+ink in your fountain D 104
+ink in your direction D 100

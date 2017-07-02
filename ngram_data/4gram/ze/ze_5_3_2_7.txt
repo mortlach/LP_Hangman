@@ -1,0 +1,17 @@
+zeros may be omitted M 388
+zeros can be omitted M 252
+zeros can be written M 140
+zeros can be dropped M 132
+zeros may be written M 128
+zeros for the remaining M 102
+zeros and the decimal M 97
+zeros may be removed M 94
+zenith and the horizon D 1510
+zebra and the giraffe D 416
+zenith and the western D 263
+zenith and the equator D 261
+zeros off the diagonal D 219
+zenith and the shadows D 112
+zenith and the southern D 110
+zenith and the decline D 106
+zenith and the northern D 100

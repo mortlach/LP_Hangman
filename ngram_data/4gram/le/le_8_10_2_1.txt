@@ -1,0 +1,6 @@
+leftmost characters of a D 256
+leftmost occurrence of a D 188
+leaseback transaction as a D 150
+leaseback transaction is a D 121
+leftmost characters in a D 86
+lectures frequently on a D 44

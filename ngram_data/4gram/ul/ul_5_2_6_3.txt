@@ -1,0 +1,7 @@
+ulcer is filled with D 236
+ulcer is formed with D 150
+ulcer is treated with D 144
+ulcer is greater than D 120
+ulcer is higher than D 108
+ulcer or cancer and D 95
+ulcer or ulcers are D 86

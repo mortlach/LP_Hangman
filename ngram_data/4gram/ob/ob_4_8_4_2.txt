@@ -1,0 +1,6 @@
+obey commands such as M 126
+obey commands from the M 105
+obey commands made in M 104
+obey decisions made by M 85
+obey whatever laws the D 110
+obey economic laws if D 96

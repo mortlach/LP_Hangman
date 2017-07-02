@@ -1,0 +1,5 @@
+atom existing in space D 162
+atom through the plane D 123
+atom through the blind D 106
+atom should be equal D 94
+atom ejects an alpha D 80

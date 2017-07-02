@@ -1,0 +1,2 @@
+gun every fifteen seconds D 144
+gun still pressed against D 120

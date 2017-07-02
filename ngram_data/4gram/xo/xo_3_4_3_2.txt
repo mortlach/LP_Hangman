@@ -1,0 +1,3 @@
+xor gate can be M 322
+xor gate and an M 168
+xor gate and the M 153

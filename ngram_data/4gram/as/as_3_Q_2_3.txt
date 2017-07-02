@@ -1,0 +1,12 @@
+ask " do you M 4836
+ask " is this M 2262
+ask " is that M 763
+ask " is not M 520
+ask " if you M 428
+ask " do not M 318
+ask " if they M 168
+ask " if this M 104
+ask " is she M 100
+ask " in his M 84
+ask " if she M 82
+ask " it was M 80

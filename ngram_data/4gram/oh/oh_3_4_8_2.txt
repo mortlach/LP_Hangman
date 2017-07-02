@@ -1,0 +1,2 @@
+ohm load resistor is D 183
+ohm load resistor in D 151

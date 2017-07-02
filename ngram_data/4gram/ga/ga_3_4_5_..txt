@@ -1,0 +1,7 @@
+gap will widen . M 412
+gap will close . M 202
+gap will appear . M 136
+gap grew wider . M 130
+gap even wider . M 122
+gap once again . M 104
+gap will occur . M 96

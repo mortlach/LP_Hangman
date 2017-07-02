@@ -1,0 +1,3 @@
+tap a telephone line D 164
+tap a telegraph wire D 138
+tax a permanent part D 100

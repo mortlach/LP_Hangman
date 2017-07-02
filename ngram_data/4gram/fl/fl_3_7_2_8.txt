@@ -1,0 +1,5 @@
+fly forward or backward M 152
+fly loosely on separate M 104
+fly between the twilight D 131
+fly attacking an elephant D 122
+fly against the luckless D 86

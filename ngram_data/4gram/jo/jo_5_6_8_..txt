@@ -1,0 +1,8 @@
+joint family property . M 3918
+joint visual attention . M 780
+joint degree programs . M 346
+joint training programs . M 290
+joint family business . M 288
+joint checking accounts . M 224
+joint planning activity . M 134
+joint family activity . M 132

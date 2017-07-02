@@ -1,0 +1,4 @@
+nursing a child . M 2164
+nurse a child . M 586
+nursing a wound . M 172
+nurse a visit . M 84

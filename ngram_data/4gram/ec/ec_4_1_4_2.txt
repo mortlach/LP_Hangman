@@ -1,0 +1,4 @@
+echo a kind of M 99
+echo a line of M 90
+echo a word or M 80
+echo a theme of D 86

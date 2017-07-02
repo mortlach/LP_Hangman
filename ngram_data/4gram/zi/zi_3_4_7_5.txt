@@ -1,0 +1,2 @@
+zip code daytime phone D 114
+zip code country phone D 110

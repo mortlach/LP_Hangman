@@ -1,0 +1,6 @@
+sky is darkened suddenly M 132
+sky is slightly overcast D 194
+sky is suddenly overcast D 166
+sky is partially obscured D 117
+sky is entirely overcast D 104
+sky is somewhat overcast D 88

@@ -1,0 +1,3 @@
+shortcomings have been identified D 544
+shortcomings have been recognized D 126
+shortcomings have been eliminated D 118

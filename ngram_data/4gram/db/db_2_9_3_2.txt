@@ -1,0 +1,3 @@
+db frequency for the D 277
+db frequency can be D 178
+db indicates that the D 140

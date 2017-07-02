@@ -1,0 +1,10 @@
+during ordinary business hours M 3562
+during physical education class D 1214
+during treadmill exercise testing D 513
+during positive pressure breathing D 386
+during standard business hours D 252
+during hypnotic analgesia under D 160
+during troubled economic times D 156
+during exercise treadmill testing D 128
+during negative pressure breathing D 126
+during normally executed motor D 120

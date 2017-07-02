@@ -1,0 +1,12 @@
+key from a public M 195
+key plus a letter M 192
+key when i closed M 186
+key from a secret M 110
+key from a random M 64
+key into a number M 51
+key into a locked M 47
+key from a little M 43
+key from a drawer D 544
+key from a pocket D 522
+key into a pocket D 145
+key when a target D 42

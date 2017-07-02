@@ -1,0 +1,3 @@
+daily temperature falls below D 303
+daily temperature rises above D 179
+daily temperature drops below D 156

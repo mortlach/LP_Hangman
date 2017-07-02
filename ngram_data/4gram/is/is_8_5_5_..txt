@@ -1,0 +1,5 @@
+isolated plant parts . M 314
+isolated plant cells . M 252
+isolated small towns . M 139
+isolated older people . M 123
+isolation takes place . M 90

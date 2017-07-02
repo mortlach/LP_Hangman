@@ -1,0 +1,5 @@
+ate at different tables M 152
+ate an excellent dinner D 710
+ate an additional muffin D 152
+ate the excellent dinner D 82
+ate an expensive dinner D 82

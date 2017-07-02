@@ -1,0 +1,6 @@
+vs inch thick and D 1102
+vs inch wide and D 266
+vs shear rate for D 263
+vs time plot for D 144
+vs inch deep and D 85
+vs time data for D 68

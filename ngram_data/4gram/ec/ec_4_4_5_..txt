@@ -1,0 +1,11 @@
+echo these words . M 292
+echo from below . M 218
+echo back again . M 198
+echo those words . M 142
+echo your words . M 140
+echo their words . M 114
+echo such sayings . M 112
+echo these views . M 100
+echo their cries . M 96
+echo their views . M 82
+echo from within . M 57

@@ -1,0 +1,4 @@
+tensile force t in D 395
+tensile force s in D 258
+tensile force t is D 244
+terrors which i do D 164

@@ -1,0 +1,3 @@
+iterations during which the M 149
+itinerant show halting at M 106
+iterations were found to M 96

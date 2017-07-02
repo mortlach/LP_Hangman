@@ -1,0 +1,3 @@
+azimuth of a point D 494
+azimuth of a given D 278
+azimuth of a sound D 167

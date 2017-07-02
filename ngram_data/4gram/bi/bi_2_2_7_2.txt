@@ -1,0 +1,2 @@
+bi is present in D 96
+bi is defined as D 64

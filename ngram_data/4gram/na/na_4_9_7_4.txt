@@ -1,0 +1,5 @@
+name occupation address city M 1238
+name affiliation address city M 332
+name uniformly precede mine M 112
+name evidently derived from D 487
+name doubtless derived from D 154

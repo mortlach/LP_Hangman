@@ -1,0 +1,6 @@
+writes a poem . M 950
+writes a lot . M 334
+wretch i was . M 216
+writer i was . M 212
+writes a song . M 206
+wretch i see . M 100

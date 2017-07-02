@@ -1,0 +1,3 @@
+db insertion loss at D 176
+db insertion loss in D 67
+db insertion loss of D 50

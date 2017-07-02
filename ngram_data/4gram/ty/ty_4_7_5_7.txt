@@ -1,0 +1,4 @@
+type becomes fully evolved M 176
+type fatigue testing machine D 199
+type tensile testing machine D 84
+type voltage gated calcium D 55

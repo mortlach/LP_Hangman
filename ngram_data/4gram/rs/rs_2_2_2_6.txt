@@ -1,0 +1,6 @@
+rs is the radius D 1492
+rs is the series D 684
+rs is the source D 466
+rs is the symbol D 140
+rs is in series D 110
+rs is the output D 104

@@ -1,0 +1,2 @@
+gyro must have an D 260
+gyro spin axis is D 156

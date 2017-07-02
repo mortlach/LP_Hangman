@@ -1,0 +1,6 @@
+ignore information on the M 132
+ignore information in the M 94
+ignore references to the M 92
+ignoring information on the M 80
+igneous activities in the D 233
+igneous chronology of the D 100

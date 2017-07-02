@@ -1,0 +1,6 @@
+snow the following winter M 100
+snow the preceding winter M 80
+snow the pasture sheets D 498
+snow the previous winter D 164
+snow in several places D 152
+snap of decayed timber D 88

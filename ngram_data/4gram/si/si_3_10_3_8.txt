@@ -1,0 +1,3 @@
+six candidates for governor M 90
+six replicates per treatment D 168
+six parameters are required D 124

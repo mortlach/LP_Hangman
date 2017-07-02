@@ -1,0 +1,8 @@
+industry i in country M 388
+instance i am referring M 148
+intended a to receive M 142
+insisted i be allowed M 100
+incurred i by retaining M 82
+involves a sea passage D 236
+incident i am referring D 92
+interval t is defined D 86

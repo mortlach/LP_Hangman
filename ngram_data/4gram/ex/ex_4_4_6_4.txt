@@ -1,0 +1,6 @@
+exit from public life M 688
+exit from foster care M 185
+exit full screen mode M 150
+exit full screen view M 131
+exit word without saving M 90
+exit from another part M 84

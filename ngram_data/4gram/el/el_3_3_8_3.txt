@@ -1,0 +1,4 @@
+elk and antelope are D 354
+elk and antelope and D 262
+elk and reindeer are D 98
+elm and slippery elm D 88

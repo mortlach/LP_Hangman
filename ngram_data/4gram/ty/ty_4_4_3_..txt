@@ -1,0 +1,16 @@
+type list box . M 3218
+type text box . M 1022
+type among them . M 462
+type like that . M 389
+type like this . M 270
+type your own . M 259
+type hearing aid . M 200
+type like you . M 187
+type will not . M 168
+type there are . M 164
+type from them . M 136
+type were they ? M 104
+type over them . M 97
+type from this . M 88
+type like that ? M 49
+type into them . M 43

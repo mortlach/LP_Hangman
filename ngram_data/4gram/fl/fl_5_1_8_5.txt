@@ -1,0 +1,7 @@
+flows a constant stream D 606
+flows a mountain stream D 226
+flows a perennial stream D 130
+flows a beautiful stream D 112
+flows a sluggish stream D 106
+flows a handsome river D 86
+flowing a constant stream D 80

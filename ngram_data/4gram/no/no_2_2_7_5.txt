@@ -1,0 +1,5 @@
+no or minimal change M 256
+no or minimal signs M 106
+no go decision point M 64
+no no regional lymph D 2446
+no dc current flows D 168

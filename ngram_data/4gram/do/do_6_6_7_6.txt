@@ -1,0 +1,6 @@
+double charge exchange reaction M 162
+double cotton covered copper D 210
+double cotton covered magnet D 138
+dorsal margin strongly convex D 124
+dorsal column lateral column D 120
+dorsal hollow nervous system D 104

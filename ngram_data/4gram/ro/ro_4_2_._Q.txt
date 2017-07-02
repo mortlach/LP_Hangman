@@ -1,0 +1,15 @@
+room is . " M 1702
+room is ? " M 1422
+road go ? " M 992
+road is . " M 428
+road is ? " M 400
+role is . " M 354
+room is ! " M 330
+room up . " M 248
+role be ? " M 170
+root of . " M 156
+road up . " M 114
+role is ? " M 110
+room on ? " M 108
+room be ? " M 84
+root up . " M 44

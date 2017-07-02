@@ -1,0 +1,5 @@
+ions from aqueous solutions D 1816
+ions from dilute solutions D 406
+ions from proton transfer D 116
+ions from sodium chloride D 102
+ions have little tendency D 90

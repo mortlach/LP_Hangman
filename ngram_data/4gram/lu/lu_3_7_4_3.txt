@@ -1,0 +1,5 @@
+lung volumes less than D 176
+lung becomes more and D 172
+lung diseases other than D 166
+lung function were not D 100
+lung differs from that D 94

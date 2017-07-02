@@ -1,0 +1,17 @@
+eat different food and M 204
+eat forbidden food and M 146
+eat somewhere other than M 120
+eat different food than M 92
+eat unleavened bread for D 573
+eat unleavened bread and D 466
+eat unleavened bread with D 300
+eat scrambled eggs and D 222
+eat nutritious food and D 206
+eat wholesome food and D 192
+eat nutritious meals and D 114
+eat chocolate cake and D 92
+eat vegetarian food and D 90
+ear protection when you D 90
+eat scrambled eggs with D 88
+eat scrambled eggs for D 88
+ear protection when using D 86

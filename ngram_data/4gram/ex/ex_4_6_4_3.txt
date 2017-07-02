@@ -1,0 +1,5 @@
+exit travel from any M 293
+exit without making any M 147
+exit without saving any M 46
+exit insert mode and D 86
+exam scores vary with D 84

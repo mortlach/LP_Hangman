@@ -1,0 +1,1 @@
+type processor bios version D 116

@@ -1,0 +1,10 @@
+ask anything further . M 538
+ask about something . M 368
+ask after safety . M 282
+ask about another . M 272
+ask anything better . M 226
+ask about prices . M 208
+ask about school . M 162
+ask about myself . M 146
+ash cures wounds . M 88
+ask about feelings . M 84

@@ -1,0 +1,2 @@
+rule before independence . M 271
+rule without interference . M 143

@@ -1,0 +1,8 @@
+tube a is filled D 684
+tube a is closed D 566
+tube a is placed D 316
+tube d is filled D 286
+tube a is fitted D 146
+tube d is closed D 124
+tube d is placed D 112
+turn a thing upside D 45

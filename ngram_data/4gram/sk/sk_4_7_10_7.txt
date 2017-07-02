@@ -1,0 +1,2 @@
+skin against ultraviolet radiation D 140
+skin friction coefficient defined D 96

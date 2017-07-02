@@ -1,0 +1,12 @@
+putting a dangerous power M 232
+putting a positive value M 104
+putting a monetary value D 1012
+pulling a passenger train D 246
+putting a ligature round D 218
+putting a magnifying glass D 188
+putting a personal stamp D 174
+putting a positive gloss D 136
+putting a financial value D 126
+putting a monetary price D 120
+pulls a passenger train D 108
+putting a powerful weapon D 94

@@ -1,0 +1,11 @@
+cyst can not be D 1493
+cyst may lead to D 542
+cyst may not be D 460
+cyst can lead to D 237
+cyst can then be D 202
+cyst and may be D 190
+cyst may then be D 178
+cyst that can be D 164
+cyst that may be D 160
+cyst and that of D 150
+cyst and can be D 134

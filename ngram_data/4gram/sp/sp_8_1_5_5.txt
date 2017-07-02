@@ -1,0 +1,11 @@
+specific t cells could M 258
+specific t cells which M 216
+specific t cells after M 162
+specific t cells within M 120
+specific t cells would D 130
+specifying a start point D 124
+specifying a place where D 98
+specifying a given amino D 95
+specifying a period within D 92
+specifying a linear model D 86
+specifying a lower bound D 41

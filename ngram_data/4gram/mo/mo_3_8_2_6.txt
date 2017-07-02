@@ -1,0 +1,10 @@
+mob attacked the police D 342
+mob attacked the building D 324
+mob threatened to attack D 280
+mob attacked the palace D 278
+mob attacked the houses D 220
+mob attacked the office D 218
+mob attacked the prison D 142
+mob demanded the release D 88
+mob intended to attack D 82
+mob attacked the church D 80

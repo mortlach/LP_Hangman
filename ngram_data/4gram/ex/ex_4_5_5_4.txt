@@ -1,0 +1,3 @@
+exam alert looks like M 228
+exam watch notes call M 160
+exit doors shall open D 160

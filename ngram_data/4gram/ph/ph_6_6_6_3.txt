@@ -1,0 +1,8 @@
+photon energy greater than D 650
+physic should handle that D 245
+photon energy larger than D 230
+photon energy higher than D 151
+photon counting system with D 104
+photon counting system was D 95
+photon counting system and D 89
+photon passes through both D 88

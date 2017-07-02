@@ -1,0 +1,2 @@
+isotropic thermal parameters were D 136
+isometric twitch contraction time D 124

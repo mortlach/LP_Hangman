@@ -1,0 +1,1 @@
+xor and and gates M 150

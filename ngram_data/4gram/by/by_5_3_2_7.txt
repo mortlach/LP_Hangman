@@ -1,0 +1,13 @@
+bytes read or written D 620
+bytes and the maximum D 260
+bytes can be written D 230
+bytes for an integer D 197
+bytes for the network D 186
+bytes are the network D 186
+bytes for the address D 172
+bytes for the variable D 154
+bylaw for the purpose D 154
+bytes are the address D 108
+bytes for the pointer D 100
+bytes are as follows D 86
+bytes for the integer D 48

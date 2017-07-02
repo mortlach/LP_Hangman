@@ -1,0 +1,4 @@
+dying of injuries received M 109
+dying of internal injuries M 90
+dye is injected directly D 396
+dye is normally excreted D 80

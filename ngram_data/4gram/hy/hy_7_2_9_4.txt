@@ -1,0 +1,2 @@
+hydrate is converted into D 270
+hydrate is separated from D 116

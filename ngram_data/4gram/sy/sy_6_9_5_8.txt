@@ -1,0 +1,4 @@
+system described above provides M 166
+system described above requires M 126
+system generates pulse energies D 258
+system regulates blood pressure D 134

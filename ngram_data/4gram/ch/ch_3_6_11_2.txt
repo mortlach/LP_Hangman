@@ -1,0 +1,2 @@
+chi square significant at D 1180
+chi square distribution is D 299

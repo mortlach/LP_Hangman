@@ -1,0 +1,8 @@
+aorta is higher than D 298
+aorta is greater than D 280
+aorta is opened and D 209
+aorta is larger than D 204
+aorta in normal and D 160
+aorta is filled with D 96
+aorta is common and D 83
+aorta is closed with D 50

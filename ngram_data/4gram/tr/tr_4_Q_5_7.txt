@@ -1,0 +1,4 @@
+truth " about himself M 418
+truth " about herself M 162
+truth " about oneself M 100
+truth " about history M 100

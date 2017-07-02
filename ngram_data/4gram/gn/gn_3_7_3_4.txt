@@ -1,0 +1,1 @@
+gnu license for more D 380

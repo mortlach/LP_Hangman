@@ -1,0 +1,4 @@
+end product should look M 302
+end visitor spends more M 100
+end product should have M 100
+end service sector jobs D 98

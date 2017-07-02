@@ -1,0 +1,4 @@
+needle aspiration biopsy cytology D 1009
+needle aspiration biopsy diagnosis D 480
+needle aspiration biopsy specimen D 204
+neural processes which underlie D 134

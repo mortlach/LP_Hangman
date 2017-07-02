@@ -1,0 +1,4 @@
+rheostat is cut out D 358
+rheostat is set for D 196
+rhythmic to and fro D 182
+rhythmic in and out D 50

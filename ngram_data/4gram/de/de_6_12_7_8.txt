@@ -1,0 +1,2 @@
+detect relationships between variables D 126
+define relationships between concepts D 88

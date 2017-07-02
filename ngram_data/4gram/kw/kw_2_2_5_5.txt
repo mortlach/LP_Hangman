@@ -1,0 +1,5 @@
+kw at unity power D 684
+kw of input power D 163
+kw of laser power D 149
+kw of power while D 116
+kw of shaft power D 52

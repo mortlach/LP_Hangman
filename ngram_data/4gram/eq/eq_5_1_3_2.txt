@@ -1,0 +1,9 @@
+equip a man to M 717
+equal a cup of M 168
+equip a man or M 148
+equal a year of M 129
+equal a sum of M 129
+equal a day of M 120
+equal a man in M 110
+equal a lot of M 48
+equal a ton of D 255

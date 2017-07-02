@@ -1,0 +1,7 @@
+exit and turn right M 1084
+exam has been given M 164
+exam with high marks M 122
+exam for west point M 114
+exam has been taken M 100
+exit can take place M 90
+exit and other plays D 110

@@ -1,0 +1,3 @@
+voltage between commutator segments D 364
+voltage remains essentially constant D 318
+voltage remains relatively constant D 310

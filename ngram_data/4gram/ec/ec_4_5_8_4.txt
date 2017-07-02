@@ -1,0 +1,2 @@
+echo power returned from M 279
+echo pealed fearfully along D 106

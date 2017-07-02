@@ -1,0 +1,3 @@
+gland a ductless gland D 215
+glass a constant change D 98
+glass a magnifying glass D 84

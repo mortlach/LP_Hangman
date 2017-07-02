@@ -1,0 +1,4 @@
+ask individuals about their M 340
+ask adolescents about their M 100
+ask respondents about their D 1000
+ask incessantly after their D 100

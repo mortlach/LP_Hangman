@@ -1,0 +1,3 @@
+slow second movement . M 186
+slow upward movement . M 120
+slow middle movement . M 110

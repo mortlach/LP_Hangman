@@ -1,0 +1,12 @@
+ask a few questions M 54100
+ask a few students M 1636
+ask a few children M 448
+ask a few specific M 272
+ask a few personal M 262
+ask a man questions M 174
+ask a few critical M 124
+ask a few clarifying M 107
+ask a few innocent M 102
+ask a few relevant M 96
+ask a few discreet D 238
+ask a law librarian D 212

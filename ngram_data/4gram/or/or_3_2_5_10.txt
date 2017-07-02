@@ -1,0 +1,4 @@
+ore in large quantities D 633
+ore in small quantities D 358
+ore is first pulverized D 146
+ore is found abundantly D 94

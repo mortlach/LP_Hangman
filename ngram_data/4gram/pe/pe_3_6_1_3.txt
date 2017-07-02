@@ -1,0 +1,9 @@
+per person a year D 3304
+per person a day D 2672
+per family a year D 242
+peg before i get D 232
+per worker a year D 188
+per member a year D 147
+per gallon a car D 112
+per barrel a year D 104
+per million a year D 103

@@ -1,0 +1,2 @@
+byte is stored first D 332
+byte of memory space D 56

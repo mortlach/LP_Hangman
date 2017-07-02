@@ -1,0 +1,16 @@
+get within speaking distance M 843
+get within casting distance M 260
+get within walking distance M 152
+get within reaching distance M 144
+get local people involved M 136
+get white house approval M 118
+get within killing distance M 94
+get phone calls returned M 43
+get within hailing distance D 894
+get dirty again tomorrow D 253
+get within throwing distance D 189
+get within bombing distance D 110
+get worse under pressure D 108
+get within talking distance D 102
+get talking about baseball D 92
+get goose bumps whenever D 80

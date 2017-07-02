@@ -1,0 +1,3 @@
+byte can be read D 221
+byte has an odd D 172
+byte that is read D 45

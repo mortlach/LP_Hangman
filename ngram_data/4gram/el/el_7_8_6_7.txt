@@ -1,0 +1,6 @@
+element analysis finite element M 307
+element replaces another element M 258
+elastic scattering reaction imposes D 238
+elderly patients should receive D 231
+elderly patients without dementia D 116
+elastic potential energy function D 89

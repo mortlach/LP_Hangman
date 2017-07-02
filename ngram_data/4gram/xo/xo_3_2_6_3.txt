@@ -1,0 +1,1 @@
+xor the result with M 151

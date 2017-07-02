@@ -1,0 +1,8 @@
+db and an output D 258
+db for the second D 172
+db and the output D 163
+db for the speech D 144
+db for the entire D 124
+db for the higher D 102
+db and the signal D 51
+db for the signal D 40

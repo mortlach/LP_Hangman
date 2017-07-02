@@ -1,0 +1,2 @@
+puts special requirements on D 121
+puts severe requirements on D 108

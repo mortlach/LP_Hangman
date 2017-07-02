@@ -1,0 +1,17 @@
+near a telephone line M 100
+near a permanent spring M 100
+near a telephone pole D 327
+near a subduction zone D 240
+near a telephone booth D 212
+near a telegraph pole D 200
+near a blockaded port D 194
+near a discharge tube D 152
+near a fortnight past D 124
+near a blacksmith shop D 118
+near a gravitating body D 114
+near a streetcar line D 98
+near a fortnight upon D 88
+near a telegraph line D 87
+near a provincial town D 84
+near a plastered wall D 82
+near a microwave oven D 55

@@ -1,0 +1,4 @@
+tax structure more progressive D 290
+tax structure less progressive D 114
+tax collected from individuals D 108
+tax collected from corporations D 90

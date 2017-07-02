@@ -1,0 +1,16 @@
+patient under observation . M 854
+passage under examination . M 384
+patient under examination . M 356
+parents could understand . M 262
+painful learning experience . M 258
+patient needs assistance . M 208
+patient might experience . M 170
+parties thereof immediately . M 148
+patient feels understood . M 142
+patient could understand . M 128
+painful human experience . M 106
+passive motion techniques . M 104
+parties really interested . M 98
+passive learning experience . M 96
+patient undue discomfort . M 87
+parties where appropriate . M 86

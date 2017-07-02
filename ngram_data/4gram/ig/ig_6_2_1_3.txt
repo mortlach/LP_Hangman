@@ -1,0 +1,3 @@
+ignite at a low D 1139
+ignite at a red D 230
+igniting at a low D 120

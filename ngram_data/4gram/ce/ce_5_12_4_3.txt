@@ -1,0 +1,6 @@
+cells differentiate into two D 542
+cells differentiate into both D 294
+cells differentiate into one D 126
+cells interspersed among them D 116
+cells transplanted from one D 102
+cells differentiate into all D 87

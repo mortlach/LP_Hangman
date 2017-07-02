@@ -1,0 +1,4 @@
+quoted exchange will always M 196
+quoted samples will answer M 102
+quartz crystal unit design D 114
+quaint language will suffer D 102

@@ -1,0 +1,2 @@
+dwellings are owner occupied D 126
+dwellings for large families D 80

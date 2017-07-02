@@ -1,0 +1,6 @@
+add active channel button M 267
+add record command button M 229
+add another command button M 86
+add another thousand pounds D 184
+add graham cracker crumbs D 140
+add another hundred pounds D 88

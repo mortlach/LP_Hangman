@@ -1,0 +1,5 @@
+byte buffer for the D 121
+byte larger than the D 102
+byte number that is D 61
+byte values for the D 49
+byte values can be D 46

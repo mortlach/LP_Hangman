@@ -1,0 +1,2 @@
+echo signal which is M 88
+echo planar imaging is D 52

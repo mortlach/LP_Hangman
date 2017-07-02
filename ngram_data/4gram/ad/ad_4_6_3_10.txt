@@ -1,0 +1,5 @@
+adds little new information M 336
+adding methods and properties M 126
+adds weight and complexity M 108
+adding fruits and vegetables D 258
+adds strength and durability D 186

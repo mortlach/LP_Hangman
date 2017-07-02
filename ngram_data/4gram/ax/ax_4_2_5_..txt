@@ -1,0 +1,4 @@
+axiom is false . M 289
+axiom of logic . M 152
+axiom or theorem . M 118
+axiom of reason . M 100

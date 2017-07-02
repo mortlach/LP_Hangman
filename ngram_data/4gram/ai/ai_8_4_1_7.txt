@@ -1,0 +1,6 @@
+aircraft having a maximum D 662
+aircraft from a carrier D 292
+aircraft into a shallow D 204
+aircraft into a position D 150
+aircraft have a maximum D 93
+aircraft from a position D 88

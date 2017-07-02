@@ -1,0 +1,2 @@
+go a different direction M 804
+go a reasonable distance M 208

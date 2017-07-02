@@ -1,0 +1,5 @@
+ignore any distinction between M 226
+ignore this distinction between M 190
+ignoring any distinction between M 134
+ignore any difference between M 108
+ignore this difference between M 92

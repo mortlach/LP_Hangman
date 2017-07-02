@@ -1,0 +1,15 @@
+value " of property M 1398
+value " of children M 306
+value " is directly M 197
+value " of products M 175
+value " to describe M 153
+value " is probably M 145
+value " of services M 130
+value " is obtained M 128
+value " of education M 126
+value " is therefore M 116
+value " is assigned M 111
+value " is required M 101
+value " is somewhat M 98
+value " as required M 88
+value " to convince M 80

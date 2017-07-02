@@ -1,0 +1,4 @@
+inner bright ring . M 194
+input should be . M 152
+input signal is . M 88
+infer without it . M 88

@@ -1,0 +1,2 @@
+averages of quarterly data D 290
+averages of available data D 116

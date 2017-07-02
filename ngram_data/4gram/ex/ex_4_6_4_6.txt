@@ -1,0 +1,2 @@
+exit design mode button M 372
+exit without saving changes M 223

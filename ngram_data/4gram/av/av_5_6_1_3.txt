@@ -1,0 +1,13 @@
+avoid skipping a meal M 526
+avoid becoming a meal M 302
+avoid marrying a man M 254
+avoid starting a new M 224
+avoid fighting a war M 218
+avoid building a new M 158
+avoid starting a war M 114
+avoid becoming a new M 112
+avoid carrying a lot M 96
+avoid becoming a man M 92
+avail unless a man M 51
+avoid spending a lot D 458
+avoid touching a hot D 96

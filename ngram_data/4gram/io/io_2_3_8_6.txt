@@ -1,0 +1,9 @@
+ion and electron fluxes D 374
+ion and electron masses D 247
+ion and electron energy D 245
+ion beam sputtering system D 241
+ion and electron plasma D 212
+ion and electron number D 209
+ion and electron thermal D 186
+ion and electron charge D 105
+ion and electron motions D 98

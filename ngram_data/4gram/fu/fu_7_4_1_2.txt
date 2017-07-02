@@ -1,0 +1,6 @@
+function from a to M 2632
+function from s to M 809
+function from t to M 438
+function from d to M 414
+function from i to M 170
+function when a is M 82

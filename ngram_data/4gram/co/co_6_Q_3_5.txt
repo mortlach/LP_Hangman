@@ -1,0 +1,3 @@
+common " with others M 166
+covers " all risks M 123
+covering " all risks M 114

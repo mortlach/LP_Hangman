@@ -1,0 +1,4 @@
+climate prediction center merged M 118
+climate gradually became warmer D 211
+climate gradually became cooler D 128
+climate gradually became colder D 92

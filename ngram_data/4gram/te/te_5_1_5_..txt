@@ -1,0 +1,14 @@
+tells a story . M 25622
+teaching a class . M 3330
+teaching a child . M 672
+testing a model . M 464
+tells a story ? M 324
+teaching a class ? M 186
+teaching a group . M 180
+tells a story ! M 176
+teaching a topic . M 172
+teaching a moral . M 168
+teaching a people . M 156
+terms i could . M 146
+terms i offer . M 138
+teaching a slave . M 90

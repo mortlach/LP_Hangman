@@ -1,0 +1,15 @@
+act which causes damage M 702
+act which causes injury M 399
+act which causes another M 215
+act which passed through M 206
+act which caused damage M 136
+act which should result M 127
+act which caused injury M 112
+act every person engaged M 112
+act which should pledge M 108
+act which should define M 80
+act until further orders M 41
+act which places another D 106
+act might justly arouse D 102
+act shall before entering D 98
+act until public opinion D 93

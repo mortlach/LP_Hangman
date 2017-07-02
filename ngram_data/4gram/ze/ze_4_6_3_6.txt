@@ -1,0 +1,6 @@
+zero stress and strain M 311
+zero unless you choose M 208
+zero around any closed M 183
+zero except for rounding M 44
+zero cycles per second D 408
+zero pounds per square D 216

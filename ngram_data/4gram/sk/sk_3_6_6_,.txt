@@ -1,0 +1,10 @@
+sky without clouds , M 762
+sky without clouds ; M 280
+sky should combat , M 254
+sky became clearer , M 246
+sky became darker , M 194
+sky turned purple , M 162
+sky turned yellow , M 104
+sky became bright , M 102
+sky should darken , M 84
+sky became gloomy , M 84

@@ -1,0 +1,5 @@
+earthquakes on dams and D 602
+earthquakes in time and D 124
+earthquakes of more than D 120
+earthquakes of less than D 88
+earthquakes to know that D 44

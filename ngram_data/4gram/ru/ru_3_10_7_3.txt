@@ -1,0 +1,7 @@
+run consumption function with M 231
+run consumption function and M 150
+run candidates against each M 110
+run consumption function for M 103
+run adjustment process and M 87
+run consumption function has M 54
+run consumption function was M 47

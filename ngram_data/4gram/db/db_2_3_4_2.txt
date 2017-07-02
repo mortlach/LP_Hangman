@@ -1,0 +1,6 @@
+db each time the D 575
+db beam width of D 270
+db per mile at D 140
+db and there is D 130
+db beam width is D 58
+db can also be D 41

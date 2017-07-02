@@ -1,0 +1,4 @@
+sh groups of two D 137
+sh groups in this D 57
+sh groups do not D 45
+sh groups is not D 44

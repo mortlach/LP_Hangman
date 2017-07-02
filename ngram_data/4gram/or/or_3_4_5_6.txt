@@ -1,0 +1,4 @@
+ore into small pieces D 297
+ore from which copper D 133
+ore from which radium D 129
+ore from which silver D 108

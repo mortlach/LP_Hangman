@@ -1,0 +1,2 @@
+rye flour wheat flour D 107
+rye straw wheat straw D 86

@@ -1,0 +1,10 @@
+key M 83533219
+kings M 25211735
+kid M 10801505
+kin M 6855168
+kit D 6032537
+ken D 6004889
+kip D 655465
+keg D 572934
+kith D 330499
+kph D 101069

@@ -1,0 +1,4 @@
+deaths from accidental causes M 250
+deaths from accidental injury M 128
+deaths from accidental drowning M 93
+deaths from tubercular disease D 104

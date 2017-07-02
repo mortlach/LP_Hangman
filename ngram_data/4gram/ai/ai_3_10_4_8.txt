@@ -1,0 +1,5 @@
+air pollutants from vehicles D 154
+air pollutants have declined D 124
+air pollutants from aircraft D 114
+air pollutants from industry D 94
+air pollutants from multiple D 90

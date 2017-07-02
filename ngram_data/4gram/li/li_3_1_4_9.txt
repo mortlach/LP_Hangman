@@ -1,0 +1,6 @@
+lit a third cigarette D 330
+lit a last cigarette D 176
+lie a heavy imputation D 136
+lit a cheap cigarette D 132
+lit a rank cigarette D 94
+lit a rare cigarette D 82

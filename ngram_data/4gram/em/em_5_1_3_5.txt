@@ -1,0 +1,6 @@
+emits a red light M 319
+empty a long while M 81
+emits a bad smell D 196
+emits a ringing sound D 151
+emits a beam which D 94
+emits a low growl D 90

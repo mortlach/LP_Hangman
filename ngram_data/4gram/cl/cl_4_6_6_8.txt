@@ -1,0 +1,3 @@
+clear without further argument M 276
+clear without further analysis M 130
+clean knight without villainy D 80

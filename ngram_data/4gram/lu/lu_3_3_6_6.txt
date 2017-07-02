@@ -1,0 +1,9 @@
+lung and kidney damage D 332
+lung and kidney disease D 254
+lung and larynx cancer D 218
+lung and ovarian cancer D 214
+lung and muscle tissue D 134
+lung and cardiac disease D 134
+lung and kidney cancer D 112
+lung and kidney tissue D 108
+lung and kidney lesions D 100

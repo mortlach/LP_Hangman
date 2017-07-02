@@ -1,0 +1,4 @@
+ate in local restaurants D 114
+ate at fancy restaurants D 104
+ate in fancy restaurants D 96
+ate at local restaurants D 94

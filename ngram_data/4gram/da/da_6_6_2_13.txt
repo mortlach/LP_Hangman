@@ -1,0 +1,4 @@
+damage caused by environmental D 899
+dawned before the transportation D 192
+damage caused by transportation D 160
+damage caused by extraordinary D 102

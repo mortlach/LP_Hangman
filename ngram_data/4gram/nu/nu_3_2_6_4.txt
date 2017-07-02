@@ -1,0 +1,4 @@
+nut or tapped hole D 309
+nut is turned down D 165
+nut is threaded onto D 124
+nut is placed over D 90

@@ -1,0 +1,4 @@
+omit many details and M 226
+omit some details and M 116
+omit many details that M 100
+omit these details and M 94

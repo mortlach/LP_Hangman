@@ -1,0 +1,7 @@
+edge from a to M 1385
+edge from i to M 652
+edge from s to M 488
+edge length a is M 204
+edge from t to M 172
+edge when i am M 108
+edge length a of M 90

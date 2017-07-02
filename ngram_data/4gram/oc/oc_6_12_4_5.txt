@@ -1,0 +1,5 @@
+occupy considerably more space M 372
+occupy considerably less space M 276
+occurs considerably more often M 148
+occurs considerably less often M 100
+ocular demonstration will carry D 86

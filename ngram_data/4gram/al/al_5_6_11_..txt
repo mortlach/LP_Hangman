@@ -1,0 +1,5 @@
+allow further development . M 190
+allow direct comparisons . M 160
+allow normal development . M 132
+alone without interruption . M 106
+alter existing institutions . M 100

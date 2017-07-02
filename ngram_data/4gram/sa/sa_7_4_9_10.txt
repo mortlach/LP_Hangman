@@ -1,0 +1,13 @@
+samples were collected immediately M 516
+samples were correctly classified M 352
+samples were correctly identified M 146
+samples were collected separately M 124
+samples were processed immediately M 110
+samples were preserved immediately M 94
+samples from different populations D 1212
+samples from different localities D 1142
+satisfy their political aspirations D 278
+samples from identical populations D 174
+saluted their victorious countrymen D 174
+sampled from different populations D 154
+sanction from artificial revelations D 142

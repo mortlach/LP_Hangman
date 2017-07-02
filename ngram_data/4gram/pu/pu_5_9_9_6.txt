@@ -1,0 +1,3 @@
+pulse amplitude modulated signal D 135
+pulse repetition frequency should D 131
+pulse amplitude modulation system D 106

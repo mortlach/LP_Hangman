@@ -1,0 +1,5 @@
+within specified tolerance limits M 296
+within carefully specified limits M 122
+within different population groups D 134
+within judicially manageable limits D 94
+within different taxonomic groups D 94

@@ -1,0 +1,15 @@
+axis must pass through D 995
+axis will pass through D 898
+axes have been chosen D 624
+axis depth dose curves D 230
+axes having their origin D 218
+axes must pass through D 190
+axes have been scaled D 172
+axes have been picked D 146
+axes have their origin D 130
+axes will work through D 110
+axes have been turned D 104
+axes have been placed D 102
+axes have been changed D 96
+axis into three regions D 94
+axes have been marked D 92

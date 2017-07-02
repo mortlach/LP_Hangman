@@ -1,0 +1,2 @@
+policy statement which declared D 106
+policy statement which included D 88

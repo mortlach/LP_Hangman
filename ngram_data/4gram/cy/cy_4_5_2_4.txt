@@ -1,0 +1,4 @@
+cyst about the size D 608
+cyst fluid is clear D 128
+cyst under the skin D 94
+cyst could be seen D 82

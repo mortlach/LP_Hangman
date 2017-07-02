@@ -1,0 +1,4 @@
+en original . " M 199
+en evidence . " M 133
+en confusion . " M 132
+en presence . " M 44

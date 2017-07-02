@@ -1,0 +1,6 @@
+universe from which samples M 200
+universe from which everything M 120
+universe from which religion M 118
+uncommon among older persons M 82
+undergoing wide local excision D 114
+unlisted home phone numbers D 92

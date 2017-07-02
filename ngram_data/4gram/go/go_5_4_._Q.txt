@@ -1,0 +1,7 @@
+goods there . " M 328
+goods here . " M 270
+goods only . " M 166
+goods away . " M 142
+goods back . " M 108
+goods here ? " M 92
+goods shop . " M 49

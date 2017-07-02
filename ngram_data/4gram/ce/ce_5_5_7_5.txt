@@ -1,0 +1,12 @@
+cells which contain large M 410
+cells which produce large M 182
+cells often contain large M 148
+cells within minutes after M 122
+cells which receive input M 104
+cells which contain small M 90
+cells which convert light M 60
+cells which secrete mucus D 724
+cells under voltage clamp D 176
+cells which produce mucus D 161
+cells which secrete large D 128
+cells which undergo rapid D 120

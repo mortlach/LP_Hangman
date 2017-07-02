@@ -1,0 +1,2 @@
+equity powers may command D 112
+equity should not enforce D 90

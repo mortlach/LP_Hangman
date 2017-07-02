@@ -1,0 +1,4 @@
+kingdom passed through a M 120
+kingdom should become a M 100
+kingdom should remain a M 94
+kingdom without striking a D 84

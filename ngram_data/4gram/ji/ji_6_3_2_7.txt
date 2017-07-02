@@ -1,0 +1,2 @@
+jitter can be reduced D 224
+jitter can be measured D 122

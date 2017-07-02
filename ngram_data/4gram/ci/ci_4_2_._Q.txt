@@ -1,0 +1,7 @@
+city is . " M 508
+city is ? " M 374
+city do . " M 160
+cite it . " M 158
+city up . " M 130
+city is ! " M 94
+city be ? " M 92

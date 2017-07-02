@@ -1,0 +1,2 @@
+emit pulses of radiation D 94
+emit energy as radiation D 85

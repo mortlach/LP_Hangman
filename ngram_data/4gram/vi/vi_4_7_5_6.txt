@@ -1,0 +1,2 @@
+view control debug window M 97
+view regarding human nature D 96

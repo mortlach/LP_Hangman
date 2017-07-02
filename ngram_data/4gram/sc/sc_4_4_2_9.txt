@@ -1,0 +1,8 @@
+scan must be performed D 540
+scan will be performed D 304
+scan tool is connected D 138
+scan line is displayed D 125
+scan will be necessary D 98
+scar left by sacrifice D 94
+scan line is processed D 64
+scan line is completed D 45

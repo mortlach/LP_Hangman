@@ -1,0 +1,4 @@
+tcp from any to M 1555
+tcp port for the M 294
+tcp port that the M 149
+tcp port that is M 56

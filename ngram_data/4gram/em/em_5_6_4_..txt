@@ -1,0 +1,5 @@
+empty number line . M 306
+empty binary tree . M 240
+empty without love . M 130
+empty return trip . M 88
+empty spaces left . M 84

@@ -1,0 +1,7 @@
+tax imposes a tax D 192
+tax returns a year D 179
+tax dollars a year D 159
+tax becomes a tax D 140
+tax becomes a new D 138
+tax credits a tax D 51
+tax revenue a year D 43

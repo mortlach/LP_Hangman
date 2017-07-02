@@ -1,0 +1,4 @@
+ohms per inch cube D 664
+ohms per unit length D 607
+ohms per volt rating D 267
+ohms per loop mile D 230

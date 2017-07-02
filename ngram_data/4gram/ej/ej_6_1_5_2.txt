@@ -1,0 +1,4 @@
+ejecting a stream of D 576
+ejects a stream of D 368
+ejects a cloud of D 172
+ejecting a cloud of D 148

@@ -1,0 +1,4 @@
+edges of a wing M 199
+edges of a ring M 122
+edict of a king D 200
+editing as i go D 100

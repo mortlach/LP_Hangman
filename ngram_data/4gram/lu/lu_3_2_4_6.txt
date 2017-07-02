@@ -1,0 +1,12 @@
+lung or heart disease D 2244
+lung or other organs D 434
+lung is more common D 280
+lung is more likely D 216
+lung is most common D 164
+lung to body weight D 154
+lung or other tissue D 146
+lung is most likely D 136
+lung or bone marrow D 126
+lung to some extent D 100
+lung to other organs D 88
+lung or skin cancer D 80

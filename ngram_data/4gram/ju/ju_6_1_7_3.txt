@@ -1,0 +1,7 @@
+judged a success and M 390
+judged a failure and M 290
+judged a failure for M 138
+judged a success for M 116
+judges a decision that M 41
+judged a heretic and D 108
+jumped a hundred and D 98

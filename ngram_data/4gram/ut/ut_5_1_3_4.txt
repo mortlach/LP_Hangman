@@ -1,0 +1,10 @@
+utter a new word M 304
+utter a bad word M 288
+utter a few more M 249
+utter a lying word M 216
+utter a cry like M 196
+utter a cry when M 120
+utter a low moan M 114
+utter a long loud M 96
+utter a cry from M 94
+utter a long string D 98

@@ -1,0 +1,2 @@
+glare from reflective surfaces D 181
+glare from horizontal surfaces D 118

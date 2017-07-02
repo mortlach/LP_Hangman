@@ -1,0 +1,3 @@
+atom bonded directly to D 142
+atom itself consists of D 102
+atom planes parallel to D 96

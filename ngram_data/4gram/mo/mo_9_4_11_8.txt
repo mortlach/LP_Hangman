@@ -1,0 +1,2 @@
+mortality from respiratory distress D 270
+mortality from tuberculous meningitis D 100

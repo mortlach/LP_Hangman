@@ -1,0 +1,3 @@
+atom interacts only with D 155
+atom possesses only one D 146
+atom displaced from its D 146

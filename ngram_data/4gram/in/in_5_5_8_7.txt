@@ -1,0 +1,3 @@
+input power spectral density D 522
+input noise spectral density D 358
+index social sciences citation D 162

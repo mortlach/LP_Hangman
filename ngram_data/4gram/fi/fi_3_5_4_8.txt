@@ -1,0 +1,4 @@
+fit easily into standard D 193
+fit neatly into specific D 146
+fit neatly into standard D 122
+fit neatly into discrete D 108

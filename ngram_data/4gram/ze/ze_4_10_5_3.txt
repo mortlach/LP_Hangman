@@ -1,0 +1,3 @@
+zero expectation value for M 96
+zero transaction costs and D 484
+zero transaction costs are D 55

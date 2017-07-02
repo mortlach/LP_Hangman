@@ -1,0 +1,4 @@
+ha of paddy fields D 461
+ha of green fodder D 110
+ha of state forest D 90
+ha the green graves D 40

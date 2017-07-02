@@ -1,0 +1,4 @@
+skin is approximated with D 1096
+skin is contaminated with D 574
+skin is particularly dry D 110
+skin is particularly thin D 103

@@ -1,0 +1,3 @@
+fluid whose specific gravity D 620
+fluid which prevents friction D 170
+fluid shows increased protein D 112

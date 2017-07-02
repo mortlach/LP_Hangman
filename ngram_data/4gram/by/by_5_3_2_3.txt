@@ -1,0 +1,9 @@
+bytes can be read D 448
+bytes that do not D 250
+bytes may be read D 113
+bytes for the two D 113
+bytes are in each D 108
+bytes one by one D 100
+bytes that it can D 91
+bytes for the tcp D 47
+bytes long so that D 44

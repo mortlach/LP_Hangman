@@ -1,0 +1,8 @@
+lymphoid cells were found D 224
+lymphoid tumor cell lines D 185
+lymphoid cells from mouse D 143
+lymphoid cells from tumor D 133
+lymphoma cells from biopsy D 117
+lymphoid cells from human D 95
+lymphoma cells from human D 74
+lymphoid cells from either D 53

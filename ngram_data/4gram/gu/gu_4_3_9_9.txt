@@ -1,0 +1,5 @@
+guns and ammunition available D 164
+guns and ammunition necessary D 146
+guns and ammunition overboard D 114
+guns and unlimited ammunition D 84
+guns and artillery ammunition D 82

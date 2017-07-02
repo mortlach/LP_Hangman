@@ -1,0 +1,3 @@
+scan the distant horizon D 246
+scan the western horizon D 208
+scan the southern horizon D 83

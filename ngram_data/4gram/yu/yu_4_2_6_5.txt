@@ -1,0 +1,4 @@
+yuan in output value D 283
+yuan of output value D 189
+yuan in public funds D 92
+yuan of public funds D 69

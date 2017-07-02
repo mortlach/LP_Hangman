@@ -1,0 +1,5 @@
+fit audience find though M 472
+fit materials into units M 112
+fit entirely into either M 45
+fix nitrogen only under D 120
+fix nitrogen when grown D 100

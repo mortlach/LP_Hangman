@@ -1,0 +1,13 @@
+ore is obtained from D 1505
+ore to metallic iron D 721
+ore is imported from D 639
+ore is produced from D 444
+ore is shoveled into D 256
+ore is exported from D 231
+ore is withdrawn from D 176
+ore is conveyed from D 157
+orb of daylight sets D 144
+ore is unloaded from D 121
+ore is reported from D 114
+ore in sulfuric acid D 105
+ore as received from D 96

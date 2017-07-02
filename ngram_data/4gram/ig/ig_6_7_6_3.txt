@@ -1,0 +1,4 @@
+ignoring everything around him M 144
+ignoring traffic lights and M 118
+ignore everything around him M 88
+ignore medical advice and D 80

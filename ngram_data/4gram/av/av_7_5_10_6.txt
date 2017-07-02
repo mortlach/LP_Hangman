@@ -1,0 +1,4 @@
+average daily attendance figure M 158
+average daily attendance should M 98
+average daily attendance varied M 92
+average daily attendance varies D 88

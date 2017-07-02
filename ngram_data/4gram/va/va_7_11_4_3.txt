@@ -1,0 +1,3 @@
+variable manufacturing cost per D 1272
+variable maintenance cost per D 166
+variable manufacturing cost and D 116

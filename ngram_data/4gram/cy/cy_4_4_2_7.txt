@@ -1,0 +1,11 @@
+cyst wall is usually D 418
+cyst must be removed D 318
+cyst wall is removed D 310
+cyst into the pleural D 217
+cyst wall is excised D 172
+cyst into the stomach D 167
+cyst into the bronchi D 124
+cyst wall is grasped D 108
+cyst must be excised D 106
+cyst into the bladder D 86
+cyst wall is present D 82

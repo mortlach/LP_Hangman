@@ -1,0 +1,4 @@
+ebb and flood tides D 2101
+ebb and flood tidal D 587
+ebb and flood flows D 137
+ebb and falling stream D 88

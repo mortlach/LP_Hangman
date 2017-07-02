@@ -1,0 +1,5 @@
+tax rate remains constant D 867
+tax upon tangible property D 294
+tax rate remains unchanged D 250
+tax lien against property D 120
+tax upon certain articles D 112

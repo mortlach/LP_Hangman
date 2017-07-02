@@ -1,0 +1,12 @@
+average daily attendance . M 12904
+average daily membership . M 888
+average daily consumption . M 541
+average power consumption . M 406
+average power constraint . M 264
+average healthy individual . M 244
+average daily attendance ? M 206
+average human experience . M 172
+average value calculated . M 140
+average value determined . M 134
+average daily circulation . M 102
+average human individual . M 98

@@ -1,0 +1,3 @@
+jest still loads the D 116
+jets which impinge on D 100
+jest which might be D 98

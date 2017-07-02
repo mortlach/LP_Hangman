@@ -1,0 +1,5 @@
+bytes are set aside D 184
+bytes for each pixel D 173
+bytes for each entry D 128
+bytes are not equal D 106
+bytes for each field D 92

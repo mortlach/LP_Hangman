@@ -1,0 +1,5 @@
+isosceles triangles are equal D 197
+isosceles triangles two sides D 112
+isotropic material for which D 108
+isosceles triangles with equal D 52
+isosceles triangles with sides D 47

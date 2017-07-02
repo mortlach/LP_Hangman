@@ -1,0 +1,3 @@
+emit light when struck D 248
+emit gamma rays through D 143
+emit light when rubbed D 96

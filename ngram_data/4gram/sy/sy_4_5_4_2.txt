@@ -1,0 +1,3 @@
+sync pulse from the D 312
+sync pulse must be D 86
+sync pulse will be D 44

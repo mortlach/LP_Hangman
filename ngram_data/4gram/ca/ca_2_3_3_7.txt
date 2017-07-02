@@ -1,0 +1,2 @@
+ca does not require M 180
+ca ions are present D 42

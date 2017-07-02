@@ -1,0 +1,6 @@
+averaged over time intervals D 236
+averaged over many different D 169
+averages have been corrected D 88
+averaged over many particles D 51
+averaged over many collisions D 49
+averaged over many molecules D 48

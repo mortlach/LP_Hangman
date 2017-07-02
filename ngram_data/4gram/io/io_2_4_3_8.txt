@@ -1,0 +1,5 @@
+ion beams with energies D 218
+ion beams for materials D 218
+ion other than hydrogen D 132
+ion beams are produced D 99
+ion from its mobility D 86

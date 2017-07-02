@@ -1,0 +1,3 @@
+offs are more likely D 146
+offs with other values D 100
+offs for poor spelling D 88

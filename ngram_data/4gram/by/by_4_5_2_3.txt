@@ -1,0 +1,3 @@
+byte header to each D 175
+byte after the end D 126
+byte array is then D 110

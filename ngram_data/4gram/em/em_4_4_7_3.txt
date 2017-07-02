@@ -1,0 +1,3 @@
+emit more radiation than D 657
+emit less radiation than D 274
+emit radio signals that D 116

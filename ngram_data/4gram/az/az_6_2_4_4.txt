@@ -1,0 +1,3 @@
+azimuth or true bearing D 191
+azimuth of some line D 130
+azimuth as seen from D 122

@@ -1,0 +1,4 @@
+pit of destruction into M 114
+pit of sufficient depth M 84
+pit of sufficient size M 82
+pin is introduced into D 286

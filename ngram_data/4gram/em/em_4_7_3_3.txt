@@ -1,0 +1,5 @@
+emit signals that are M 193
+emit signals that can M 166
+emit radiation that can D 216
+emit photons that are D 126
+emit radiation and are D 105

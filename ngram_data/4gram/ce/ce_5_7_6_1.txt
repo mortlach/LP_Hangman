@@ -1,0 +1,5 @@
+cells arranged around a M 1146
+cells grouped around a M 272
+cells quickly reaches a M 98
+cells proceed through a M 86
+cells migrate through a D 118

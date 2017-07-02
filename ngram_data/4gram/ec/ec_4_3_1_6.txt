@@ -1,0 +1,3 @@
+echo and a shadow M 206
+echo for a moment M 126
+echo with a hollow D 40

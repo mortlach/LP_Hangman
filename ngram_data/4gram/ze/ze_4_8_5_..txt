@@ -1,0 +1,5 @@
+zero external field . M 1018
+zero expected value . M 560
+zero marginal costs . M 500
+zero exercise price . M 110
+zero distance apart . M 51

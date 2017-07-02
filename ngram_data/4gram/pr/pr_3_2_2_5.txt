@@ -1,0 +1,10 @@
+pro in the world M 143
+pro in the field M 123
+pro at the local M 101
+pro in the sense M 49
+pry up the cover D 170
+pry up the board D 146
+pry up the stone D 114
+pry up the edges D 94
+pry up the floor D 91
+pry up the nails D 88

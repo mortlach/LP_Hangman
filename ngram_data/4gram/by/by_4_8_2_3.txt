@@ -1,0 +1,4 @@
+byte consists of two D 106
+byte followed by one D 96
+byte contains an odd D 96
+byte followed by two D 44

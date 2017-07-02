@@ -1,0 +1,14 @@
+ate a hurried meal M 432
+ate a hundred and M 158
+ate a regular meal M 104
+ate a butcher and M 86
+ate a biscuit and D 626
+ate a mouthful and D 200
+ate a granola bar D 198
+ate a lettuce leaf D 182
+ate a cracker and D 164
+ate a chicken that D 164
+ate a heartier meal D 140
+ate a poached egg D 126
+ate a sausage and D 102
+ate a scratch meal D 86

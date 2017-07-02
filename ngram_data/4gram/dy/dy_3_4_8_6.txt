@@ -1,0 +1,6 @@
+dying from prostate cancer D 970
+dying from coronary artery D 270
+dying from cervical cancer D 256
+dying from maternal causes D 208
+dying from coronary disease D 176
+dying from terminal cancer D 158

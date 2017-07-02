@@ -1,0 +1,2 @@
+cw signal can be D 89
+cw lasers can be D 43

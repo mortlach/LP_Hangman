@@ -1,0 +1,5 @@
+amounts received from customers D 641
+amounts deducted from employees D 221
+amounts received from insurance D 217
+amounts received from transfers D 103
+amylase secretion from pancreatic D 65

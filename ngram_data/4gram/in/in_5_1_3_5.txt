@@ -1,0 +1,5 @@
+input a and input M 896
+infer a lot about M 276
+input a new value M 270
+index i for which D 388
+inlet a few miles D 224

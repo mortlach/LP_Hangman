@@ -1,0 +1,2 @@
+etch rate dependence on D 216
+etch pits correspond to D 50

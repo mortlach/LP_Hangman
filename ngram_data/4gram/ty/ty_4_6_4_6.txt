@@ -1,0 +1,6 @@
+type number type number M 222
+type became more common M 180
+type chosen will depend M 148
+type merges into another M 102
+type packet length router D 110
+typing errors when entering D 45

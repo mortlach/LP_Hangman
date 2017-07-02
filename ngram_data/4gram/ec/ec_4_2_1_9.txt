@@ -1,0 +1,15 @@
+echo of a different M 308
+echo of a forgotten M 279
+echo of a statement M 222
+echo or a reflection M 192
+echo is a reflection M 155
+echo of a universal M 128
+echo in a different M 52
+echo of a platitude D 254
+echo is a reflected D 194
+echo of a sentiment D 188
+echo is a repetition D 187
+echo of a primitive D 136
+echo as a skilfully D 119
+echo of a classical D 86
+echo of a political D 41

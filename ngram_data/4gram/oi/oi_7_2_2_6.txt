@@ -1,0 +1,5 @@
+oilcloth on the tables D 404
+oilcloth at the bottom D 274
+oilcloth on the ground D 118
+oilcloth on the stairs D 96
+oilcloth on the floors D 81

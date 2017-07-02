@@ -1,0 +1,7 @@
+poem already quoted , M 512
+poet already quoted , M 344
+poem quoted earlier , M 294
+poet should assume , M 136
+poem already quoted : M 125
+poem called creation , M 116
+poet without genius , M 100

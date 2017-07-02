@@ -1,0 +1,6 @@
+hydrogen at room temperature D 3646
+hydrogen at high temperature D 1052
+hydration at room temperature D 145
+hydrogen in their atmospheres D 144
+hydrated at room temperature D 127
+hydrogen or other indifferent D 80

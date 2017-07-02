@@ -1,0 +1,4 @@
+scan for hardware changes D 806
+scan with contrast medium D 228
+scan and skeletal survey D 122
+scan with contrast should D 45

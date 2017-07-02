@@ -1,0 +1,5 @@
+echo his own . M 202
+echo her own . M 160
+echo his cry . M 126
+echo this idea . M 108
+echo our own . M 102

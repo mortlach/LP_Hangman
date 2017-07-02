@@ -1,0 +1,5 @@
+kings against their subjects M 404
+kings towards their subjects M 162
+kings command their subjects M 88
+kings receive their authority M 80
+kings derived their authority D 342

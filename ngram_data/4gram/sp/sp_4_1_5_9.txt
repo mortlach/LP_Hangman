@@ -1,0 +1,5 @@
+speak a quite different M 234
+speak a dozen different D 188
+speak a tongue different D 102
+span a large geographic D 97
+span a broad continuum D 94

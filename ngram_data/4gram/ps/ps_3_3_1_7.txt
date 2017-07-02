@@ -1,0 +1,5 @@
+psi and a modulus D 435
+psi and a minimum D 362
+psi and a tensile D 346
+psi and a maximum D 275
+psi and a density D 130

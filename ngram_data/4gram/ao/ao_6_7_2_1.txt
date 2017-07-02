@@ -1,0 +1,3 @@
+aortic orifice is a D 144
+aortic rupture in a D 120
+aortic rupture is a D 96

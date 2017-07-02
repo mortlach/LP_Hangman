@@ -1,0 +1,12 @@
+using public key cryptography M 2042
+use public key cryptography M 854
+use speech for communication M 322
+using public key certificates M 282
+using public key authentication M 150
+use public key authentication M 140
+using secret key cryptography M 133
+use public key certificates M 92
+use without due consideration M 46
+use skills and technologies D 146
+use radius for authentication D 126
+use planning and agricultural D 105

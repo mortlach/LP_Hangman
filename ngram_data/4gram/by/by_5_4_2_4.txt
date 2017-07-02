@@ -1,0 +1,11 @@
+bytes from the file D 1570
+bytes into the file D 329
+bytes will be used D 324
+bytes from the data D 250
+bytes from the base D 200
+bytes from an open D 158
+bytes from the disk D 146
+bytes will be sent D 136
+bytes from the next D 134
+bytes must be used D 92
+bytes worth of data D 90

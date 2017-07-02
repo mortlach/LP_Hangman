@@ -1,0 +1,4 @@
+offs that are necessary D 218
+offs are not available D 114
+offs that are available D 98
+offs that are important D 80

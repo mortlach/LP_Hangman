@@ -1,0 +1,7 @@
+type founder and printer M 199
+type concept and descent M 123
+type letters and numbers M 118
+type between its parents M 80
+type letters and reports D 184
+typing letters and reports D 180
+typing letters and answering D 108

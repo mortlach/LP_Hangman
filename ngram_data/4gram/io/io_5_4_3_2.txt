@@ -1,0 +1,8 @@
+iodine test and the D 240
+iodine atom and the D 198
+iodine must not be D 171
+iodine test may be D 135
+iodine will not be D 111
+iodine used for the D 96
+iodine test can be D 43
+iodine need not be D 43

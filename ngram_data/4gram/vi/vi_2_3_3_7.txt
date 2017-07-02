@@ -1,0 +1,3 @@
+via its own network M 136
+via any web browser D 136
+via ups for overseas D 128

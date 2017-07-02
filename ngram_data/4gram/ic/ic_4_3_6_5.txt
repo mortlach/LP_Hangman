@@ -1,0 +1,10 @@
+icon and double click M 204
+icon and choose empty M 168
+icon and choose create M 166
+icon and select create M 156
+icon and choose sharing M 156
+icon that should appear M 103
+icon and select empty M 98
+icon and choose close M 88
+icon and choose eject D 234
+icon and window title D 128

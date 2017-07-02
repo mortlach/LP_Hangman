@@ -1,0 +1,3 @@
+valid from invalid inferences M 130
+value less accrued depreciation D 146
+valid from invalid syllogisms D 108

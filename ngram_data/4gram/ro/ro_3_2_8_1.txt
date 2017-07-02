@@ -1,0 +1,5 @@
+rod is attached a D 512
+row is assigned a D 236
+rod is fastened a D 176
+rod to transfer a D 92
+row is actually a D 84

@@ -1,0 +1,4 @@
+airway may be compromised D 594
+airway can be established D 530
+airway may be established D 122
+airway can be compromised D 106

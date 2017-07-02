@@ -1,0 +1,4 @@
+eyelids are getting heavier D 254
+eyebrow and upper eyelid D 178
+eyeball and upper eyelid D 128
+eyelids are still closed D 94

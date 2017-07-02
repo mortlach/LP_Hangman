@@ -1,0 +1,3 @@
+owned a model t M 340
+owned a model a M 129
+owned a house a M 90

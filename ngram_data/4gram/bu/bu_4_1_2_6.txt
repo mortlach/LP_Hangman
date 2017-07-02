@@ -1,0 +1,2 @@
+bulb a is filled D 466
+bulb a is placed D 104

@@ -1,0 +1,5 @@
+yield more precise information M 556
+yield more reliable information M 403
+yield only limited information M 359
+yield more meaningful information M 122
+yield more reliable conclusions M 86

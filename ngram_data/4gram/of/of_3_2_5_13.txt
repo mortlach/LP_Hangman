@@ -1,0 +1,3 @@
+off the floor simultaneously M 207
+off the power automatically M 156
+off the water automatically M 97

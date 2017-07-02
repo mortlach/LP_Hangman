@@ -1,0 +1,9 @@
+omit the decimal point M 891
+omit an account which M 214
+omit the following words M 186
+omit an element which M 148
+omit the details which M 96
+omit the passage which M 86
+omit the following items M 80
+omit the excluding words M 80
+omit the polemic piece D 112

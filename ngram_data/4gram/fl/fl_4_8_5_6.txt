@@ -1,0 +1,2 @@
+flux magnetic field strength D 379
+flat parallel metal plates D 96

@@ -1,0 +1,1 @@
+yield from blood cultures M 112

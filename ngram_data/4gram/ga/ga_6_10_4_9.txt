@@ -1,0 +1,4 @@
+gathering information from witnesses M 400
+gathering information from different M 299
+gathering information from customers M 196
+gathering information from employees D 139

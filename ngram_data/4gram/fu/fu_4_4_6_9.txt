@@ -1,0 +1,2 @@
+full wave bridge rectifier D 431
+full line curves represent D 112

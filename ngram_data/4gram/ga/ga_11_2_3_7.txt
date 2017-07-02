@@ -1,0 +1,3 @@
+gallbladder is then removed D 108
+gallbladder is not removed D 102
+gallbladder is not present D 43

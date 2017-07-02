@@ -1,0 +1,10 @@
+naive t cells . M 3150
+named a price . M 1150
+names a place . M 209
+names a price . M 195
+names a color . M 148
+names a group . M 137
+named a judge . M 132
+named a river . M 94
+named a worse . M 90
+named a place . M 84

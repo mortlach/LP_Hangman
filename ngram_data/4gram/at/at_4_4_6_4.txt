@@ -1,0 +1,4 @@
+atom will depend upon D 175
+atom will always have D 100
+atop what looked like D 86
+atom have already been D 47

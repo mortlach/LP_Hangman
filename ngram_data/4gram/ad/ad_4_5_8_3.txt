@@ -1,0 +1,2 @@
+adding dummy variables for D 268
+adding slack variables and D 112

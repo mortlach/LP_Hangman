@@ -1,0 +1,7 @@
+physical activity a part D 432
+physical education a week D 284
+physical activity a week D 234
+physical education a part D 162
+physical condition i have D 150
+physician diagnoses a case D 142
+physician reported a case D 106

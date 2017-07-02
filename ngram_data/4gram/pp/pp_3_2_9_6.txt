@@ -1,0 +1,3 @@
+ppm of dissolved oxygen D 1064
+ppm of dissolved solids D 946
+ppm of suspended solids D 399

@@ -1,0 +1,4 @@
+bytes in bad sectors D 1396
+bytes in this example D 192
+bytes of each element D 142
+bytes of real storage D 104

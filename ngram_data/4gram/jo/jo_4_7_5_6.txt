@@ -1,0 +1,4 @@
+jobs several times before M 206
+jobs requiring lower levels D 130
+jobs requiring equal skills D 126
+jobs requiring fewer skills D 102

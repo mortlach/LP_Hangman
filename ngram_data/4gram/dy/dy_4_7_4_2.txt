@@ -1,0 +1,3 @@
+dyes derived from the D 442
+dyes depends upon the D 124
+dyes diffuse into the D 84

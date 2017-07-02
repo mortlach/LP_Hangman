@@ -1,0 +1,3 @@
+add or subtract a M 6508
+add as complete a M 128
+add or multiply a M 116

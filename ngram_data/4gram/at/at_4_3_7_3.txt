@@ -1,0 +1,5 @@
+atom can combine with D 964
+atom may combine with D 204
+atom may collide with D 154
+atom may capture one D 96
+atria are smaller than D 84

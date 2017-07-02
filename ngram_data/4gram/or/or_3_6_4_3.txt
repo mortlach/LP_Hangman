@@ -1,0 +1,5 @@
+ore carrying less than D 145
+ore bodies were not D 75
+ore bodies have not D 60
+ore yielding less than D 47
+ore bodies were being D 44

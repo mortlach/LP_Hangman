@@ -1,0 +1,5 @@
+items were taken directly M 240
+items most often mentioned M 118
+items like social security D 180
+items from vending machines D 150
+items like washing machines D 118

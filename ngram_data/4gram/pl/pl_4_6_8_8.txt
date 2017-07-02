@@ -1,0 +1,2 @@
+plan should identify specific M 148
+plus demand deposits adjusted D 449

@@ -1,0 +1,4 @@
+mi in patients with D 1137
+mi or vascular death D 204
+mi in patients who D 168
+mi or coronary death D 141

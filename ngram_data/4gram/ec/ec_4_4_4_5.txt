@@ -1,0 +1,4 @@
+echo from these walls M 150
+echo many years later M 51
+echo from deep within M 49
+echo from your spell D 86

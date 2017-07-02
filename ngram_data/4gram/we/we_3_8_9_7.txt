@@ -1,0 +1,5 @@
+web services definition language M 1704
+weak positive association between M 782
+weak negative association between M 382
+web services inspection language D 459
+web services federation language D 63

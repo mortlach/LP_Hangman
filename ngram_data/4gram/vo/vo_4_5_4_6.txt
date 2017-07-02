@@ -1,0 +1,8 @@
+void where there should M 147
+vote would have changed D 264
+vote would have turned D 166
+vote could have changed D 103
+vote would have failed D 86
+vote might have turned D 49
+vote would most likely D 47
+voting rules were changed D 41

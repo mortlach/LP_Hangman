@@ -1,0 +1,17 @@
+center a group of M 997
+center a piece of M 610
+centre a group of M 576
+centre a piece of M 301
+center a block of M 208
+center a table on M 104
+centre a space of M 89
+center a sense of M 84
+centre a place of M 58
+cement a piece of D 387
+cement a sense of D 355
+census a total of D 241
+cement a feeling of D 140
+center a title or D 103
+centre a strip of D 47
+center a title on D 43
+cement a layer of D 42

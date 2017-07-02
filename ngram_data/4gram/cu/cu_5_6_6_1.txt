@@ -1,0 +1,4 @@
+curve passes through a D 2742
+curve through points a D 102
+curve passed through a D 84
+cutting planes through a D 48

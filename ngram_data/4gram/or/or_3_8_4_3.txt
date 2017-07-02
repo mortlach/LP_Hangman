@@ -1,0 +1,12 @@
+ore containing less than D 653
+ore containing more than D 599
+ore contains more than D 512
+ore contains less than D 298
+ore containing gold and D 176
+ore handlers took this D 82
+ore deposits were not D 80
+ore deposits have not D 64
+ore deposits were being D 62
+ore deposits there are D 60
+ore containing iron and D 54
+ore obtained from them D 47

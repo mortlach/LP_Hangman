@@ -1,0 +1,5 @@
+equip a man for M 1176
+equip a man with M 468
+equip a boy for M 86
+equal a man who M 53
+equip a car with D 190

@@ -1,0 +1,3 @@
+erroneously been taken as D 136
+erroneously been taken to D 134
+erroneously high value of D 112

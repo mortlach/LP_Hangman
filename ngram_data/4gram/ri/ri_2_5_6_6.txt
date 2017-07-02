@@ -1,0 +1,3 @@
+ring which passes through M 268
+ring which passed through M 100
+ring passing through another M 80

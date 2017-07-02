@@ -1,0 +1,5 @@
+tea sweetened with honey D 890
+tea sweetened with sugar D 508
+tea production and trade D 138
+tea sweetened with maple D 100
+tea sweetened with brown D 98

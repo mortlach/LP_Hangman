@@ -1,0 +1,5 @@
+items covering a variety M 176
+items affect a partner M 164
+items measuring a variety M 94
+items through a variety M 88
+items without a warrant D 132

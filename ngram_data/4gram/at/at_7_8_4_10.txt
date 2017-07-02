@@ -1,0 +1,3 @@
+attacks occurred more frequently D 202
+attacks occurred less frequently D 102
+attacks children more frequently D 92

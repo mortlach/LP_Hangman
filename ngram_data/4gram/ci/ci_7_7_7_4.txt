@@ -1,0 +1,6 @@
+circles exactly returning into M 86
+circuit forward current gain D 318
+circuit reverse voltage ratio D 159
+circuit reverse voltage gain D 139
+citation research service from D 86
+circuit current resulting from D 44

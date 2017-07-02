@@ -1,0 +1,3 @@
+dying from wounds received M 362
+dying from wounds suffered M 90
+dying from carbon monoxide D 61

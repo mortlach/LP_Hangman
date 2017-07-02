@@ -1,0 +1,3 @@
+emit blue light . M 312
+emit more light . M 142
+emit much light . M 82

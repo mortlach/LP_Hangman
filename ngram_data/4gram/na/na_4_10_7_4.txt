@@ -1,0 +1,13 @@
+name institution address city D 2060
+name apparently derived from D 759
+name department address city D 514
+name apparently derives from D 376
+name insensibly swelled into D 262
+name supposedly derived from D 195
+name presumably derives from D 194
+name originally derived from D 168
+name protestant becomes nothing D 140
+name supposedly derives from D 136
+name ultimately derives from D 124
+name presumably derived from D 110
+name department address date D 84

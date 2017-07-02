@@ -1,0 +1,3 @@
+cycles through a list D 120
+cycles through a range D 96
+cycles through a loop D 94

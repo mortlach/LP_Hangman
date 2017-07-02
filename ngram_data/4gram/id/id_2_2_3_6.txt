@@ -1,0 +1,7 @@
+id of its parent M 170
+id to each person M 133
+id is not unique M 52
+id in his pocket D 169
+id in his wallet D 166
+id to its collar D 93
+id of each device D 43

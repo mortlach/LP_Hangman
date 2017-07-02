@@ -1,0 +1,10 @@
+lung cancer and respiratory D 450
+lung disease and respiratory D 303
+lung injury and inflammation D 228
+lung cancer was established D 134
+lung sounds and respiratory D 130
+lung volume and respiratory D 121
+lung disease with respiratory D 96
+lung tissue and respiratory D 87
+lung cancer and contributes D 86
+lung damage and respiratory D 48

@@ -1,0 +1,4 @@
+ion cyclotron resonance mass D 5503
+ion cyclotron resonance heating D 766
+ion cyclotron resonance cell D 187
+ion cyclotron frequency range D 140

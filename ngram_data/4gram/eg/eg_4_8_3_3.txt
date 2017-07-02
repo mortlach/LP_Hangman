@@ -1,0 +1,5 @@
+eggs slightly and add D 462
+eggs produced per hen D 350
+eggs produced per day D 244
+eggs produced each year D 225
+eggs produced per year D 94

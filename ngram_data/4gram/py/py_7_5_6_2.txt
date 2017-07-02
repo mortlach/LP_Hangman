@@ -1,0 +1,5 @@
+pyramid whose vertex is D 346
+pyramid would threaten the D 255
+pyramid whose height is D 174
+pyramid whose volume is D 122
+pyramid whose summit is D 108

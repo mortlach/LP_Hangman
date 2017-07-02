@@ -1,0 +1,4 @@
+rye at four shillings D 214
+rye at three shillings D 134
+rye or wheat harvest D 100
+rye or other grasses D 100

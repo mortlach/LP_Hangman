@@ -1,0 +1,3 @@
+zero nominal interest rate M 852
+zero percent interest rate M 163
+zero percent discount rate D 116

@@ -1,0 +1,7 @@
+run marginal cost equals M 1381
+run marginal cost should M 161
+run straight into another M 146
+run anywhere from twenty M 144
+run marginal cost prices M 66
+run marginal cost curves D 2633
+run northward from oxford D 96

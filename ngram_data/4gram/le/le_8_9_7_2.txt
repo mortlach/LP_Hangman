@@ -1,0 +1,2 @@
+leftmost character position of D 160
+lectures addressed chiefly to D 53

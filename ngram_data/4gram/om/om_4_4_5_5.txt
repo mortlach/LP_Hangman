@@ -1,0 +1,7 @@
+omit nothing which might M 848
+omit nothing which could M 628
+omit many facts which M 114
+omit nothing which seems M 106
+omit those parts which M 80
+omit some rites which D 384
+omit nothing which would D 88

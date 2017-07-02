@@ -1,0 +1,6 @@
+echo off command . M 291
+echo and applaud . M 213
+echo this concern . M 152
+echo his thoughts . M 138
+echo her thoughts . M 136
+echo and silence . M 108

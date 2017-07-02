@@ -1,0 +1,7 @@
+bytes that represent the D 374
+bytes are allocated to D 284
+bytes are available to D 226
+bytes are available in D 186
+bytes are contained in D 182
+bytes are necessary to D 118
+bytes are converted to D 102

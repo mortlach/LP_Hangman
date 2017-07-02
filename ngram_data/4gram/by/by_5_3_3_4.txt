@@ -1,0 +1,11 @@
+bytes are read from D 524
+bytes that are used D 308
+bytes that are sent D 298
+bytes are not used D 150
+bytes for each file D 143
+bytes are read into D 134
+bytes that you want D 128
+bytes are being sent D 96
+bytes are being used D 94
+bytes and each byte D 86
+bytes two and three D 71

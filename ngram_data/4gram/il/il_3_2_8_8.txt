@@ -1,0 +1,16 @@
+ill or disabled children M 672
+ill or severely disabled M 252
+ill or otherwise disabled M 248
+ill or severely impaired M 106
+ill or otherwise occupied M 106
+ill or disabled relative M 106
+ill of absolute monarchy M 106
+ill or mentally retarded D 2807
+ill or comatose patients D 246
+ill or disabled patients D 242
+ill or unstable patients D 130
+ill or terminal patients D 122
+ill to transact business D 110
+ill or retarded children D 104
+ill or mentally disabled D 50
+ill or mentally impaired D 45

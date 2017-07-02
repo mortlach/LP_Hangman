@@ -1,0 +1,8 @@
+scab off a wound D 200
+scan for a given D 142
+scar with a small D 112
+scar and a small D 110
+scud was a sight D 100
+scud was a fraud D 96
+scan for a virus D 55
+scan and a chest D 46

@@ -1,0 +1,5 @@
+ulnar and median nerves D 6325
+ulnar and radial nerves D 1855
+ulnar and radial artery D 146
+ulcer may erode through D 90
+ulcer may cause bleeding D 82

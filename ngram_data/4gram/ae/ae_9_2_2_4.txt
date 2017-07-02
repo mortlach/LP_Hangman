@@ -1,0 +1,3 @@
+aerodromes to be used D 164
+aerodromes in the north D 134
+aerodromes in the south D 60

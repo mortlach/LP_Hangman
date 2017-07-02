@@ -1,0 +1,6 @@
+cyst wall is composed D 1021
+cyst wall is digested D 486
+cyst wall is secreted D 232
+cyst wall as possible D 134
+cyst wall is ruptured D 102
+cyst lining is composed D 95

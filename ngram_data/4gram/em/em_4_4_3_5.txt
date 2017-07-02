@@ -1,0 +1,3 @@
+emit their own light M 662
+emit when they decay M 294
+emit beta and gamma D 225

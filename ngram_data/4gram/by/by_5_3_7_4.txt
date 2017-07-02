@@ -1,0 +1,5 @@
+bytes are grouped into D 172
+bytes are written into D 116
+bytes are removed from D 110
+bytes are divided into D 98
+bytes are fetched from D 92

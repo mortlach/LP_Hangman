@@ -1,0 +1,4 @@
+dry adiabatic lapse rate D 14797
+dry standard cubic foot D 980
+dry standard cubic feet D 410
+dry climates where there D 149

@@ -1,0 +1,5 @@
+echo pulse sequence with D 467
+echo pulse sequence and D 169
+echo pulse sequence for D 155
+echo pulse sequence was D 139
+echo power spectrum and D 130

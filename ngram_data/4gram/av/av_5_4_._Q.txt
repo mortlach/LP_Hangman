@@ -1,0 +1,13 @@
+avoid evil . " M 1314
+avenging angel . " M 1062
+avail nothing . " M 990
+avoid pain . " M 408
+avail much . " M 267
+avoid work . " M 240
+avoid loss . " M 192
+avenging angel ? " M 174
+avoid harm . " M 170
+avoid risk . " M 118
+avoid work ? " M 112
+avoid losing . " M 88
+avoid vice . " M 82

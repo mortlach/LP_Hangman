@@ -1,0 +1,7 @@
+echo which came from M 950
+echo comes back from M 188
+echo power from many M 122
+echo would have been D 223
+echo would come back D 200
+echo thrown back from D 198
+echo smote hers also D 111

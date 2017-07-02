@@ -1,0 +1,9 @@
+located between a pair M 326
+located outside a city M 214
+logical example i drop M 174
+loyalty between a lord M 108
+located against a wall D 336
+lockout affecting a health D 269
+lookout sighted a sail D 109
+lobbied against a bill D 104
+lookout spotted a ship D 84

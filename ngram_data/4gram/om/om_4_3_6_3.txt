@@ -1,0 +1,3 @@
+omit all training for M 300
+omit them without any M 204
+omit this section and D 446

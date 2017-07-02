@@ -1,0 +1,3 @@
+type occurs most frequently D 592
+type occurs more frequently D 418
+type occurs less frequently D 94

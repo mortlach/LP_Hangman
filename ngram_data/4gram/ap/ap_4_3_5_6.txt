@@ -1,0 +1,5 @@
+apex and outer margin D 772
+apex and lower border D 276
+apnea and upper airway D 150
+apex and inner margin D 130
+apex and lower margin D 112

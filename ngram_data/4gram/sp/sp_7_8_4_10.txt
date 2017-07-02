@@ -1,0 +1,3 @@
+spurious dimension from correlation D 154
+species richness along riverbanks D 118
+species occurred more frequently D 82

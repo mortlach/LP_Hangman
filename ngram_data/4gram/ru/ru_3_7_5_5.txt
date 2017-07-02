@@ -1,0 +1,7 @@
+run average total costs M 1873
+run several times daily M 448
+run several times round M 139
+run average fixed costs M 129
+run average costs equal M 44
+run average growth rates D 132
+run average costs would D 58

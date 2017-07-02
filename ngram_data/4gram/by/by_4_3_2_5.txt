@@ -1,0 +1,4 @@
+byte with the value D 486
+byte has the value D 142
+byte out of crime D 122
+byte with the lower D 94

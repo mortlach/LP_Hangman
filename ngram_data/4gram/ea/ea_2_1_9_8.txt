@@ -1,0 +1,6 @@
+eat a reasonably balanced M 188
+eat a perfectly balanced M 41
+eat a nutritious breakfast D 599
+eat a leisurely breakfast D 494
+eat a prodigious quantity D 150
+eat a butterfly sandwich D 88

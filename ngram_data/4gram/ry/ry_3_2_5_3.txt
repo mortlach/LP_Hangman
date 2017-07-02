@@ -1,0 +1,2 @@
+rye is grown for D 146
+rye the first year D 97

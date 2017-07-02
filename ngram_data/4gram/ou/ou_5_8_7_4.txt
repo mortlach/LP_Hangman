@@ -1,0 +1,4 @@
+outer membrane protein gene D 476
+outer membrane protein from D 372
+outer membrane derived from D 142
+outer envelope derived from D 84

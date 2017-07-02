@@ -1,0 +1,9 @@
+event a is defined M 606
+event a is denoted M 414
+every t is crossed M 214
+event a is certain M 191
+evening i am invited M 162
+evening i am allowed M 120
+event i am referring M 80
+event a is written M 42
+event i do commend D 84

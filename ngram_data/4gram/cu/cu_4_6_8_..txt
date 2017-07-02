@@ -1,0 +1,5 @@
+cure various ailments . M 413
+cure common ailments . M 129
+cure without operation . M 126
+cure mortal ailments . M 88
+cuts across cultures . M 64

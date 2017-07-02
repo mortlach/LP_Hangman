@@ -1,0 +1,5 @@
+ignore case when searching M 90
+igneous rock rock formed D 648
+igneous rock have forced D 142
+igneous rock cuts across D 84
+ignite only when rubbed D 82

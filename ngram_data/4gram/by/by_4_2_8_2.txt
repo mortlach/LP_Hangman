@@ -1,0 +1,13 @@
+byte is composed of D 644
+byte is followed by D 307
+byte is required to D 227
+byte to indicate the D 206
+byte is assigned to D 182
+byte is preceded by D 164
+byte is referred to D 150
+byte to identify the D 138
+byte is replaced by D 133
+byte is returned in D 118
+byte is appended to D 118
+byte is compared to D 101
+byte is included in D 94

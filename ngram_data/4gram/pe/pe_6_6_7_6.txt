@@ -1,0 +1,16 @@
+person should receive orders M 120
+person should inquire whether M 96
+person should suggest something M 94
+person should believe something M 86
+person singular subject marker D 300
+person without medical training D 246
+pepper flakes freshly ground D 218
+person singular subject prefix D 208
+person singular present active D 196
+person versus process praise D 150
+person plural subject prefix D 126
+permit direct inquiry access D 106
+person claiming refugee status D 96
+permit sudden current surges D 96
+pepper flakes teaspoon ground D 93
+peasant uprising against polish D 92

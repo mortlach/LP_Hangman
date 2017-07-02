@@ -1,0 +1,3 @@
+lymphatics to regional lymph D 935
+lymphatics to regional nodes D 234
+lymphatics of mammary gland D 41

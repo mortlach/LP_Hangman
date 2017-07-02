@@ -1,0 +1,6 @@
+pneumonia and pleurisy are D 611
+pneumonia and pleurisy and D 280
+pneumonia and pleurisy may D 249
+pneumonia and pleurisy with D 200
+pneumonia and meningitis are D 122
+pneumonia and meningitis and D 92

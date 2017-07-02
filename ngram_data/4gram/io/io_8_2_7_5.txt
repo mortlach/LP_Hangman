@@ -1,0 +1,5 @@
+ionization of neutral atoms D 534
+ionization of excited atoms D 384
+ionization of mercury vapor D 256
+ionization of organic acids D 174
+ionization is brought about D 142

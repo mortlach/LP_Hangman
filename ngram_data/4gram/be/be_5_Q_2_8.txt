@@ -1,0 +1,4 @@
+below " the threshold M 120
+bending " the dominant M 90
+below " the original M 86
+began " to consider M 82

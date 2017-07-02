@@ -1,0 +1,15 @@
+iodine may be applied D 1034
+iodine may be painted D 383
+iodine can be removed D 307
+iodine can be harmful D 307
+iodine may be removed D 297
+iodine may be present D 156
+iodine and of bromine D 130
+iodide may be removed D 122
+iodide ions in solution D 121
+iodide and the bromide D 106
+iodine for the purpose D 103
+iodine can be applied D 59
+iodine can be measured D 50
+iodine may be helpful D 47
+iodide and the resulting D 42

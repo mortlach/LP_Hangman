@@ -1,0 +1,6 @@
+type most appropriate for M 277
+type more characters than M 201
+type more accurately than M 99
+type more completely than M 96
+type most frequently met D 372
+type more frequently than D 213

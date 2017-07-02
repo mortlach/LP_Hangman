@@ -1,0 +1,4 @@
+total daily energy requirement M 706
+total daily energy expenditure D 5356
+total cross section measurements D 1350
+total solar energy intercepted D 114

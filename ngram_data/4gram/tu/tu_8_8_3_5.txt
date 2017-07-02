@@ -1,0 +1,3 @@
+tubercle bacillus was found D 320
+tubercle bacillus may enter D 126
+tubercle bacillus may cause D 88

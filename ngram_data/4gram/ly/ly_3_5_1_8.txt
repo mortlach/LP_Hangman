@@ -1,0 +1,13 @@
+lying within a distance M 1073
+lying within a moderate M 350
+lying under a sentence M 282
+lying under a mountain M 136
+lying under a challenge M 114
+lying within a specific M 98
+lying within a narrower M 88
+lying within a definite M 80
+lying under a mosquito D 113
+lying under a tropical D 102
+lying within a district D 98
+lying plays a decisive D 90
+lying under a haystack D 80

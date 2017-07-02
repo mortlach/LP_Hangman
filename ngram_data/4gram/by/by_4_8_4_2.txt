@@ -1,0 +1,2 @@
+byte segments from the D 135
+byte received from the D 108

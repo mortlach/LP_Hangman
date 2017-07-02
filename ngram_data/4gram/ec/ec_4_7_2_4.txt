@@ -1,0 +1,3 @@
+echo command is used M 386
+echo request is sent M 66
+echo sounder is used D 146

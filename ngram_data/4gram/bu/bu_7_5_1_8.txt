@@ -1,0 +1,4 @@
+buildings which i mentioned M 96
+buildings within a compound M 94
+buildings within a distance M 86
+buildings within a district D 124

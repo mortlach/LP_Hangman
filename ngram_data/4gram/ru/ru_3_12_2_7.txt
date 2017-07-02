@@ -1,0 +1,7 @@
+run determination of exchange M 236
+run consequences of current M 134
+run continuously to provide M 110
+run determination of nominal M 94
+run continuously at maximum M 41
+run substantially as follows D 104
+run propensities to consume D 44

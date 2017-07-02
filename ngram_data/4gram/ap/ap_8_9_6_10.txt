@@ -1,0 +1,3 @@
+apparent activation energy calculated D 172
+apparent molecular weight determined D 144
+apparent activation energy determined D 104

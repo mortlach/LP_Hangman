@@ -1,0 +1,2 @@
+assume annual interest payments M 128
+assuming annual interest payments M 92

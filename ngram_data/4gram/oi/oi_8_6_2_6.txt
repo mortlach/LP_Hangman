@@ -1,0 +1,7 @@
+ointment should be rubbed D 1676
+ointment should be placed D 404
+ointment should be smeared D 294
+ointment should be washed D 234
+ointment should be stored D 198
+ointment should be gently D 148
+ointment should be freely D 112

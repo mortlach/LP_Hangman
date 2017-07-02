@@ -1,0 +1,3 @@
+axial magnetic field strength D 336
+axial electric field strength D 259
+axial magnetic field inside D 118

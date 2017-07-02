@@ -1,0 +1,3 @@
+mix of distribution channels M 188
+mix of commodities produced D 102
+mix of independent variables D 96

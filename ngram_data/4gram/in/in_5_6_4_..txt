@@ -1,0 +1,14 @@
+inner mental life . M 990
+inner temple hall . M 550
+inner temple gate . M 439
+input sampling rate . M 424
+input signal range . M 312
+input prices rise . M 202
+inner divine life . M 190
+inner family life . M 144
+input output data . M 142
+inner relief road . M 138
+input binary word . M 116
+input buffer size . M 110
+input source file . M 108
+input prices fall . M 102

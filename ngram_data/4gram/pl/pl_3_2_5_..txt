@@ -1,0 +1,16 @@
+plea or offer . M 878
+plea of fraud . M 502
+plea of guilt . M 462
+plea of haste . M 256
+plea is taken . M 190
+plea of right . M 180
+plea to offer . M 154
+plea of denial . M 138
+plea of merit . M 112
+plea on appeal . M 106
+plea is valid . M 98
+plea or proof . M 96
+plea of hunger . M 94
+plea or appeal . M 92
+plea to enter . M 80
+plea is false . M 80

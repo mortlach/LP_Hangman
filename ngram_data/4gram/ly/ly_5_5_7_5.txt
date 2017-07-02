@@ -1,0 +1,3 @@
+lymph nodes receive lymph D 346
+lymph nodes contain tumor D 138
+lymph nodes regional lymph D 50

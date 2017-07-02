@@ -1,0 +1,5 @@
+risk a major engagement M 236
+risk a night engagement M 112
+risk a close engagement M 112
+risk a naval engagement D 262
+risk a fresh encounter D 120

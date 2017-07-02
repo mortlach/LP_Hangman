@@ -1,0 +1,8 @@
+ailment should be treated M 80
+airflow through the system D 382
+airflow through the larynx D 372
+airflow through an airway D 278
+airflow through the filter D 256
+airflow through the building D 155
+airport before the flight D 154
+airport nearest the winner D 108

@@ -1,0 +1,8 @@
+outer waiting room . M 256
+outer while loop . M 182
+outer layer only . M 154
+outer edges only . M 128
+outer world meet . M 118
+outer world also . M 104
+outer coast line . M 92
+outer table only . M 82

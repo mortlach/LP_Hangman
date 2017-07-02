@@ -1,0 +1,9 @@
+quit after three months M 376
+quit after three weeks M 206
+quit after nine months M 172
+quit after their first M 150
+quit after four months M 150
+quit within three months M 146
+quit within their first M 82
+quit smoking some months D 200
+quit smoking many times D 142

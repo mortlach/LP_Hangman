@@ -1,0 +1,4 @@
+typical defined benefit plan M 244
+typical patient suffering from M 106
+typical venture capital fund D 142
+typical venture capital firm D 140

@@ -1,0 +1,6 @@
+cycles which have been D 1012
+cycles would have been D 494
+cycles could have been D 262
+cycles might have been D 172
+cyclic loading have been D 150
+cyclic tests have been D 108

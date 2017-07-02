@@ -3,6 +3,8 @@
 from PyQt4 import QtGui
 import sys
 import os
+sys.path.append(os.path.join(sys.path[0],'GUI'))
+sys.path.append(os.path.join(sys.path[0],'py'))
 import LP_Hangman_Controller
 
 # for testing delete pyc files

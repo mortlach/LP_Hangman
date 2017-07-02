@@ -1,0 +1,3 @@
+phase pressure drop across D 160
+phase detector loop filter D 108
+phase squirrel cage motors D 100

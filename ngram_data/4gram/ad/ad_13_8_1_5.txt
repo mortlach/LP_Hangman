@@ -1,0 +1,7 @@
+administration declared a state M 156
+administration proposed a major M 102
+administration initiated a major M 92
+administration suffered a major M 88
+administration launched a major D 416
+administration diffused a sense D 124
+administration produces a rapid D 80

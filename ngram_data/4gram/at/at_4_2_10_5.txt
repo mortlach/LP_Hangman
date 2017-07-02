@@ -1,0 +1,8 @@
+atom is relatively small D 218
+atom is covalently bound D 211
+atop the instrument panel D 169
+atom is vertically above D 124
+atop the conference table D 120
+atop the observation tower D 100
+atom is negligibly small D 46
+atom is chemically bound D 42

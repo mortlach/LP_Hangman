@@ -1,0 +1,4 @@
+swallowing a large piece D 220
+swallowing a small piece D 194
+swallowing a large glass D 184
+swallowing a large bolus D 120

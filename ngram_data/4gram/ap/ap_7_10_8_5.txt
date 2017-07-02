@@ -1,0 +1,2 @@
+applied transverse magnetic field D 367
+applied transverse electric field D 93

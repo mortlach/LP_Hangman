@@ -1,0 +1,11 @@
+plea of urgent business M 662
+plea of public interest M 504
+plea of former judgment M 492
+plea of former recovery M 300
+plea of guilty accepted M 190
+plea of guilty followed M 116
+plea of guilty withdrawn M 110
+plea of pressing business D 196
+plea of partial insanity D 146
+plea of public distress D 120
+plea of guilty pursuant D 110

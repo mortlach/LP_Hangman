@@ -1,0 +1,6 @@
+via a high resistance M 276
+via a more traditional M 98
+via a single application M 94
+via a data acquisition D 216
+via a more circuitous D 180
+via a video conference D 128

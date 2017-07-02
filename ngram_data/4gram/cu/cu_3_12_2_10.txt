@@ -1,0 +1,1 @@
+cut horizontally or vertically D 123

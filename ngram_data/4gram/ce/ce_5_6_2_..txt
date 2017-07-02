@@ -1,0 +1,5 @@
+cells around it . M 1174
+cells behind it . M 274
+cells inside it . M 174
+cells covering it . M 104
+cells should be . M 96

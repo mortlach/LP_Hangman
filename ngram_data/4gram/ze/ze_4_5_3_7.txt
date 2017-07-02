@@ -1,0 +1,3 @@
+zero order with respect M 3322
+zero minus ten seconds M 107
+zero volts with respect D 282

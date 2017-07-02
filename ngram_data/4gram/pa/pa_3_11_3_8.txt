@@ -1,0 +1,7 @@
+pay compensation for injuries M 726
+pay compensation for services M 467
+pay compensation for property M 328
+pay compensation for personal M 159
+pay compensation for leasehold D 178
+path coefficients are computed D 122
+pay amortization and interest D 92

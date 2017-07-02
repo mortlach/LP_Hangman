@@ -1,0 +1,4 @@
+seriousness i do not D 270
+sentiments i do not D 205
+settlement i do not D 196
+sentiments i am not D 92

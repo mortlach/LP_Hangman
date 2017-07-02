@@ -1,0 +1,14 @@
+items were eliminated from M 996
+items were classified into M 690
+items were translated into M 330
+items were introduced into M 314
+items were identified from M 182
+items were subtracted from M 148
+items have disappeared from M 112
+items into categories such M 104
+items were translated from M 102
+items most frequently used D 392
+items were aggregated into D 126
+items were subdivided into D 104
+items have frequently been D 96
+items were integrated into D 88

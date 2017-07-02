@@ -1,0 +1,1 @@
+echo technique suitable for M 116

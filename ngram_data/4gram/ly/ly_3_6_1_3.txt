@@ -1,0 +1,10 @@
+lying behind a log M 424
+lying beside a dead M 274
+lying behind a low M 208
+lying beside a man M 206
+lying across a path M 156
+lying across a log M 120
+lying beside a log M 104
+lying amidst a heap M 104
+lying amongst a heap M 80
+lying across a bed D 388

@@ -1,0 +1,3 @@
+dialing a local telephone D 194
+dies a human habitation D 82
+dials a local telephone D 42

@@ -1,0 +1,5 @@
+ether from acid solution M 98
+ether free from alcohol D 529
+ether from ethyl alcohol D 160
+ethyl ether ethyl alcohol D 133
+ethyl ether ethyl acetate D 60

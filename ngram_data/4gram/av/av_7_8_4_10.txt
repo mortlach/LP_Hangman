@@ -1,0 +1,3 @@
+average specific cake resistance M 264
+average particle size determined M 112
+average specific fuel consumption D 187

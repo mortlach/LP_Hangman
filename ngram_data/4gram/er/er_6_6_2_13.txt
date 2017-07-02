@@ -1,0 +1,3 @@
+errors caused by uncertainties M 116
+errors should be approximately M 100
+errors caused by environmental D 94

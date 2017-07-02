@@ -1,0 +1,17 @@
+pet the dog . M 2350
+pet of him . M 1790
+pet the cat . M 840
+pet of her . M 840
+pet of his . M 558
+pet of all . M 350
+pet at all . M 344
+pet or two . M 198
+pet of you . M 158
+pet my dog . M 129
+pet is dead . M 118
+pet or not . M 114
+pet to you . M 108
+pet of one . M 100
+pet to her . M 96
+pet it was . M 86
+pet the dog ? M 52

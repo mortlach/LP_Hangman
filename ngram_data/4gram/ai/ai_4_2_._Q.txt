@@ -1,0 +1,5 @@
+aiming at . " M 2378
+aiming at ? " M 1486
+aims at . " M 844
+aids thing . " M 92
+aiming at ! " M 84

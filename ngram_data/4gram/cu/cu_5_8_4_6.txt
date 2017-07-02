@@ -1,0 +1,3 @@
+cutting straight down through M 188
+curve connecting these points D 596
+curve obtained from plotting D 86

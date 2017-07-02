@@ -1,0 +1,13 @@
+lung and liver and D 432
+lung and liver are D 356
+lung and breast are D 232
+lung and breast and D 196
+lung and blood act D 154
+lung and shock lung D 146
+lung and brain are D 134
+lung and brain and D 126
+lung and thorax are D 124
+lung and liver may D 122
+lung may occur with D 114
+lung and liver was D 112
+lung are lined with D 86

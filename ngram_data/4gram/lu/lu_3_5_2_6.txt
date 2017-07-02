@@ -1,0 +1,6 @@
+lung fails to expand D 368
+lung cells in disease D 282
+lung biopsy is rarely D 234
+lung beneath the pleura D 184
+lung shown in figure D 146
+lung biopsy is needed D 86

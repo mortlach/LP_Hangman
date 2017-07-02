@@ -1,0 +1,4 @@
+gene replication and expression D 160
+gene integration and expression D 96
+gene duplication and divergent D 96
+gene duplication and functional D 92

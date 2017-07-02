@@ -1,0 +1,2 @@
+bytes needed to store D 1140
+bytes number of bytes D 155

@@ -1,0 +1,5 @@
+rye is a good D 300
+rye is a very D 285
+rye is a crop D 98
+rye as a crop D 90
+rye as a bread D 89
