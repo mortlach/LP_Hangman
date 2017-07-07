@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 import sys, os
-#get the magnet enums used to define magnet types and  PSU states
+
 import LP_Data
 from PyQt4 import QtGui, QtCore
 from GUI_mainView import GUI_mainView
@@ -16,8 +16,6 @@ from gematria import *
 # this class handles everything
 class LP_Hangman_Controller(object):
     def __init__(self,argv):
-        # initilaize the VELA_CLARA_MagnetControl,
-        # from this object we can get all flavours of magnet controller
         self.mainView = GUI_mainView()
         self.mainView.show()
         self.mainView.lpSection.setMaximum( len(LP_Data.lp_sentences)-1 )
